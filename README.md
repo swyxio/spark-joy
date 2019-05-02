@@ -2,21 +2,33 @@
 
 easy ways to add design flair, user delight, and whimsy to your product.
 
-## Background patterns
+## Pure CSS
+
+### Background Gradients and Patterns
 
 - https://leaverou.github.io/css3patterns/
 
-## Simple Animation
+### Animations
+
+- general http://animista.net
+- Spinners https://tobiasahlin.com/spinkit/
+- Burgers https://march08.github.io/animated-burgers/
+
+### Icons
+
+- https://iconmonstr.com/
+- https://thenounproject.com/
+- animated icons http://www.transformicons.com/builder.html
+
+### svg illustrations
+
+- https://undraw.co/
+
+## React
+
+### Simple Animation
 
 - https://react-simple-animate.now.sh/
-
-## Spinners
-
-- https://tobiasahlin.com/spinkit/
-
-## Burgers
-
-- https://march08.github.io/animated-burgers/
 
 ## Nice React Components
 
@@ -29,10 +41,4 @@ easy ways to add design flair, user delight, and whimsy to your product.
 ## Icons
 
 - https://github.com/miukimiu/react-kawaii
-- https://iconmonstr.com/
-- https://thenounproject.com/
-- animated icons http://www.transformicons.com/builder.html
 
-## svg illustrations
-
-- https://undraw.co/
