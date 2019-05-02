@@ -16,3 +16,6 @@ easy ways to add design flair, user delight, and whimsy to your product.
 ## Icons
 
 - https://github.com/miukimiu/react-kawaii
+- https://iconmonstr.com/
+- https://thenounproject.com/
+- https://undraw.co/
