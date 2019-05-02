@@ -11,6 +11,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 ### Animations
 
 - general http://animista.net
+- general https://daneden.github.io/animate.css/
 - Spinners https://tobiasahlin.com/spinkit/
 - Burgers https://march08.github.io/animated-burgers/
 
