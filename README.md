@@ -2,11 +2,18 @@
 
 easy ways to add design flair, user delight, and whimsy to your product.
 
+## Color Picking
+
+- https://color.adobe.com/create
+
 ## Pure CSS
 
 ### Background Gradients and Patterns
 
 - https://leaverou.github.io/css3patterns/
+- https://uigradients.com/#Petrichor
+- https://coolbackgrounds.io/
+- ANIMATED GRADIENTS https://www.gradient-animator.com/
 
 ### Animations
 
