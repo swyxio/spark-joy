@@ -32,6 +32,10 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 - https://undraw.co/
 
+### animating individual elements
+
+- links https://cssanimation.rocks/animating-links/
+
 ## React
 
 ### Simple Animation
