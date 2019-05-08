@@ -14,6 +14,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - https://uigradients.com/#Petrichor
 - https://coolbackgrounds.io/
 - ANIMATED GRADIENTS https://www.gradient-animator.com/
+- CSS Doodle https://css-doodle.com/
 
 ### Animations
 
@@ -29,13 +30,20 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - https://thenounproject.com/
 - animated icons http://www.transformicons.com/builder.html
 
-### svg illustrations
+### SVG Illustrations
 
 - https://undraw.co/
 
-### animating individual elements
+### Animating Individual Elements
 
 - links https://cssanimation.rocks/animating-links/
+
+## Canvas
+
+- Trianglify http://qrohlf.com/trianglify/
+- generative artistry https://generativeartistry.com/
+- Canvas Cards https://canvas-cards.glitch.me/
+- Open Processing https://www.openprocessing.org/
 
 ## React
 
