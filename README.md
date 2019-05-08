@@ -50,6 +50,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 ### Simple Animation
 
 - https://react-simple-animate.now.sh/
+- https://yubabajs.com
 
 ## Nice React Components
 
@@ -62,4 +63,6 @@ easy ways to add design flair, user delight, and whimsy to your product.
 ## Icons
 
 - https://github.com/miukimiu/react-kawaii
+
+
 
