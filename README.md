@@ -16,10 +16,11 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - ANIMATED GRADIENTS https://www.gradient-animator.com/
 - CSS Doodle https://css-doodle.com/
 
-### Animations
+### Animations & Transitions
 
 - general http://animista.net
 - general https://daneden.github.io/animate.css/
+- general https://ianlunn.github.io/Hover/
 - Buttons, hover, inputs, and loaders https://cssfx.dev
 - Spinners https://tobiasahlin.com/spinkit/
 - Burgers https://march08.github.io/animated-burgers/
