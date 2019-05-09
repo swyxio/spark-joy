@@ -24,6 +24,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - Buttons, hover, inputs, and loaders https://cssfx.dev
 - Spinners https://tobiasahlin.com/spinkit/
 - Burgers https://march08.github.io/animated-burgers/
+- Burgers http://negomi.github.io/react-burger-menu/
 
 ### Icons
 
@@ -60,10 +61,9 @@ easy ways to add design flair, user delight, and whimsy to your product.
 ## Gamification
 
 - https://github.com/thedevelobear/react-rewards
+- React Confetti https://alampros.github.io/react-confetti/
+- React DOM Confetti https://daniel-lundin.github.io/react-dom-confetti/
 
 ## Icons
 
 - https://github.com/miukimiu/react-kawaii
-
-
-
