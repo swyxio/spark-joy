@@ -25,6 +25,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - Spinners https://tobiasahlin.com/spinkit/
 - Burgers https://march08.github.io/animated-burgers/
 - Burgers http://negomi.github.io/react-burger-menu/
+- Layout https://github.com/aholachek/react-flip-toolkit
 
 ### Icons
 
