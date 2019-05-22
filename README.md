@@ -58,6 +58,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 ## Nice React Components
 
 - https://react-smooth-range-input.now.sh/
+- React Physics Dragger https://react-physics-dragger-demo.netlify.com/
 
 ## Gamification
 
