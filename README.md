@@ -60,6 +60,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - https://react-smooth-range-input.now.sh/
 - React Physics Dragger https://react-physics-dragger-demo.netlify.com/
 - [React-Designer](http://react-designer.github.io/react-designer/): Easy to configure, lightweight, editable vector graphics in your react components.
+- `<Foldable>` from [Folding the DOM](https://www.joshwcomeau.com/posts/folding-the-dom/)
 
 ## Gamification
 
