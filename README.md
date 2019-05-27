@@ -48,6 +48,10 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - Canvas Cards https://canvas-cards.glitch.me/
 - Open Processing https://www.openprocessing.org/
 
+## Page Transitions
+
+- swup https://github.com/swup/swup ([css tricks](https://css-tricks.com/page-transitions-for-everyone/))
+
 ## React
 
 ### Simple Animation
