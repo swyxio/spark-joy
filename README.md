@@ -15,6 +15,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - https://coolbackgrounds.io/
 - ANIMATED GRADIENTS https://www.gradient-animator.com/
 - CSS Doodle https://css-doodle.com/
+- this guy https://twitter.com/yuanchuan23
 
 ### Animations & Transitions
 
