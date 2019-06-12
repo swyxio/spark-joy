@@ -8,9 +8,10 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 ## Pure CSS
 
-### Image Masking
+### SVG/Canvas Masking
 
 - https://speckyboy.com/css-svg-canvas-masks/
+- text effects https://css-tricks.com/animate-blob-text-with-svg-text-clipping/
 
 ### Background Gradients and Patterns
 
