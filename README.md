@@ -8,6 +8,10 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 ## Pure CSS
 
+### Image Masking
+
+- https://speckyboy.com/css-svg-canvas-masks/
+
 ### Background Gradients and Patterns
 
 - https://leaverou.github.io/css3patterns/
