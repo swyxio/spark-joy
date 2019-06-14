@@ -52,6 +52,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 - Perspective stairstep text effects https://codepen.io/jamc92/details/KaMLvY (in action: http://tennentbrown.co.nz)
 - Duotone blend modes: https://jmperezperez.com/duotone-using-css-blend-modes/
+- Decovar Font with Text shadows: https://codepen.io/mandymichael/details/dJZQaz (and other [Variable Fonts by Mandy](https://variablefonts.dev/))
 
 ## Canvas
 
