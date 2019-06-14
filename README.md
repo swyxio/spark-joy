@@ -48,6 +48,11 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 - links https://cssanimation.rocks/animating-links/
 
+### Misc Weird fun stuff
+
+- Perspective stairstep text effects https://codepen.io/jamc92/details/KaMLvY (in action: http://tennentbrown.co.nz)
+- Duotone blend modes: https://jmperezperez.com/duotone-using-css-blend-modes/
+
 ## Canvas
 
 - Trianglify http://qrohlf.com/trianglify/
