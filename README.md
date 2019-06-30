@@ -38,11 +38,13 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 - https://iconmonstr.com/
 - https://thenounproject.com/
+- https://icomoon.io/
 - animated icons http://www.transformicons.com/builder.html
 
-### SVG Illustrations
+### Graphics and SVG Illustrations
 
 - https://undraw.co/
+- https://www.freepik.com/
 
 ### Animating Individual Elements
 
