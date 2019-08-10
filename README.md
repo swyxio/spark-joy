@@ -8,6 +8,9 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 ## Pure CSS
 
+MAKE SURE TO CHECK OUT https://components.ai
+
+
 ### SVG/Canvas Masking
 
 - https://speckyboy.com/css-svg-canvas-masks/
@@ -22,13 +25,18 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - CSS Doodle https://css-doodle.com/
 - this guy https://twitter.com/yuanchuan23
 
+### Spinners
+
+- web components https://wc-spinners.cjennings.dev/
+- Spinners https://tobiasahlin.com/spinkit/
+- Buttons, hover, inputs, and loaders https://cssfx.dev
+
 ### Animations & Transitions
 
+- Buttons, hover, inputs, and loaders https://cssfx.dev
 - general http://animista.net
 - general https://daneden.github.io/animate.css/
 - general https://ianlunn.github.io/Hover/
-- Buttons, hover, inputs, and loaders https://cssfx.dev
-- Spinners https://tobiasahlin.com/spinkit/
 - Burgers https://march08.github.io/animated-burgers/
 - Burgers http://negomi.github.io/react-burger-menu/
 - Layout https://github.com/aholachek/react-flip-toolkit
