@@ -6,6 +6,10 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 - https://color.adobe.com/create
 
+## Font picking
+
+- https://muffingroup.com/blog/best-free-fonts/
+
 ## Pure CSS
 
 MAKE SURE TO CHECK OUT https://components.ai
