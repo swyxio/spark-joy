@@ -114,3 +114,4 @@ MAKE SURE TO CHECK OUT https://components.ai
 ### Icons
 
 - https://github.com/miukimiu/react-kawaii
+- https://react-icons.netlify.com/#/icons/fa (typically fontawesome)
