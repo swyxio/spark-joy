@@ -88,7 +88,11 @@ MAKE SURE TO CHECK OUT https://components.ai
 - https://react-simple-animate.now.sh/
 - https://yubabajs.com
 
-## Nice React Components
+### Page transitions
+
+- https://github.com/joerez/react-transitions/
+
+### Nice React Components
 
 - https://react-smooth-range-input.now.sh/
 - React Physics Dragger https://react-physics-dragger-demo.netlify.com/
@@ -96,12 +100,17 @@ MAKE SURE TO CHECK OUT https://components.ai
 - `<Foldable>` from [Folding the DOM](https://www.joshwcomeau.com/posts/folding-the-dom/)
 - Spinners https://github.com/tienpham94/react-awesome-spinners
 
-## Gamification
+### Toasting
+
+- https://cogoport.github.io/cogo-toast
+- https://fkhadra.github.io/react-toastify/
+
+### Gamification
 
 - https://github.com/thedevelobear/react-rewards
 - React Confetti https://alampros.github.io/react-confetti/
 - React DOM Confetti https://daniel-lundin.github.io/react-dom-confetti/
 
-## Icons
+### Icons
 
 - https://github.com/miukimiu/react-kawaii
