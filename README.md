@@ -18,6 +18,8 @@ MAKE SURE TO CHECK OUT https://components.ai
 ### SVG/Canvas Masking
 
 - https://speckyboy.com/css-svg-canvas-masks/
+- https://www.blobmaker.app/
+- https://getwaves.io/
 - text effects https://css-tricks.com/animate-blob-text-with-svg-text-clipping/
 
 ### Background Gradients and Patterns
