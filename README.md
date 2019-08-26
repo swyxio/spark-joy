@@ -21,6 +21,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 - https://www.blobmaker.app/
 - https://getwaves.io/
 - text effects https://css-tricks.com/animate-blob-text-with-svg-text-clipping/
+- animate an existing svg https://svgartista.net/
 
 ### Background Gradients and Patterns
 
@@ -41,6 +42,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 
 - Buttons, hover, inputs, and loaders https://cssfx.dev
 - general http://animista.net
+  - animate an existing svg https://svgartista.net/ (by the same people as animista)
 - general https://daneden.github.io/animate.css/
 - general https://ianlunn.github.io/Hover/
 - Burgers https://march08.github.io/animated-burgers/
