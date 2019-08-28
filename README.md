@@ -5,6 +5,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 ## Color Picking
 
 - https://color.adobe.com/create
+- https://palettte.app/ (advanced tool; try importing the default paletttes)
 
 ## Font picking
 
