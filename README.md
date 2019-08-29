@@ -6,6 +6,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 - https://color.adobe.com/create
 - https://palettte.app/ (advanced tool; try importing the default paletttes)
+- http://colours.neilorangepeel.com/category/red/
 
 ## Font picking
 
