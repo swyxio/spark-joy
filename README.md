@@ -62,6 +62,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 ### Graphics and SVG Illustrations
 
 - https://undraw.co/
+- https://www.humaaans.com/
 - https://www.freepik.com/
 - https://gallery.manypixels.co/
 
