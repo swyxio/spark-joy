@@ -57,6 +57,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 - https://iconmonstr.com/
 - https://thenounproject.com/
 - https://icomoon.io/
+- https://orioniconlibrary.com/ has customizable colors and packs eg for ecommerce
 - animated icons http://www.transformicons.com/builder.html
 
 ### Graphics and SVG Illustrations
