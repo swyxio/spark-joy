@@ -73,6 +73,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 
 ### Misc Weird fun stuff
 
+- WTF Forms: Nicer Forms eg Radio Buttons with pure CSS https://github.com/mdo/wtf-forms
 - Perspective stairstep text effects https://codepen.io/jamc92/details/KaMLvY (in action: http://tennentbrown.co.nz)
 - Duotone blend modes: https://jmperezperez.com/duotone-using-css-blend-modes/
 - Decovar Font with Text shadows: https://codepen.io/mandymichael/details/dJZQaz (and other [Variable Fonts by Mandy](https://variablefonts.dev/))
