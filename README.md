@@ -116,6 +116,7 @@ MAKE SURE TO CHECK OUT https://components.ai
   - https://github.com/tienpham94/react-awesome-spinners
   - https://github.com/davidhu2000/react-spinners
   - https://github.com/JoshK2/react-spinners-css
+  - https://github.com/jameygleason/aperitif
 
 ### Toasting
 
