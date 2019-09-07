@@ -16,6 +16,10 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 MAKE SURE TO CHECK OUT https://components.ai
 
+### Pure CSS Tricks
+
+- https://twitter.com/JoshWComeau/status/1170358024319492097?s=20
+- https://twitter.com/swyx/status/982786353216843776?s=20
 
 ### SVG/Canvas Masking
 
