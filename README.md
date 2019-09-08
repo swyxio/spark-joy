@@ -23,6 +23,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 
 ### SVG/Canvas Masking
 
+- Transparent fill SVG and color in on Hover - [Codepen](https://codepen.io/m4r1vs/pen/qVReQz)
 - https://speckyboy.com/css-svg-canvas-masks/
 - https://www.blobmaker.app/
 - https://getwaves.io/
@@ -43,6 +44,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 - web components https://wc-spinners.cjennings.dev/
 - Spinners https://tobiasahlin.com/spinkit/
 - Buttons, hover, inputs, and loaders https://cssfx.dev
+- Conic gradient loader in CSS - [Codepen](https://codepen.io/keithclark/pen/aEbEoo)
 
 ### Animations & Transitions
 
@@ -87,6 +89,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 - Duotone blend modes: https://jmperezperez.com/duotone-using-css-blend-modes/
 - Decovar Font with Text shadows: https://codepen.io/mandymichael/details/dJZQaz (and other [Variable Fonts by Mandy](https://variablefonts.dev/))
 - Drop shadows: `box-shadow: 10px 12px 0.5rem rgba(0,0,0,0.5);`
+- Expanding Search buton and text from Ana Tudor [mentioned here](https://dev.to/chriscoyier/learn-about-css-custom-properties-through-clever-uses-of-them-2fjo)
 
 ## Canvas
 
