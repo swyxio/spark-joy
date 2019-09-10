@@ -88,6 +88,7 @@ In particular, applying gradients and background images to text is super underra
 
 - Accessible Styled Forms https://github.com/scottaohara/a11y_styled_form_controls
 - WTF Forms: Nicer Forms eg Radio Buttons with pure CSS https://github.com/mdo/wtf-forms
+- Output-inspired form: https://twitter.com/steveschoger/status/1171429842442522625
 
 
 ### Misc Weird fun stuff
