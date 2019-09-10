@@ -39,6 +39,13 @@ MAKE SURE TO CHECK OUT https://components.ai
 - CSS Doodle https://css-doodle.com/
 - this guy https://twitter.com/yuanchuan23
 
+In particular, applying gradients and background images to text is super underrated. Examples:
+
+- [https://philcoffman.com/](https://user-images.githubusercontent.com/6764957/64589989-7985f500-d374-11e9-9d8a-2a8888df6981.png)
+- [https://css-tricks.com/](https://user-images.githubusercontent.com/6764957/64590103-beaa2700-d374-11e9-8a84-95ab4826a577.png)
+
+
+
 ### Spinners
 
 - web components https://wc-spinners.cjennings.dev/
