@@ -132,6 +132,7 @@ In particular, applying gradients and background images to text is super underra
   - https://github.com/davidhu2000/react-spinners
   - https://github.com/JoshK2/react-spinners-css
   - https://github.com/jameygleason/aperitif
+  - https://github.com/JoshK2/react-spinners-css
 
 ### Toasting
 
