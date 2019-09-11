@@ -3,7 +3,7 @@
   "description": "spark-joy",
   "version": "0.0.1",
   "scripts": {
-    "start": "sapper dev",
+    "start": "sapper dev --ext '.svexy .svelte'",
     "build": "sapper build --legacy",
     "export": "sapper export --legacy",
     "oldstart": "node __sapper__/build",
@@ -23,6 +23,7 @@
     "@babel/plugin-transform-runtime": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
     "@babel/runtime": "^7.0.0",
+    "jdown": "^1.0.2",
     "npm-run-all": "^4.1.5",
     "rollup": "^1.12.0",
     "rollup-plugin-babel": "^4.0.2",

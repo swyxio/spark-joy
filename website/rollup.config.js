@@ -29,6 +29,19 @@ export default {
         dev,
         hydratable: true,
         emitCss: true,
+        // whatever file extension you want to use has to go here as well
+        extensions: ['.svelte', '.svexy', '.svx', '.md'], // here actually
+        preprocess: mdsvex({
+          // extension: '.svexy', // the default is '.svexy', if you lack taste, you might want to change it
+          // layout: path.join(__dirname, './DefaultLayout.svelte'), // this needs to be an absolute path
+          // parser: md => md.use(SomePlugin), // you can add markdown-it plugins if the feeling takes you
+          // // you can add markdown-it options here, html is always true
+          // markdownOptions: {
+          // 	typographer: true,
+          // 	linkify: true,
+          // 	highlight: (str, lang) => whatever(str, lang), // this should be a real function if you want to highlight
+          // },
+        }),
       }),
       resolve({
         browser: true,
@@ -83,7 +96,7 @@ export default {
         // whatever file extension you want to use has to go here as well
         extensions: ['.svelte', '.svexy', '.svx', '.md'], // here actually
         preprocess: mdsvex({
-          // extension: '.md', // the default is '.svexy', if you lack taste, you might want to change it
+          // extension: '.svexy', // the default is '.svexy', if you lack taste, you might want to change it
           // layout: path.join(__dirname, './DefaultLayout.svelte'), // this needs to be an absolute path
           // parser: md => md.use(SomePlugin), // you can add markdown-it plugins if the feeling takes you
           // // you can add markdown-it options here, html is always true
