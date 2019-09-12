@@ -99,6 +99,7 @@ In particular, applying gradients and background images to text is super underra
 - Drop shadows: `box-shadow: 10px 12px 0.5rem rgba(0,0,0,0.5);`
 - Expanding Search buton and text from Ana Tudor [mentioned here](https://dev.to/chriscoyier/learn-about-css-custom-properties-through-clever-uses-of-them-2fjo)
 - XKCD chart https://timqian.com/chart.xkcd/
+- Image editing/Export to SVG/Object Removal/Photoshop - [Photopea](https://www.photopea.com/)
 
 ## Canvas
 
