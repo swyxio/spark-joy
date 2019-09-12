@@ -1,0 +1,12 @@
+{
+  "name": "ssg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "chokidar": "^3.0.2",
+    "execa": "^2.0.4",
+    "tree-kill": "^1.2.1"
+  }
+}
