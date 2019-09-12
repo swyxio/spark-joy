@@ -36,7 +36,6 @@ exports.getData = async () => {
   index.color = filterDataArray(color, { filterForFields: 'title,slug,image'.split(',') })
   const css = loadYaml('content/css.yml')
   index.css = filterDataArray(css, { filterForFields: 'title,slug,image'.split(',') })
-
   const data = { index, ...extractSlugObjectFromArray(css), ...extractSlugObjectFromArray(color) }
   return data
 }

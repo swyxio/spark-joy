@@ -3,7 +3,7 @@
   "description": "spark-joy",
   "version": "0.0.1",
   "scripts": {
-    "start": "node ssg",
+    "start": "ssg",
     "start2": "sapper dev --ext '.svelte .svexy'",
     "build": "sapper build --legacy",
     "export": "sapper export --legacy",
@@ -38,6 +38,7 @@
     "rollup-plugin-svelte": "^5.0.1",
     "rollup-plugin-terser": "^4.0.4",
     "sapper": "^0.27.0",
+    "ssg": "^0.0.2",
     "svelte": "^3.0.0"
   }
 }
