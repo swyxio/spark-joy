@@ -44,8 +44,6 @@ In particular, applying gradients and background images to text is super underra
 - [https://philcoffman.com/](https://user-images.githubusercontent.com/6764957/64589989-7985f500-d374-11e9-9d8a-2a8888df6981.png)
 - [https://css-tricks.com/](https://user-images.githubusercontent.com/6764957/64590103-beaa2700-d374-11e9-8a84-95ab4826a577.png)
 
-
-
 ### Spinners
 
 - web components https://wc-spinners.cjennings.dev/
@@ -101,6 +99,7 @@ In particular, applying gradients and background images to text is super underra
 - XKCD chart https://timqian.com/chart.xkcd/
 - Image editing/Export to SVG/Object Removal/Photoshop - [Photopea](https://www.photopea.com/)
 - Netflix slide-in menu - [Codepen](https://codepen.io/FlorinPop17/pen/KKPBgeQ)
+- Peek Href on Links - [2min video](https://www.youtube.com/watch?v=zMZckWl_B4c&feature=youtu.be)
 
 ## Canvas
 
