@@ -100,6 +100,7 @@ In particular, applying gradients and background images to text is super underra
 - Expanding Search buton and text from Ana Tudor [mentioned here](https://dev.to/chriscoyier/learn-about-css-custom-properties-through-clever-uses-of-them-2fjo)
 - XKCD chart https://timqian.com/chart.xkcd/
 - Image editing/Export to SVG/Object Removal/Photoshop - [Photopea](https://www.photopea.com/)
+- Netflix slide-in menu - [Codepen](https://codepen.io/FlorinPop17/pen/KKPBgeQ)
 
 ## Canvas
 
