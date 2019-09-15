@@ -81,6 +81,7 @@ In particular, applying gradients and background images to text is super underra
 ### Animating Individual Elements
 
 - links https://cssanimation.rocks/animating-links/
+- tooltips on hover https://kazzkiq.github.io/balloon.css/
 
 ### Styling Forms
 
