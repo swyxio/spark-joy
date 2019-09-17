@@ -8,6 +8,12 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - https://palettte.app/ (advanced tool; try importing the default paletttes)
 - http://colours.neilorangepeel.com/category/red/
 
+Color knowledge (not tools but still important so here they are)
+
+- [Sarah Drasner on Color](https://css-tricks.com/nerds-guide-color-web/)
+- [Louisa Barret on Color](https://www.youtube.com/watch?v=NdKAUXAvt8E)
+- [Erik Kennedy on Color/HSB](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
+
 ## Font picking
 
 - https://muffingroup.com/blog/best-free-fonts/
