@@ -7,6 +7,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - https://color.adobe.com/create
 - https://palettte.app/ (advanced tool; try importing the default paletttes)
 - http://colours.neilorangepeel.com/category/red/
+- https://www.colorbox.io (by Lyft Design https://design.lyft.com/)
 
 Color knowledge (not tools but still important so here they are)
 
@@ -95,7 +96,6 @@ In particular, applying gradients and background images to text is super underra
 - WTF Forms: Nicer Forms eg Radio Buttons with pure CSS https://github.com/mdo/wtf-forms
 - Output-inspired form: https://twitter.com/steveschoger/status/1171429842442522625
 
-
 ### Misc Weird fun stuff
 
 - Perspective stairstep text effects https://codepen.io/jamc92/details/KaMLvY (in action: http://tennentbrown.co.nz)
@@ -136,7 +136,7 @@ In particular, applying gradients and background images to text is super underra
 - React Physics Dragger https://react-physics-dragger-demo.netlify.com/
 - [React-Designer](http://react-designer.github.io/react-designer/): Easy to configure, lightweight, editable vector graphics in your react components.
 - `<Foldable>` from [Folding the DOM](https://www.joshwcomeau.com/posts/folding-the-dom/)
-- Spinners 
+- Spinners
   - https://github.com/tienpham94/react-awesome-spinners
   - https://github.com/davidhu2000/react-spinners
   - https://github.com/JoshK2/react-spinners-css
@@ -158,4 +158,3 @@ In particular, applying gradients and background images to text is super underra
 
 - https://github.com/miukimiu/react-kawaii
 - https://react-icons.netlify.com/#/icons/fa (typically fontawesome)
-
