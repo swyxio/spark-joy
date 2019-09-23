@@ -5,6 +5,8 @@ easy ways to add design flair, user delight, and whimsy to your product.
 ## Typography
 
 - https://www.typewolf.com/
+- Free fonts that are great with examples
+  - Chivo https://www.latinxswhodesign.com/
 
 ## Color Picking
 
@@ -85,7 +87,7 @@ In particular, applying gradients and background images to text is super underra
 ### Graphics and SVG Illustrations
 
 - https://undraw.co/
-- https://www.humaaans.com/
+- https://www.humaaans.com/ diverse, customizable human svgs
 - https://www.freepik.com/
 - https://gallery.manypixels.co/
 
