@@ -113,6 +113,7 @@ In particular, applying gradients and background images to text is super underra
 - Image editing/Export to SVG/Object Removal/Photoshop - [Photopea](https://www.photopea.com/)
 - Netflix slide-in menu - [Codepen](https://codepen.io/FlorinPop17/pen/KKPBgeQ)
 - Peek Href on Links - [2min video](https://www.youtube.com/watch?v=zMZckWl_B4c&feature=youtu.be)
+- [Gooey Effect with SVG and Filters](https://css-tricks.com/gooey-effect/)
 
 ## Canvas
 
