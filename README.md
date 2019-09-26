@@ -7,6 +7,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - https://www.typewolf.com/
 - Free fonts that are great with examples
   - Chivo https://www.latinxswhodesign.com/
+  - Proxima Nova https://a16z.com/
 
 ## Color Picking
 
