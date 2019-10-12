@@ -1,15 +1,15 @@
 <script context="module">
   export function preload({ params, query }) {
     return this.fetch(`data/index.json`)
-      .then(r => r.json())
-      .then(posts => {
-        return { posts };
-      });
+      .then((r) => r.json())
+      .then((posts) => {
+        return { posts }
+      })
   }
 </script>
 
 <script>
-  export let posts;
+  export let posts
 </script>
 
 <style>
@@ -26,8 +26,7 @@
     }
   }
 
-
-	/* h1, figure, p {
+  /* h1, figure, p {
 		text-align: center;
 		margin: 0 auto;
 	} */
@@ -37,54 +36,49 @@
 </style>
 
 <svelte:head>
-  <title>Blog</title>
+  <title>Spark Joy</title>
 </svelte:head>
 
-<h1>Pages</h1>
+<h1>Pages2</h1>
 
 <h2>Color</h2>
 
 <ul>
   {#each posts.color as post}
-    <!-- we're using the non-standard `rel=prefetch` attribute to
+  <!-- we're using the non-standard `rel=prefetch` attribute to
 				tell Sapper to load the data for the page as soon as
 				the user hovers over the link or taps it, instead of
 				waiting for the 'click' event -->
-    <li>
-      <a rel="prefetch" href="/sparks/{post.slug}">
-        {#if post.image}
-        <figure>
-            <img src={`/assets/${post.image}`} alt={post.title} />
-            <figcaption>{post.title}</figcaption>
-        </figure>
-        {:else}
-        {post.title}
-        {/if}
-      </a>
-    </li>
+  <li>
+    <a rel="prefetch" href="/sparks/{post.slug}">
+      {#if post.image}
+      <figure>
+        <img src={`/assets/${post.image}`} alt={post.title} />
+        <figcaption>{post.title}</figcaption>
+      </figure>
+      {:else} {post.title} {/if}
+    </a>
+  </li>
   {/each}
 </ul>
-
 
 <h2>CSS</h2>
 
 <ul>
   {#each posts.css as post}
-    <!-- we're using the non-standard `rel=prefetch` attribute to
+  <!-- we're using the non-standard `rel=prefetch` attribute to
 				tell Sapper to load the data for the page as soon as
 				the user hovers over the link or taps it, instead of
 				waiting for the 'click' event -->
-    <li>
-      <a rel="prefetch" href="/sparks/{post.slug}">
-        {#if post.image}
-        <figure>
-            <img src={`/assets/${post.image}`} alt={post.title} />
-            <figcaption>{post.title}</figcaption>
-        </figure>
-        {:else}
-        {post.title}
-        {/if}
-      </a>
-    </li>
+  <li>
+    <a rel="prefetch" href="/sparks/{post.slug}">
+      {#if post.image}
+      <figure>
+        <img src={`/assets/${post.image}`} alt={post.title} />
+        <figcaption>{post.title}</figcaption>
+      </figure>
+      {:else} {post.title} {/if}
+    </a>
+  </li>
   {/each}
 </ul>

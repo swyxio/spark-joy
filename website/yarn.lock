@@ -683,6 +683,14 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.7.0.tgz#9a06f4f137ee84d7df0460c1fdb1135ffa6c50fd"
   integrity sha512-ONhaKPIufzzrlNbqtWFFd+jlnemX6lJAgq9ZeiZtS7I1PIf/la7CW4m83rTXRnVnsMbW2k56pGYu7AUFJD9Pow==
 
+"@ssgjs/source-yaml@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@ssgjs/source-yaml/-/source-yaml-0.0.1.tgz#8f0bb5853fa473aa8fd6045d5e7615a5bb7b6916"
+  integrity sha512-cwHzUhjWoCEmVwzdBrzEVsi6octiYCDX6XKNQmynhIPACugHofh0i8WFi1Xz6phb/qX16oOmQZrIjoUvLtMSfg==
+  dependencies:
+    js-yaml "^3.13.1"
+    slugify "^1.3.5"
+
 "@types/estree@0.0.39":
   version "0.0.39"
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-0.0.39.tgz#e177e699ee1b8c22d23174caaa7422644389509f"
@@ -2852,6 +2860,11 @@ klaw@^1.0.0:
   optionalDependencies:
     graceful-fs "^4.1.9"
 
+kleur@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/kleur/-/kleur-3.0.3.tgz#a79c9ecc86ee1ce3fa6206d1216c501f147fc07e"
+  integrity sha512-eTIzlVOSUR+JxdDFepEYcBMtZ9Qqdef+rnzWdRZuMbOywu5tO2w2N7rqjoANZ5k9vywhL6Br1VRjUIgTQx4E8w==
+
 linkify-it@^2.0.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/linkify-it/-/linkify-it-2.2.0.tgz#e3b54697e78bf915c70a38acd78fd09e0058b1cf"
@@ -3206,6 +3219,11 @@ mkdirp@~0.5.1:
   integrity sha1-MAV0OOrGz3+MR2fzhkjWaX11yQM=
   dependencies:
     minimist "0.0.8"
+
+mri@^1.1.0:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/mri/-/mri-1.1.4.tgz#7cb1dd1b9b40905f1fac053abe25b6720f44744a"
+  integrity sha512-6y7IjGPm8AzlvoUrwAaw1tLnUBudaS3752vcd8JtrpGGQn+rXIe63LFVHm/YMwtqAuh+LJPCFdlLYPWM1nYn6w==
 
 ms@2.0.0:
   version "2.0.0"
@@ -3705,6 +3723,11 @@ prettier@^1.18.2:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.18.2.tgz#6823e7c5900017b4bd3acf46fe9ac4b4d7bda9ea"
   integrity sha512-OeHeMc0JhFE9idD4ZdtNibzY0+TPHSpSSb9h8FqtP+YnoZZ1sl8Vc9b1sasjfymH3SonAF4QcA2+mzHPhMvIiw==
 
+pretty-bytes@^5.3.0:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/pretty-bytes/-/pretty-bytes-5.3.0.tgz#f2849e27db79fb4d6cfe24764fc4134f165989f2"
+  integrity sha512-hjGrh+P926p4R4WbaB6OckyRtO0F0/lQBiT+0gnxjV+5kjPBrfVBFCsCLbMqVQeydvIoouYTCmmEURiH3R1Bdg==
+
 private@^0.1.6:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/private/-/private-0.1.8.tgz#2381edb3689f7a53d653190060fcf822d2f368ff"
@@ -4050,6 +4073,13 @@ rollup@^1.12.0:
     "@types/node" "^12.7.4"
     acorn "^7.0.0"
 
+sade@^1.6.1:
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/sade/-/sade-1.6.1.tgz#aba16655e998b2b68beb9f13938af010f42eddd2"
+  integrity sha512-USHm9quYNmJwFwhOnEuJohdnBhUOKV1mhL0koHSJMLJaesRX0nuDuzbWmtUBbUmXkwTalLtUBzDlEnU940BiQA==
+  dependencies:
+    mri "^1.1.0"
+
 safe-buffer@5.1.2, safe-buffer@~5.1.0, safe-buffer@~5.1.1:
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.1.2.tgz#991ec69d296e0313747d59bdfd2b745c35f8828d"
@@ -4309,14 +4339,17 @@ squeak@^1.0.0:
     console-stream "^0.1.1"
     lpad-align "^1.0.1"
 
-ssg@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/ssg/-/ssg-0.0.2.tgz#f49a3776079572a8dc3d98a54e469050357ac805"
-  integrity sha512-dZF2uaWEzf/Sx8l0WsCR1Te8zs46uK8V/6wtK0iS6FkufpRRKf62dmVpMK7OlvH3JaIMv0u613IEGSnRPsG6ag==
+ssg@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/ssg/-/ssg-0.0.6.tgz#a14087d13892f13978381fe792d74fedf613ccff"
+  integrity sha512-NWMF3k0xyecAc5uy2DJcVrmswr6KXrEmMqLIVJynC1LCDk2njajQk2nhOuGiG5W7gl4wFy8F5zNJKcx3Af9dFQ==
   dependencies:
     chalk "^2.4.2"
     chokidar "^3.0.2"
     execa "^2.0.4"
+    kleur "^3.0.3"
+    pretty-bytes "^5.3.0"
+    sade "^1.6.1"
     tree-kill "^1.2.1"
 
 stable@^0.1.8:

@@ -1,9 +1,9 @@
 {
-  "name": "spark-joy",
+  "name": "sparkjoy",
   "description": "spark-joy",
   "version": "0.0.1",
   "scripts": {
-    "start": "ssg",
+    "start": "ssg dev --ext '.svelte .svexy'",
     "start2": "sapper dev --ext '.svelte .svexy'",
     "build": "sapper build --legacy",
     "export": "sapper export --legacy",
@@ -13,6 +13,7 @@
     "test": "run-p --race dev cy:run"
   },
   "dependencies": {
+    "@ssgjs/source-yaml": "^0.0.1",
     "compression": "^1.7.1",
     "mdsvex": "^0.4.0",
     "polka": "next",
@@ -38,7 +39,7 @@
     "rollup-plugin-svelte": "^5.0.1",
     "rollup-plugin-terser": "^4.0.4",
     "sapper": "^0.27.0",
-    "ssg": "^0.0.2",
+    "ssg": "^0.0.6",
     "svelte": "^3.0.0"
   }
 }
