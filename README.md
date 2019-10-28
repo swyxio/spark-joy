@@ -91,6 +91,7 @@ In particular, applying gradients and background images to text is super underra
 - https://www.humaaans.com/ diverse, customizable human svgs
 - https://www.freepik.com/
 - https://gallery.manypixels.co/
+- https://generator.opendoodles.com/ illustrations with color generator for svgs
 
 ### Animating Individual Elements
 
