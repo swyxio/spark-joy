@@ -92,6 +92,7 @@ In particular, applying gradients and background images to text is super underra
 - https://www.freepik.com/
 - https://gallery.manypixels.co/
 - https://generator.opendoodles.com/ illustrations with color generator for svgs
+- https://opengameart.org/
 
 ### Animating Individual Elements
 
@@ -103,6 +104,11 @@ In particular, applying gradients and background images to text is super underra
 - Accessible Styled Forms https://github.com/scottaohara/a11y_styled_form_controls
 - WTF Forms: Nicer Forms eg Radio Buttons with pure CSS https://github.com/mdo/wtf-forms
 - Output-inspired form: https://twitter.com/steveschoger/status/1171429842442522625
+
+### Sound
+
+- https://www.zapsplat.com/
+- https://www.myinstants.com/index/se/
 
 ### Misc Weird fun stuff
 
