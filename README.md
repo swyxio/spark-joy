@@ -52,6 +52,15 @@ MAKE SURE TO CHECK OUT https://components.ai
 - ANIMATED GRADIENTS https://www.gradient-animator.com/
 - CSS Doodle https://css-doodle.com/
 - this guy https://twitter.com/yuanchuan23
+- Subtle gradients by bumping only saturation on HSL (thanks [argyleink](https://twitter.com/argyleink/status/1197205254623780864))
+
+```css
+  background-image: linear-gradient(
+    120deg,
+    hsl(200 50% 90%) 0%,
+    hsl(200 100% 90%) 100%
+  );
+```
 
 In particular, applying gradients and background images to text is super underrated. Examples:
 
