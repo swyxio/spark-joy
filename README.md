@@ -104,6 +104,10 @@ In particular, applying gradients and background images to text is super underra
 - https://generator.opendoodles.com/ illustrations with color generator for svgs
 - https://opengameart.org/
 
+### Avatars
+
+- https://www.avatars.io/
+
 ### Animating Individual Elements
 
 - links https://cssanimation.rocks/animating-links/
