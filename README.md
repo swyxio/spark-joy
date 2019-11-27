@@ -15,6 +15,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - https://palettte.app/ (advanced tool; try importing the default paletttes)
 - http://colours.neilorangepeel.com/category/red/
 - https://www.colorbox.io (by Lyft Design https://design.lyft.com/)
+- Consider [darker/lighter color variations](https://learnui.design/blog/color-in-ui-design-a-practical-framework.html)
 
 Color knowledge (not tools but still important so here they are)
 
@@ -183,6 +184,7 @@ In particular, applying gradients and background images to text is super underra
 
 - https://github.com/miukimiu/react-kawaii
 - https://react-icons.netlify.com/#/icons/fa (typically fontawesome)
+- https://github.com/useAnimations/react-useanimations
 
 
 ## Helpful Podcasts
