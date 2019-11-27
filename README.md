@@ -107,6 +107,7 @@ In particular, applying gradients and background images to text is super underra
 ### Avatars
 
 - https://www.avatars.io/
+- https://en.gravatar.com/
 
 ### Animating Individual Elements
 
