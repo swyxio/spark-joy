@@ -16,6 +16,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - http://colours.neilorangepeel.com/category/red/
 - https://www.colorbox.io (by Lyft Design https://design.lyft.com/)
 - Consider [darker/lighter color variations](https://learnui.design/blog/color-in-ui-design-a-practical-framework.html)
+- https://croncolor.com/color-tool
 
 Color knowledge (not tools but still important so here they are)
 
@@ -57,11 +58,11 @@ MAKE SURE TO CHECK OUT https://components.ai
 - Subtle gradients by bumping only saturation on HSL (thanks [argyleink](https://twitter.com/argyleink/status/1197205254623780864))
 
 ```css
-  background-image: linear-gradient(
-    120deg,
-    hsl(200 50% 90%) 0%,
-    hsl(200 100% 90%) 100%
-  );
+background-image: linear-gradient(
+  120deg,
+  hsl(200 50% 90%) 0%,
+  hsl(200 100% 90%) 100%
+);
 ```
 
 In particular, applying gradients and background images to text is super underrated. Examples:
@@ -191,7 +192,6 @@ In particular, applying gradients and background images to text is super underra
 - https://github.com/miukimiu/react-kawaii
 - https://react-icons.netlify.com/#/icons/fa (typically fontawesome)
 - https://github.com/useAnimations/react-useanimations
-
 
 ## Helpful Podcasts
 
