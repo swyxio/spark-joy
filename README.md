@@ -102,6 +102,7 @@ In particular, applying gradients and background images to text is super underra
 
 - https://undraw.co/
 - https://www.humaaans.com/ diverse, customizable human svgs
+- http://ouch.pics/
 - https://www.freepik.com/
 - https://gallery.manypixels.co/
 - https://generator.opendoodles.com/ illustrations with color generator for svgs
