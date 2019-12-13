@@ -18,6 +18,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - Consider [darker/lighter color variations](https://learnui.design/blog/color-in-ui-design-a-practical-framework.html)
 - https://croncolor.com/color-tool
 - https://leonardocolor.io/?colorKeys=%236fa7ff&base=ffffff&ratios=3%2C4.5&mode=CAM02
+- https://happyhues.co/
 
 Color knowledge (not tools but still important so here they are)
 
