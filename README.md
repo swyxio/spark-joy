@@ -8,6 +8,11 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - Free fonts that are great with examples
   - Chivo https://www.latinxswhodesign.com/
   - Proxima Nova https://a16z.com/
+- steve schoger blessed typekit fonts **for UI's**
+  - proxima nova
+  - aktiv grotesk
+  - acumin pro
+  - museo sans
 
 ## Color Picking
 
@@ -221,3 +226,21 @@ premium/paid icons
 - https://syntax.fm/show/196/design-foundations-for-developers
 - https://syntax.fm/show/068/design-tips-for-developers
 - Steve Schoger - [little details of visual ui design ](https://laracon.net/2018)
+  - [ ] add a bit of color to your greys
+  - [ ] saturate greys when using a colored background
+  - [ ] consider temp when saturating greys
+  - [ ] use a consistent corner radius
+  - [ ] use consistent icon set
+  - [ ] use font size to emphasize impt info
+  - [ ] use color to create a hierarchy
+  - [ ] use consistent spacing scale
+  - [ ] use color to draw attention
+  - [ ] offset box-shadows
+  - [ ] easy on the link styles
+  - [ ] use contrast to create balance
+  - [ ] pick an appropriate line height
+  - [ ] use alignment to clean up your design
+  - [ ] give actions hierarchy
+  - [ ] consider spacing instead of borders
+  - [ ] use color to create depth and hierarchy
+  - [ ] use good fonts
