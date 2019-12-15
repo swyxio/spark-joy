@@ -115,6 +115,7 @@ In particular, applying gradients and background images to text is super underra
 - https://gallery.manypixels.co/
 - https://generator.opendoodles.com/ illustrations with color generator for svgs
 - https://opengameart.org/
+- https://illlustrations.co/
 
 ### Avatars
 
