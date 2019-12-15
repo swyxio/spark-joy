@@ -104,7 +104,17 @@ In particular, applying gradients and background images to text is super underra
 - https://thenounproject.com/
 - https://icomoon.io/
 - https://orioniconlibrary.com/ has customizable colors and packs eg for ecommerce
+- https://material.io/resources/icons/?style=baseline
+- http://www.entypo.com/
+- https://www.heroicons.com/
+- https://www.zondicons.com/
 - animated icons http://www.transformicons.com/builder.html
+
+premium/paid icons
+
+- https://symbolicons.com/
+- https://www.flaticon.com/
+- https://gumroad.com/l/primaries
 
 ### Graphics and SVG Illustrations
 
