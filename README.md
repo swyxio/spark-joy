@@ -225,7 +225,7 @@ premium/paid icons
 - https://www.codenewbie.org/podcast/how-do-i-learn-design
 - https://syntax.fm/show/196/design-foundations-for-developers
 - https://syntax.fm/show/068/design-tips-for-developers
-- Steve Schoger - [little details of visual ui design ](https://laracon.net/2018)
+- Steve Schoger - [little details of visual ui design](https://twitter.com/swyx/status/1206234577821286406?s=20)
   - [ ] add a bit of color to your greys
   - [ ] saturate greys when using a colored background
   - [ ] consider temp when saturating greys
