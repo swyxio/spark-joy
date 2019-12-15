@@ -12,6 +12,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 ## Color Picking
 
 - https://color.adobe.com/create
+- https://dribbble.com/colors/4030e8
 - https://palettte.app/ (advanced tool; try importing the default paletttes)
 - http://colours.neilorangepeel.com/category/red/
 - https://www.colorbox.io (by Lyft Design https://design.lyft.com/)
