@@ -44,6 +44,8 @@ MAKE SURE TO CHECK OUT https://components.ai
 - https://twitter.com/JoshWComeau/status/1170358024319492097?s=20
 - CSS Secrets https://twitter.com/swyx/status/982786353216843776?s=20
 - Box shadwos https://brumm.af/shadows
+- CSS clip path https://labs.jensimmons.com/#shapes https://bennettfeely.com/clippy/ https://youtu.be/u9bDe3Bw0sA
+
 
 ### SVG/Canvas Masking
 
