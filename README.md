@@ -201,8 +201,9 @@ In particular, applying gradients and background images to text is super underra
 - https://react-icons.netlify.com/#/icons/fa (typically fontawesome)
 - https://github.com/useAnimations/react-useanimations
 
-## Helpful Podcasts
+## Helpful podcasts and talk
 
 - https://www.codenewbie.org/podcast/how-do-i-learn-design
 - https://syntax.fm/show/196/design-foundations-for-developers
 - https://syntax.fm/show/068/design-tips-for-developers
+- Steve Schoger - [little details of visual ui design ](https://laracon.net/2018)
