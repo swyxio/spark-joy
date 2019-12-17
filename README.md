@@ -148,6 +148,7 @@ premium/paid icons
 - Accessible Styled Forms https://github.com/scottaohara/a11y_styled_form_controls
 - WTF Forms: Nicer Forms eg Radio Buttons with pure CSS https://github.com/mdo/wtf-forms
 - Output-inspired form: https://twitter.com/steveschoger/status/1171429842442522625
+- show button when placeholder-shown:  https://codepen.io/liamj/pen/vYYLGZj
 
 ### Sound
 
