@@ -60,6 +60,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 - https://getwaves.io/
 - text effects https://css-tricks.com/animate-blob-text-with-svg-text-clipping/
 - animate an existing svg https://svgartista.net/
+- scroll based svg text path animation https://www.youtube.com/watch?v=Tae96ze3xwY
 
 ### Background Gradients and Patterns
 
