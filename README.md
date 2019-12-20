@@ -50,7 +50,11 @@ MAKE SURE TO CHECK OUT https://components.ai
 - https://twitter.com/JoshWComeau/status/1170358024319492097?s=20
 - CSS Secrets https://twitter.com/swyx/status/982786353216843776?s=20
 - Box shadwos https://brumm.af/shadows
-- CSS clip path https://labs.jensimmons.com/#shapes https://bennettfeely.com/clippy/ https://youtu.be/u9bDe3Bw0sA
+- CSS clip path
+  - https://labs.jensimmons.com/#shapes 
+  - https://bennettfeely.com/clippy/ 
+  - https://youtu.be/u9bDe3Bw0sA
+  - CSS tricks clip path animation tutorial https://css-tricks.com/animating-with-clip-path/
 
 
 ### SVG/Canvas Masking
@@ -62,12 +66,14 @@ MAKE SURE TO CHECK OUT https://components.ai
 - text effects https://css-tricks.com/animate-blob-text-with-svg-text-clipping/
 - animate an existing svg https://svgartista.net/
 - scroll based svg text path animation https://www.youtube.com/watch?v=Tae96ze3xwY
+- `mix-blend-mode: screen` is [really good for SVG icons, with hover](https://ishadeed.com/article/blending-modes-css/)
 
 ### Background Gradients and Patterns
 
 - https://leaverou.github.io/css3patterns/
 - https://uigradients.com/#Petrichor
 - https://coolbackgrounds.io/
+- https://www.gradientmagic.com/
 - ANIMATED GRADIENTS https://www.gradient-animator.com/
 - CSS Doodle https://css-doodle.com/
 - this guy https://twitter.com/yuanchuan23
