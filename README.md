@@ -36,6 +36,8 @@ Color knowledge (not tools but still important so here they are)
 - [Louisa Barret on Color](https://www.youtube.com/watch?v=NdKAUXAvt8E)
 - [Erik Kennedy on Color/HSB](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
 - [JustinMezzell on Color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed) - advanced stuff on picking color tone/temperature
+- [Justin Baker on Color Theory](https://medium.muz.li/the-ultimate-ux-guide-to-color-design-4d0a18a706ed)
+- [Degreeless.design](https://www.degreeless.design/#basics) even more tools
 
 ## Font picking
 
