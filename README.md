@@ -224,7 +224,7 @@ premium/paid icons
 
 ## Paid services that seem cool
 
-- powtoon.com - videos and presentations for engaging and explaining
+- https://powtoon.com - videos and presentations for engaging and explaining
 
 ## Helpful podcasts and talks
 
