@@ -103,6 +103,7 @@ In particular, applying gradients and background images to text is super underra
 - Burgers http://negomi.github.io/react-burger-menu/
 - Layout https://github.com/aholachek/react-flip-toolkit
 - Hover and loaders: https://www.csswand.dev/
+- Graphic animations: https://lottiefiles.com/
 
 ### Icons
 
@@ -181,6 +182,10 @@ premium/paid icons
 
 - swup https://github.com/swup/swup ([css tricks](https://css-tricks.com/page-transitions-for-everyone/))
 
+## WebGL
+
+- [Curtains.js](https://www.curtainsjs.com/) ([example](https://codepen.io/martinlaxenaire/post/webgl-enhanced-drag-slider-tutorial-with-curtains-js-part-3))
+
 ## React
 
 ### Simple Animation
@@ -231,6 +236,12 @@ premium/paid icons
 - https://www.codenewbie.org/podcast/how-do-i-learn-design
 - https://syntax.fm/show/196/design-foundations-for-developers
 - https://syntax.fm/show/068/design-tips-for-developers
+- [Simple Layout checklist](https://docs.google.com/file/d/0B0gPtgNVonXPT1NsWGpKZWZKV1U/edit)
+  - [ ] Clear idea of purpose, target audience, where/how long it will be seen
+  - [ ] Information hierarchy (vary size, contrast, position)
+  - [ ] Clear visual structure - pick the most suitable way to group elements
+  - [ ] Space - leave enough whitespace. Too much > too little
+  - [ ] Alignment - use as few lines as possible
 - Steve Schoger - [little details of visual ui design](https://twitter.com/swyx/status/1206234577821286406?s=20)
   - [ ] add a bit of color to your greys
   - [ ] saturate greys when using a colored background
