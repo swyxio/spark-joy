@@ -170,6 +170,7 @@ premium/paid icons
 - Netflix slide-in menu - [Codepen](https://codepen.io/FlorinPop17/pen/KKPBgeQ)
 - Peek Href on Links - [2min video](https://www.youtube.com/watch?v=zMZckWl_B4c&feature=youtu.be)
 - [Gooey Effect with SVG and Filters](https://css-tricks.com/gooey-effect/)
+- [CSS only hover effect with Headers](https://codepen.io/oliviale/pen/YgzNzK)
 
 ## Canvas
 
