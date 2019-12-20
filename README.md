@@ -135,6 +135,12 @@ premium/paid icons
 - https://opengameart.org/
 - https://illlustrations.co/
 
+Diagramming
+
+- https://www.draw.io/ (free)
+- https://whimsical.com/ ($10/mo)
+- more tools - lucidcharts, miro, plectica - [see hn thread](https://news.ycombinator.com/item?id=21513337)
+
 ### Avatars
 
 - https://www.avatars.io/
