@@ -222,7 +222,11 @@ premium/paid icons
 - https://react-icons.netlify.com/#/icons/fa (typically fontawesome)
 - https://github.com/useAnimations/react-useanimations
 
-## Helpful podcasts and talk
+## Paid services that seem cool
+
+- powtoon.com - videos and presentations for engaging and explaining
+
+## Helpful podcasts and talks
 
 - https://www.codenewbie.org/podcast/how-do-i-learn-design
 - https://syntax.fm/show/196/design-foundations-for-developers
