@@ -209,6 +209,7 @@ Diagramming
 
 - https://react-simple-animate.now.sh/
 - https://yubabajs.com
+- https://github.com/brunnolou/react-morph
 
 ### Page transitions
 
