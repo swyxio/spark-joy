@@ -137,14 +137,21 @@ premium/paid icons
 
 ### Graphics and SVG Illustrations
 
-- https://undraw.co/
+- https://undraw.co/ An open-source illustrations website, where you can change the colors of the illustrations online before downloading.
 - https://www.humaaans.com/ diverse, customizable human svgs
+  - https://fresh-folk.com/ is similar
 - http://ouch.pics/
 - https://www.freepik.com/
-- https://gallery.manypixels.co/
+- https://gallery.manypixels.co/ ManyPixels offer free svg illustrations with the possibility to customize the color as well.
 - https://generator.opendoodles.com/ illustrations with color generator for svgs
 - https://opengameart.org/
-- https://illlustrations.co/
+- https://illlustrations.co/ 100 beautiful illustrations, designed by Vijay Verma during a 100 days of illustrations challenge.
+- https://isometric.online/ This website offers a searchable list of nice and free isometric illustrations.
+- https://www.glazestock.com/ 
+- https://lukaszadam.com/illustrations
+- https://woobro.design/
+- https://game-icons.net/
+- https://pimpmydrawing.com/
 
 Diagramming
 
