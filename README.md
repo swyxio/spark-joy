@@ -70,8 +70,10 @@ MAKE SURE TO CHECK OUT https://components.ai
 - https://getwaves.io/
 - text effects https://css-tricks.com/animate-blob-text-with-svg-text-clipping/
 - animate an existing svg https://svgartista.net/
-- scroll based svg text path animation https://www.youtube.com/watch?v=Tae96ze3xwY
 - `mix-blend-mode: screen` is [really good for SVG icons, with hover](https://ishadeed.com/article/blending-modes-css/)
+- SVG animations
+  - https://www.svgator.com/
+  - scroll based svg text path animation https://www.youtube.com/watch?v=Tae96ze3xwY
 
 ### Background Gradients and Patterns
 
@@ -128,6 +130,7 @@ In particular, applying gradients and background images to text is super underra
 - https://www.heroicons.com/
 - https://www.zondicons.com/
 - animated icons http://www.transformicons.com/builder.html
+- https://game-icons.net/
 
 premium/paid icons
 
@@ -150,8 +153,14 @@ premium/paid icons
 - https://www.glazestock.com/ 
 - https://lukaszadam.com/illustrations
 - https://woobro.design/
-- https://game-icons.net/
 - https://pimpmydrawing.com/
+- https://www.drawkit.io/ Hand-drawn vector illustration resources for your next project
+- https://www.isometriclove.com/ Cute Isometric Objects For Your Design
+- https://www.karthiksrinivas.in/charco  A set of 16 handcrafted illustrations for your web & app projects. This set includes categories like 404 error, no internet connection, no service, fatal error, page not found, something went wrong, under construction and many more.
+- https://www.veila.me/freebies/scandinavian-houses-free-vector-images
+- https://absurd.design/
+- https://github.com/MariaLetta/mega-doodles-pack
+- https://iradesign.io/
 
 Diagramming
 
@@ -164,6 +173,10 @@ Diagramming
 - https://www.avatars.io/
 - https://en.gravatar.com/
 - http://avatars.adorable.io/#demo
+- https://personas.draftbit.com/ A playful avatar generator for the modern age.
+- https://getavataaars.com/
+- https://joeschmoe.io/ An illustrated avatar collection for
+developers and designers
 
 ### Animating Individual Elements
 
@@ -288,3 +301,7 @@ Diagramming
   - [ ] consider spacing instead of borders
   - [ ] use color to create depth and hierarchy
   - [ ] use good fonts
+
+## More Free Stuff
+
+- https://free-for.dev/#/
