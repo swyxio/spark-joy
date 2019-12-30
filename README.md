@@ -134,7 +134,6 @@ In particular, applying gradients and background images to text is super underra
 - https://www.zondicons.com/
 - animated icons http://www.transformicons.com/builder.html
 - https://game-icons.net/
-- https://autodraw.com
 
 premium/paid icons
 
@@ -165,6 +164,7 @@ premium/paid icons
 - https://absurd.design/
 - https://github.com/MariaLetta/mega-doodles-pack
 - https://iradesign.io/
+- https://autodraw.com Google AI assisted drawing
 
 Diagramming
 
