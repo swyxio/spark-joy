@@ -164,6 +164,7 @@ premium/paid icons
 - https://absurd.design/
 - https://github.com/MariaLetta/mega-doodles-pack
 - https://iradesign.io/
+- https://autodraw.com Google AI assisted drawing
 
 Diagramming
 
