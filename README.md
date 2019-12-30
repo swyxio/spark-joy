@@ -147,7 +147,7 @@ premium/paid icons
 - https://www.humaaans.com/ diverse, customizable human svgs
   - https://fresh-folk.com/ is similar
 - http://ouch.pics/
-- https://www.freepik.com/
+- https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
 - https://gallery.manypixels.co/ ManyPixels offer free svg illustrations with the possibility to customize the color as well.
 - https://generator.opendoodles.com/ illustrations with color generator for svgs
 - https://opengameart.org/
@@ -171,6 +171,12 @@ Diagramming
 - https://www.draw.io/ (free)
 - https://whimsical.com/ ($10/mo)
 - more tools - lucidcharts, miro, plectica - [see hn thread](https://news.ycombinator.com/item?id=21513337)
+
+Stock Photos and Videos
+
+- unsplash of course
+- https://github.com/neutraltone/awesome-stock-resources
+- https://allthefreestock.com/
 
 ### Avatars
 
