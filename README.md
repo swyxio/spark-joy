@@ -284,9 +284,10 @@ developers and designers
 
 ## Helpful podcasts and talks
 
-- https://www.codenewbie.org/podcast/how-do-i-learn-design
-- https://syntax.fm/show/196/design-foundations-for-developers
-- https://syntax.fm/show/068/design-tips-for-developers
+- [How do I learn design?](https://www.codenewbie.org/podcast/how-do-i-learn-design) (CodeNewbie)
+- [Design foundations for developers](https://syntax.fm/show/196/design-foundations-for-developers) (Syntax)
+- [Design tips for developers](https://syntax.fm/show/068/design-tips-for-developers) (Syntax)
+- [Tactical design advice for developers](https://changelog.com/podcasts/333) (The Changelog)
 - [Simple Layout checklist](https://docs.google.com/file/d/0B0gPtgNVonXPT1NsWGpKZWZKV1U/edit)
   - [ ] Clear idea of purpose, target audience, where/how long it will be seen
   - [ ] Information hierarchy (vary size, contrast, position)
