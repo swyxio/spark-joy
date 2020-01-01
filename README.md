@@ -138,6 +138,7 @@ In particular, applying gradients and background images to text is super underra
 premium/paid icons
 
 - https://symbolicons.com/
+- https://streamlineicons.com/ (used in [Glide Apps](https://twitter.com/glideapps/status/1199396690182230016))
 - https://www.flaticon.com/
 - https://gumroad.com/l/primaries
 
