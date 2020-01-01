@@ -243,6 +243,7 @@ developers and designers
 - https://react-simple-animate.now.sh/
 - https://yubabajs.com
 - https://github.com/brunnolou/react-morph
+- https://github.com/kitze/react-genie
 
 ### Page transitions
 
