@@ -5,6 +5,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 ## Typography
 
 - https://www.typewolf.com/
+- https://muffingroup.com/blog/best-free-fonts/
 - Free fonts that are great with examples
   - Chivo https://www.latinxswhodesign.com/
   - Proxima Nova https://a16z.com/
@@ -41,10 +42,6 @@ Color knowledge (not tools but still important so here they are)
 - [JustinMezzell on Color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed) - advanced stuff on picking color tone/temperature
 - [Justin Baker on Color Theory](https://medium.muz.li/the-ultimate-ux-guide-to-color-design-4d0a18a706ed)
 - [Degreeless.design](https://www.degreeless.design/#basics) even more tools
-
-## Font picking
-
-- https://muffingroup.com/blog/best-free-fonts/
 
 ## Pure CSS
 
