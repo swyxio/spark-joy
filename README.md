@@ -13,6 +13,8 @@ easy ways to add design flair, user delight, and whimsy to your product.
   - aktiv grotesk
   - acumin pro
   - museo sans
+- eye catching fun fonts
+  - https://www.haleyfiege.fun/fonts
 
 ## Color Picking
 
