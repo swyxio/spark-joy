@@ -19,7 +19,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 ## Color Picking
 
-- https://hotpot.ai/assistant/color_assistant (hit space bar to show more ideas)
+- https://hotpot.ai/assistant/color_assistant Get suggestions for color palettes, gradients, and text colors. Hit the space bar for ML-powered ideas.
 - https://color.adobe.com/create
 - https://dribbble.com/colors/4030e8
 - https://palettte.app/ (advanced tool; try importing the default palettes)
@@ -66,6 +66,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 
 ### SVG/Canvas Masking
 
+- https://hotpot.ai/svg_to_png_converter Convert SVG to PNG
 - Transparent fill SVG and color in on Hover - [Codepen](https://codepen.io/m4r1vs/pen/qVReQz)
 - https://speckyboy.com/css-svg-canvas-masks/
 - https://www.blobmaker.app/
@@ -124,8 +125,8 @@ In particular, applying gradients and background images to text is super underra
 
 ### Icons
 
-- https://hotpot.ai/icon_creator
-- https://hotpot.ai/icon_resizer
+- https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties.
+- https://hotpot.ai/icon_resizer Resize images and icons for iOS, Android, and other platforms.
 - https://iconmonstr.com/
 - https://thenounproject.com/
 - https://icomoon.io/
@@ -146,7 +147,7 @@ premium/paid icons
 
 ### Graphics and SVG Illustrations
 
-- https://hotpot.ai Free option available. Create icons, app screenshots, MacBook/browser mockups, social media posts, and other graphics for mobile apps and browser extensions.
+- https://hotpot.ai Free or paid. Create icons, app screenshots, MacBook/browser mockups, social media posts, and other graphics for mobile apps and browser extensions.
 - https://undraw.co/ An open-source illustrations website, where you can change the colors of the illustrations online before downloading.
 - https://www.humaaans.com/ diverse, customizable human svgs
   - https://fresh-folk.com/ is similar
