@@ -179,6 +179,9 @@ Diagramming
 
 Stock Photos and Videos
 
+- https://photos.icons8.com/creator/ Create custom stock photos
+- https://pexels.com
+- https://generated.photos/ AI-generated stock photos
 - unsplash of course
 - https://github.com/neutraltone/awesome-stock-resources
 - https://allthefreestock.com/
