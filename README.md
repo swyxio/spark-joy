@@ -19,6 +19,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 ## Color Picking
 
+- https://hotpot.ai/assistant/color_assistant (hit space bar to show more ideas)
 - https://color.adobe.com/create
 - https://dribbble.com/colors/4030e8
 - https://palettte.app/ (advanced tool; try importing the default palettes)
@@ -123,6 +124,8 @@ In particular, applying gradients and background images to text is super underra
 
 ### Icons
 
+- https://hotpot.ai/icon_creator
+- https://hotpot.ai/icon_resizer
 - https://iconmonstr.com/
 - https://thenounproject.com/
 - https://icomoon.io/
@@ -143,6 +146,7 @@ premium/paid icons
 
 ### Graphics and SVG Illustrations
 
+- https://hotpot.ai Free option available. Create icons, app screenshots, MacBook/browser mockups, social media posts, and other graphics for mobile apps and browser extensions.
 - https://undraw.co/ An open-source illustrations website, where you can change the colors of the illustrations online before downloading.
 - https://www.humaaans.com/ diverse, customizable human svgs
   - https://fresh-folk.com/ is similar
