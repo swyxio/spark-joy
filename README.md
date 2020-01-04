@@ -131,9 +131,9 @@ In particular, applying gradients and background images to text is super underra
 
 ### Icons
 
+- https://thenounproject.com/ Every icon you can think of, in PNG or SVG formats. They offer over 20 million icons, with built-in customization colors like size and color.
 - https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties.
-- https://iconmonstr.com/
-- https://thenounproject.com/
+- https://iconmonstr.com/ Discover 4486+ free icons in 310 collections
 - https://icomoon.io/
 - https://orioniconlibrary.com/ has customizable colors and packs eg for ecommerce
 - https://material.io/resources/icons/?style=baseline
