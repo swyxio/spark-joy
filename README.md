@@ -19,7 +19,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 ## Color Picking
 
-- https://hotpot.ai/assistant/color_assistant Get suggestions for color palettes, gradients, and text colors. Hit the space bar for ML-powered ideas.
+- https://hotpot.ai/assistant/color_assistant Get suggestions for palettes, gradients, and text colors. Hit the space bar for ML-powered ideas.
 - https://color.adobe.com/create
 - https://dribbble.com/colors/4030e8
 - https://palettte.app/ (advanced tool; try importing the default palettes)
