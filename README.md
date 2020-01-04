@@ -34,7 +34,12 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - [chroma.js color palette helper](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1)
 - https://palx.jxnblk.com/
 
-Color knowledge (not tools but still important so here they are)
+<details>
+  <summary>
+
+### Color knowledge (not tools but still important so here they are)
+
+  </summary>
 
 - [Sarah Drasner on Color](https://css-tricks.com/nerds-guide-color-web/)
 - [Louisa Barret on Color](https://www.youtube.com/watch?v=NdKAUXAvt8E)
@@ -42,6 +47,8 @@ Color knowledge (not tools but still important so here they are)
 - [JustinMezzell on Color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed) - advanced stuff on picking color tone/temperature
 - [Justin Baker on Color Theory](https://medium.muz.li/the-ultimate-ux-guide-to-color-design-4d0a18a706ed)
 - [Degreeless.design](https://www.degreeless.design/#basics) even more tools
+- [How to do Dark Mode right](https://darkmodedesign.xyz/)
+</details>
 
 ## Pure CSS
 
