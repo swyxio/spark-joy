@@ -33,6 +33,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - https://colorsupplyyy.com/
 - [chroma.js color palette helper](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1)
 - https://palx.jxnblk.com/
+- https://hotpot.ai/assistant/color_assistant Get suggestions for palettes, gradients, and text colors. Hit the space bar for ML-powered ideas.
 
 <details>
   <summary>
@@ -130,6 +131,7 @@ In particular, applying gradients and background images to text is super underra
 
 ### Icons
 
+- https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties.
 - https://iconmonstr.com/
 - https://thenounproject.com/
 - https://icomoon.io/
@@ -172,6 +174,7 @@ premium/paid icons
 - https://github.com/MariaLetta/mega-doodles-pack
 - https://iradesign.io/
 - https://autodraw.com Google AI assisted drawing
+- https://hotpot.ai Free or paid. Create icons, app screenshots, MacBook/browser mockups, social media posts, and other graphics for mobile apps and browser extensions.
 
 Diagramming
 
@@ -181,6 +184,9 @@ Diagramming
 
 Stock Photos and Videos
 
+- https://photos.icons8.com/creator/ Create custom stock photos
+- https://pexels.com
+- https://generated.photos/ AI-generated stock photos
 - unsplash of course
 - https://github.com/neutraltone/awesome-stock-resources
 - https://allthefreestock.com/
