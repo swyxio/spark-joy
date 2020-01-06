@@ -47,7 +47,6 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - [Erik Kennedy on Color/HSB](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
 - [JustinMezzell on Color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed) - advanced stuff on picking color tone/temperature
 - [Justin Baker on Color Theory](https://medium.muz.li/the-ultimate-ux-guide-to-color-design-4d0a18a706ed)
-- [Degreeless.design](https://www.degreeless.design/#basics) even more tools
 - [How to do Dark Mode right](https://darkmodedesign.xyz/)
 </details>
 
@@ -292,8 +291,10 @@ developers and designers
 - https://react-icons.netlify.com/#/icons/fa (typically fontawesome)
 - https://github.com/useAnimations/react-useanimations
 
-## Paid services that seem cool
+## Video
 
+- https://animoto.com/ - drag and drop video maker
+- https://biteable.com/ - video maker with templates
 - https://powtoon.com - videos and presentations for engaging and explaining
 
 ## Helpful podcasts and talks
@@ -327,9 +328,23 @@ developers and designers
   - [ ] consider spacing instead of borders
   - [ ] use color to create depth and hierarchy
   - [ ] use good fonts
+- [Buffer Design tips](https://buffer.com/library/social-media-design-tips)
+  - [ ] Color: emotion, personality
+  - [ ] Balance: symmetry, asymmetry
+  - [ ] Lines: straight lines for harmony, curved for movement. guide the eyes
+  - [ ] Typography: 3 max, san-serif for web, kerning for headlines
+  - [ ] Add Contrast with shapes, color, element sizes
+  - [ ] Scale: size elemnts differently to draw attention or demonstrate concept
+  - [ ] Proximity: group related items together. connect colors, fonts, shapes
+  - [ ] Hierarchy: most impt elements first
+  - [ ] Repetition: consistency of fonts, colors, logos
+  - [ ] Direction: F, E, Z pattern. Put key info in left
+  - [ ] Space: use space to amplify other objects
 
 ## More Free Stuff
 
+- [Canva Design School](https://designschool.canva.com/)
+- [Degreeless.design](https://www.degreeless.design/#basics)
 - Free tier software https://free-for.dev/#/
 - https://github.com/Vincenius/link-list
 - Public API's for demos https://github.com/public-api-lists/public-api-lists
