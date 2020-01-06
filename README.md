@@ -330,5 +330,6 @@ developers and designers
 
 ## More Free Stuff
 
-- https://free-for.dev/#/
+- Free tier software https://free-for.dev/#/
 - https://github.com/Vincenius/link-list
+- Public API's for demos https://github.com/public-api-lists/public-api-lists
