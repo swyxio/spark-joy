@@ -57,7 +57,8 @@ MAKE SURE TO CHECK OUT https://components.ai
 ### Pure CSS Tricks
 
 - https://twitter.com/JoshWComeau/status/1170358024319492097?s=20
-- CSS Secrets https://twitter.com/swyx/status/982786353216843776?s=20
+- Lea Verou CSS Secrets https://twitter.com/swyx/status/982786353216843776?s=20
+  - CSS3 Patterns https://leaverou.github.io/css3patterns/
 - Shadows
   - Box shadows https://brumm.af/shadows
   - Card border Generator https://card.surge.sh/
@@ -91,6 +92,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 - https://www.gradientmagic.com/
 - ANIMATED GRADIENTS https://www.gradient-animator.com/
 - CSS Doodle https://css-doodle.com/
+- CSS backgroundy patterns https://leaverou.github.io/css3patterns/
 - this guy https://twitter.com/yuanchuan23
 - Generative Gradients http://generative-placeholders.glitch.me/
 - Subtle gradients by bumping only saturation on HSL (thanks [argyleink](https://twitter.com/argyleink/status/1197205254623780864))
