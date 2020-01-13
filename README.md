@@ -116,6 +116,7 @@ In particular, applying gradients and background images to text is super underra
 - Spinners https://tobiasahlin.com/spinkit/
 - Buttons, hover, inputs, and loaders https://cssfx.netlify.com/
 - Conic gradient loader in CSS - [Codepen](https://codepen.io/keithclark/pen/aEbEoo)
+- React, Vue and Angular Spinners https://github.com/JoshK2/react-spinners-css
 
 ### Animations & Transitions
 
