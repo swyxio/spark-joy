@@ -114,12 +114,12 @@ In particular, applying gradients and background images to text is super underra
 
 - web components https://wc-spinners.cjennings.dev/
 - Spinners https://tobiasahlin.com/spinkit/
-- Buttons, hover, inputs, and loaders https://cssfx.dev
+- Buttons, hover, inputs, and loaders https://cssfx.netlify.com/
 - Conic gradient loader in CSS - [Codepen](https://codepen.io/keithclark/pen/aEbEoo)
 
 ### Animations & Transitions
 
-- Buttons, hover, inputs, and loaders https://cssfx.dev
+- Buttons, hover, inputs, and loaders https://cssfx.netlify.com/
 - general http://animista.net
   - animate an existing svg https://svgartista.net/ (by the same people as animista)
 - general https://daneden.github.io/animate.css/
