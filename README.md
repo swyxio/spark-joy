@@ -101,7 +101,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 - CSS backgroundy patterns https://leaverou.github.io/css3patterns/
 - this guy https://twitter.com/yuanchuan23
 - Generative Gradients http://generative-placeholders.glitch.me/
-- Subtle gradients by bumping only saturation on HSL (thanks [argyleink](https://twitter.com/argyleink/status/1197205254623780864))
+- Subtle gradients by bumping only saturation on HSL (thanks [argyleink](https://twitter.com/argyleink/status/1197205254623780864)) - You can [really take this to the extreme](https://twitter.com/argyleink/status/1216815958917992450?s=20)!
 
 ```css
 background-image: linear-gradient(
