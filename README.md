@@ -6,9 +6,12 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 - https://www.typewolf.com/
 - https://muffingroup.com/blog/best-free-fonts/
-- Free fonts that are great with examples
+- Free fonts that are great with examples (thanks [@edadams](https://github.com/sw-yx/spark-joy/issues/22))
   - Chivo https://www.latinxswhodesign.com/
-  - Proxima Nova https://a16z.com/
+  - [Lato](http://www.latofonts.com/)(Quite well known but very readable and pretty. Anecdote: In my web designs when I show clients a choice of fonts Lato gets picked a lot.)
+  - [Libre Franklin](https://beautifulwebtype.com/libre-franklin/) (Overlooked, pretty elegant and thin.)
+  - [IBM Plex Sans](https://www.ibm.com/plex/) (I think this one is worth promoting. There's loads of weights and it's really beautifully done in my opinion. Very much overlooked.)
+  - [Clear Sans](https://01.org/clear-sans) (Also lesser known and really good.)
 - steve schoger blessed typekit fonts **for UI's**
   - proxima nova
   - aktiv grotesk
@@ -16,6 +19,8 @@ easy ways to add design flair, user delight, and whimsy to your product.
   - museo sans
 - eye catching fun fonts
   - https://www.haleyfiege.fun/fonts
+- Premium fonts and some examples 
+  - Proxima Nova https://a16z.com/ (on Typekit)
 
 ## Color Picking
 
