@@ -89,6 +89,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 - SVG animations
   - https://www.svgator.com/
   - scroll based svg text path animation https://www.youtube.com/watch?v=Tae96ze3xwY
+  - stroke path animation https://css-tricks.com/a-trick-that-makes-drawing-svg-lines-way-easier/
 
 ### Background Gradients and Patterns
 
