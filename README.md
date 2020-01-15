@@ -40,6 +40,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 - [chroma.js color palette helper](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1)
 - https://palx.jxnblk.com/
 - https://hotpot.ai/assistant/color_assistant Get suggestions for palettes, gradients, and text colors. Hit the space bar for ML-powered ideas.
+- https://yeun.github.io/open-color/
 
 <details>
   <summary>
