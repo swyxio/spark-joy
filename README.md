@@ -13,6 +13,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
   - [IBM Plex Sans](https://www.ibm.com/plex/) Loads of weights, beautifully done
   - [Clear Sans](https://01.org/clear-sans)
   - [Inter](https://rsms.me/inter/) [Rasmus'](https://rsms.me/) typeface carefully crafted & designed for computer screens.
+  - [Jetbrains Mono](https://www.jetbrains.com/lp/mono/) - Monospace font for devvy stuff
 - steve schoger blessed typekit fonts **for UI's**
   - proxima nova
   - aktiv grotesk
