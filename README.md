@@ -244,6 +244,7 @@ developers and designers
 - Peek Href on Links - [2min video](https://www.youtube.com/watch?v=zMZckWl_B4c&feature=youtu.be)
 - [Gooey Effect with SVG and Filters](https://css-tricks.com/gooey-effect/)
 - [CSS only hover effect with Headers](https://codepen.io/oliviale/pen/YgzNzK)
+- [SVG iPhone mock and animated notification transition](https://codepen.io/sdras/pen/LYELqPX)
 
 ## Canvas
 
