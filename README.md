@@ -11,6 +11,8 @@ easy ways to add design flair, user delight, and whimsy to your product.
   - GitHub: `font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";`
   - [VS Code Autocomplete](https://twitter.com/kudapara/status/1093553125661773825?s=20): `font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif`
   - [`font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;`](https://twitter.com/_etiennemartin/status/1221114860479696896?s=20)
+  - [`font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+  "Roboto", "Oxygen", "Ubuntu", "Helvetica Neue", Arial, sans-serif;`](https://twitter.com/laurosilvacom/status/1221138641923141632)
   - [`font-family: ‘system-ui’, sans-serif;`](https://twitter.com/esojrafael/status/1221107296127729664?s=20)
     - the ['system-ui' generic font family is new, standardizing name across Safari, Firefox and Blink](https://www.chromestatus.com/feature/5640395337760768)
   - [Sanitize.css](https://github.com/csstools/sanitize.css#typography-uses-the-default-system-font): 
@@ -84,6 +86,10 @@ easy ways to add design flair, user delight, and whimsy to your product.
 Font-size hacks you might try:
 
 - [`font-size: calc(1rem + 2px + ((100vw - 550px) / 250))`](https://twitter.com/Kikobeats/status/1093620157912616966?s=20)
+- [Inter/Tailwind font-size combo](https://twitter.com/samselikoff/status/1204412222593568769?s=20)
+- [BAD, SLOW fontsize calc](https://twitter.com/drewml/status/1115339490179072000?s=20)
+
+Note: `vw` has known a11y issues: Preserve Zooming. [Sara Soueidan](https://twitter.com/SaraSoueidan/status/1121645149983891457?s=20) recommends wrapping with `calc`, e.g. `font-size: calc(16px + .3vw);`
 
 ## Color Picking
 
