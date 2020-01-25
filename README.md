@@ -4,9 +4,57 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 ## Typography
 
-- https://www.typewolf.com/
-- https://muffingroup.com/blog/best-free-fonts/
+<details>
+  <summary>For speed, use System Font Stacks (incl. Segoe and Roboto)</summary>
+  
+  ([what are these?](https://css-tricks.com/snippets/css/system-font-stack/))
+  - GitHub: `font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";`
+  - [VS Code Autocomplete](https://twitter.com/kudapara/status/1093553125661773825?s=20): `font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif`
+  - [`font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;`](https://twitter.com/_etiennemartin/status/1221114860479696896?s=20)
+  - [`font-family: ‘system-ui’, sans-serif;`](https://twitter.com/esojrafael/status/1221107296127729664?s=20)
+    - the ['system-ui' generic font family is new, standardizing name across Safari, Firefox and Blink](https://www.chromestatus.com/feature/5640395337760768)
+  - [Sanitize.css](https://github.com/csstools/sanitize.css#typography-uses-the-default-system-font): 
+  
+```css
+  html {
+    font-family:
+      system-ui,
+      /* macOS 10.11-10.12 */ -apple-system,
+      /* Windows 6+ */ Segoe UI,
+      /* Android 4+ */ Roboto,
+      /* Ubuntu 10.10+ */ Ubuntu,
+      /* Gnome 3+ */ Cantarell,
+      /* KDE Plasma 5+ */ Noto Sans,
+      /* fallback */ sans-serif,
+      /* macOS emoji */ "Apple Color Emoji",
+      /* Windows emoji */ "Segoe UI Emoji",
+      /* Windows emoji */ "Segoe UI Symbol",
+      /* Linux emoji */ "Noto Color Emoji";
+  }
+  code, kbd, pre, samp {
+    font-family:
+      /* macOS 10.10+ */ Menlo,
+      /* Windows 6+ */ Consolas,
+      /* Android 4+ */ Roboto Mono,
+      /* Ubuntu 10.10+ */ Ubuntu Monospace,
+      /* KDE Plasma 5+ */ Noto Mono,
+      /* KDE Plasma 4+ */ Oxygen Mono,
+      /* Linux/OpenOffice fallback */ Liberation Mono,
+      /* fallback */ monospace;
+  }
+```
+
+  - [Some systems come with good premium fonts](https://twitter.com/MatiasEduardoPR/status/1093508700378144768?s=20) - Apple OSes have `“avenir next”, “avenir”, “proxima-nova”`
+  
+</details>
+
+
 - Free fonts that are great with examples (thanks [@edadams](https://github.com/sw-yx/spark-joy/issues/22))
+  - Google Fonts
+    - [Noto Sans](https://www.google.com/get/noto/)
+    - [Fira Sans](https://fonts.google.com/specimen/Fira+Sans) - related to [Fira Code](https://github.com/tonsky/FiraCode) for devvy stuff
+    - [Raleway](https://fonts.google.com/specimen/Raleway)
+    - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
   - Chivo https://www.latinxswhodesign.com/
   - [Lato](http://www.latofonts.com/) Well known, very readable, pretty, client favorite
   - [Libre Franklin](https://beautifulwebtype.com/libre-franklin/) Elegant and thin
@@ -21,8 +69,21 @@ easy ways to add design flair, user delight, and whimsy to your product.
   - museo sans
 - eye catching fun fonts
   - https://www.haleyfiege.fun/fonts
-- Premium fonts and some examples 
+- more opinions places
+  - https://muffingroup.com/blog/best-free-fonts/
+<details>
+  <summary> Premium fonts and some examples </summary>
+  
   - Proxima Nova https://a16z.com/ (on Typekit)
+  - Graphik https://type.today/en/Graphik
+  - https://www.typewolf.com/
+  - [Dank Mono](https://dank.sh/)
+  
+</details>
+
+Font-size hacks you might try:
+
+- [`font-size: calc(1rem + 2px + ((100vw - 550px) / 250))`](https://twitter.com/Kikobeats/status/1093620157912616966?s=20)
 
 ## Color Picking
 
