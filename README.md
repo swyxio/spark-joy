@@ -83,11 +83,14 @@ easy ways to add design flair, user delight, and whimsy to your product.
   
 </details>
 
-Font-size hacks you might try:
+Font-size things you might try:
 
 - [`font-size: calc(1rem + 2px + ((100vw - 550px) / 250))`](https://twitter.com/Kikobeats/status/1093620157912616966?s=20)
+- [FlowType.js](https://simplefocus.com/flowtype/)
+- [FitText](https://css-tricks.com/viewport-sized-typography/)
 - [Inter/Tailwind font-size combo](https://twitter.com/samselikoff/status/1204412222593568769?s=20)
 - [BAD, SLOW fontsize calc](https://twitter.com/drewml/status/1115339490179072000?s=20)
+- [Complete font-size notes](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/)
 
 Note: `vw` has known a11y issues: Preserve Zooming. [Sara Soueidan](https://twitter.com/SaraSoueidan/status/1121645149983891457?s=20) recommends wrapping with `calc`, e.g. `font-size: calc(16px + .3vw);`
 
