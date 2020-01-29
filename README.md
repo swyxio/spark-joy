@@ -236,6 +236,15 @@ premium/paid icons
 
 ### Graphics and SVG Illustrations
 
+Diagramming - when describing something prefer pictures over words. Make pictures.
+
+- https://excalidraw.com/ (free, open source)
+- https://www.draw.io/ (free)
+- https://whimsical.com/ ($10/mo)
+- more tools - lucidcharts, miro, plectica - [see hn thread](https://news.ycombinator.com/item?id=21513337)
+
+Illustrations
+
 - https://undraw.co/ An open-source illustrations website, where you can change the colors of the illustrations online before downloading.
 - https://www.humaaans.com/ diverse, customizable human svgs
   - https://fresh-folk.com/ is similar
@@ -259,12 +268,6 @@ premium/paid icons
 - https://iradesign.io/
 - https://autodraw.com Google AI assisted drawing
 - https://hotpot.ai Free or paid. Create icons, app screenshots, MacBook/browser mockups, social media posts, and other graphics for mobile apps and browser extensions.
-
-Diagramming
-
-- https://www.draw.io/ (free)
-- https://whimsical.com/ ($10/mo)
-- more tools - lucidcharts, miro, plectica - [see hn thread](https://news.ycombinator.com/item?id=21513337)
 
 Stock Photos and Videos
 
