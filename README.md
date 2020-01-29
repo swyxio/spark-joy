@@ -64,6 +64,8 @@ easy ways to add design flair, user delight, and whimsy to your product.
   - [Clear Sans](https://01.org/clear-sans)
   - [Inter](https://rsms.me/inter/) [Rasmus'](https://rsms.me/) typeface carefully crafted & designed for computer screens.
   - [Jetbrains Mono](https://www.jetbrains.com/lp/mono/) - Monospace font for devvy stuff
+- Font Pairing
+  - Canva has a great tool: https://www.canva.com/font-combinations/
 - steve schoger blessed typekit fonts **for UI's**
   - proxima nova
   - aktiv grotesk
