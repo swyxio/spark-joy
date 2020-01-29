@@ -126,6 +126,7 @@ Note: `vw` has known a11y issues: Preserve Zooming. [Sara Soueidan](https://twit
 - [JustinMezzell on Color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed) - advanced stuff on picking color tone/temperature
 - [Justin Baker on Color Theory](https://medium.muz.li/the-ultimate-ux-guide-to-color-design-4d0a18a706ed)
 - [How to do Dark Mode right](https://darkmodedesign.xyz/)
+- [Inventorying and naming a Color Palette at UXPin](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
 </details>
 
 ## Pure CSS
