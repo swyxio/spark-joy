@@ -6,6 +6,11 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 More.
 
+## Layout
+
+- https://gedd.ski/post/article-grid-layout/
+- https://every-layout.dev/
+
 ## Typography
 
 <details>
