@@ -2,6 +2,10 @@
 
 easy ways to add design flair, user delight, and whimsy to your product.
 
+## Spacing
+
+More.
+
 ## Typography
 
 <details>
@@ -100,6 +104,19 @@ Note: `vw` has known a11y issues: Preserve Zooming. [Sara Soueidan](https://twit
 
 ## Color Picking
 
+Don't use system defaults, too brutal. Example palette:
+
+- Black: #1d1d1d.
+- purple: #b066ff;
+- blue: #203447;
+- lightblue: #1f4662;
+- blue2: #1C2F40;
+- yellow: #ffc600;
+- pink: #EB4471;
+- white: #d7d7d7;
+
+But here are tools to help generate palettes:
+
 - https://color.adobe.com/create
 - https://dribbble.com/colors/4030e8
 - https://palettte.app/ (advanced tool; try importing the default palettes)
@@ -144,6 +161,9 @@ MAKE SURE TO CHECK OUT https://components.ai
   - CSS3 Patterns https://leaverou.github.io/css3patterns/
 - Shadows
   - Box shadows https://brumm.af/shadows
+    - drop shadows - eg -1px left -1px top - makes buttons look stamped
+    - text shadows
+    - experiment with multiple shadows on one element
   - Card border Generator https://card.surge.sh/
 - Blend Modes
   - [`background-blend-mode` color-burn, lighten, multiply are cool](https://codemenatalie.com/blog/background-blend-mode-property/)
@@ -171,16 +191,13 @@ MAKE SURE TO CHECK OUT https://components.ai
 
 ### Background Gradients and Patterns
 
-- https://leaverou.github.io/css3patterns/
-- https://uigradients.com/#Petrichor
-- https://coolbackgrounds.io/
-- https://www.gradientmagic.com/
-- ANIMATED GRADIENTS https://www.gradient-animator.com/
-- CSS Doodle https://css-doodle.com/
-- CSS backgroundy patterns https://leaverou.github.io/css3patterns/
-- this guy https://twitter.com/yuanchuan23
-- Generative Gradients http://generative-placeholders.glitch.me/
-- Subtle gradients by bumping only saturation on HSL (thanks [argyleink](https://twitter.com/argyleink/status/1197205254623780864)) - You can [really take this to the extreme](https://twitter.com/argyleink/status/1216815958917992450?s=20)!
+Not just for background backgrounds - applying gradients and background images to text is super underrated. Examples:
+
+- [https://philcoffman.com/](https://user-images.githubusercontent.com/6764957/64589989-7985f500-d374-11e9-9d8a-2a8888df6981.png)
+- [https://css-tricks.com/](https://user-images.githubusercontent.com/6764957/64590103-beaa2700-d374-11e9-8a84-95ab4826a577.png)
+
+#### Gradients
+
 
 ```css
 background-image: linear-gradient(
@@ -190,10 +207,29 @@ background-image: linear-gradient(
 );
 ```
 
-In particular, applying gradients and background images to text is super underrated. Examples:
+- https://mycolor.space/gradient Generate a CSS Color Gradient
+- https://webgradients.com/ free collection of 180 linear gradients 
+- https://uigradients.com/#Petrichor
+- https://www.grabient.com/
+- ANIMATED GRADIENTS https://www.gradient-animator.com/
+- Subtle gradients by bumping only saturation on HSL (thanks [argyleink](https://twitter.com/argyleink/status/1197205254623780864)) - You can [really take this to the extreme](https://twitter.com/argyleink/status/1216815958917992450?s=20)!
 
-- [https://philcoffman.com/](https://user-images.githubusercontent.com/6764957/64589989-7985f500-d374-11e9-9d8a-2a8888df6981.png)
-- [https://css-tricks.com/](https://user-images.githubusercontent.com/6764957/64590103-beaa2700-d374-11e9-8a84-95ab4826a577.png)
+
+#### Patterns
+
+- https://leaverou.github.io/css3patterns/
+- https://www.toptal.com/designers/subtlepatterns/ (exports png though :( )
+- https://pattern.flaticon.com/ (create a bg pattern of icons)
+- https://coolbackgrounds.io/
+- https://www.gradientmagic.com/
+
+#### Misc Backgroundy Stuff
+
+- CSS Doodle https://css-doodle.com/
+- CSS backgroundy patterns https://leaverou.github.io/css3patterns/
+- this guy https://twitter.com/yuanchuan23
+- Generative Gradients http://generative-placeholders.glitch.me/
+- [True Grit Texture Supply](https://www.truegrittexturesupply.com/) PNG textures (paid)
 
 ### Spinners
 
@@ -285,6 +321,7 @@ Stock Photos and Videos
 
 - https://www.avatars.io/
 - https://en.gravatar.com/
+- https://unavatar.now.sh/ grab social images from username/email
 - http://avatars.adorable.io/#demo
 - https://personas.draftbit.com/ A playful avatar generator for the modern age.
 - https://getavataaars.com/
@@ -443,5 +480,8 @@ developers and designers
 
 ## Interaction/Design Inspo
 
+- Dribbble ofc
 - https://pageflows.com/
 - https://uimovement.com/
+- https://www.siteinspire.com/
+- https://www.uisources.com/
