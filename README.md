@@ -152,6 +152,7 @@ MAKE SURE TO CHECK OUT https://components.ai
   - https://bennettfeely.com/clippy/ 
   - https://youtu.be/u9bDe3Bw0sA
   - CSS tricks clip path animation tutorial https://css-tricks.com/animating-with-clip-path/
+  - slanted image gallery with clip path https://24ways.org/2019/flexible-captioned-slanted-images/
 
 
 ### SVG/Canvas Masking
