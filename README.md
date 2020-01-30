@@ -59,7 +59,10 @@ More.
   
 </details>
 
-
+- Consider your site personality
+  - Elegant/Classic: serif like [`Freight Text`](https://fonts.adobe.com/fonts/freight-text)
+  - Playful: rounded sans serif like [`Proxima Soft`](https://fonts.adobe.com/fonts/proxima-soft)
+  - Plain/Safe: neutral sans serif like [`Freight Sans`](https://fonts.adobe.com/fonts/freight-sans)
 - Free fonts that are great with examples (thanks [@edadams](https://github.com/sw-yx/spark-joy/issues/22))
   - Google Fonts
     - [Noto Sans](https://www.google.com/get/noto/)
@@ -104,12 +107,22 @@ Font-size things you might try:
 - [Inter/Tailwind font-size combo](https://twitter.com/samselikoff/status/1204412222593568769?s=20)
 - [BAD, SLOW fontsize calc](https://twitter.com/drewml/status/1115339490179072000?s=20)
 - [Complete font-size notes](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/)
+- Don't rely on varying fontsize to control hierarchy - also use font weight (normal = 400/500, heavy = 600/700) and color
+  - Don't go under font weight 400, use a lighter color or smaller fontsize instead
 
 Note: `vw` has known a11y issues: Preserve Zooming. [Sara Soueidan](https://twitter.com/SaraSoueidan/status/1121645149983891457?s=20) recommends wrapping with `calc`, e.g. `font-size: calc(16px + .3vw);`
 
 You may wish to use `max-width: 60ch` on content. [Note on the `ch` unit not being EXACTLY 60 chars](https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/)
 
 ## Color Picking
+
+Pick a primary color to match your personality:
+
+- Blue: safe, familiar
+- Gold: expensive, sophisticated
+- Pink: fun, not so serious
+
+You can also have a grey for secondary content, and lighter grey for tertiary content.
 
 Don't use system defaults, too brutal. Example palette:
 
@@ -476,6 +489,28 @@ developers and designers
   - [ ] Repetition: consistency of fonts, colors, logos
   - [ ] Direction: F, E, Z pattern. Put key info in left
   - [ ] Space: use space to amplify other objects
+- [Refactoring UI](https://refactoringui.com/)
+  - Starting from Scratch
+    - Choose a personality
+    - Don't design too much
+    - Detail comes later
+  - Hierarchy
+    - Size isn't everything
+    - Emphasize by de-emphasizing
+  - Layout and Spacing
+    - Establish a spacing/sizing system
+  - Designing Text
+    - Keep your line length in check
+  - Working with Color
+    - Ditch hex for HSL
+  - Creating Depth
+    - (to be continued)
+  - Emulate a light source
+    - (to be continued)
+  - Working with Images
+    - (to be continued)
+  - Finishing Touches
+    - (to be continued)
 
 ## More Free Stuff
 
