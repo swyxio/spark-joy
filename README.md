@@ -153,6 +153,7 @@ But here are tools to help generate palettes:
 - https://palx.jxnblk.com/
 - https://hotpot.ai/assistant/color_assistant Get suggestions for palettes, gradients, and text colors. Hit the space bar for ML-powered ideas.
 - https://yeun.github.io/open-color/
+- http://khroma.co/ neural network generated color palettes
 
 <details>
   <summary>
