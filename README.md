@@ -4,7 +4,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 ## Spacing
 
-More.
+More. Spacing. Please.
 
 ## Layout
 
@@ -528,3 +528,4 @@ developers and designers
 - https://uimovement.com/
 - https://www.siteinspire.com/
 - https://www.uisources.com/
+- [Codrops](https://tympanus.net/codrops/2019/06/04/inspirational-websites-roundup-5/)
