@@ -69,6 +69,7 @@ More. Spacing. Please.
     - [Fira Sans](https://fonts.google.com/specimen/Fira+Sans) - related to [Fira Code](https://github.com/tonsky/FiraCode) for devvy stuff
     - [Raleway](https://fonts.google.com/specimen/Raleway)
     - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+    - Cavivanar https://twitter.com/atav1k/status/1178096244490723328?s=19
   - Chivo https://www.latinxswhodesign.com/
   - [Lato](http://www.latofonts.com/) Well known, very readable, pretty, client favorite
   - [Libre Franklin](https://beautifulwebtype.com/libre-franklin/) Elegant and thin
@@ -78,6 +79,7 @@ More. Spacing. Please.
   - [Jetbrains Mono](https://www.jetbrains.com/lp/mono/) - Monospace font for devvy stuff
   - Handwritten Fonts - great for presentations, annotated illustrations
     - https://www.urbanfonts.com/fonts/handwritten-fonts.htm
+    - Caveat and Reenie Beanie on google fonts  https://twitter.com/round/status/1178090890004455424?s=19
 - Font Pairing
   - Canva has a great tool: https://www.canva.com/font-combinations/
 - steve schoger blessed typekit fonts **for UI's**
@@ -96,6 +98,7 @@ More. Spacing. Please.
   - Graphik https://type.today/en/Graphik
   - https://www.typewolf.com/
   - [Dank Mono](https://dank.sh/)
+  - Tekton https://twitter.com/round/status/1178090204562968576?s=19
   
 </details>
 
