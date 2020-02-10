@@ -141,6 +141,7 @@ Don't use system defaults, too brutal. Example palette:
 But here are tools to help generate palettes:
 
 - https://color.adobe.com/create
+- https://coolors.co/
 - https://dribbble.com/colors/4030e8
 - https://palettte.app/ (advanced tool; try importing the default palettes)
 - http://colours.neilorangepeel.com/category/red/
@@ -532,3 +533,4 @@ developers and designers
 - https://www.siteinspire.com/
 - https://www.uisources.com/
 - [Codrops](https://tympanus.net/codrops/2019/06/04/inspirational-websites-roundup-5/)
+- https://collectui.com/
