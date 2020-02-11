@@ -150,7 +150,7 @@ But here are tools to help generate palettes:
 - https://croncolor.com/color-tool
 - https://leonardocolor.io/?colorKeys=%236fa7ff&base=ffffff&ratios=3%2C4.5&mode=CAM02
 - https://happyhues.co/
-- https://www.colourlovers.com/
+- https://www.colourlovers.com/ *recommended by Tracy Osborn*
 - https://flatuicolors.com/
 - https://colorsupplyyy.com/
 - [chroma.js color palette helper](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1)
@@ -516,6 +516,14 @@ developers and designers
     - (to be continued)
   - Finishing Touches
     - (to be continued)
+- [Tracy Osborn Checklist](https://www.youtube.com/watch?v=uKpfO331DY4&list=WL&index=4)
+  - Reduce Clutter
+    - use ColourLovers for color palettes
+    - Fonts - max 2. Use fancy fonts sparingly
+    - more whitespace
+    - break up walls of text with bullet points
+    - big clear CTA buttons
+  - Headlines: talk benefits not details. short.
 
 ## More Free Stuff
 
@@ -531,6 +539,7 @@ developers and designers
 - https://pageflows.com/
 - https://uimovement.com/
 - https://www.siteinspire.com/
+- http://www.cssmania.com/
 - https://www.uisources.com/
 - [Codrops](https://tympanus.net/codrops/2019/06/04/inspirational-websites-roundup-5/)
 - https://collectui.com/
