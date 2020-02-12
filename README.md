@@ -190,6 +190,7 @@ MAKE SURE TO CHECK OUT https://components.ai
     - text shadows
     - experiment with multiple shadows on one element
   - Card border Generator https://card.surge.sh/
+  - Components.ai box shadows https://components.ai/box-shadows
   - Neuomorphism Generator https://neumorphism.io/#f3d2c3
 
 ```css
