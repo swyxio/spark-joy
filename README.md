@@ -190,6 +190,15 @@ MAKE SURE TO CHECK OUT https://components.ai
     - text shadows
     - experiment with multiple shadows on one element
   - Card border Generator https://card.surge.sh/
+  - Neuomorphism Generator https://neumorphism.io/#f3d2c3
+
+```css
+border-radius: 50px;
+background: #f3d2c3;
+box-shadow:  20px 20px 22px #cfb3a6, 
+             -20px -20px 22px #fff2e0;
+```
+
 - Blend Modes
   - [`background-blend-mode` color-burn, lighten, multiply are cool](https://codemenatalie.com/blog/background-blend-mode-property/)
 - CSS clip path
