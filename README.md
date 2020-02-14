@@ -182,6 +182,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 ### Pure CSS Tricks
 
 - https://twitter.com/JoshWComeau/status/1170358024319492097?s=20
+- Sarah Drasner picks https://codepen.io/collection/nMgKxJ?cursor=ZD0xJm89MCZwPTEmdj0yNjc5NTQ1
 - Lea Verou CSS Secrets https://twitter.com/swyx/status/982786353216843776?s=20
   - CSS3 Patterns https://leaverou.github.io/css3patterns/
 - Shadows
