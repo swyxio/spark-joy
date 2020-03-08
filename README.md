@@ -439,6 +439,7 @@ developers and designers
   - https://github.com/JoshK2/react-spinners-css
   - https://github.com/jameygleason/aperitif
   - https://github.com/JoshK2/react-spinners-css
+  - https://www.npmjs.com/package/react-loaders-kit
 
 ### Toasting
 
