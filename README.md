@@ -217,6 +217,7 @@ box-shadow:  20px 20px 22px #cfb3a6,
 - https://speckyboy.com/css-svg-canvas-masks/
 - https://www.blobmaker.app/
 - https://getwaves.io/
+- https://inkscape.org/
 - text effects https://css-tricks.com/animate-blob-text-with-svg-text-clipping/
 - animate an existing svg https://svgartista.net/
 - `mix-blend-mode: screen` is [really good for SVG icons, with hover](https://ishadeed.com/article/blending-modes-css/)
@@ -316,6 +317,7 @@ Diagramming - when describing something prefer pictures over words. Make picture
 
 - https://excalidraw.com/ (free, open source)
 - https://www.draw.io/ (free)
+- https://inkscape.org/ (free)
 - https://whimsical.com/ ($10/mo)
 - more tools - lucidcharts, miro, plectica - [see hn thread](https://news.ycombinator.com/item?id=21513337)
 
