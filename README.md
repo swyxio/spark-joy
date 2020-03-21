@@ -435,6 +435,7 @@ developers and designers
 - React Physics Dragger https://react-physics-dragger-demo.netlify.com/
 - [React-Designer](http://react-designer.github.io/react-designer/): Easy to configure, lightweight, editable vector graphics in your react components.
 - `<Foldable>` from [Folding the DOM](https://www.joshwcomeau.com/posts/folding-the-dom/)
+- React Hamburger Icons https://hamburger-react.netlify.com/
 - Spinners
   - https://github.com/tienpham94/react-awesome-spinners
   - https://github.com/davidhu2000/react-spinners
