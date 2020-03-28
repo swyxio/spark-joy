@@ -6,11 +6,26 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 More. Spacing. Please.
 
+## Resets
+
+- https://github.com/tiaanduplessis/nanoreset
+- https://nicolas-cusan.github.io/destyle.css/
+- https://hankchizljaw.com/wrote/a-modern-css-reset/
+- http://necolas.github.io/normalize.css/
+
+## CSS frameworks
+
+- Bootstrap
+- https://purecss.io/
+- https://screencss.com/
+- https://terminalcss.xyz/
+- https://nostalgic-css.github.io/NES.css/
+
 ## Layout
 
 - https://gedd.ski/post/article-grid-layout/
 - https://every-layout.dev/
-- https://csslayout.io/
+- https://csslayout.io/ ([github](https://github.com/phuoc-ng/csslayout))
 
 ## Typography
 
@@ -301,6 +316,7 @@ background-image: linear-gradient(
 - https://orioniconlibrary.com/ has customizable colors and packs eg for ecommerce
 - https://material.io/resources/icons/?style=baseline
 - http://www.entypo.com/
+- https://css.gg/ 500+ Customizable & Retina-Ready icons — entirely built in CSS 
 - https://www.heroicons.com/
 - http://simpleicons.org/ icons for every brand like graphql, adobe xd, youtube, etc
 - https://feathericons.com/
