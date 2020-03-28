@@ -300,6 +300,7 @@ background-image: linear-gradient(
 - https://material.io/resources/icons/?style=baseline
 - http://www.entypo.com/
 - https://www.heroicons.com/
+- http://simpleicons.org/ icons for every brand like graphql, adobe xd, youtube, etc
 - https://feathericons.com/
 - https://www.zondicons.com/
 - animated icons http://www.transformicons.com/builder.html
