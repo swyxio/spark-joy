@@ -10,6 +10,7 @@ More. Spacing. Please.
 
 - https://gedd.ski/post/article-grid-layout/
 - https://every-layout.dev/
+- https://csslayout.io/
 
 ## Typography
 
@@ -439,6 +440,7 @@ developers and designers
 - [React-Designer](http://react-designer.github.io/react-designer/): Easy to configure, lightweight, editable vector graphics in your react components.
 - `<Foldable>` from [Folding the DOM](https://www.joshwcomeau.com/posts/folding-the-dom/)
 - React Hamburger Icons https://hamburger-react.netlify.com/
+- React Curved Arrow https://react-curved-arrow.nickjanssen.com/
 - Spinners
   - https://github.com/tienpham94/react-awesome-spinners
   - https://github.com/davidhu2000/react-spinners
@@ -446,6 +448,7 @@ developers and designers
   - https://github.com/jameygleason/aperitif
   - https://github.com/JoshK2/react-spinners-css
   - https://www.npmjs.com/package/react-loaders-kit
+- PDF viewer https://react-pdf-viewer.dev/
 
 ### Toasting
 
