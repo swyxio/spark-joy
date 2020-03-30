@@ -275,6 +275,7 @@ background-image: linear-gradient(
 - https://pattern.flaticon.com/ (create a bg pattern of icons)
 - https://coolbackgrounds.io/
 - https://www.gradientmagic.com/
+- http://thepatternlibrary.com/
 
 #### Misc Backgroundy Stuff
 
