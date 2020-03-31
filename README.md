@@ -581,6 +581,7 @@ developers and designers
 - Dribbble ofc
 - https://pageflows.com/
 - https://uimovement.com/
+- https://uidesigndaily.com/
 - https://www.siteinspire.com/
 - http://www.cssmania.com/
 - https://www.uisources.com/
