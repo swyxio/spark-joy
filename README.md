@@ -463,12 +463,12 @@ developers and designers
 - React Hamburger Icons https://hamburger-react.netlify.com/
 - React Curved Arrow https://react-curved-arrow.nickjanssen.com/
 - Spinners
-  - https://github.com/tienpham94/react-awesome-spinners
+  - https://github.com/tienpham94/react-awesome-spinners - requires styled components
   - https://github.com/davidhu2000/react-spinners
   - https://github.com/JoshK2/react-spinners-css
   - https://github.com/jameygleason/aperitif
   - https://github.com/JoshK2/react-spinners-css
-  - https://www.npmjs.com/package/react-loaders-kit
+  - https://www.npmjs.com/package/react-loaders-kit - 200kb tho
 - PDF viewer https://react-pdf-viewer.dev/
 
 ### Toasting
