@@ -583,6 +583,7 @@ developers and designers
 - https://uimovement.com/
 - https://uidesigndaily.com/
 - https://www.siteinspire.com/
+- https://www.landingfolio.com
 - http://www.cssmania.com/
 - https://www.uisources.com/
 - [Codrops](https://tympanus.net/codrops/2019/06/04/inspirational-websites-roundup-5/)
