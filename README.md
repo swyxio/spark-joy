@@ -327,6 +327,7 @@ background-image: linear-gradient(
 
 premium/paid icons
 
+- https://logobly.com/ create custom logos
 - https://symbolicons.com/
 - https://streamlineicons.com/ (used in [Glide Apps](https://twitter.com/glideapps/status/1199396690182230016))
 - https://www.flaticon.com/
