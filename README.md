@@ -102,7 +102,7 @@ More. Spacing. Please.
   - proxima nova
   - aktiv grotesk
   - acumin pro
-  - museo sans
+  - Museo Sans ([example](https://youtu.be/ZJj7uNdzPpM?t=566)) and similar from [TypeKit](https://fonts.adobe.com/fonts?browse_mode=default&filters=cl:ss,rc:p,ns:uc)
 - eye catching fun fonts
   - https://www.haleyfiege.fun/fonts
 - more opinions places
