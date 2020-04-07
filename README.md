@@ -159,6 +159,7 @@ But here are tools to help generate palettes:
 
 - https://color.adobe.com/create
 - https://coolors.co/
+- https://duo.alexpate.uk/
 - https://dribbble.com/colors/4030e8
 - https://palettte.app/ (advanced tool; try importing the default palettes)
 - http://colours.neilorangepeel.com/category/red/
@@ -376,6 +377,7 @@ Stock Photos and Videos
 - https://pexels.com
 - https://generated.photos/ AI-generated stock photos
 - unsplash of course
+- https://duotone.shapefactory.co/?f=f56468&t=27184f&q=_&i=oMpAz-DN-9I (unsplash with duotone filter)
 - https://github.com/neutraltone/awesome-stock-resources
 - https://allthefreestock.com/
 
