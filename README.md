@@ -112,6 +112,7 @@ More. Spacing. Please.
   - https://www.haleyfiege.fun/fonts
 - more opinions places
   - https://muffingroup.com/blog/best-free-fonts/
+  - https://type-scale.com/
 <details>
   <summary> Premium fonts and some examples </summary>
   
