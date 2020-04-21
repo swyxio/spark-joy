@@ -278,6 +278,9 @@ background-image: linear-gradient(
 #### Patterns
 
 - https://leaverou.github.io/css3patterns/
+- https://github.com/bansal-io/pattern.css
+- http://www.heropatterns.com/
+- https://www.transparenttextures.com/
 - https://www.toptal.com/designers/subtlepatterns/ (exports png though :( )
 - https://pattern.flaticon.com/ (create a bg pattern of icons)
 - https://coolbackgrounds.io/
