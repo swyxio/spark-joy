@@ -256,7 +256,7 @@ Not just for background backgrounds - applying gradients and background images t
 - [https://philcoffman.com/](https://user-images.githubusercontent.com/6764957/64589989-7985f500-d374-11e9-9d8a-2a8888df6981.png)
 - [https://css-tricks.com/](https://user-images.githubusercontent.com/6764957/64590103-beaa2700-d374-11e9-8a84-95ab4826a577.png)
 
-#### Gradients
+#### Background Gradients
 
 
 ```css
@@ -275,7 +275,7 @@ background-image: linear-gradient(
 - Subtle gradients by bumping only saturation on HSL (thanks [argyleink](https://twitter.com/argyleink/status/1197205254623780864)) - You can [really take this to the extreme](https://twitter.com/argyleink/status/1216815958917992450?s=20)!
 
 
-#### Patterns
+#### Background Patterns
 
 - https://leaverou.github.io/css3patterns/
 - https://github.com/bansal-io/pattern.css
@@ -284,6 +284,7 @@ background-image: linear-gradient(
 - https://www.toptal.com/designers/subtlepatterns/ (exports png though :( )
 - https://pattern.flaticon.com/ (create a bg pattern of icons)
 - https://coolbackgrounds.io/
+- https://css-doodle.com/
 - https://www.gradientmagic.com/
 - http://thepatternlibrary.com/
 
