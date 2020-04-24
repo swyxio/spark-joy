@@ -328,7 +328,7 @@ background-image: linear-gradient(
 - https://orioniconlibrary.com/ has customizable colors and packs eg for ecommerce
 - https://material.io/resources/icons/?style=baseline
 - http://www.entypo.com/
-- https://css.gg/ 500+ Customizable & Retina-Ready icons — entirely built in CSS 
+- https://css.gg/ 700+ Customizable & Retina-Ready app icons — entirely built in CSS 
 - https://www.heroicons.com/
 - http://simpleicons.org/ icons for every brand like graphql, adobe xd, youtube, etc
 - https://feathericons.com/
@@ -338,6 +338,7 @@ background-image: linear-gradient(
 
 premium/paid icons
 
+- http://shape.so/ 4300+ Icons & Illustrations (by Meng To)
 - https://logobly.com/ create custom logos
 - https://symbolicons.com/
 - https://streamlineicons.com/ (used in [Glide Apps](https://twitter.com/glideapps/status/1199396690182230016))
