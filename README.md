@@ -241,6 +241,7 @@ box-shadow:  20px 20px 22px #cfb3a6,
 - https://speckyboy.com/css-svg-canvas-masks/
 - https://www.blobmaker.app/
 - https://getwaves.io/
+- https://wweb.dev/resources/css-separator-generator
 - https://inkscape.org/
 - text effects https://css-tricks.com/animate-blob-text-with-svg-text-clipping/
 - animate an existing svg https://svgartista.net/
