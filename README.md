@@ -324,6 +324,7 @@ background-image: linear-gradient(
 - Layout https://github.com/aholachek/react-flip-toolkit
 - Hover and loaders: https://www.csswand.dev/
 - Graphic animations: https://lottiefiles.com/
+- HTML animation? https://tumult.com/hype/ (paid)
 
 ### Icons
 
