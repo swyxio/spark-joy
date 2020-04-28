@@ -19,12 +19,17 @@ More. Spacing. Please.
 
 ## CSS frameworks
 
-- Bootstrap
-- https://purecss.io/
-- https://screencss.com/
-- https://terminalcss.xyz/
-- https://andybrewer.github.io/mvp/
-- https://nostalgic-css.github.io/NES.css/
+- Heavier ones: 
+  - Bootstrap, [Foundation](https://get.foundation/sites/docs/), [Blaze UI](https://www.blazeui.com/), [PatternFly](https://www.patternfly.org/v4/documentation/core/components/aboutmodalbox)
+  - [Spectre.css](https://picturepan2.github.io/spectre/getting-started/installation.html)
+  - [UIKit](https://getuikit.com/docs/introduction)
+  - [Weightless](https://weightless.dev/elements/checkbox) (web components)
+- Drop-in:
+  - https://purecss.io/
+  - https://screencss.com/
+  - https://terminalcss.xyz/
+  - https://andybrewer.github.io/mvp/
+  - https://nostalgic-css.github.io/NES.css/
 
 ## Layout
 
