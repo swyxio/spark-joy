@@ -357,6 +357,10 @@ premium/paid icons
 
 ### Graphics and SVG Illustrations
 
+Hipster Logo Generator? any others?
+
+- https://hipsterlogogenerator.com/
+
 Diagramming - when describing something prefer pictures over words. Make pictures.
 
 - https://excalidraw.com/ (free, open source)
