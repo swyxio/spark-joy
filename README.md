@@ -26,6 +26,7 @@ More. Spacing. Please.
   - [Weightless](https://weightless.dev/elements/checkbox) (web components)
 - Drop-in:
   - https://purecss.io/
+  - https://ajusa.github.io/lit/
   - https://screencss.com/
   - https://terminalcss.xyz/
   - https://andybrewer.github.io/mvp/
