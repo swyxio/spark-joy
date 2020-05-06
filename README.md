@@ -2,9 +2,9 @@
 
 easy ways to add design flair, user delight, and whimsy to your product.
 
-## Narratives
+## Other Lists
 
-- https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908
+- https://github.com/bradtraversy/design-resources-for-developers
 
 ## Spacing
 
@@ -605,6 +605,12 @@ developers and designers
 - Free tier software https://free-for.dev/#/
 - https://github.com/Vincenius/link-list
 - Public API's for demos https://github.com/public-api-lists/public-api-lists
+
+
+## Narratives
+
+- https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908
+
 
 ## Interaction/Design Inspo
 
