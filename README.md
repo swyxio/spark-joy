@@ -365,6 +365,7 @@ Hipster Logo Generator? any others?
 Diagramming - when describing something prefer pictures over words. Make pictures.
 
 - https://excalidraw.com/ (free, open source)
+- miro.om - freemium, used by Maggie
 - https://www.draw.io/ (free)
 - https://inkscape.org/ (free)
 - https://whimsical.com/ ($10/mo)
