@@ -304,6 +304,7 @@ background-image: linear-gradient(
 - CSS backgroundy patterns https://leaverou.github.io/css3patterns/
 - this guy https://twitter.com/yuanchuan23
 - Generative Gradients http://generative-placeholders.glitch.me/
+- Dimming/coloring text on background images https://coder-coder.com/background-image-opacity/
 - [True Grit Texture Supply](https://www.truegrittexturesupply.com/) PNG textures (paid)
 
 ### Spinners
