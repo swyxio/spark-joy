@@ -351,6 +351,7 @@ premium/paid icons
 
 - http://shape.so/ 4300+ Icons & Illustrations (by Meng To)
 - https://logobly.com/ create custom logos
+- https://hatchful.shopify.com/ more custom logos
 - https://symbolicons.com/
 - https://streamlineicons.com/ (used in [Glide Apps](https://twitter.com/glideapps/status/1199396690182230016))
 - https://www.flaticon.com/
