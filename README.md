@@ -29,7 +29,7 @@ More. Spacing. Please.
   - https://purecss.io/
   - https://ajusa.github.io/lit/
   - https://screencss.com/
-  - https://www.getpapercss.com/ (handrwritingey font similar to roughjs)
+  - https://www.getpapercss.com/ (handrwritingey css similar to roughjs)
   - https://terminalcss.xyz/
   - https://andybrewer.github.io/mvp/
   - https://nostalgic-css.github.io/NES.css/
@@ -494,6 +494,7 @@ developers and designers
 ### Nice React Components
 
 - https://react-smooth-range-input.now.sh/
+- Theme-ui-sketchy - https://github.com/beerose/theme-ui-sketchy roughjs components with themeui
 - React Physics Dragger https://react-physics-dragger-demo.netlify.com/
 - [React-Designer](http://react-designer.github.io/react-designer/): Easy to configure, lightweight, editable vector graphics in your react components.
 - `<Foldable>` from [Folding the DOM](https://www.joshwcomeau.com/posts/folding-the-dom/)
