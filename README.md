@@ -22,10 +22,10 @@ More. Spacing. Please.
 
 - Heavier ones: 
   - Bootstrap, [Foundation](https://get.foundation/sites/docs/), [Blaze UI](https://www.blazeui.com/), [PatternFly](https://www.patternfly.org/v4/documentation/core/components/aboutmodalbox)
-  - [Spectre.css](https://picturepan2.github.io/spectre/getting-started/installation.html)
   - [UIKit](https://getuikit.com/docs/introduction)
   - [Weightless](https://weightless.dev/elements/checkbox) (web components)
 - Drop-in:
+  - [Spectre.css](https://picturepan2.github.io/spectre/getting-started/installation.html)
   - https://purecss.io/
   - https://ajusa.github.io/lit/
   - https://screencss.com/
@@ -297,6 +297,7 @@ background-image: linear-gradient(
 - https://pattern.flaticon.com/ (create a bg pattern of icons)
 - https://coolbackgrounds.io/
 - https://css-doodle.com/
+- https://hero-generator.netlify.app/ hero picture CSS generator
 - https://www.gradientmagic.com/
 - http://thepatternlibrary.com/
 
@@ -454,6 +455,7 @@ developers and designers
 - Decovar Font with Text shadows: https://codepen.io/mandymichael/details/dJZQaz (and other [Variable Fonts by Mandy](https://variablefonts.dev/))
 - Drop shadows: `box-shadow: 10px 12px 0.5rem rgba(0,0,0,0.5);`
 - Expanding Search buton and text from Ana Tudor [mentioned here](https://dev.to/chriscoyier/learn-about-css-custom-properties-through-clever-uses-of-them-2fjo)
+- ClippyJS https://www.smore.com/clippy-js
 - XKCD chart https://timqian.com/chart.xkcd/
 - Image editing/Export to SVG/Object Removal/Photoshop - [Photopea](https://www.photopea.com/)
 - GIMP alternative - https://glimpse-editor.org/
