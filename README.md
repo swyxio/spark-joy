@@ -29,6 +29,7 @@ More. Spacing. Please.
   - https://purecss.io/
   - https://ajusa.github.io/lit/
   - https://screencss.com/
+  - https://www.getpapercss.com/ (handrwritingey font similar to roughjs)
   - https://terminalcss.xyz/
   - https://andybrewer.github.io/mvp/
   - https://nostalgic-css.github.io/NES.css/
