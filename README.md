@@ -608,6 +608,7 @@ developers and designers
     - break up walls of text with bullet points
     - big clear CTA buttons
   - Headlines: talk benefits not details. short.
+- [Design Details: Principles of Design](https://designdetails.fm/episodes/220880)
 
 ## More Free Stuff
 
