@@ -46,7 +46,7 @@ More. Spacing. Please.
   <summary>For speed, use System Font Stacks (incl. Segoe and Roboto)</summary>
   
   ([what are these?](https://css-tricks.com/snippets/css/system-font-stack/))
-  - GitHub: `font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";`
+  - GitHub: `font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Noto Color Emoji",  "Segoe UI Emoji", "Segoe UI Symbol";`
   - [VS Code Autocomplete](https://twitter.com/kudapara/status/1093553125661773825?s=20): `font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif`
   - [`font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;`](https://twitter.com/_etiennemartin/status/1221114860479696896?s=20)
   - [`font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
