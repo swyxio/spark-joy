@@ -416,6 +416,7 @@ Stock Photos and Videos
 
 ### Avatars
 
+- instead of showing people's faces, try stippling https://github.com/pshihn/stippled-image
 - https://www.avatars.io/
 - https://en.gravatar.com/
 - https://unavatar.now.sh/ grab social images from username/email
