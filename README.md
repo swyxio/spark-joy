@@ -11,6 +11,8 @@ easy ways to add design flair, user delight, and whimsy to your product.
 
 More. Spacing. Please.
 
+[Double your whitespace](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html#rule-3-double-your-whitespace)
+
 ## Resets
 
 - https://github.com/tiaanduplessis/nanoreset
@@ -89,9 +91,10 @@ More. Spacing. Please.
 </details>
 
 - Consider your site personality
-  - Elegant/Classic: serif like [`Freight Text`](https://fonts.adobe.com/fonts/freight-text)
+  - Elegant/Classic: serif like [`Freight Text`](https://fonts.adobe.com/fonts/freight-text), [`Adobe Garamond`](https://fonts.adobe.com/fonts/adobe-garamond), [`PT Serif`](https://fonts.google.com/specimen/PT+Serif)
   - Playful: rounded sans serif like [`Proxima Soft`](https://fonts.adobe.com/fonts/proxima-soft)
-  - Plain/Safe: neutral sans serif like [`Freight Sans`](https://fonts.adobe.com/fonts/freight-sans)
+  - Plain/Safe: neutral sans serif like [`Freight Sans`](https://fonts.adobe.com/fonts/freight-sans), [`Inter`](https://rsms.me/inter/), [`Proxima Nova`](https://fonts.adobe.com/fonts/proxima-nova)
+  - Sciency/technical: squared off (geometric) sans like [`DIN`](https://fonts.adobe.com/fonts/din-2014), [`Industry`](https://fonts.adobe.com/fonts/industry)
 - Free fonts that are great with examples (thanks [@edadams](https://github.com/sw-yx/spark-joy/issues/22))
   - Google Fonts
     - [Noto Sans](https://www.google.com/get/noto/)
@@ -123,6 +126,7 @@ More. Spacing. Please.
 - more opinions places
   - https://muffingroup.com/blog/best-free-fonts/
   - https://type-scale.com/
+  - [6 ways to justify font choices in your designs](https://learnui.design/blog/justifying-font-choices.html)
 <details>
   <summary> Premium fonts and some examples </summary>
   
@@ -154,7 +158,7 @@ You may wish to use `max-width: 60ch` on content. [Note on the `ch` unit not bei
 Pick a primary color to match your personality:
 
 - Blue: safe, familiar
-- Gold: expensive, sophisticated
+- Gold: expensive, sophisticated ([Examples](https://twitter.com/erikdkennedy/status/948914185596960768))
 - Pink: fun, not so serious
 
 You can also have a grey for secondary content, and lighter grey for tertiary content.
@@ -191,6 +195,8 @@ But here are tools to help generate palettes:
 - https://hotpot.ai/assistant/color_assistant Get suggestions for palettes, gradients, and text colors. Hit the space bar for ML-powered ideas.
 - https://yeun.github.io/open-color/
 - http://khroma.co/ neural network generated color palettes
+- https://learnui.design/tools/data-color-picker.html Color picker for data visualizations
+- https://learnui.design/tools/accessible-color-generator.html Accessible color generator
 
 <details>
   <summary>
@@ -201,7 +207,8 @@ But here are tools to help generate palettes:
 
 - [Sarah Drasner on Color](https://css-tricks.com/nerds-guide-color-web/)
 - [Louisa Barret on Color](https://www.youtube.com/watch?v=NdKAUXAvt8E)
-- [Erik Kennedy on Color/HSB](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
+- [Erik Kennedy on HSB](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
+- [Erik Kennedy on color variations](https://learnui.design/blog/color-in-ui-design-a-practical-framework.html)
 - [JustinMezzell on Color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed) - advanced stuff on picking color tone/temperature
 - [Justin Baker on Color Theory](https://medium.muz.li/the-ultimate-ux-guide-to-color-design-4d0a18a706ed)
 - [How to do Dark Mode right](https://darkmodedesign.xyz/)
@@ -409,7 +416,7 @@ Stock Photos and Videos
 - https://photos.icons8.com/creator/ Create custom stock photos
 - https://pexels.com
 - https://generated.photos/ AI-generated stock photos
-- unsplash of course
+- https://unsplash.com/ of course
 - https://duotone.shapefactory.co/?f=f56468&t=27184f&q=_&i=oMpAz-DN-9I (unsplash with duotone filter)
 - https://github.com/neutraltone/awesome-stock-resources
 - https://allthefreestock.com/
@@ -541,7 +548,8 @@ developers and designers
 - [How do I learn design?](https://www.codenewbie.org/podcast/how-do-i-learn-design) (CodeNewbie)
 - [Design foundations for developers](https://syntax.fm/show/196/design-foundations-for-developers) (Syntax)
 - [Design tips for developers](https://syntax.fm/show/068/design-tips-for-developers) (Syntax)
-- [Tactical design advice for developers](https://changelog.com/podcasts/333) (The Changelog)
+- [Tactical design advice for developers](https://changelog.com/podcast/333) (The Changelog)
+- [Learning How to Design](https://shoptalkshow.com/343/) (ShopTalk)
 - [Simple Layout checklist](https://docs.google.com/file/d/0B0gPtgNVonXPT1NsWGpKZWZKV1U/edit)
   - [ ] Clear idea of purpose, target audience, where/how long it will be seen
   - [ ] Information hierarchy (vary size, contrast, position)
@@ -609,6 +617,14 @@ developers and designers
     - break up walls of text with bullet points
     - big clear CTA buttons
   - Headlines: talk benefits not details. short.
+- [7 Rules for Creating Gorgeous UI](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html)
+  - Light comes from the sky
+  - Black and white first
+  - Double your whitespace
+  - Learn the methods of overlaying text on images
+  - Make text pop — and un-pop
+  - Use only good fonts
+  - Steal like an artist
 
 ## More Free Stuff
 
@@ -617,6 +633,7 @@ developers and designers
 - Free tier software https://free-for.dev/#/
 - https://github.com/Vincenius/link-list
 - Public API's for demos https://github.com/public-api-lists/public-api-lists
+- [The Design Newsletter](https://learnui.design/newsletter.html)
 
 
 ## Narratives
