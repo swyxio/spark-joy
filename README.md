@@ -617,6 +617,7 @@ developers and designers
     - break up walls of text with bullet points
     - big clear CTA buttons
   - Headlines: talk benefits not details. short.
+- [Design Details: Principles of Design](https://designdetails.fm/episodes/220880) - Design Details' most downloaded episode of all time!
 - [7 Rules for Creating Gorgeous UI](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html)
   - Light comes from the sky
   - Black and white first
