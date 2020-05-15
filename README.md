@@ -521,6 +521,10 @@ developers and designers
   - https://github.com/adexin/spinners-react
 - PDF viewer https://react-pdf-viewer.dev/
 
+## Fun React UI frameworks
+
+- Arwes - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps https://arwes.dev/
+
 ### Toasting
 
 - https://cogoport.github.io/cogo-toast
