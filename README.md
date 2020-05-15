@@ -325,6 +325,7 @@ background-image: linear-gradient(
 - Conic gradient loader in CSS - [Codepen](https://codepen.io/keithclark/pen/aEbEoo)
 - React, Vue and Angular Spinners https://github.com/JoshK2/react-spinners-css
 - https://andrew.wang-hoyer.com/experiments/svg-animations/
+- Single Element CSS Spinners https://projects.lukehaas.me/css-loaders/
 
 ### Animations & Transitions
 
