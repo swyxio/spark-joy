@@ -541,6 +541,10 @@ developers and designers
 - https://biteable.com/ - video maker with templates
 - https://powtoon.com - videos and presentations for engaging and explaining
 
+## Onboarding
+
+- https://www.appcues.com/ show people things they need as they need them
+- React Curved Arrow https://react-curved-arrow.nickjanssen.com/
 
 ## Other Lists like this one
 
