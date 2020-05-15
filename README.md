@@ -2,27 +2,9 @@
 
 easy ways to add design flair, user delight, and whimsy to your product.
 
-## Other Lists
+## UI frameworks
 
-- https://github.com/bradtraversy/design-resources-for-developers
-- https://tiny-helpers.dev/
-
-## Spacing
-
-More. Spacing. Please.
-
-[Double your whitespace](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html#rule-3-double-your-whitespace)
-
-## Resets
-
-- https://github.com/tiaanduplessis/nanoreset
-- https://nicolas-cusan.github.io/destyle.css/
-- https://hankchizljaw.com/wrote/a-modern-css-reset/
-- http://necolas.github.io/normalize.css/
-
-## CSS frameworks
-
-- Heavier ones: 
+- Heavy/JS frameworks: 
   - Bootstrap, [Foundation](https://get.foundation/sites/docs/), [Blaze UI](https://www.blazeui.com/), [PatternFly](https://www.patternfly.org/v4/documentation/core/components/aboutmodalbox)
   - [UIKit](https://getuikit.com/docs/introduction)
   - [Weightless](https://weightless.dev/elements/checkbox) (web components)
@@ -35,6 +17,17 @@ More. Spacing. Please.
   - https://terminalcss.xyz/
   - https://andybrewer.github.io/mvp/
   - https://nostalgic-css.github.io/NES.css/
+- Resets
+  - https://github.com/tiaanduplessis/nanoreset
+  - https://nicolas-cusan.github.io/destyle.css/
+  - https://hankchizljaw.com/wrote/a-modern-css-reset/
+  - http://necolas.github.io/normalize.css/
+
+## Spacing
+
+More. Spacing. Please.
+
+[Double your whitespace](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html#rule-3-double-your-whitespace)
 
 ## Layout
 
@@ -547,6 +540,12 @@ developers and designers
 - https://animoto.com/ - drag and drop video maker
 - https://biteable.com/ - video maker with templates
 - https://powtoon.com - videos and presentations for engaging and explaining
+
+
+## Other Lists like this one
+
+- https://github.com/bradtraversy/design-resources-for-developers
+- https://tiny-helpers.dev/
 
 ## Helpful podcasts and talks
 
