@@ -353,6 +353,7 @@ background-image: linear-gradient(
 - https://www.zondicons.com/
 - animated icons http://www.transformicons.com/builder.html
 - https://game-icons.net/
+- https://gauger.io/fonticon/
 
 premium/paid icons
 
