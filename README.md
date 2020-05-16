@@ -336,9 +336,12 @@ background-image: linear-gradient(
 
 ### Icons
 
-- [Favicon generator](https://realfavicongenerator.net/) - pop in an image, get back a favicon!
-  - you can https://css-tricks.com/svg-favicons-and-all-the-fun-things-we-can-do-with-them/
-  - put the scroll percentage! https://css-tricks.com/how-i-put-the-scroll-percentage-in-the-browser-title-bar/
+- **Don't forget your favicons!!!
+  - [Favicon generator](https://realfavicongenerator.net/) - pop in an image, get back a favicon!
+  - SVG favicons are modifiable by scroll percentage
+    - you can https://css-tricks.com/svg-favicons-and-all-the-fun-things-we-can-do-with-them/
+    - put the scroll percentage! https://css-tricks.com/how-i-put-the-scroll-percentage-in-the-browser-title-bar/
+  - https://gauger.io/fonticon/ generate favicons from fontawesome fonts
 - https://thenounproject.com/ Every icon you can think of, in PNG or SVG formats. They offer over 20 million icons, with built-in customization colors like size and color.
 - https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties.
 - https://iconmonstr.com/ Discover 4486+ free icons in 310 collections
@@ -353,7 +356,6 @@ background-image: linear-gradient(
 - https://www.zondicons.com/
 - animated icons http://www.transformicons.com/builder.html
 - https://game-icons.net/
-- https://gauger.io/fonticon/
 
 premium/paid icons
 
