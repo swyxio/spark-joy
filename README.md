@@ -13,10 +13,16 @@ easy ways to add design flair, user delight, and whimsy to your product.
   - https://purecss.io/
   - https://ajusa.github.io/lit/
   - https://screencss.com/
+  - https://andybrewer.github.io/mvp/
+- Fun
   - https://www.getpapercss.com/ (handrwritingey css similar to roughjs)
   - https://terminalcss.xyz/
-  - https://andybrewer.github.io/mvp/
-  - https://nostalgic-css.github.io/NES.css/
+  - [NES.css](https://github.com/nostalgic-css/NES.css): NES.css is a NES-style(8bit-like) CSS Framework.
+  - [PSone.css](https://github.com/micah5/PSone.css): PS1 style CSS Framework, inspired by NES.css.
+  - [98.css](https://github.com/jdan/98.css): A Windows 98 inspired framework for building faithful recreations of old UIs.
+  - [XP.css](https://github.com/botoxparty/XP.css): A Windows XP inspired framework for building faithful recreations of operating system GUIs. An extension of 98.css.
+  - [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386): A vintage 1980s DOS inspired Twitter Bootstrap theme
+  - [New Dawn](https://github.com/npjg/new-dawn): A mac classic After Dark inspired stylesheet.
 - Resets
   - https://github.com/tiaanduplessis/nanoreset
   - https://nicolas-cusan.github.io/destyle.css/
