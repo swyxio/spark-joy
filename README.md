@@ -15,6 +15,7 @@ easy ways to add design flair, user delight, and whimsy to your product.
   - https://screencss.com/
   - https://andybrewer.github.io/mvp/
   - https://github.com/xz/new.css
+  - https://github.com/oxalorg/sakura
   - way, way more than we have space for: https://github.com/dohliam/dropin-minimal-css
 - Fun
   - https://www.getpapercss.com/ (handrwritingey css similar to roughjs)
