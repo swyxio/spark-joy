@@ -2,6 +2,10 @@
 
 easy ways to add design flair, user delight, and whimsy to your product.
 
+## Web Design in 4 minutes
+
+Keep it simple: https://jgthms.com/web-design-in-4-minutes/
+
 ## UI frameworks
 
 - Heavy/JS frameworks: 
