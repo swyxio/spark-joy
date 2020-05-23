@@ -185,6 +185,7 @@ But here are tools to help generate palettes:
 - https://color.adobe.com/create
 - https://coolors.co/
 - https://duo.alexpate.uk/
+- https://colorhunt.co/
 - https://dribbble.com/colors/4030e8
 - https://palettte.app/ (advanced tool; try importing the default palettes)
 - http://colours.neilorangepeel.com/category/red/
