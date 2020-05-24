@@ -121,6 +121,7 @@ More. Spacing. Please.
     - Caveat and Reenie Beanie on google fonts  https://twitter.com/round/status/1178090890004455424?s=19
 - Font Pairing
   - Canva has a great tool: https://www.canva.com/font-combinations/
+- [Font variants and oldstyle numbers](https://www.jonathan-harrell.com/blog/better-typography-with-font-variants/)
 - steve schoger blessed typekit fonts **for UI's**
   - proxima nova
   - aktiv grotesk
