@@ -367,13 +367,16 @@ useful UI icons
 - https://orioniconlibrary.com/ has customizable colors and packs eg for ecommerce
 - https://material.io/resources/icons/?style=baseline
 - http://www.entypo.com/
-- https://css.gg/ 700+ Customizable & Retina-Ready app icons — entirely built in CSS 
 - https://www.heroicons.com/
-- http://simpleicons.org/ icons for every brand like graphql, adobe xd, youtube, etc
 - https://feathericons.com/
 - https://www.zondicons.com/
 - animated icons http://www.transformicons.com/builder.html
 - https://game-icons.net/
+- brand icons
+  - http://simpleicons.org/ icons for every brand like graphql, adobe xd, youtube, etc
+  - https://css.gg/ 700+ Customizable & Retina-Ready app icons — entirely built in CSS 
+  - https://worldvectorlogo.com/
+  
 
 premium/paid icons
 
