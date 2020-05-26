@@ -404,6 +404,11 @@ Diagramming - when describing something prefer pictures over words. Make picture
 - https://whimsical.com/ ($10/mo)
 - more tools - lucidcharts, miro, plectica - [see hn thread](https://news.ycombinator.com/item?id=21513337)
 
+Mocking your browser/phone
+
+- Browser: https://shooot.bourhaouta.com/
+- Books: https://diybookcovers.com/3Dmockups/
+
 Illustrations
 
 - https://undraw.co/ An open-source illustrations website, where you can change the colors of the illustrations online before downloading.
