@@ -445,6 +445,11 @@ Stock Photos and Videos
 - https://github.com/neutraltone/awesome-stock-resources
 - https://allthefreestock.com/
 
+### RoughJS Tools
+
+- RoughJS Annotation - https://roughnotation.com/
+- https://excalidraw.com/
+
 ### Avatars
 
 - instead of showing people's faces, try stippling https://github.com/pshihn/stippled-image
@@ -500,6 +505,7 @@ developers and designers
 - [Gooey Effect with SVG and Filters](https://css-tricks.com/gooey-effect/)
 - [CSS only hover effect with Headers](https://codepen.io/oliviale/pen/YgzNzK)
 - [SVG iPhone mock and animated notification transition](https://codepen.io/sdras/pen/LYELqPX)
+- RoughJS Annotation - https://roughnotation.com/
 
 ## Canvas
 
