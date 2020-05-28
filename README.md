@@ -415,6 +415,7 @@ Illustrations
 - https://www.humaaans.com/ diverse, customizable human svgs
   - https://fresh-folk.com/ is similar
 - http://ouch.pics/
+- https://blush.design/ good random generator
 - https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
 - https://gallery.manypixels.co/ ManyPixels offer free svg illustrations with the possibility to customize the color as well.
 - https://generator.opendoodles.com/ illustrations with color generator for svgs
