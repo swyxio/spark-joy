@@ -1,3 +1,29 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Web Design in 4 minutes](#web-design-in-4-minutes)
+- [UI frameworks](#ui-frameworks)
+- [Spacing](#spacing)
+- [Layout](#layout)
+- [Typography](#typography)
+- [Color Picking](#color-picking)
+- [Pure CSS](#pure-css)
+- [Canvas](#canvas)
+- [Page Transitions](#page-transitions)
+- [WebGL](#webgl)
+- [React](#react)
+- [Fun React UI frameworks](#fun-react-ui-frameworks)
+- [Video](#video)
+- [Onboarding](#onboarding)
+- [Other Lists like this one](#other-lists-like-this-one)
+- [Helpful podcasts and talks](#helpful-podcasts-and-talks)
+- [More Free Stuff](#more-free-stuff)
+- [Narratives](#narratives)
+- [Interaction/Design Inspo](#interactiondesign-inspo)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ![image](https://user-images.githubusercontent.com/6764957/83363763-7d5c1a80-a3ce-11ea-95fb-2df3dd5aad34.png)
 
 > Easy ways to add design flair, user delight, and whimsy to your product.
