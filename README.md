@@ -448,7 +448,7 @@ Stock Photos and Videos
 
 ### RoughJS Tools
 
-- RoughJS Annotation - https://roughnotation.com/
+- RoughJS Animated Annotation - https://roughnotation.com/
 - https://excalidraw.com/
 
 ### Avatars
@@ -475,6 +475,7 @@ developers and designers
 - WTF Forms: Nicer Forms eg Radio Buttons with pure CSS https://github.com/mdo/wtf-forms
 - Output-inspired form: https://twitter.com/steveschoger/status/1171429842442522625
 - show button when placeholder-shown:  https://codepen.io/liamj/pen/vYYLGZj
+- Toggles: https://jnkkkk.github.io/MoreToggles.css/allToggles.html
 
 ### Sound
 
