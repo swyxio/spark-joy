@@ -376,21 +376,24 @@ background-image: linear-gradient(
 - Graphic animations: https://lottiefiles.com/
 - HTML animation? https://tumult.com/hype/ (paid)
 
-### Icons
+### Favicons
 
-**Don't forget your favicons!!!**
-  - [Favicon generator](https://realfavicongenerator.net/) - pop in an image, get back a favicon!
+Don't forget them!
+
+  - **[Real Favicon generator](https://realfavicongenerator.net/)** - pop in an image, get back a favicon! The most comprehensive one for all platforms (Windows, iOS, Android)
+  - [Favicon.io](https://favicon.io/) - Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats
+  - [FontIcon](https://gauger.io/fonticon/) - Generate favicons and images from Font Awesome icons
+  - [Favicon Generator](http://tools.dynamicdrive.com/favicon/) - another one
   - SVG favicons are modifiable by scroll percentage
     - you can https://css-tricks.com/svg-favicons-and-all-the-fun-things-we-can-do-with-them/
     - put the scroll percentage! https://css-tricks.com/how-i-put-the-scroll-percentage-in-the-browser-title-bar/
-  - https://gauger.io/fonticon/ generate favicons from fontawesome fonts
-  
-useful UI icons
 
-- https://thenounproject.com/ Every icon you can think of, in PNG or SVG formats. They offer over 20 million icons, with built-in customization colors like size and color.
-- https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties.
-- https://iconmonstr.com/ Discover 4486+ free icons in 310 collections
-- https://icomoon.io/
+### Icons
+
+- https://thenounproject.com/ Every icon you can think of, in PNG or SVG formats. They offer over 20 million icons, with built-in customization colors like size and color. Requires login, needs creative commons attribution or $3 download
+- https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties. PNG, JPG, iOS, Android, PDF. No svg.
+- **https://iconmonstr.com/** Discover 4486+ free icons in 310 collections. SVG, EPS, PSD, PNG. [OK without attribution, don't sell it](https://iconmonstr.com/license/).
+- https://icomoon.io/ - 450 icons, SVG, PDF, EPS, Ai, PSD. Paid tier goes up to 1600 icons.
 - https://orioniconlibrary.com/ has customizable colors and packs eg for ecommerce
 - https://material.io/resources/icons/?style=baseline
 - http://www.entypo.com/
@@ -405,7 +408,7 @@ useful UI icons
   - https://worldvectorlogo.com/
   
 
-premium/paid icons
+**premium/paid icons**
 
 - http://shape.so/ 4300+ Icons & Illustrations (by Meng To)
 - https://logobly.com/ create custom logos
