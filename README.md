@@ -467,6 +467,7 @@ Illustrations
 
 Stock Photos and Videos
 
+- https://www.nappy.co/ "Beautiful, high-res photos of black and brown people. For free."
 - https://photos.icons8.com/creator/ Create custom stock photos
 - https://pexels.com
 - https://generated.photos/ AI-generated stock photos
