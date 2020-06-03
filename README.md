@@ -443,6 +443,7 @@ Illustrations
 - https://undraw.co/ An open-source illustrations website, where you can change the colors of the illustrations online before downloading.
 - https://www.humaaans.com/ diverse, customizable human svgs
   - https://fresh-folk.com/ is similar
+- https://www.blackillustrations.com/ "Beautiful, FREE illustrations of black people for your next digital project"
 - http://ouch.pics/
 - https://blush.design/ good random generator
 - https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
