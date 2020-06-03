@@ -46,7 +46,10 @@ Keep it simple: https://jgthms.com/web-design-in-4-minutes/
   - https://andybrewer.github.io/mvp/
   - https://github.com/xz/new.css
   - https://github.com/oxalorg/sakura
-  - way, way more than we have space for: https://github.com/dohliam/dropin-minimal-css
+  - Collections of even more:
+    - https://github.com/dohliam/dropin-minimal-css
+    - https://github.com/dbohdan/classless-css
+    - https://github.com/ubershmekel/cssbed
 - Fun
   - https://www.getpapercss.com/ (handrwritingey css similar to roughjs)
   - https://terminalcss.xyz/
