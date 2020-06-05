@@ -221,10 +221,8 @@ Example blueish palette
 
 
 <details>
-<summary>
-  
-Example [yellowish palette](https://codepen.io/oliviale/full/XyqQYL)
-
+<summary>  
+Use generic names if you want it swappable for dark mode. Example [yellowish palette](https://codepen.io/oliviale/full/XyqQYL):
 </summary>
 
 
@@ -236,6 +234,8 @@ Example [yellowish palette](https://codepen.io/oliviale/full/XyqQYL)
 - grays: #E8E9E9, #D1D3D4, #BABDBF, #808488, #666A6D, #4D5052, #333537, #1C1D1E
 
 </details>
+
+One liner dark mode (careful about perf!): `filter: invert(100%) hue-rotate(180deg);`
 
 
 
