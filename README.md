@@ -200,7 +200,13 @@ Pick a primary color to match your personality:
 
 You can also have a grey for secondary content, and lighter grey for tertiary content.
 
-Don't use system defaults, too brutal. Example palette:
+Don't use system default/named colors, too brutal. Soften it a bit. 
+
+<details>
+<summary>
+Example blueish palette
+</summary>
+
 
 - Black: #1d1d1d.
 - purple: #b066ff;
@@ -210,6 +216,28 @@ Don't use system defaults, too brutal. Example palette:
 - yellow: #ffc600;
 - pink: #EB4471;
 - white: #d7d7d7;
+
+</details>
+
+
+<details>
+<summary>
+  
+Example [yellowish palette](https://codepen.io/oliviale/full/XyqQYL)
+
+</summary>
+
+
+- primary-light: #FFD151 mustard
+- primary-dark: #FFAE03 UCLA gold
+- secondary-success: #20A39E light sea green
+- secondary-warning: #EF5B5B sunset orange
+- secondary-info: #08D377 dark cerulean
+- grays: #E8E9E9, #D1D3D4, #BABDBF, #808488, #666A6D, #4D5052, #333537, #1C1D1E
+
+</details>
+
+
 
 But here are tools to help generate palettes:
 
