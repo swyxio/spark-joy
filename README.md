@@ -656,6 +656,7 @@ developers and designers
 
 - https://github.com/bradtraversy/design-resources-for-developers
 - https://tiny-helpers.dev/
+- https://nodesign.dev/
 
 ## Helpful podcasts and talks
 
