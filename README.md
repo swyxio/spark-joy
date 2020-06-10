@@ -323,6 +323,7 @@ box-shadow:  20px 20px 22px #cfb3a6,
 - Transparent fill SVG and color in on Hover - [Codepen](https://codepen.io/m4r1vs/pen/qVReQz)
 - https://speckyboy.com/css-svg-canvas-masks/
 - https://www.blobmaker.app/
+- https://www.shapedivider.app/
 - https://getwaves.io/
 - https://wweb.dev/resources/css-separator-generator
 - https://inkscape.org/
