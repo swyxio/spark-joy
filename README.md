@@ -512,16 +512,6 @@ Stock Photos and Videos
 - https://github.com/neutraltone/awesome-stock-resources
 - https://allthefreestock.com/
 
-### RoughJS Tools
-
-- RoughJS Animated Annotation - https://roughnotation.com/
-- https://excalidraw.com/
-
-### Pixel Art
-
-- http://pixelartmaker.com/
-- https://nostalgic-css.github.io/NES.css/
-- SNES music https://www.zophar.net/music/nintendo-snes-spc
 
 ### Avatars
 
@@ -661,6 +651,28 @@ developers and designers
 
 - https://www.appcues.com/ show people things they need as they need them
 - React Curved Arrow https://react-curved-arrow.nickjanssen.com/
+
+## Misc Genres (Handwriting, Pixel, ASCII styles)
+
+
+### RoughJS Tools
+
+- RoughJS Animated Annotation - https://roughnotation.com/
+- https://excalidraw.com/
+
+### Pixel Art
+
+- http://pixelartmaker.com/
+- https://nostalgic-css.github.io/NES.css/
+- SNES music https://www.zophar.net/music/nintendo-snes-spc
+
+### ASCII Art
+
+- https://fatiherikli.github.io/archetype/
+- https://textik.com/#a4ec12a68785f25f
+- http://asciiflow.com/
+- https://monodraw.helftone.com/
+- text to diagramming tools [list](https://smusamashah.github.io/text-to-diagram)
 
 ## Other Lists like this one
 
