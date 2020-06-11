@@ -20,6 +20,7 @@
 - [Fun React UI frameworks](#fun-react-ui-frameworks)
 - [Video](#video)
 - [Onboarding](#onboarding)
+- [Misc Genres (Handwriting, Pixel, ASCII styles)](#misc-genres-handwriting-pixel-ascii-styles)
 - [Other Lists like this one](#other-lists-like-this-one)
 - [Helpful podcasts and talks](#helpful-podcasts-and-talks)
 - [More Free Stuff](#more-free-stuff)
