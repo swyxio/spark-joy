@@ -173,6 +173,8 @@ More. Spacing. Please.
   - [Dank Mono](https://dank.sh/)
   - Tekton https://twitter.com/round/status/1178090204562968576?s=19
   
+you can learn more about proofing premium fonts here https://www.typography.com/blog/text-for-proofing-fonts
+
 </details>
 
 Font-size things you might try:
