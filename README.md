@@ -517,6 +517,12 @@ Stock Photos and Videos
 - RoughJS Animated Annotation - https://roughnotation.com/
 - https://excalidraw.com/
 
+### Pixel Art
+
+- http://pixelartmaker.com/
+- https://nostalgic-css.github.io/NES.css/
+- SNES music https://www.zophar.net/music/nintendo-snes-spc
+
 ### Avatars
 
 - instead of showing people's faces, try stippling https://github.com/pshihn/stippled-image
