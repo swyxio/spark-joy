@@ -473,6 +473,7 @@ Mocking your browser/phone
 
 - Browser: https://shooot.bourhaouta.com/
 - Books: https://diybookcovers.com/3Dmockups/
+- phone/watch: https://www.rotato.xyz/
 
 Illustrations
 
