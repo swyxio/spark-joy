@@ -47,6 +47,7 @@ Keep it simple: https://jgthms.com/web-design-in-4-minutes/
   - https://andybrewer.github.io/mvp/
   - https://github.com/xz/new.css
   - https://github.com/oxalorg/sakura
+  - https://native-elements.dev/
   - Collections of even more:
     - https://github.com/dohliam/dropin-minimal-css
     - https://github.com/dbohdan/classless-css
