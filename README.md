@@ -694,6 +694,7 @@ developers and designers
 - [Design foundations for developers](https://syntax.fm/show/196/design-foundations-for-developers) (Syntax)
 - [Design tips for developers](https://syntax.fm/show/068/design-tips-for-developers) (Syntax)
 - [Tactical design advice for developers](https://changelog.com/podcast/333) (The Changelog)
+- [UI Design for Developers](https://designcode.io/ui-design-for-developers) (Meng To)
 - [Learning How to Design](https://shoptalkshow.com/343/) (ShopTalk)
 - [Simple Layout checklist](https://docs.google.com/file/d/0B0gPtgNVonXPT1NsWGpKZWZKV1U/edit)
   - [ ] Clear idea of purpose, target audience, where/how long it will be seen
