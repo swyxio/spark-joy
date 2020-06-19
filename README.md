@@ -532,6 +532,7 @@ Stock Photos and Videos
 - https://getavataaars.com/
 - https://joeschmoe.io/ An illustrated avatar collection for
 developers and designers
+- https://amritpaldesign.com/toy-faces Toy Faces is a fun diverse library of 3D avatars for your design mockups and personal use.
 
 ### Animating Individual Elements
 
@@ -579,6 +580,7 @@ developers and designers
 - [CSS only hover effect with Headers](https://codepen.io/oliviale/pen/YgzNzK)
 - [SVG iPhone mock and animated notification transition](https://codepen.io/sdras/pen/LYELqPX)
 - RoughJS Annotation - https://roughnotation.com/
+- Greensock GSAP scroll trigger demo with a ThreeJS Plane model https://codepen.io/ste-vg/pen/GRooLza
 
 ## Canvas
 
@@ -594,6 +596,10 @@ developers and designers
 ## WebGL
 
 - [Curtains.js](https://www.curtainsjs.com/) ([example](https://codepen.io/martinlaxenaire/post/webgl-enhanced-drag-slider-tutorial-with-curtains-js-part-3))
+
+## ThreeJS
+
+- LowPoly 3D models from Google https://poly.google.com/search/duck
 
 ## React
 
