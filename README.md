@@ -16,6 +16,7 @@
 - [Canvas](#canvas)
 - [Page Transitions](#page-transitions)
 - [WebGL](#webgl)
+- [ThreeJS](#threejs)
 - [React](#react)
 - [Fun React UI frameworks](#fun-react-ui-frameworks)
 - [Video](#video)
