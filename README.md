@@ -484,13 +484,14 @@ Mocking your browser/phone
 
 Illustrations
 
-- https://undraw.co/ An open-source illustrations website, where you can change the colors of the illustrations online before downloading.
-- https://www.humaaans.com/ diverse, customizable human svgs
+- :star: https://undraw.co/ An open-source illustrations website, where you can change the colors of the illustrations online before downloading.
+- :star: https://www.humaaans.com/ diverse, customizable human svgs
   - https://fresh-folk.com/ is similar
-- https://www.blackillustrations.com/ "Beautiful, FREE illustrations of black people for your next digital project"
+- :star: https://www.blackillustrations.com/ "Beautiful, FREE illustrations of black people for your next digital project"
+- :star: https://www.vecteezy.com/ High quality vector graphics with worry-free licensing for personal and commercial use.
 - http://ouch.pics/
 - https://blush.design/ good random generator
-- https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
+- :star: https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
 - https://gallery.manypixels.co/ ManyPixels offer free svg illustrations with the possibility to customize the color as well.
 - https://generator.opendoodles.com/ illustrations with color generator for svgs
 - https://opengameart.org/
@@ -563,6 +564,7 @@ developers and designers
 - https://rbitr.github.io/ChartS.css/
 - Sparkline fonts in text: https://github.com/aftertheflood/sparks and https://www.scribbletone.com/typefaces/ff-chartwell
 
+
 ### Misc Weird fun stuff
 
 - Perspective stairstep text effects https://codepen.io/jamc92/details/KaMLvY (in action: http://tennentbrown.co.nz)
@@ -573,8 +575,6 @@ developers and designers
 - ClippyJS https://www.smore.com/clippy-js
 - Rythm.js - make your page dance https://okazari.github.io/Rythm.js/
 - XKCD chart https://timqian.com/chart.xkcd/
-- Image editing/Export to SVG/Object Removal/Photoshop - [Photopea](https://www.photopea.com/)
-- GIMP alternative - https://glimpse-editor.org/
 - Netflix slide-in menu - [Codepen](https://codepen.io/FlorinPop17/pen/KKPBgeQ)
 - Peek Href on Links - [2min video](https://www.youtube.com/watch?v=zMZckWl_B4c&feature=youtu.be)
 - [Gooey Effect with SVG and Filters](https://css-tricks.com/gooey-effect/)
@@ -582,6 +582,13 @@ developers and designers
 - [SVG iPhone mock and animated notification transition](https://codepen.io/sdras/pen/LYELqPX)
 - RoughJS Annotation - https://roughnotation.com/
 - Greensock GSAP scroll trigger demo with a ThreeJS Plane model https://codepen.io/ste-vg/pen/GRooLza
+
+## Design Software
+
+- Image editing/Export to SVG/Object Removal/Photoshop - [Photopea](https://www.photopea.com/)
+- GIMP alternative - https://glimpse-editor.org/
+- Lunacy - https://icons8.com/lunacy Graphic design software with built-in assets
+- Figma
 
 ## Canvas
 
