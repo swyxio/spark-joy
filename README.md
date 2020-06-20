@@ -287,6 +287,132 @@ But here are tools to help generate palettes:
 - [Inventorying and naming a Color Palette at UXPin](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
 </details>
 
+## Icons and Favicons
+
+### Favicons
+
+Don't forget them!
+
+  - **[Real Favicon generator](https://realfavicongenerator.net/)** - pop in an image, get back a favicon! The most comprehensive one for all platforms (Windows, iOS, Android)
+  - [Favicon.io](https://favicon.io/) - Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats
+  - [FontIcon](https://gauger.io/fonticon/) - Generate favicons and images from Font Awesome icons
+  - [Favicon Generator](http://tools.dynamicdrive.com/favicon/) - another one
+  - https://textmoji.app/ small text icons meant for Slack but also can use for faviconning
+  - SVG favicons are modifiable by scroll percentage
+    - you can https://css-tricks.com/svg-favicons-and-all-the-fun-things-we-can-do-with-them/
+    - put the scroll percentage! https://css-tricks.com/how-i-put-the-scroll-percentage-in-the-browser-title-bar/
+
+### Icons
+
+- https://logosear.ch/ superfast metasearch of 200k svg logos from GitHub
+- https://thenounproject.com/ Every icon you can think of, in PNG or SVG formats. They offer over 20 million icons, with built-in customization colors like size and color. Requires login, needs creative commons attribution or $3 download
+- https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties. PNG, JPG, iOS, Android, PDF. No svg.
+- **https://iconmonstr.com/** Discover 4486+ free icons in 310 collections. SVG, EPS, PSD, PNG. [OK without attribution, don't sell it](https://iconmonstr.com/license/).
+- https://icomoon.io/ - 450 icons, SVG, PDF, EPS, Ai, PSD. Paid tier goes up to 1600 icons.
+- https://orioniconlibrary.com/ has customizable colors and packs eg for ecommerce
+- https://material.io/resources/icons/?style=baseline
+- http://www.entypo.com/
+- https://www.heroicons.com/
+- https://feathericons.com/
+- https://www.zondicons.com/
+- animated icons http://www.transformicons.com/builder.html
+- https://game-icons.net/
+- brand icons
+  - http://simpleicons.org/ icons for every brand like graphql, adobe xd, youtube, etc
+  - https://css.gg/ 700+ Customizable & Retina-Ready app icons — entirely built in CSS 
+  - https://worldvectorlogo.com/
+  
+
+**premium/paid icons**
+
+- http://shape.so/ 4300+ Icons & Illustrations (by Meng To)
+- https://logobly.com/ create custom logos
+- https://hatchful.shopify.com/ more custom logos
+- https://symbolicons.com/
+- https://streamlineicons.com/ (used in [Glide Apps](https://twitter.com/glideapps/status/1199396690182230016))
+- https://www.flaticon.com/
+- https://gumroad.com/l/primaries
+
+## Graphics and SVG Illustrations
+
+Hipster Logo Generator? any others?
+
+- https://hipsterlogogenerator.com/
+
+Diagramming - when describing something prefer pictures over words. Make pictures.
+
+- https://excalidraw.com/ (free, open source)
+- miro.om - freemium, used by Maggie
+- https://www.draw.io/ (free) - has [VS Code extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+- https://inkscape.org/ (free)
+- https://whimsical.com/ ($10/mo)
+- more tools - lucidcharts, miro, plectica - [see hn thread](https://news.ycombinator.com/item?id=21513337)
+
+Backend entity/SQL diagramming 
+
+- SQL https://drawsql.app/
+
+Mocking your browser/phone
+
+- Browser: https://shooot.bourhaouta.com/
+- Books: https://diybookcovers.com/3Dmockups/
+- phone/watch: https://www.rotato.xyz/
+
+### Illustrations
+
+- :star: https://undraw.co/ An open-source illustrations website, where you can change the colors of the illustrations online before downloading.
+- :star: https://www.humaaans.com/ diverse, customizable human svgs
+  - https://fresh-folk.com/ is similar
+- :star: https://www.blackillustrations.com/ "Beautiful, FREE illustrations of black people for your next digital project"
+- :star: https://www.vecteezy.com/ High quality vector graphics with worry-free licensing for personal and commercial use.
+- http://ouch.pics/
+- https://blush.design/ good random generator
+- :star: https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
+- https://freellustrations.com/
+- https://gallery.manypixels.co/ ManyPixels offer free svg illustrations with the possibility to customize the color as well.
+- https://generator.opendoodles.com/ illustrations with color generator for svgs
+- https://opengameart.org/
+- https://illlustrations.co/ 100 beautiful illustrations, designed by Vijay Verma during a 100 days of illustrations challenge.
+- https://isometric.online/ This website offers a searchable list of nice and free isometric illustrations.
+- https://www.glazestock.com/ 
+- https://lukaszadam.com/illustrations
+- https://woobro.design/
+- https://pimpmydrawing.com/
+- https://www.drawkit.io/ Hand-drawn vector illustration resources for your next project
+- https://www.isometriclove.com/ Cute Isometric Objects For Your Design
+- https://www.karthiksrinivas.in/charco  A set of 16 handcrafted illustrations for your web & app projects. This set includes categories like 404 error, no internet connection, no service, fatal error, page not found, something went wrong, under construction and many more.
+- https://www.veila.me/freebies/scandinavian-houses-free-vector-images
+- https://absurd.design/
+- https://github.com/MariaLetta/mega-doodles-pack
+- https://iradesign.io/
+- https://autodraw.com Google AI assisted drawing
+- https://hotpot.ai Free or paid. Create icons, app screenshots, MacBook/browser mockups, social media posts, and other graphics for mobile apps and browser extensions.
+
+### Stock Photos and Videos
+
+- https://www.nappy.co/ "Beautiful, high-res photos of black and brown people. For free."
+- https://photos.icons8.com/creator/ Create custom stock photos
+- https://pexels.com
+- https://generated.photos/ AI-generated stock photos
+- https://unsplash.com/ of course
+- https://duotone.shapefactory.co/?f=f56468&t=27184f&q=_&i=oMpAz-DN-9I (unsplash with duotone filter)
+- https://github.com/neutraltone/awesome-stock-resources
+- https://allthefreestock.com/
+
+
+### Avatars
+
+- instead of showing people's faces, try stippling https://github.com/pshihn/stippled-image
+- https://www.avatars.io/
+- https://en.gravatar.com/
+- https://unavatar.now.sh/ grab social images from username/email
+- http://avatars.adorable.io/#demo
+- https://personas.draftbit.com/ A playful avatar generator for the modern age.
+- https://getavataaars.com/
+- https://joeschmoe.io/ An illustrated avatar collection for
+developers and designers
+- https://amritpaldesign.com/toy-faces Toy Faces is a fun diverse library of 3D avatars for your design mockups and personal use.
+
 ## Pure CSS
 
 MAKE SURE TO CHECK OUT https://components.ai
@@ -414,128 +540,6 @@ background-image: linear-gradient(
 - Graphic animations: https://lottiefiles.com/
 - HTML animation? https://tumult.com/hype/ (paid)
 
-### Favicons
-
-Don't forget them!
-
-  - **[Real Favicon generator](https://realfavicongenerator.net/)** - pop in an image, get back a favicon! The most comprehensive one for all platforms (Windows, iOS, Android)
-  - [Favicon.io](https://favicon.io/) - Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats
-  - [FontIcon](https://gauger.io/fonticon/) - Generate favicons and images from Font Awesome icons
-  - [Favicon Generator](http://tools.dynamicdrive.com/favicon/) - another one
-  - https://textmoji.app/ small text icons meant for Slack but also can use for faviconning
-  - SVG favicons are modifiable by scroll percentage
-    - you can https://css-tricks.com/svg-favicons-and-all-the-fun-things-we-can-do-with-them/
-    - put the scroll percentage! https://css-tricks.com/how-i-put-the-scroll-percentage-in-the-browser-title-bar/
-
-### Icons
-
-- https://logosear.ch/ superfast metasearch of 200k svg logos from GitHub
-- https://thenounproject.com/ Every icon you can think of, in PNG or SVG formats. They offer over 20 million icons, with built-in customization colors like size and color. Requires login, needs creative commons attribution or $3 download
-- https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties. PNG, JPG, iOS, Android, PDF. No svg.
-- **https://iconmonstr.com/** Discover 4486+ free icons in 310 collections. SVG, EPS, PSD, PNG. [OK without attribution, don't sell it](https://iconmonstr.com/license/).
-- https://icomoon.io/ - 450 icons, SVG, PDF, EPS, Ai, PSD. Paid tier goes up to 1600 icons.
-- https://orioniconlibrary.com/ has customizable colors and packs eg for ecommerce
-- https://material.io/resources/icons/?style=baseline
-- http://www.entypo.com/
-- https://www.heroicons.com/
-- https://feathericons.com/
-- https://www.zondicons.com/
-- animated icons http://www.transformicons.com/builder.html
-- https://game-icons.net/
-- brand icons
-  - http://simpleicons.org/ icons for every brand like graphql, adobe xd, youtube, etc
-  - https://css.gg/ 700+ Customizable & Retina-Ready app icons — entirely built in CSS 
-  - https://worldvectorlogo.com/
-  
-
-**premium/paid icons**
-
-- http://shape.so/ 4300+ Icons & Illustrations (by Meng To)
-- https://logobly.com/ create custom logos
-- https://hatchful.shopify.com/ more custom logos
-- https://symbolicons.com/
-- https://streamlineicons.com/ (used in [Glide Apps](https://twitter.com/glideapps/status/1199396690182230016))
-- https://www.flaticon.com/
-- https://gumroad.com/l/primaries
-
-### Graphics and SVG Illustrations
-
-Hipster Logo Generator? any others?
-
-- https://hipsterlogogenerator.com/
-
-Diagramming - when describing something prefer pictures over words. Make pictures.
-
-- https://excalidraw.com/ (free, open source)
-- miro.om - freemium, used by Maggie
-- https://www.draw.io/ (free) - has [VS Code extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
-- https://inkscape.org/ (free)
-- https://whimsical.com/ ($10/mo)
-- more tools - lucidcharts, miro, plectica - [see hn thread](https://news.ycombinator.com/item?id=21513337)
-
-Backend entity/SQL diagramming 
-
-- SQL https://drawsql.app/
-
-Mocking your browser/phone
-
-- Browser: https://shooot.bourhaouta.com/
-- Books: https://diybookcovers.com/3Dmockups/
-- phone/watch: https://www.rotato.xyz/
-
-Illustrations
-
-- :star: https://undraw.co/ An open-source illustrations website, where you can change the colors of the illustrations online before downloading.
-- :star: https://www.humaaans.com/ diverse, customizable human svgs
-  - https://fresh-folk.com/ is similar
-- :star: https://www.blackillustrations.com/ "Beautiful, FREE illustrations of black people for your next digital project"
-- :star: https://www.vecteezy.com/ High quality vector graphics with worry-free licensing for personal and commercial use.
-- http://ouch.pics/
-- https://blush.design/ good random generator
-- :star: https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
-- https://gallery.manypixels.co/ ManyPixels offer free svg illustrations with the possibility to customize the color as well.
-- https://generator.opendoodles.com/ illustrations with color generator for svgs
-- https://opengameart.org/
-- https://illlustrations.co/ 100 beautiful illustrations, designed by Vijay Verma during a 100 days of illustrations challenge.
-- https://isometric.online/ This website offers a searchable list of nice and free isometric illustrations.
-- https://www.glazestock.com/ 
-- https://lukaszadam.com/illustrations
-- https://woobro.design/
-- https://pimpmydrawing.com/
-- https://www.drawkit.io/ Hand-drawn vector illustration resources for your next project
-- https://www.isometriclove.com/ Cute Isometric Objects For Your Design
-- https://www.karthiksrinivas.in/charco  A set of 16 handcrafted illustrations for your web & app projects. This set includes categories like 404 error, no internet connection, no service, fatal error, page not found, something went wrong, under construction and many more.
-- https://www.veila.me/freebies/scandinavian-houses-free-vector-images
-- https://absurd.design/
-- https://github.com/MariaLetta/mega-doodles-pack
-- https://iradesign.io/
-- https://autodraw.com Google AI assisted drawing
-- https://hotpot.ai Free or paid. Create icons, app screenshots, MacBook/browser mockups, social media posts, and other graphics for mobile apps and browser extensions.
-
-Stock Photos and Videos
-
-- https://www.nappy.co/ "Beautiful, high-res photos of black and brown people. For free."
-- https://photos.icons8.com/creator/ Create custom stock photos
-- https://pexels.com
-- https://generated.photos/ AI-generated stock photos
-- https://unsplash.com/ of course
-- https://duotone.shapefactory.co/?f=f56468&t=27184f&q=_&i=oMpAz-DN-9I (unsplash with duotone filter)
-- https://github.com/neutraltone/awesome-stock-resources
-- https://allthefreestock.com/
-
-
-### Avatars
-
-- instead of showing people's faces, try stippling https://github.com/pshihn/stippled-image
-- https://www.avatars.io/
-- https://en.gravatar.com/
-- https://unavatar.now.sh/ grab social images from username/email
-- http://avatars.adorable.io/#demo
-- https://personas.draftbit.com/ A playful avatar generator for the modern age.
-- https://getavataaars.com/
-- https://joeschmoe.io/ An illustrated avatar collection for
-developers and designers
-- https://amritpaldesign.com/toy-faces Toy Faces is a fun diverse library of 3D avatars for your design mockups and personal use.
 
 ### Animating Individual Elements
 
