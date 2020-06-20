@@ -13,6 +13,7 @@
 - [Typography](#typography)
 - [Color Picking](#color-picking)
 - [Pure CSS](#pure-css)
+- [Design Software](#design-software)
 - [Canvas](#canvas)
 - [Page Transitions](#page-transitions)
 - [WebGL](#webgl)
