@@ -350,9 +350,10 @@ Diagramming - when describing something prefer pictures over words. Make picture
 - https://whimsical.com/ ($10/mo)
 - more tools - lucidcharts, miro, plectica - [see hn thread](https://news.ycombinator.com/item?id=21513337)
 
-Backend entity/SQL diagramming 
+Backend entity/ ERD /SQL diagramming 
 
 - SQL https://drawsql.app/
+- Cloud AWS/Azure/GCP diagrams https://www.cloudskew.com/
 
 Mocking your browser/phone
 
