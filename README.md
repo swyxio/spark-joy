@@ -711,6 +711,7 @@ background-image: linear-gradient(
 - https://github.com/bradtraversy/design-resources-for-developers
 - https://tiny-helpers.dev/
 - https://nodesign.dev/
+- https://github.com/LisaDziuba/Awesome-Design-Tools
 
 ## Helpful podcasts and talks
 
