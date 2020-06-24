@@ -261,6 +261,7 @@ But here are tools to help generate palettes:
 - https://croncolor.com/color-tool
 - https://leonardocolor.io/?colorKeys=%236fa7ff&base=ffffff&ratios=3%2C4.5&mode=CAM02
 - https://happyhues.co/
+- gradients https://mybrandnewlogo.com/color-gradient-generator
 - https://www.colourlovers.com/ *recommended by Tracy Osborn*
 - https://flatuicolors.com/
 - https://colorsupplyyy.com/
