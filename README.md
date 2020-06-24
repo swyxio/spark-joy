@@ -590,6 +590,8 @@ background-image: linear-gradient(
 - [SVG iPhone mock and animated notification transition](https://codepen.io/sdras/pen/LYELqPX)
 - RoughJS Annotation - https://roughnotation.com/
 - Greensock GSAP scroll trigger demo with a ThreeJS Plane model https://codepen.io/ste-vg/pen/GRooLza
+- little HTML tricks that are handy https://htmldom.dev/
+
 
 ## Design Software
 
