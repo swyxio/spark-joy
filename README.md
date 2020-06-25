@@ -395,6 +395,7 @@ Mocking your browser/phone
 ### Stock Photos and Videos
 
 - https://artvee.com/?s=nasa&post_type=product&product_cat=0 public domain art
+- https://covers.alphacoders.com/by_category/4/2/twitter-header
 - https://www.nappy.co/ "Beautiful, high-res photos of black and brown people. For free."
 - https://photos.icons8.com/creator/ Create custom stock photos
 - https://pexels.com
