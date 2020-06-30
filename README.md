@@ -273,13 +273,11 @@ But here are tools to help generate palettes:
 - https://learnui.design/tools/data-color-picker.html Color picker for data visualizations
 - https://learnui.design/tools/accessible-color-generator.html Accessible color generator
 
+### Color knowledge
+
 <details>
-  <summary>
-
-### Color knowledge (not tools but still important so here they are)
-
-  </summary>
-
+  <summary> not tools but still important so here they are </summary>
+  
 - [Sarah Drasner on Color](https://css-tricks.com/nerds-guide-color-web/)
 - [Louisa Barret on Color](https://www.youtube.com/watch?v=NdKAUXAvt8E)
 - [Erik Kennedy on HSB](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
