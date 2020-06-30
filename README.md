@@ -393,6 +393,11 @@ Mocking your browser/phone
 - https://autodraw.com Google AI assisted drawing
 - https://hotpot.ai Free or paid. Create icons, app screenshots, MacBook/browser mockups, social media posts, and other graphics for mobile apps and browser extensions.
 
+### DIY Graphic Design
+
+- https://snappa.com/
+- https://www.canva.com/
+
 ### Stock Photos and Videos
 
 - https://artvee.com/?s=nasa&post_type=product&product_cat=0 public domain art
