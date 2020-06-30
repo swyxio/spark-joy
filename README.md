@@ -276,7 +276,7 @@ But here are tools to help generate palettes:
 ### Color knowledge
 
 <details>
-  <summary> not tools but still important so here they are </summary>
+  <summary> Not tools but still important so here they are </summary>
   
 - [Sarah Drasner on Color](https://css-tricks.com/nerds-guide-color-web/)
 - [Louisa Barret on Color](https://www.youtube.com/watch?v=NdKAUXAvt8E)
