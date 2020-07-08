@@ -358,7 +358,7 @@ Mocking your browser/phone
 
 - Browser: https://shooot.bourhaouta.com/, https://screenshot.rocks/
 - Books: https://diybookcovers.com/3Dmockups/
-- Macbook: https://magicmockups.com/mockup/
+- Macbook: https://magicmockups.com
 - phone/watch: https://www.rotato.xyz/
 
 ### Illustrations
@@ -413,7 +413,6 @@ Mocking your browser/phone
 ### Avatars
 
 - instead of showing people's faces, try stippling https://github.com/pshihn/stippled-image
-- https://www.avatars.io/
 - https://en.gravatar.com/
 - https://unavatar.now.sh/ grab social images from username/email
 - http://avatars.adorable.io/#demo
@@ -606,6 +605,7 @@ background-image: linear-gradient(
 - GIMP alternative - https://glimpse-editor.org/
 - Lunacy - https://icons8.com/lunacy Graphic design software with built-in assets
 - Figma
+- Website design feedback collaboration - [Pagereview.io](https://pagereview.io/)
 
 ## Canvas
 
@@ -631,7 +631,6 @@ background-image: linear-gradient(
 ### Simple Animation
 
 - https://react-simple-animate.now.sh/
-- https://yubabajs.com
 - https://github.com/brunnolou/react-morph
 - https://github.com/kitze/react-genie
 
@@ -652,7 +651,6 @@ background-image: linear-gradient(
   - https://github.com/tienpham94/react-awesome-spinners - requires styled components
   - https://github.com/davidhu2000/react-spinners
   - https://github.com/JoshK2/react-spinners-css
-  - https://github.com/jameygleason/aperitif
   - https://github.com/JoshK2/react-spinners-css
   - https://www.npmjs.com/package/react-loaders-kit - 200kb tho
   - https://github.com/adexin/spinners-react
