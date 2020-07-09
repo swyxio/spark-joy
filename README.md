@@ -542,6 +542,7 @@ background-image: linear-gradient(
 - general http://animista.net
   - animate an existing svg https://svgartista.net/ (by the same people as animista)
 - general https://animejs.com/
+- motion graphics https://github.com/mojs/mojs
 - general https://daneden.github.io/animate.css/
 - general https://ianlunn.github.io/Hover/
 - Burgers https://march08.github.io/animated-burgers/
