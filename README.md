@@ -316,6 +316,7 @@ Don't forget them!
 - https://www.heroicons.com/
 - https://feathericons.com/
 - https://www.zondicons.com/
+- https://tablericons.com/ 558 Fully customizable SVG icons
 - animated icons http://www.transformicons.com/builder.html
 - https://game-icons.net/
 - brand icons
