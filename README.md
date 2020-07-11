@@ -814,6 +814,9 @@ background-image: linear-gradient(
 - Free tier software https://free-for.dev/#/
 - https://github.com/Vincenius/link-list
 - Public API's for demos https://github.com/public-api-lists/public-api-lists
+- Demo HTML
+  - https://github.com/cristurm/nyan-cat
+  - https://github.com/netlify/netlify-drop-demo-site/archive/master.zip
 - [The Design Newsletter](https://learnui.design/newsletter.html)
 
 
