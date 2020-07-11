@@ -166,6 +166,7 @@ More. Spacing. Please.
 - https://practicaltypography.com/free-fonts.html
 - eye catching fun fonts
   - https://www.haleyfiege.fun/fonts
+  - pixel fonts https://twitter.com/castpixel/status/1281345373336985612?s=20
 - more opinions places
   - https://muffingroup.com/blog/best-free-fonts/
   - https://type-scale.com/
