@@ -421,6 +421,7 @@ Mocking your browser/phone
 - http://avatars.adorable.io/#demo
 - https://personas.draftbit.com/ A playful avatar generator for the modern age.
 - https://getavataaars.com/
+- https://bigheads.io/
 - https://joeschmoe.io/ An illustrated avatar collection for
 developers and designers
 - https://amritpaldesign.com/toy-faces Toy Faces is a fun diverse library of 3D avatars for your design mockups and personal use.
