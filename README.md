@@ -315,6 +315,7 @@ Don't forget them!
 - https://icomoon.io/ - 450 icons, SVG, PDF, EPS, Ai, PSD. Paid tier goes up to 1600 icons.
 - https://orioniconlibrary.com/ has customizable colors and packs eg for ecommerce
 - https://material.io/resources/icons/?style=baseline
+- https://icons8.com/l/fluent/ colored "microsoft style" icons
 - http://www.entypo.com/
 - https://www.heroicons.com/
 - https://feathericons.com/
