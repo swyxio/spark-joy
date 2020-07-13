@@ -821,6 +821,12 @@ background-image: linear-gradient(
   - https://github.com/netlify/netlify-drop-demo-site/archive/master.zip
 - [The Design Newsletter](https://learnui.design/newsletter.html)
 
+## Paid Premium Services
+
+- Design Pickle
+- Manypixels
+- Contentfly (copywriting)
+
 
 ## Narratives
 
