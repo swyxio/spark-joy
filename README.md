@@ -28,6 +28,7 @@
 - [Other Lists like this one](#other-lists-like-this-one)
 - [Helpful podcasts and talks](#helpful-podcasts-and-talks)
 - [More Free Stuff](#more-free-stuff)
+- [Paid Premium Services](#paid-premium-services)
 - [Narratives](#narratives)
 - [Interaction/Design Inspo](#interactiondesign-inspo)
 
