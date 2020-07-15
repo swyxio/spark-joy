@@ -445,6 +445,7 @@ MAKE SURE TO CHECK OUT https://components.ai
     - text shadows
     - experiment with multiple shadows on one element
   - Card border Generator https://card.surge.sh/
+  - Conic gradient borders https://twitter.com/argyleink/status/1282889809782927360
   - Components.ai box shadows https://components.ai/box-shadows
   - Neuomorphism Generator https://neumorphism.io/#f3d2c3
 
