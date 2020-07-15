@@ -243,6 +243,8 @@ Use generic names if you want it swappable for dark mode. Example [yellowish pal
 - secondary-info: #08D377 dark cerulean
 - grays: #E8E9E9, #D1D3D4, #BABDBF, #808488, #666A6D, #4D5052, #333537, #1C1D1E
 
+Examplmes: https://dev.to/dcodeyt/add-dark-mode-to-your-websites-with-css-5bh4
+
 </details>
 
 One liner dark mode (careful about perf!): `filter: invert(100%) hue-rotate(180deg);`
