@@ -737,6 +737,7 @@ background-image: linear-gradient(
 - [Tactical design advice for developers](https://changelog.com/podcast/333) (The Changelog)
 - [UI Design for Developers](https://designcode.io/ui-design-for-developers) (Meng To)
 - [Learning How to Design](https://shoptalkshow.com/343/) (ShopTalk)
+- [Laws of UX](https://lawsofux.com/)
 - [Simple Layout checklist](https://docs.google.com/file/d/0B0gPtgNVonXPT1NsWGpKZWZKV1U/edit)
   - [ ] Clear idea of purpose, target audience, where/how long it will be seen
   - [ ] Information hierarchy (vary size, contrast, position)
