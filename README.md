@@ -311,6 +311,7 @@ Don't forget them!
 ### Icons
 
 - https://logosear.ch/ superfast metasearch of 200k svg logos from GitHub
+- list of lists of icons https://icones.netlify.app/
 - https://thenounproject.com/ Every icon you can think of, in PNG or SVG formats. They offer over 20 million icons, with built-in customization colors like size and color. Requires login, needs creative commons attribution or $3 download
 - https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties. PNG, JPG, iOS, Android, PDF. No svg.
 - **https://iconmonstr.com/** Discover 4486+ free icons in 310 collections. SVG, EPS, PSD, PNG. [OK without attribution, don't sell it](https://iconmonstr.com/license/).
