@@ -365,7 +365,7 @@ Backend entity/ ERD /SQL diagramming
 Mocking your browser/phone
 
 - Browser: https://shooot.bourhaouta.com/, https://screenshot.rocks/
-- Books: https://diybookcovers.com/3Dmockups/
+- Books: https://diybookcovers.com/3Dmockups/ https://3d-book-css.netlify.app/
 - Macbook: https://magicmockups.com
 - phone/watch: https://www.rotato.xyz/
 
