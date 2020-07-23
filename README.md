@@ -144,6 +144,7 @@ More. Spacing. Please.
     - [Fira Sans](https://fonts.google.com/specimen/Fira+Sans) - related to [Fira Code](https://github.com/tonsky/FiraCode) for devvy stuff
     - [Raleway](https://fonts.google.com/specimen/Raleway)
     - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+    - [Recursive](https://www.recursive.design/) - 1 variable font that can handle both monospace and UI usecases, very versatile
     - Cavivanar https://twitter.com/atav1k/status/1178096244490723328?s=19
   - Chivo https://www.latinxswhodesign.com/
   - [Lato](http://www.latofonts.com/) Well known, very readable, pretty, client favorite
