@@ -369,6 +369,7 @@ Mocking your browser/phone
 - Books: https://diybookcovers.com/3Dmockups/ https://3d-book-css.netlify.app/
 - Macbook: https://magicmockups.com
 - phone/watch: https://www.rotato.xyz/
+- other devices https://deviceshots.com/
 
 ### Illustrations
 
