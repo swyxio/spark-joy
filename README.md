@@ -321,6 +321,7 @@ Don't forget them!
 - https://material.io/resources/icons/?style=baseline
 - https://icons8.com/l/fluent/ colored "microsoft style" icons
 - http://www.entypo.com/
+- Bootstrap Icons https://github.com/twbs/icons
 - https://www.heroicons.com/
 - https://feathericons.com/
 - https://www.zondicons.com/
