@@ -690,6 +690,7 @@ background-image: linear-gradient(
 ### Icons
 
 - https://github.com/miukimiu/react-kawaii
+- https://reactsvgicons.com/
 - https://react-icons.netlify.com/#/icons/fa (typically fontawesome)
 - https://github.com/useAnimations/react-useanimations
 
