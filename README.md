@@ -329,6 +329,7 @@ Don't forget them!
 - https://tablericons.com/ 558 Fully customizable SVG icons
 - animated icons http://www.transformicons.com/builder.html
 - https://game-icons.net/
+- https://kenney.nl/ public domain game assets
 - brand icons
   - http://simpleicons.org/ icons for every brand like graphql, adobe xd, youtube, etc
   - https://css.gg/ 700+ Customizable & Retina-Ready app icons — entirely built in CSS 
