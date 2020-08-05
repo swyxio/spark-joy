@@ -330,6 +330,7 @@ Don't forget them!
 - animated icons http://www.transformicons.com/builder.html
 - https://game-icons.net/
 - https://kenney.nl/ public domain game assets
+- https://www.iconshock.com/social-media-icons/ A pack of 300 social media icons (PNG & Vector) and a set of animated icons (Lottie and AE), which cover all the trendiest social media networks nowadays.
 - brand icons
   - http://simpleicons.org/ icons for every brand like graphql, adobe xd, youtube, etc
   - https://css.gg/ 700+ Customizable & Retina-Ready app icons — entirely built in CSS 
