@@ -530,6 +530,7 @@ background-image: linear-gradient(
 - https://hero-generator.netlify.app/ hero picture CSS generator
 - https://www.gradientmagic.com/
 - http://thepatternlibrary.com/
+- http://svgbackgrounds.com/
 
 #### Misc Backgroundy Stuff
 
