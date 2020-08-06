@@ -169,6 +169,7 @@ More. Spacing. Please.
 - eye catching fun fonts
   - https://www.haleyfiege.fun/fonts
   - pixel fonts https://twitter.com/castpixel/status/1281345373336985612?s=20
+- CSS 3D text https://markdotto.com/playground/3d-text/
 - more opinions places
   - https://muffingroup.com/blog/best-free-fonts/
   - https://type-scale.com/
@@ -448,6 +449,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 - CSS3 3D Buttons http://simurai.com/archive/buttons/#
 - Lea Verou CSS Secrets https://twitter.com/swyx/status/982786353216843776?s=20
   - CSS3 Patterns https://leaverou.github.io/css3patterns/
+- CSS 3D Text https://markdotto.com/playground/3d-text/
 - Shadows
   - Box shadows https://brumm.af/shadows
     - drop shadows - eg -1px left -1px top - makes buttons look stamped
