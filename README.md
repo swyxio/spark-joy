@@ -387,6 +387,7 @@ Mocking your browser/phone
 - https://icons8.com/illustrations (previously ouch.pics)
 - https://blush.design/ good random generator
 - :star: https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
+- https://www.seekpng.com/ 1m+ Transparent PNG Images For Free
 - https://freellustrations.com/
 - https://gallery.manypixels.co/ ManyPixels offer free svg illustrations with the possibility to customize the color as well.
 - https://generator.opendoodles.com/ illustrations with color generator for svgs
