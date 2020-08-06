@@ -190,7 +190,7 @@ you can learn more about proofing premium fonts here https://www.typography.com/
 Font-size things you might try:
 
 - Fluid typography with [`clamp`](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp): `font-size: clamp(1.125rem, 1rem + 2vw, 1.5rem)`
-  - Another responsive typography fallback - [`font-size: calc(1rem + 2px + ((100vw - 550px) / 250))`](https://twitter.com/Kikobeats/status/1093620157912616966?s=20) - you can [fit text to screen width] (https://twitter.com/shshaw/status/1240647643388395521?s=20) 
+  - Another responsive typography fallback - [`font-size: calc(1rem + 2px + ((100vw - 550px) / 250))`](https://twitter.com/Kikobeats/status/1093620157912616966?s=20) - you can [fit text to screen width](https://twitter.com/shshaw/status/1240647643388395521?s=20) 
 - [FlowType.js](https://simplefocus.com/flowtype/)
 - [FitText](https://css-tricks.com/viewport-sized-typography/)
 - [Inter/Tailwind font-size combo](https://twitter.com/samselikoff/status/1204412222593568769?s=20)
