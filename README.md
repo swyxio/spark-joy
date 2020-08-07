@@ -7,7 +7,7 @@
 **Table of Contents**
 
 - [Web Design in 4 minutes](#web-design-in-4-minutes)
-- [UI frameworks](#ui-frameworks)
+- [CSS Frameworks](#css-frameworks)
 - [Spacing](#spacing)
 - [Layout](#layout)
 - [Typography](#typography)
