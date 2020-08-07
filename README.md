@@ -38,9 +38,12 @@
 
 Keep it simple: https://jgthms.com/web-design-in-4-minutes/
 
-## UI frameworks
+## CSS Frameworks
 
-- Heavy: (has js, bigger learning curve) 
+### Heavy CSS Frameworks 
+
+(has js, bigger learning curve) 
+
   - Bootstrap, [Foundation](https://get.foundation/sites/docs/), [Blaze UI](https://www.blazeui.com/), [PatternFly](https://www.patternfly.org/v4/documentation/core/components/aboutmodalbox), [UIKit](https://getuikit.com/docs/introduction)
   - Utility CSS: [Bonsai CSS](https://www.bonsaicss.com/)
   - Web Components: [Weightless](https://weightless.dev/elements/checkbox)
@@ -57,7 +60,12 @@ Keep it simple: https://jgthms.com/web-design-in-4-minutes/
     - https://github.com/dohliam/dropin-minimal-css
     - https://github.com/dbohdan/classless-css
     - https://github.com/ubershmekel/cssbed
-- Fun
+    
+    
+### Fun CSS Frameworks
+
+focus is fun/nostalgia
+
   - https://www.getpapercss.com/ (handrwritingey css similar to roughjs)
   - https://terminalcss.xyz/
   - [NES.css](https://github.com/nostalgic-css/NES.css): NES.css is a NES-style(8bit-like) CSS Framework.
@@ -67,11 +75,16 @@ Keep it simple: https://jgthms.com/web-design-in-4-minutes/
   - [XP.css](https://github.com/botoxparty/XP.css): A Windows XP inspired framework for building faithful recreations of operating system GUIs. An extension of 98.css.
   - [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386): A vintage 1980s DOS inspired Twitter Bootstrap theme
   - [New Dawn](https://github.com/npjg/new-dawn): A mac classic After Dark inspired stylesheet.
-- Resets
+
+### CSS Resets
+
+minimalism for serious applications
+
   - https://github.com/tiaanduplessis/nanoreset
   - https://nicolas-cusan.github.io/destyle.css/
   - https://hankchizljaw.com/wrote/a-modern-css-reset/
   - http://necolas.github.io/normalize.css/
+    - Tailwind's https://tailwindcss.com/docs/preflight/ is built atop normalize
 
 ## Spacing
 
