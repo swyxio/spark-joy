@@ -38,16 +38,18 @@
 
 Keep it simple: https://jgthms.com/web-design-in-4-minutes/
 
-## CSS Frameworks
+## CSS/UI Frameworks
 
-### Heavy CSS Frameworks 
+### CSS Frameworks 
 
-(has js, bigger learning curve) 
+Heavy ones (has js, bigger learning curve, but more OOTB) 
 
   - Bootstrap, [Foundation](https://get.foundation/sites/docs/), [Blaze UI](https://www.blazeui.com/), [PatternFly](https://www.patternfly.org/v4/documentation/core/components/aboutmodalbox), [UIKit](https://getuikit.com/docs/introduction)
   - Utility CSS: [Bonsai CSS](https://www.bonsaicss.com/)
   - Web Components: [Weightless](https://weightless.dev/elements/checkbox)
-- Drop-in:
+
+Drop-in ones (lighter, no js)
+
   - [Spectre.css](https://picturepan2.github.io/spectre/getting-started/installation.html)
   - https://purecss.io/
   - https://ajusa.github.io/lit/
