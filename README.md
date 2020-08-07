@@ -80,10 +80,12 @@ focus is fun/nostalgia
 
 minimalism for serious applications
 
+  - eric meyer v2 https://meyerweb.com/eric/tools/css/reset/
   - https://github.com/tiaanduplessis/nanoreset
   - https://nicolas-cusan.github.io/destyle.css/
   - https://hankchizljaw.com/wrote/a-modern-css-reset/
-  - http://necolas.github.io/normalize.css/
+  - https://gist.github.com/DavidWells/18e73022e723037a50d6
+  - http://necolas.github.io/normalize.css/ (yes, technically does more than a reset)
     - Tailwind's https://tailwindcss.com/docs/preflight/ is built atop normalize
 
 ## Spacing
