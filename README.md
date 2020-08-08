@@ -275,6 +275,7 @@ But here are tools to help generate palettes:
 
 - https://color.adobe.com/create
 - https://coolors.co/
+- https://colorsinspo.com
 - https://duo.alexpate.uk/
 - https://colorhunt.co/
 - https://dribbble.com/colors/4030e8
