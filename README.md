@@ -58,6 +58,7 @@ Drop-in ones (lighter, no js)
   - https://github.com/xz/new.css
   - https://github.com/oxalorg/sakura
   - https://native-elements.dev/
+  - https://watercss.kognise.dev/
   - Collections of even more:
     - https://github.com/dohliam/dropin-minimal-css
     - https://github.com/dbohdan/classless-css
