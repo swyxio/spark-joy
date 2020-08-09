@@ -188,10 +188,12 @@ More. Spacing. Please.
   - https://www.haleyfiege.fun/fonts
   - pixel fonts https://twitter.com/castpixel/status/1281345373336985612?s=20
 - CSS 3D text https://markdotto.com/playground/3d-text/
+- TypeSpiration https://typespiration.com/ premade font pairings for you
 - more opinions places
   - https://muffingroup.com/blog/best-free-fonts/
   - https://type-scale.com/
   - [6 ways to justify font choices in your designs](https://learnui.design/blog/justifying-font-choices.html)
+  
 <details>
   <summary> Premium fonts and some examples </summary>
   
