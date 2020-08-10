@@ -764,6 +764,7 @@ background-image: linear-gradient(
 
 - https://github.com/bradtraversy/design-resources-for-developers
 - https://tiny-helpers.dev/
+- https://www.uigoodies.com/
 - https://nodesign.dev/
 - https://github.com/LisaDziuba/Awesome-Design-Tools
 
