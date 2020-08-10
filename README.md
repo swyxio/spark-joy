@@ -729,6 +729,7 @@ background-image: linear-gradient(
 - https://biteable.com/ - video maker with templates
 - https://powtoon.com - videos and presentations for engaging and explaining
 - https://storycreatorapp.com/ - Simple online video editing for digital creators
+- make video demos https://glitterly.app/
 
 ## Onboarding
 
