@@ -301,6 +301,8 @@ But here are tools to help generate palettes:
 - https://learnui.design/tools/data-color-picker.html Color picker for data visualizations
 - https://learnui.design/tools/accessible-color-generator.html Accessible color generator
 - CSS Gradient Text https://twitter.com/argyleink/status/1281623252662489088/photo/2
+- Special usecases: 
+  - Pick colors from an image https://imagehive.co/
 
 ### Color knowledge
 
