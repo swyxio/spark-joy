@@ -419,6 +419,7 @@ Mocking your browser/phone
 - https://isometric.online/ This website offers a searchable list of nice and free isometric illustrations.
 - https://www.glazestock.com/ 
 - https://lukaszadam.com/illustrations
+- https://www.manuelalangella.com/retroooo-folks/ Retroooo Folks is a vector-based Mix-and-Match library of hand-drawn sketches, created for Adobe Illustrator, Sketch and Adobe Draw.
 - https://woobro.design/
 - https://pimpmydrawing.com/
 - https://www.drawkit.io/ Hand-drawn vector illustration resources for your next project
