@@ -200,6 +200,7 @@ More. Spacing. Please.
   - Proxima Nova https://a16z.com/ (on Typekit)
   - Graphik https://type.today/en/Graphik
   - https://www.typewolf.com/
+  - Arida Black (maggie's font) https://www.myfonts.com/fonts/latinotype/arida/black/
   - [Dank Mono](https://dank.sh/)
   - Tekton https://twitter.com/round/status/1178090204562968576?s=19
   
