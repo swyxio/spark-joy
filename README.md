@@ -409,7 +409,7 @@ Mocking your browser/phone
 - :star: https://www.blackillustrations.com/ "Beautiful, FREE illustrations of black people for your next digital project"
 - :star: https://www.vecteezy.com/ High quality vector graphics with worry-free licensing for personal and commercial use.
 - https://icons8.com/illustrations (previously ouch.pics)
-- https://blush.design/ good random generator
+- https://blush.design/ good random generator by Pablo Stanley
 - :star: https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
 - https://www.seekpng.com/ 1m+ Transparent PNG Images For Free
 - https://freellustrations.com/
