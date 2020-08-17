@@ -31,6 +31,7 @@
 - [Paid Premium Services](#paid-premium-services)
 - [Narratives](#narratives)
 - [Interaction/Design Inspo](#interactiondesign-inspo)
+- [Mock API](#mock-api)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
