@@ -893,3 +893,9 @@ background-image: linear-gradient(
 - https://www.uisources.com/
 - [Codrops](https://tympanus.net/codrops/2019/06/04/inspirational-websites-roundup-5/)
 - https://collectui.com/
+
+## Mock API
+- https://dog.ceo/
+- https://randomuser.me/
+- https://swapi.dev/
+- https://jsonplaceholder.typicode.com/
