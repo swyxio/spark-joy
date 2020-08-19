@@ -41,6 +41,12 @@ Keep it simple: https://jgthms.com/web-design-in-4-minutes/
 
 ## CSS/UI Frameworks
 
+Copyable templates
+
+- https://www.free-css.com/
+- https://www.creative-tim.com/
+- https://html5up.net/
+
 ### CSS Frameworks 
 
 Heavy ones (has js, bigger learning curve, but more OOTB) 
