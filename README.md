@@ -71,6 +71,7 @@ Drop-in ones (lighter, no js)
     - https://github.com/dohliam/dropin-minimal-css
     - https://github.com/dbohdan/classless-css
     - https://github.com/ubershmekel/cssbed
+    - https://thesephist.github.io/paper.css/ and https://thesephist.github.io/blocks.css/
     
     
 ### Fun CSS Frameworks
