@@ -528,6 +528,7 @@ box-shadow:  20px 20px 22px #cfb3a6,
 - `mix-blend-mode: screen` is [really good for SVG icons, with hover](https://ishadeed.com/article/blending-modes-css/)
 - SVG animations
   - https://www.svgator.com/
+  - SVG icon transitions https://blog.nucleoapp.com/create-2-state-svg-powered-animated-icons-76ed19160a7e
   - scroll based svg text path animation https://www.youtube.com/watch?v=Tae96ze3xwY
   - stroke path animation https://css-tricks.com/a-trick-that-makes-drawing-svg-lines-way-easier/
 
