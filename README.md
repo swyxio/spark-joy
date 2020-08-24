@@ -909,4 +909,5 @@ background-image: linear-gradient(
 - https://randomuser.me/
 - https://swapi.dev/
 - https://jsonplaceholder.typicode.com/
-- https://github.com/public-apis/public-apis https://public-apis.io/
+- https://github.com/public-apis/public-apis
+- https://public-apis.io/ (A Directory of Free Public & Open Rest APIs)
