@@ -365,6 +365,7 @@ Don't forget them!
 - https://tablericons.com/ 558 Fully customizable SVG icons
 - animated icons http://www.transformicons.com/builder.html
 - https://game-icons.net/
+- Covid 19 icons - https://design.dev/ 
 - https://kenney.nl/ public domain game assets
 - https://www.iconshock.com/social-media-icons/ A pack of 300 social media icons (PNG & Vector) and a set of animated icons (Lottie and AE), which cover all the trendiest social media networks nowadays.
 - brand icons
@@ -431,6 +432,7 @@ Mocking your browser/phone
 - https://isometric.online/ This website offers a searchable list of nice and free isometric illustrations.
 - https://www.glazestock.com/ 
 - https://lukaszadam.com/illustrations
+- https://design.dev/ some illustrations in PS/sketch/etc. requires account.
 - https://www.manuelalangella.com/retroooo-folks/ Retroooo Folks is a vector-based Mix-and-Match library of hand-drawn sketches, created for Adobe Illustrator, Sketch and Adobe Draw.
 - https://woobro.design/
 - https://pimpmydrawing.com/
