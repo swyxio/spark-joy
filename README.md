@@ -87,6 +87,7 @@ focus is fun/nostalgia
   - [XP.css](https://github.com/botoxparty/XP.css): A Windows XP inspired framework for building faithful recreations of operating system GUIs. An extension of 98.css.
   - [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386): A vintage 1980s DOS inspired Twitter Bootstrap theme
   - [New Dawn](https://github.com/npjg/new-dawn): A mac classic After Dark inspired stylesheet.
+  - more https://dev.to/iainfreestone/10-resources-for-recreating-old-school-retro-user-interfaces-today-hkj
 
 ### CSS Resets
 
