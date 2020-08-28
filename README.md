@@ -641,7 +641,7 @@ background-image: linear-gradient(
 Paid:
 
 - https://www.epidemicsound.com/
-- https://artlist.io/
+- https://artlist.io/ - may have better licensing https://www.youtube.com/watch?v=mYU6XhORomg but no fx
 - https://www.soundstripe.com/ (cheapest)
 
 ### Lightweight Charts/Dataviz
