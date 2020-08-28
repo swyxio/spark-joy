@@ -642,7 +642,7 @@ Paid:
 
 - https://www.epidemicsound.com/
 - https://artlist.io/ - may have better licensing https://www.youtube.com/watch?v=mYU6XhORomg but no fx
-- https://www.soundstripe.com/ (cheapest)
+- https://www.soundstripe.com/ (cheapest) here's a comparison https://www.youtube.com/watch?v=1YBjY79axRo
 
 ### Lightweight Charts/Dataviz
 
