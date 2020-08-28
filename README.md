@@ -638,6 +638,12 @@ background-image: linear-gradient(
 - https://www.audacityteam.org/
 - https://joshwcomeau.com/react/announcing-use-sound-react-hook/
 
+Paid:
+
+- https://www.epidemicsound.com/
+- https://artlist.io/
+- https://www.soundstripe.com/ (cheapest)
+
 ### Lightweight Charts/Dataviz
 
 - https://rbitr.github.io/ChartS.css/
