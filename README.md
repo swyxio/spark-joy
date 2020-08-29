@@ -245,7 +245,7 @@ Pick a primary color to match your personality:
 
 You can also have a grey for secondary content, and lighter grey for tertiary content.
 
-Don't use system default/named colors, too brutal. Soften it a bit. 
+Don't use system default/named colors, too brutal. Soften it a bit. "[Never use black](https://ianstormtaylor.com/design-tip-never-use-black/)" has been proposed as a rule, but [this is debated](https://news.ycombinator.com/item?id=24303042).
 
 <details>
 <summary>
