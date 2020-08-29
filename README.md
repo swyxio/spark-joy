@@ -237,7 +237,7 @@ You may wish to use `max-width: 60ch` on content. [Note on the `ch` unit not bei
 
 ## Color Picking
 
-Pick a primary color to match your personality:
+Pick a primary "brand" color to match your personality. [DO NOT OVERUSE IT.](https://twitter.com/steveschoger/status/1299372332579008515)
 
 - Blue: safe, familiar
 - Gold: expensive, sophisticated ([Examples](https://twitter.com/erikdkennedy/status/948914185596960768))
