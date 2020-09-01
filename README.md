@@ -395,7 +395,7 @@ Diagramming - when describing something prefer pictures over words. Make picture
 
 - https://excalidraw.com/ (free, open source)
 - miro.om - freemium, used by Maggie
-- https://www.draw.io/ (free) - has [VS Code extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+- https://www.draw.io/ - now [shifted](https://www.diagrams.net/blog/move-diagrams-net) to https://www.diagrams.net/ (free) - has [VS Code extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 - https://inkscape.org/ (free)
 - https://whimsical.com/ ($10/mo)
 - more tools - lucidcharts, miro, plectica - [see hn thread](https://news.ycombinator.com/item?id=21513337)
