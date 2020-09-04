@@ -112,6 +112,7 @@ More. Spacing. Please.
 - https://gedd.ski/post/article-grid-layout/
 - https://every-layout.dev/
 - https://csslayout.io/ ([github](https://github.com/phuoc-ng/csslayout))
+- Visual Hierarchy https://youtu.be/qZWDJqY27bw
 
 ## Typography
 
@@ -168,6 +169,7 @@ More. Spacing. Please.
   - Sciency/technical: squared off (geometric) sans like [`DIN`](https://fonts.adobe.com/fonts/din-2014), [`Industry`](https://fonts.adobe.com/fonts/industry)
 - Free fonts that are great with examples (thanks [@edadams](https://github.com/sw-yx/spark-joy/issues/22))
   - Google Fonts - ([see Harry Roberts on Google Font loading perf](https://csswizardry.com/2020/05/the-fastest-google-fonts/))
+    - [40 best google fonts by Typewolf](https://www.typewolf.com/google-fonts)
     - [Noto Sans](https://www.google.com/get/noto/)
     - [Fira Sans](https://fonts.google.com/specimen/Fira+Sans) - related to [Fira Code](https://github.com/tonsky/FiraCode) for devvy stuff
     - [Raleway](https://fonts.google.com/specimen/Raleway)
@@ -204,7 +206,8 @@ More. Spacing. Please.
   - https://muffingroup.com/blog/best-free-fonts/
   - https://type-scale.com/
   - [6 ways to justify font choices in your designs](https://learnui.design/blog/justifying-font-choices.html)
-  
+   
+
 <details>
   <summary> Premium fonts and some examples </summary>
   
@@ -219,8 +222,24 @@ you can learn more about proofing premium fonts here https://www.typography.com/
 
 </details>
 
-Font-size things you might try:
+Don't forget setting `max-width` - betweeen 60-75chars is good.
 
+- https://pearsonified.com/characters-per-line/
+- https://grtcalculator.com/
+- https://www.charactercountonline.com/
+- https://charcounter.com/en/
+
+Don't forget setting Leading on your h1 text and minding kerning:
+
+![https://hottips.imgix.net/2020/07/044-tracking-animation.gif](https://hottips.imgix.net/2020/07/044-tracking-animation.gif)
+
+- https://creativemarket.com/blog/whats-the-difference-between-leading-kerning-and-tracking
+- https://99designs.com/blog/tips/11-kerning-tips/
+
+Other things you might try:
+
+- Font smoothing - [explained](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth)
+- Tool for learning what fonts other people use https://fontanello.oktavilla.se/
 - Fluid typography with [`clamp`](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp): `font-size: clamp(1.125rem, 1rem + 2vw, 1.5rem)`
   - Another responsive typography fallback - [`font-size: calc(1rem + 2px + ((100vw - 550px) / 250))`](https://twitter.com/Kikobeats/status/1093620157912616966?s=20) - you can [fit text to screen width](https://twitter.com/shshaw/status/1240647643388395521?s=20) 
 - [FlowType.js](https://simplefocus.com/flowtype/)
@@ -363,7 +382,12 @@ Don't forget them!
 
 ### Icons
 
+Logos
 - https://logosear.ch/ superfast metasearch of 200k svg logos from GitHub
+- https://www.iconfinder.com/iconsets/payment-method-1
+
+General & Misc
+
 - list of lists of icons https://icones.netlify.app/
 - https://thenounproject.com/ Every icon you can think of, in PNG or SVG formats. They offer over 20 million icons, with built-in customization colors like size and color. Requires login, needs creative commons attribution or $3 download
 - https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties. PNG, JPG, iOS, Android, PDF. No svg.
@@ -396,7 +420,8 @@ Don't forget them!
 - https://logobly.com/ create custom logos
 - https://hatchful.shopify.com/ more custom logos
 - https://symbolicons.com/
-- https://streamlineicons.com/ (used in [Glide Apps](https://twitter.com/glideapps/status/1199396690182230016))
+- 🔥 https://streamlineicons.com/ (used in [Glide Apps](https://twitter.com/glideapps/status/1199396690182230016))
+- https://www.iconfinder.com/
 - https://www.flaticon.com/
 - https://gumroad.com/l/primaries
 
@@ -428,6 +453,11 @@ Mocking your browser/phone
 - animate them, why not https://deviceful.app/
 - phone/watch: https://www.rotato.xyz/
 - other devices https://deviceshots.com/
+- 🔥 [Facebook Design Devices](https://facebook.design/devices)
+- [Shotsnapp](https://shotsnapp.com/)
+- in context: [Device Mock-Up Inspiration](https://onepagelove.com/tag/devices)
+- [Lstore Graphics](https://www.ls.graphics/) – Includes video
+- [Creative Market](https://creativemarket.com/templates/mockups/mobile-web) device mockups
 
 ### Illustrations
 
@@ -436,8 +466,9 @@ Mocking your browser/phone
   - https://fresh-folk.com/ is similar
 - :star: https://www.blackillustrations.com/ "Beautiful, FREE illustrations of black people for your next digital project"
 - :star: https://www.vecteezy.com/ High quality vector graphics with worry-free licensing for personal and commercial use.
+- :star: https://streamlineicons.com/ux/ illustrations to go with Streamline icons
 - https://icons8.com/illustrations (previously ouch.pics)
-- https://blush.design/ good random generator by Pablo Stanley
+- :star: https://blush.design/ good random generator by Pablo Stanley.  Made for Sketch, Figma, InVision Studio and Adobe XD.
 - :star: https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
 - https://www.seekpng.com/ 1m+ Transparent PNG Images For Free
 - https://freellustrations.com/
@@ -462,6 +493,8 @@ Mocking your browser/phone
 - https://autodraw.com Google AI assisted drawing
 - https://hotpot.ai Free or paid. Create icons, app screenshots, MacBook/browser mockups, social media posts, and other graphics for mobile apps and browser extensions.
 - https://www.magicpattern.design/examples - one-click web editor for illustration patterns. It's perfect for branding landing pages, social media posts and featured images. Requires Google signup.
+
+Illo's in context: https://onepagelove.com/tag/illustrations
 
 ### DIY Graphic Design
 
@@ -560,6 +593,14 @@ Not just for background backgrounds - applying gradients and background images t
 - [https://philcoffman.com/](https://user-images.githubusercontent.com/6764957/64589989-7985f500-d374-11e9-9d8a-2a8888df6981.png)
 - [https://css-tricks.com/](https://user-images.githubusercontent.com/6764957/64590103-beaa2700-d374-11e9-8a84-95ab4826a577.png)
 
+Background Radial Bursts behind images:
+
+- https://cssgradient.io/
+- https://youtu.be/U4z-wph1NyI
+- https://onepagelove.com/tag/gradients
+
+![https://hottips.imgix.net/2020/07/063-burst.jpg?w=1200&auto=compress](https://hottips.imgix.net/2020/07/063-burst.jpg?w=1200&auto=compress)
+
 #### Background Gradients
 
 
@@ -600,6 +641,7 @@ background-image: linear-gradient(
 - CSS backgroundy patterns https://leaverou.github.io/css3patterns/
 - this guy https://twitter.com/yuanchuan23
 - Generative Gradients http://generative-placeholders.glitch.me/
+- Image Placeholders - blurring - https://blurha.sh/ (and gatsby image and nextjs image)
 - Dimming/coloring text on background images https://coder-coder.com/background-image-opacity/
 - [True Grit Texture Supply](https://www.truegrittexturesupply.com/) PNG textures (paid)
 
@@ -636,13 +678,14 @@ background-image: linear-gradient(
 - tooltips on hover https://kazzkiq.github.io/balloon.css/
 - Link and Button hover effects https://www.youtube.com/watch?v=ceNMP-aQkQ4
 
-### Styling Forms
+### Forms
 
 - Accessible Styled Forms https://github.com/scottaohara/a11y_styled_form_controls
 - WTF Forms: Nicer Forms eg Radio Buttons with pure CSS https://github.com/mdo/wtf-forms
 - Output-inspired form: https://twitter.com/steveschoger/status/1171429842442522625
 - show button when placeholder-shown:  https://codepen.io/liamj/pen/vYYLGZj
 - Toggles: https://jnkkkk.github.io/MoreToggles.css/allToggles.html
+- The Crazy Egg Guide to Great Form UI and UX https://www.crazyegg.com/blog/guides/great-form-ui-and-ux/
 
 ### Sound
 
@@ -712,6 +755,7 @@ Paid:
 ## ThreeJS
 
 - LowPoly 3D models from Google https://poly.google.com/search/duck
+- https://www.kukla-kit.com/ Huge pack of 3D elements accessible directly from Figma.
 
 ## React
 
@@ -774,6 +818,8 @@ Paid:
 - https://storycreatorapp.com/ - Simple online video editing for digital creators
 - make video demos https://glitterly.app/
 - https://storycreatorapp.com/
+- https://www.fiverr.com/search/gigs?query=explainer%20videos&source=top-bar&search_in=everywhere&search-autocomplete-original-term=explainer%20videos
+- https://www.medialuv.com/
 
 ## Onboarding
 
