@@ -247,11 +247,22 @@ You can also have a grey for secondary content, and lighter grey for tertiary co
 
 Don't use system default/named colors, too brutal. Soften it a bit. "[Never use black](https://ianstormtaylor.com/design-tip-never-use-black/)" has been proposed as a rule, but [this is debated](https://news.ycombinator.com/item?id=24303042).
 
+
 <details>
 <summary>
 Example blueish palette
 </summary>
+  
+  
 
+Monotone: 
+
+- White-ish Card background: #FCFCFC
+- Blueish-Black icons: #1C1E20
+- Lighter text on white: #485963
+- Bluish background: #202D34
+
+Multicolor:
 
 - Black: #1d1d1d.
 - purple: #b066ff;
@@ -267,7 +278,7 @@ Example blueish palette
 
 <details>
 <summary>  
-Use generic names if you want it swappable for dark mode. Example [yellowish palette](https://codepen.io/oliviale/full/XyqQYL):
+You may or may not want to use generic names if you want it swappable for dark mode. Example [yellowish palette](https://codepen.io/oliviale/full/XyqQYL):
 </summary>
 
 
@@ -278,7 +289,11 @@ Use generic names if you want it swappable for dark mode. Example [yellowish pal
 - secondary-info: #08D377 dark cerulean
 - grays: #E8E9E9, #D1D3D4, #BABDBF, #808488, #666A6D, #4D5052, #333537, #1C1D1E
 
-Examplmes: https://dev.to/dcodeyt/add-dark-mode-to-your-websites-with-css-5bh4
+Examples: https://dev.to/dcodeyt/add-dark-mode-to-your-websites-with-css-5bh4
+
+**Note - THIS IS DISPUTED!!!** Even Slack's impl has separate light and dark theming.
+
+> The problem is "primary" isn't a color, it's a measure of contrast in the current context. On the same page you might have a white panel with a black button and a black panel with a white button, and both of those buttons are "primary" even though they are different colors. - [Adam Wathan](https://twitter.com/adamwathan/status/1291724757402976257?s=20)
 
 </details>
 
@@ -462,6 +477,7 @@ Mocking your browser/phone
 - https://pexels.com
 - https://generated.photos/ AI-generated stock photos
 - https://unsplash.com/ of course
+- https://www.stocksy.com/ (premium)
 - https://duotone.shapefactory.co/?f=f56468&t=27184f&q=_&i=oMpAz-DN-9I (unsplash with duotone filter)
 - https://github.com/neutraltone/awesome-stock-resources
 - https://allthefreestock.com/
