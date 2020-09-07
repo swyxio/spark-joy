@@ -297,8 +297,10 @@ Multicolor:
 
 <details>
 <summary>  
-You may or may not want to use generic names if you want it swappable for dark mode. Example [yellowish palette](https://codepen.io/oliviale/full/XyqQYL):
+You may or may not want to use generic names if you want it swappable for dark mode:
 </summary>
+  
+Example [yellowish palette](https://codepen.io/oliviale/full/XyqQYL):
 
 
 - primary-light: #FFD151 mustard
