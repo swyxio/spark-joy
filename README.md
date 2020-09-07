@@ -322,6 +322,7 @@ One liner dark mode (careful about perf!): `filter: invert(100%) hue-rotate(180d
 
 But here are tools to help generate palettes:
 
+- https://tailwind.ink/
 - https://color.adobe.com/create
 - https://coolors.co/
 - https://colorsinspo.com
