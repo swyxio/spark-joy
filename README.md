@@ -13,6 +13,7 @@
 - [Typography](#typography)
 - [Color Picking](#color-picking)
 - [Icons and Favicons](#icons-and-favicons)
+- [Diagramming](#diagramming)
 - [Graphics and SVG Illustrations](#graphics-and-svg-illustrations)
 - [Pure CSS](#pure-css)
 - [Design Software](#design-software)
