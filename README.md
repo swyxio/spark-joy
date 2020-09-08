@@ -428,13 +428,15 @@ General & Misc
 - https://www.flaticon.com/
 - https://gumroad.com/l/primaries
 
-## Graphics and SVG Illustrations
 
-Hipster Logo Generator? any others?
+## Diagramming
 
-- https://hipsterlogogenerator.com/
+Before you get to the tools - some good thinking (and lists of tools) on architecture diagrams:
 
-Diagramming - when describing something prefer pictures over words. Make pictures.
+- https://nocomplexity.com/documents/arplaybook/businessarchitecture.html
+- https://c4model.com/ ([more from Simon](https://dev.to/simonbrown/how-to-review-a-software-architecture-diagram-6p0))
+
+General Purpose
 
 - https://excalidraw.com/ (free, open source)
 - miro.om - freemium, used by Maggie
@@ -442,7 +444,38 @@ Diagramming - when describing something prefer pictures over words. Make picture
 - https://inkscape.org/ (free)
 - https://www.websequencediagrams.com/
 - https://whimsical.com/ ($10/mo)
-- more tools - lucidcharts, miro, plectica - [see hn thread](https://news.ycombinator.com/item?id=21513337)
+- https://www.lucidchart.com/
+- https://miro.com/
+- https://www.simplediagrams.com/
+- [Microsoft Visio](https://www.microsoft.com/en-sg/microsoft-365/visio/flowchart-software)
+- https://www.plectica.com/
+- more tools - [see hn thread](https://news.ycombinator.com/item?id=21513337)
+
+Special Focus For Cloud Architecture diagrams (needs logos etc)
+
+- https://www.draw.io/
+- https://www.lucidchart.com/
+- https://www.omnigroup.com/omnigraffle/ (used by tim bray)
+- https://www.ilograph.com/
+- https://www.cloudcraft.co/ focused on AWS
+- https://www.cloudskew.com/
+- https://arcentry.com/ (interactive/realtime) - discontinued!
+
+Code-based Graph tools
+
+- graphviz/dot - useful inside jupyter
+- mermaid
+- python's `diagrams` https://pypi.org/project/diagrams/
+- https://structurizr.com/
+- https://plantuml.com/
+- https://github.com/mhlabs/cfn-diagram visualize cloudformation -> draw.io 
+
+
+## Graphics and SVG Illustrations
+
+Hipster Logo Generator? any others?
+
+- https://hipsterlogogenerator.com/
 
 Backend entity/ ERD /SQL diagramming 
 
