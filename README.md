@@ -860,6 +860,11 @@ Paid:
 - https://storycreatorapp.com/
 - https://www.fiverr.com/search/gigs?query=explainer%20videos&source=top-bar&search_in=everywhere&search-autocomplete-original-term=explainer%20videos
 - https://www.medialuv.com/
+- https://videohive.net/
+
+Tutorials from successful Youtubers
+
+- https://www.youtube.com/watch?v=N6-Q2dgodLs
 
 ## Onboarding
 
