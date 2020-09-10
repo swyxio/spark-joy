@@ -585,6 +585,7 @@ MAKE SURE TO CHECK OUT https://components.ai
     - drop shadows - eg -1px left -1px top - makes buttons look stamped
     - text shadows
     - experiment with multiple shadows on one element
+    - https://getcssscan.com/css-box-shadow-examples
   - Card border Generator https://card.surge.sh/
   - Conic gradient borders https://twitter.com/argyleink/status/1282889809782927360
   - Components.ai box shadows https://components.ai/box-shadows
