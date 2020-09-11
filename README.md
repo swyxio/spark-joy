@@ -711,12 +711,15 @@ background-image: linear-gradient(
 - Graphic animations: https://lottiefiles.com/
 - HTML animation? https://tumult.com/hype/ (paid)
 
-
 ### Animating Individual Elements
 
 - links https://cssanimation.rocks/animating-links/
 - tooltips on hover https://kazzkiq.github.io/balloon.css/
 - Link and Button hover effects https://www.youtube.com/watch?v=ceNMP-aQkQ4
+
+### Buttons
+
+- https://frontend.horse/articles/buttons-that-spark-joy/
 
 ### Forms
 
