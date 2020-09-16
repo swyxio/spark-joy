@@ -408,6 +408,7 @@ General & Misc
 - https://icons.mono.company/
 - https://feathericons.com/
 - https://www.zondicons.com/
+- https://linearicons.com/free
 - https://tablericons.com/ 558 Fully customizable SVG icons
 - animated icons http://www.transformicons.com/builder.html
 - https://game-icons.net/
