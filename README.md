@@ -405,6 +405,7 @@ General & Misc
 - Bootstrap Icons https://github.com/twbs/icons
 - https://www.heroicons.com/
 - https://systemuicons.com/
+- https://icons.mono.company/
 - https://feathericons.com/
 - https://www.zondicons.com/
 - https://tablericons.com/ 558 Fully customizable SVG icons
