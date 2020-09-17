@@ -739,15 +739,19 @@ background-image: linear-gradient(
 - https://www.myinstants.com/index/se/
 - https://www.youtube.com/audiolibrary/music?nv=1
 - https://freesound.org/
-- https://www.bensound.com/ Royalty free background music
-- https://www.audacityteam.org/
-- https://joshwcomeau.com/react/announcing-use-sound-react-hook/
 
 Paid:
 
 - https://www.epidemicsound.com/
 - https://artlist.io/ - may have better licensing https://www.youtube.com/watch?v=mYU6XhORomg but no fx
 - https://www.soundstripe.com/ (cheapest) here's a comparison https://www.youtube.com/watch?v=1YBjY79axRo
+- https://www.bensound.com/ 
+
+
+Tools:
+
+- https://www.audacityteam.org/
+- https://joshwcomeau.com/react/announcing-use-sound-react-hook/
 
 ### Lightweight Charts/Dataviz
 
