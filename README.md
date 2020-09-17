@@ -730,6 +730,7 @@ background-image: linear-gradient(
 - Output-inspired form: https://twitter.com/steveschoger/status/1171429842442522625
 - show button when placeholder-shown:  https://codepen.io/liamj/pen/vYYLGZj
 - Toggles: https://jnkkkk.github.io/MoreToggles.css/allToggles.html
+- 3D LED switch: https://codepen.io/jkantner/pen/VwaBomY
 - The Crazy Egg Guide to Great Form UI and UX https://www.crazyegg.com/blog/guides/great-form-ui-and-ux/
 
 ### Sound
