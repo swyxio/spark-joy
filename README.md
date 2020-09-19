@@ -390,6 +390,7 @@ Don't forget them!
 Logos
 - https://logosear.ch/ superfast metasearch of 200k svg logos from GitHub
 - https://www.iconfinder.com/iconsets/payment-method-1
+- https://www.logology.co/
 
 General & Misc
 
