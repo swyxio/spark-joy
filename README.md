@@ -1038,6 +1038,7 @@ Tutorials from successful Youtubers
 - [Codrops](https://tympanus.net/codrops/2019/06/04/inspirational-websites-roundup-5/)
 - https://collectui.com/
 - https://theanimatedweb.com/
+- https://pageflows.com/
 
 ## Mock API
 - https://dog.ceo/
