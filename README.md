@@ -407,6 +407,7 @@ General & Misc
 - https://www.heroicons.com/
 - https://systemuicons.com/
 - https://icons.mono.company/
+- https://iconscout.com/unicons and https://github.com/Iconscout/react-unicons
 - https://feathericons.com/
 - https://www.zondicons.com/
 - https://linearicons.com/free
