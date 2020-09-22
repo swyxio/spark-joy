@@ -536,6 +536,7 @@ Mocking your browser/phone
 - https://autodraw.com Google AI assisted drawing
 - https://hotpot.ai Free or paid. Create icons, app screenshots, MacBook/browser mockups, social media posts, and other graphics for mobile apps and browser extensions.
 - https://www.magicpattern.design/examples - one-click web editor for illustration patterns. It's perfect for branding landing pages, social media posts and featured images. Requires Google signup.
+- https://gumroad.com/l/just sketch me (paid) 
 
 Illo's in context: https://onepagelove.com/tag/illustrations
 
@@ -571,6 +572,8 @@ Illo's in context: https://onepagelove.com/tag/illustrations
 - https://joeschmoe.io/ An illustrated avatar collection for
 developers and designers
 - https://amritpaldesign.com/toy-faces Toy Faces is a fun diverse library of 3D avatars for your design mockups and personal use.
+- https://gumroad.com/l/siKBl 3d diverse avatars, paid
+
 
 ## Pure CSS
 
