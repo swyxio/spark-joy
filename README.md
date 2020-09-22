@@ -678,6 +678,7 @@ background-image: linear-gradient(
 - https://www.gradientmagic.com/
 - http://thepatternlibrary.com/
 - http://svgbackgrounds.com/
+- https://bgjar.com/
 
 #### Misc Backgroundy Stuff
 
