@@ -555,6 +555,7 @@ Illo's in context: https://onepagelove.com/tag/illustrations
 - https://pexels.com
 - https://generated.photos/ AI-generated stock photos
 - https://unsplash.com/ of course
+- http://www.ghibli.jp/info/013251/ studio ghibli free backgrounds
 - https://www.stocksy.com/ (premium)
 - https://duotone.shapefactory.co/?f=f56468&t=27184f&q=_&i=oMpAz-DN-9I (unsplash with duotone filter)
 - https://github.com/neutraltone/awesome-stock-resources
