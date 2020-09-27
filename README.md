@@ -1028,6 +1028,16 @@ Tutorials from successful Youtubers
 - Manypixels
 - Contentfly (copywriting)
 
+## courses
+
+- https://learnux.io/
+
+for the 4 minute version: https://jgthms.com/web-design-in-4-minutes/
+for the 4 hour version: https://frontendmasters.com/courses/design-for-developers/
+for the 4 week version: https://refactoringui.com/book
+for the 4 month version: https://learnui.design/
+
+i may be signing up for https://shiftnudge.com/ .. its super expensive tho
 
 ## Narratives
 
