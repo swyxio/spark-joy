@@ -541,6 +541,8 @@ Mocking your browser/phone
 
 Illo's in context: https://onepagelove.com/tag/illustrations
 
+Learn 3d illo in blender https://polygonrunway.com/
+
 ### DIY Graphic Design
 
 - https://snappa.com/
