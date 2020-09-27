@@ -30,6 +30,7 @@
 - [Helpful podcasts and talks](#helpful-podcasts-and-talks)
 - [More Free Stuff](#more-free-stuff)
 - [Paid Premium Services](#paid-premium-services)
+- [courses](#courses)
 - [Narratives](#narratives)
 - [Interaction/Design Inspo](#interactiondesign-inspo)
 - [Mock API](#mock-api)
