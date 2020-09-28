@@ -563,6 +563,7 @@ Learn 3d illo in blender https://polygonrunway.com/
 - https://duotone.shapefactory.co/?f=f56468&t=27184f&q=_&i=oMpAz-DN-9I (unsplash with duotone filter)
 - https://github.com/neutraltone/awesome-stock-resources
 - https://allthefreestock.com/
+- https://thenounproject.com/search/photos/?q=happy
 
 
 ### Avatars
