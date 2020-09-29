@@ -16,6 +16,7 @@
 - [Color Picking](#color-picking)
 - [Icons and Favicons](#icons-and-favicons)
 - [Diagramming](#diagramming)
+- [Wireframing](#wireframing)
 - [Graphics and SVG Illustrations](#graphics-and-svg-illustrations)
 - [Pure CSS](#pure-css)
 - [Design Software](#design-software)
