@@ -2,6 +2,8 @@
 
 > **Easy ways to add design flair, user delight, and whimsy to your product!**
 
+*The Spark Joy philosophy is explained in further detail [in my book](https://learninpublic.org/), check it out if you'd like to explore how this approach applies to a lot more than design utilities.*
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -870,6 +872,7 @@ Tools:
 - https://github.com/miukimiu/react-kawaii
 - https://reactsvgicons.com/
 - https://react-icons.netlify.com/#/icons/fa (typically fontawesome)
+- https://github.com/bytedance/IconPark - more than 1,200 high-quality icons, and introduces an interface for customizing your icons. across React, Vue, SVG, PNG.
 - https://github.com/useAnimations/react-useanimations
 
 ## Video
