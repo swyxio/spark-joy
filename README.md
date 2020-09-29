@@ -565,6 +565,7 @@ Learn 3d illo in blender https://polygonrunway.com/
 - https://photos.icons8.com/creator/ Create custom stock photos
 - https://pexels.com
 - https://generated.photos/ AI-generated stock photos
+- https://visualsofearth.com/c/ nature, space, desert, etc
 - https://unsplash.com/ of course
 - http://www.ghibli.jp/info/013251/ studio ghibli free backgrounds
 - https://www.stocksy.com/ (premium)
