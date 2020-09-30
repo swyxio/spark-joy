@@ -438,6 +438,7 @@ General & Misc
 - https://www.iconfinder.com/
 - https://www.flaticon.com/
 - https://gumroad.com/l/primaries
+- https://gumroad.com/l/gPEAU ios 14 icons from traf - for inspo, mainly
 
 
 ## Diagramming
