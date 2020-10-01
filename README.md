@@ -255,6 +255,8 @@ Other things you might try:
 - [Complete font-size notes](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/)
 - Don't rely on varying fontsize to control hierarchy - also use font weight (normal = 400/500, heavy = 600/700) and color
   - Don't go under font weight 400, use a lighter color or smaller fontsize instead
+- International fonts stack https://www.figma.com/blog/when-fonts-fall/
+
 
 Note: `vw` has known a11y issues: Preserve Zooming. [Sara Soueidan](https://twitter.com/SaraSoueidan/status/1121645149983891457?s=20) recommends wrapping with `calc`, e.g. `font-size: calc(16px + .3vw);`
 
