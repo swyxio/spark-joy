@@ -606,6 +606,7 @@ MAKE SURE TO CHECK OUT https://components.ai
 - Lea Verou CSS Secrets https://twitter.com/swyx/status/982786353216843776?s=20
   - CSS3 Patterns https://leaverou.github.io/css3patterns/
 - CSS 3D Text https://markdotto.com/playground/3d-text/
+- 3D CSS hover effects https://polypane.app/css-3d-transform-examples/
 - Shadows
   - Box shadows https://brumm.af/shadows
     - drop shadows - eg -1px left -1px top - makes buttons look stamped
