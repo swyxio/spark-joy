@@ -326,9 +326,7 @@ Examples: https://dev.to/dcodeyt/add-dark-mode-to-your-websites-with-css-5bh4
 
 </details>
 
-One liner dark mode (careful about perf!): `filter: invert(100%) hue-rotate(180deg);`
-
-
+One liner dark mode (careful about perf!): `filter: invert(100%) hue-rotate(180deg);` - more [filters here](https://svelte.dev/repl/defc901c5f434ed4a76161605cf1db76?version=3.29.0)
 
 But here are tools to help generate palettes:
 
@@ -799,6 +797,7 @@ Tools:
 - Peek Href on Links - [2min video](https://www.youtube.com/watch?v=zMZckWl_B4c&feature=youtu.be)
 - [Gooey Effect with SVG and Filters](https://css-tricks.com/gooey-effect/)
 - [Backdrop Filters and Multiple Inner Shadows](https://twitter.com/MengTo/status/1311029761490198528?s=20)
+- [Swyx CSS Filter toy](https://svelte.dev/repl/defc901c5f434ed4a76161605cf1db76?version=3.29.0)
 - [Instagram filters created with CSS filters, by Una](https://una.im/CSSgram/)
 - [CSS only hover effect with Headers](https://codepen.io/oliviale/pen/YgzNzK)
 - [SVG iPhone mock and animated notification transition](https://codepen.io/sdras/pen/LYELqPX)
