@@ -473,6 +473,10 @@ General Purpose
 - https://www.plectica.com/
 - more tools - [see hn thread](https://news.ycombinator.com/item?id=21513337)
 
+Entity Relationship Diagrams
+
+- https://dbdiagram.io/home
+
 Special Focus For Cloud Architecture diagrams (needs logos etc)
 
 - https://www.draw.io/
