@@ -9,7 +9,7 @@
 **Table of Contents**
 
 - [Web Design in 4 minutes](#web-design-in-4-minutes)
-- [CSS/UI Frameworks](#cssui-frameworks)
+- [CSS/UI Templates](#cssui-templates)
 - [Spacing](#spacing)
 - [Layout](#layout)
 - [Typography](#typography)
@@ -18,14 +18,15 @@
 - [Diagramming](#diagramming)
 - [Wireframing](#wireframing)
 - [Graphics and SVG Illustrations](#graphics-and-svg-illustrations)
-- [Pure CSS](#pure-css)
+- [Pure CSS Tricks](#pure-css-tricks)
+- [Background Stuff](#background-stuff)
+- [Spinners](#spinners)
+- [Animations & Transitions](#animations--transitions)
+- [Individual Elements](#individual-elements)
 - [Design Software](#design-software)
 - [Canvas](#canvas)
-- [Page Transitions](#page-transitions)
 - [WebGL](#webgl)
 - [ThreeJS](#threejs)
-- [React](#react)
-- [Fun React UI frameworks](#fun-react-ui-frameworks)
 - [Video](#video)
 - [Onboarding](#onboarding)
 - [Misc Genres (Handwriting, Pixel, ASCII styles)](#misc-genres-handwriting-pixel-ascii-styles)
@@ -33,10 +34,10 @@
 - [Helpful podcasts and talks](#helpful-podcasts-and-talks)
 - [More Free Stuff](#more-free-stuff)
 - [Paid Premium Services](#paid-premium-services)
-- [courses](#courses)
-- [Narratives](#narratives)
+- [Courses](#courses)
+- [The value of design](#the-value-of-design)
 - [Interaction/Design Inspo](#interactiondesign-inspo)
-- [Mock API](#mock-api)
+- [Mock APIs](#mock-apis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
