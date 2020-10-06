@@ -410,6 +410,8 @@ General & Misc
 - https://orioniconlibrary.com/ has customizable colors and packs eg for ecommerce
 - https://material.io/resources/icons/?style=baseline
 - https://icons8.com/l/fluent/ colored "microsoft style" icons
+- https://icons8.com/emoji emoji style customizable icons
+- https://icons8.com/line-awesome fontawesome-like icons
 - http://www.entypo.com/
 - Bootstrap Icons https://github.com/twbs/icons
 - https://www.heroicons.com/
@@ -513,6 +515,8 @@ Backend entity/ ERD /SQL diagramming
 - SQL https://drawsql.app/
 - Cloud AWS/Azure/GCP diagrams https://www.cloudskew.com/
 
+### Device Mocks 
+
 Mocking your browser/phone
 
 - Browser: https://shooot.bourhaouta.com/, https://screenshot.rocks/
@@ -523,6 +527,7 @@ Mocking your browser/phone
 - other devices https://deviceshots.com/
 - 🔥 [Facebook Design Devices](https://facebook.design/devices)
 - [Shotsnapp](https://shotsnapp.com/)
+- https://www.ls.graphics/devices-mockups
 - in context: [Device Mock-Up Inspiration](https://onepagelove.com/tag/devices)
 - [Lstore Graphics](https://www.ls.graphics/) – Includes video
 - [Creative Market](https://creativemarket.com/templates/mockups/mobile-web) device mockups
@@ -540,6 +545,7 @@ Mocking your browser/phone
 - :star: https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
 - https://www.seekpng.com/ 1m+ Transparent PNG Images For Free
 - https://freellustrations.com/
+- https://iradesign.io/ Build your own illustrations, Using our gradients and hand drawn sketch components.
 - https://gallery.manypixels.co/ ManyPixels offer free svg illustrations with the possibility to customize the color as well.
 - https://generator.opendoodles.com/ illustrations with color generator for svgs
 - https://opengameart.org/
@@ -580,8 +586,9 @@ Learn 3d illo in blender https://polygonrunway.com/
 - https://photos.icons8.com/creator/ Create custom stock photos
 - https://pexels.com
 - https://generated.photos/ AI-generated stock photos
-- https://visualsofearth.com/c/ nature, space, desert, etc
+- https://visualsofearth.com/c/ nature, space, desert, etc. mobile focused.
 - https://unsplash.com/ of course
+- https://photos.icons8.com/
 - http://www.ghibli.jp/info/013251/ studio ghibli free backgrounds
 - https://www.stocksy.com/ (premium)
 - https://duotone.shapefactory.co/?f=f56468&t=27184f&q=_&i=oMpAz-DN-9I (unsplash with duotone filter)
@@ -597,7 +604,7 @@ Learn 3d illo in blender https://polygonrunway.com/
 - https://unavatar.now.sh/ grab social images from username/email
 - http://avatars.adorable.io/#demo
 - https://personas.draftbit.com/ A playful avatar generator for the modern age.
-- https://getavataaars.com/
+- https://avataaars.com/ and https://getavataaars.com/
 - https://bigheads.io/
 - https://joeschmoe.io/ An illustrated avatar collection for
 developers and designers
@@ -711,6 +718,15 @@ background-image: linear-gradient(
 - http://thepatternlibrary.com/
 - http://svgbackgrounds.com/
 - https://bgjar.com/
+- https://products.ls.graphics/paaatterns/
+
+### Background Illustrations
+
+- https://freellustrations.com/
+
+### Background Stock Photos
+
+
 
 #### Misc Backgroundy Stuff
 
@@ -779,6 +795,7 @@ background-image: linear-gradient(
 - https://www.zapsplat.com/
 - https://www.myinstants.com/index/se/
 - https://www.youtube.com/audiolibrary/music?nv=1
+- https://icons8.com/music
 - https://freesound.org/
 
 Paid:
@@ -858,11 +875,27 @@ Tools:
 - GIMP alternative - https://glimpse-editor.org/
 - Lunacy - https://icons8.com/lunacy Graphic design software with built-in assets
 - Website design feedback collaboration - [Pagereview.io](https://pagereview.io/)
+- Invision https://www.invisionapp.com/inside-design/design-resources/
+- Scenes
+  - https://www.ls.graphics/scene-creators
+- UI kit collections
+  - https://www.ls.graphics/ui-ux-tools
 - Responsive Dev Browsers
   - FOSS https://responsively.app/
   - http://sizzy.co/ (paid)
   - https://polypane.app/ (paid)
   - [more alternatives](https://www.reddit.com/r/webdev/comments/f6ah78/responsive_website_testing_any_alternative_to/)
+
+### Figma
+
+- https://100dailyui.webflow.io/ Free Figma library of products, elements,
+and screens.
+- https://blush.design/ -  Free Customizable Illustrations With Figma Plugin
+
+### Sketch
+
+- http://freebiesketch.com/
+- https://www.sketchappsources.com/
 
 ## Canvas
 
@@ -929,6 +962,7 @@ Tutorials from successful Youtubers
 - https://github.com/bradtraversy/design-resources-for-developers
 - https://tiny-helpers.dev/
 - https://www.uigoodies.com/
+- https://www.uplabs.com/
 - https://nodesign.dev/
 - https://github.com/LisaDziuba/Awesome-Design-Tools
 - https://github.com/emmabostian/design-inspiration
