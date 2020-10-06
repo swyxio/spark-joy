@@ -548,11 +548,12 @@ Mocking your browser/phone
 - https://iradesign.io/ Build your own illustrations, Using our gradients and hand drawn sketch components.
 - https://gallery.manypixels.co/ ManyPixels offer free svg illustrations with the possibility to customize the color as well.
 - https://generator.opendoodles.com/ illustrations with color generator for svgs
+- https://www.openpeeps.com/ a hand-drawn illustration library to create scenes of people.
 - https://opengameart.org/
 - https://illlustrations.co/ 100 beautiful illustrations, designed by Vijay Verma during a 100 days of illustrations challenge.
 - https://isometric.online/ This website offers a searchable list of nice and free isometric illustrations.
 - https://www.glazestock.com/ 
-- https://lukaszadam.com/illustrations
+- https://lukaszadam.com/illustrations  library of Free Illustrations and Icons for everyone.
 - https://design.dev/ some illustrations in PS/sketch/etc. requires account.
 - https://www.manuelalangella.com/retroooo-folks/ Retroooo Folks is a vector-based Mix-and-Match library of hand-drawn sketches, created for Adobe Illustrator, Sketch and Adobe Draw.
 - https://woobro.design/
