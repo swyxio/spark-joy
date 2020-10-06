@@ -854,6 +854,10 @@ Tools:
 - GIMP alternative - https://glimpse-editor.org/
 - Lunacy - https://icons8.com/lunacy Graphic design software with built-in assets
 - Website design feedback collaboration - [Pagereview.io](https://pagereview.io/)
+- Responsive Dev Browsers
+  - FOSS https://responsively.app/
+  - http://sizzy.co/ (paid)
+  - https://polypane.app/ (paid)
 
 ## Canvas
 
