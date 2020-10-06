@@ -858,6 +858,7 @@ Tools:
   - FOSS https://responsively.app/
   - http://sizzy.co/ (paid)
   - https://polypane.app/ (paid)
+  - [more alternatives](https://www.reddit.com/r/webdev/comments/f6ah78/responsive_website_testing_any_alternative_to/)
 
 ## Canvas
 
