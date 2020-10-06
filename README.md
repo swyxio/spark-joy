@@ -44,15 +44,15 @@
 
 Keep it simple: https://jgthms.com/web-design-in-4-minutes/
 
-## CSS/UI Frameworks
+## CSS/UI Templates
 
-Copyable templates
+HTML/Bootstrap/jQuery-era templates
 
 - https://www.free-css.com/
-- https://www.creative-tim.com/
+- https://www.creative-tim.com/ ([copycat](https://themeselection.com/))
 - https://html5up.net/
 
-### CSS Frameworks 
+### Serious CSS Frameworks 
 
 Heavy ones (has js, bigger learning curve, but more OOTB) 
 
@@ -94,10 +94,12 @@ focus is fun/nostalgia
   - [Text UI CSS](https://github.com/vinibiavatti1/TuiCss): bios like UI's
   - [New Dawn](https://github.com/npjg/new-dawn): A mac classic After Dark inspired stylesheet.
   - more https://dev.to/iainfreestone/10-resources-for-recreating-old-school-retro-user-interfaces-today-hkj
+  
+- Arwes - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps https://arwes.dev/
 
 ### CSS Resets
 
-minimalism for serious applications
+more control in exchange for more work on your part.
 
   - eric meyer v2 https://meyerweb.com/eric/tools/css/reset/
   - https://github.com/tiaanduplessis/nanoreset
@@ -426,7 +428,13 @@ General & Misc
   - http://simpleicons.org/ icons for every brand like graphql, adobe xd, youtube, etc
   - https://css.gg/ 700+ Customizable & Retina-Ready app icons — entirely built in CSS 
   - https://worldvectorlogo.com/
-  
+- React Icons
+  - https://github.com/miukimiu/react-kawaii
+  - https://reactsvgicons.com/
+  - https://react-icons.netlify.com/#/icons/fa (typically fontawesome)
+  - https://github.com/bytedance/IconPark - more than 1,200 high-quality icons, and introduces an interface for customizing your icons. across React, Vue, SVG, PNG.
+  - https://github.com/useAnimations/react-useanimations
+
 
 **premium/paid icons**
 
@@ -591,13 +599,9 @@ developers and designers
 - https://amritpaldesign.com/toy-faces Toy Faces is a fun diverse library of 3D avatars for your design mockups and personal use.
 - https://gumroad.com/l/siKBl 3d diverse avatars, paid
 
+## Pure CSS Tricks
 
-## Pure CSS
-
-MAKE SURE TO CHECK OUT https://components.ai
-
-### Pure CSS Tricks
-
+- MAKE SURE TO CHECK OUT https://components.ai
 - https://twitter.com/JoshWComeau/status/1170358024319492097?s=20
 - Sarah Drasner picks https://codepen.io/collection/nMgKxJ?cursor=ZD0xJm89MCZwPTEmdj0yNjc5NTQ1
 - CSS3 3D Buttons http://simurai.com/archive/buttons/#
@@ -650,6 +654,8 @@ box-shadow:  20px 20px 22px #cfb3a6,
   - SVG icon transitions https://blog.nucleoapp.com/create-2-state-svg-powered-animated-icons-76ed19160a7e
   - scroll based svg text path animation https://www.youtube.com/watch?v=Tae96ze3xwY
   - stroke path animation https://css-tricks.com/a-trick-that-makes-drawing-svg-lines-way-easier/
+
+## Background Stuff
 
 ### Background Gradients and Patterns
 
@@ -711,7 +717,7 @@ background-image: linear-gradient(
 - Dimming/coloring text on background images https://coder-coder.com/background-image-opacity/
 - [True Grit Texture Supply](https://www.truegrittexturesupply.com/) PNG textures (paid)
 
-### Spinners
+## Spinners
 
 - web components https://wc-spinners.cjennings.dev/
 - Spinners https://tobiasahlin.com/spinkit/
@@ -721,7 +727,7 @@ background-image: linear-gradient(
 - https://andrew.wang-hoyer.com/experiments/svg-animations/
 - Single Element CSS Spinners https://projects.lukehaas.me/css-loaders/
 
-### Animations & Transitions
+## Animations & Transitions
 
 - Buttons, hover, inputs, and loaders https://cssfx.netlify.com/
 - general http://animista.net
@@ -736,8 +742,14 @@ background-image: linear-gradient(
 - Hover and loaders: https://www.csswand.dev/
 - Graphic animations: https://lottiefiles.com/
 - HTML animation? https://tumult.com/hype/ (paid)
+- Page Transitions with swup https://github.com/swup/swup ([css tricks](https://css-tricks.com/page-transitions-for-everyone/))
+- React
+  - https://react-simple-animate.now.sh/
+  - https://github.com/brunnolou/react-morph
+  - https://github.com/kitze/react-genie
+  - Page transitions https://github.com/joerez/react-transitions/
 
-### Animating Individual Elements
+## Individual Elements
 
 - links https://cssanimation.rocks/animating-links/
 - tooltips on hover https://kazzkiq.github.io/balloon.css/
@@ -782,6 +794,35 @@ Tools:
 - https://rbitr.github.io/ChartS.css/
 - Sparkline fonts in text: https://github.com/aftertheflood/sparks and https://www.scribbletone.com/typefaces/ff-chartwell
 
+### Nice React Components
+
+- https://react-smooth-range-input.now.sh/
+- Theme-ui-sketchy - https://github.com/beerose/theme-ui-sketchy roughjs components with themeui
+- React Physics Dragger https://react-physics-dragger-demo.netlify.com/
+- [React-Designer](http://react-designer.github.io/react-designer/): Easy to configure, lightweight, editable vector graphics in your react components.
+- `<Foldable>` from [Folding the DOM](https://www.joshwcomeau.com/posts/folding-the-dom/)
+- React Hamburger Icons https://hamburger-react.netlify.com/
+- React Curved Arrow https://react-curved-arrow.nickjanssen.com/
+- Spinners
+  - https://github.com/tienpham94/react-awesome-spinners - requires styled components
+  - https://github.com/davidhu2000/react-spinners
+  - https://github.com/JoshK2/react-spinners-css
+  - https://github.com/JoshK2/react-spinners-css
+  - https://www.npmjs.com/package/react-loaders-kit - 200kb tho
+  - https://github.com/adexin/spinners-react
+  - https://gooey-react.netlify.app/examples/rotating-loader/
+- PDF viewer https://react-pdf-viewer.dev/
+
+### React Toasting
+
+- https://cogoport.github.io/cogo-toast
+- https://fkhadra.github.io/react-toastify/
+
+### React Gamification
+
+- https://github.com/thedevelobear/react-rewards
+- React Confetti https://alampros.github.io/react-confetti/
+- React DOM Confetti https://daniel-lundin.github.io/react-dom-confetti/
 
 ### Misc Weird fun stuff
 
@@ -811,7 +852,6 @@ Tools:
 - Image editing/Export to SVG/Object Removal/Photoshop - [Photopea](https://www.photopea.com/)
 - GIMP alternative - https://glimpse-editor.org/
 - Lunacy - https://icons8.com/lunacy Graphic design software with built-in assets
-- Figma
 - Website design feedback collaboration - [Pagereview.io](https://pagereview.io/)
 
 ## Canvas
@@ -821,10 +861,6 @@ Tools:
 - Canvas Cards https://canvas-cards.glitch.me/
 - Open Processing https://www.openprocessing.org/
 
-## Page Transitions
-
-- swup https://github.com/swup/swup ([css tricks](https://css-tricks.com/page-transitions-for-everyone/))
-
 ## WebGL
 
 - [Curtains.js](https://www.curtainsjs.com/) ([example](https://codepen.io/martinlaxenaire/post/webgl-enhanced-drag-slider-tutorial-with-curtains-js-part-3))
@@ -833,60 +869,6 @@ Tools:
 
 - LowPoly 3D models from Google https://poly.google.com/search/duck
 - https://www.kukla-kit.com/ Huge pack of 3D elements accessible directly from Figma.
-
-## React
-
-### Simple Animation
-
-- https://react-simple-animate.now.sh/
-- https://github.com/brunnolou/react-morph
-- https://github.com/kitze/react-genie
-
-### Page transitions
-
-- https://github.com/joerez/react-transitions/
-
-### Nice React Components
-
-- https://react-smooth-range-input.now.sh/
-- Theme-ui-sketchy - https://github.com/beerose/theme-ui-sketchy roughjs components with themeui
-- React Physics Dragger https://react-physics-dragger-demo.netlify.com/
-- [React-Designer](http://react-designer.github.io/react-designer/): Easy to configure, lightweight, editable vector graphics in your react components.
-- `<Foldable>` from [Folding the DOM](https://www.joshwcomeau.com/posts/folding-the-dom/)
-- React Hamburger Icons https://hamburger-react.netlify.com/
-- React Curved Arrow https://react-curved-arrow.nickjanssen.com/
-- Spinners
-  - https://github.com/tienpham94/react-awesome-spinners - requires styled components
-  - https://github.com/davidhu2000/react-spinners
-  - https://github.com/JoshK2/react-spinners-css
-  - https://github.com/JoshK2/react-spinners-css
-  - https://www.npmjs.com/package/react-loaders-kit - 200kb tho
-  - https://github.com/adexin/spinners-react
-  - https://gooey-react.netlify.app/examples/rotating-loader/
-- PDF viewer https://react-pdf-viewer.dev/
-
-## Fun React UI frameworks
-
-- Arwes - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps https://arwes.dev/
-
-### Toasting
-
-- https://cogoport.github.io/cogo-toast
-- https://fkhadra.github.io/react-toastify/
-
-### Gamification
-
-- https://github.com/thedevelobear/react-rewards
-- React Confetti https://alampros.github.io/react-confetti/
-- React DOM Confetti https://daniel-lundin.github.io/react-dom-confetti/
-
-### Icons
-
-- https://github.com/miukimiu/react-kawaii
-- https://reactsvgicons.com/
-- https://react-icons.netlify.com/#/icons/fa (typically fontawesome)
-- https://github.com/bytedance/IconPark - more than 1,200 high-quality icons, and introduces an interface for customizing your icons. across React, Vue, SVG, PNG.
-- https://github.com/useAnimations/react-useanimations
 
 ## Video
 
@@ -1047,21 +1029,19 @@ Tutorials from successful Youtubers
 - Manypixels
 - Contentfly (copywriting)
 
-## courses
+## Courses
 
 - https://learnux.io/
+- for the 4 minute version: https://jgthms.com/web-design-in-4-minutes/
+- for the 4 hour version: https://frontendmasters.com/courses/design-for-developers/
+- for the 4 week version: https://refactoringui.com/book
+- for the 4 month version: https://learnui.design/
+- i may be signing up for https://shiftnudge.com/ .. its super expensive tho
+- upcoming design for devs book from adrian twarog https://www.enhanceui.com/
 
-for the 4 minute version: https://jgthms.com/web-design-in-4-minutes/
-for the 4 hour version: https://frontendmasters.com/courses/design-for-developers/
-for the 4 week version: https://refactoringui.com/book
-for the 4 month version: https://learnui.design/
-
-i may be signing up for https://shiftnudge.com/ .. its super expensive tho
-
-## Narratives
+## The value of design
 
 - https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908
-
 
 ## Interaction/Design Inspo
 
@@ -1079,7 +1059,8 @@ i may be signing up for https://shiftnudge.com/ .. its super expensive tho
 - https://pageflows.com/
 - https://goodui.org/ "leaked ab tests" 
 
-## Mock API
+## Mock APIs
+
 - https://dog.ceo/
 - https://randomuser.me/
 - https://swapi.dev/
