@@ -1113,3 +1113,4 @@ Tutorials from successful Youtubers
 - https://jsonplaceholder.typicode.com/
 - https://github.com/public-apis/public-apis
 - https://public-apis.io/ (A Directory of Free Public & Open Rest APIs)
+- https://pokeapi.co/api/v2/
