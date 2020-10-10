@@ -402,6 +402,7 @@ Logos
 
 General & Misc
 
+- https://iconsear.ch/ instant search of 50k svg icons from GitHub and GitLab
 - list of lists of icons https://icones.netlify.app/
 - https://thenounproject.com/ Every icon you can think of, in PNG or SVG formats. They offer over 20 million icons, with built-in customization colors like size and color. Requires login, needs creative commons attribution or $3 download
 - https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties. PNG, JPG, iOS, Android, PDF. No svg.
@@ -431,6 +432,7 @@ General & Misc
   - http://simpleicons.org/ icons for every brand like graphql, adobe xd, youtube, etc
   - https://css.gg/ 700+ Customizable & Retina-Ready app icons — entirely built in CSS 
   - https://worldvectorlogo.com/
+  - https://www.vectorlogo.zone/ - consistently formatted SVG logos
 - React Icons
   - https://github.com/miukimiu/react-kawaii
   - https://reactsvgicons.com/
