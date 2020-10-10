@@ -434,7 +434,7 @@ General & Misc
 - React Icons
   - https://github.com/miukimiu/react-kawaii
   - https://reactsvgicons.com/
-  - https://react-icons.netlify.com/#/icons/fa (typically fontawesome)
+  - https://react-icons.netlify.com/#/icons/fa (typically fontawesome). note that there is some tree shaking issues in the discussions. you may wish to use the https://github.com/meronex/meronex-icons fork instead
   - https://github.com/bytedance/IconPark - more than 1,200 high-quality icons, and introduces an interface for customizing your icons. across React, Vue, SVG, PNG.
   - https://github.com/useAnimations/react-useanimations
 
