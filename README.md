@@ -869,7 +869,7 @@ Tools:
 - RoughJS Annotation - https://roughnotation.com/
 - Greensock GSAP scroll trigger demo with a ThreeJS Plane model https://codepen.io/ste-vg/pen/GRooLza
 - little HTML tricks that are handy https://htmldom.dev/
-
+- https://1stwebdesigner.com/css-effects/
 
 ## Design Software
 
