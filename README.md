@@ -801,6 +801,7 @@ background-image: linear-gradient(
 - https://www.youtube.com/audiolibrary/music?nv=1
 - https://icons8.com/music
 - https://freesound.org/
+- https://cchound.com/ 100% free, quality CC audio
 
 Paid:
 
@@ -814,6 +815,7 @@ Tools:
 
 - https://www.audacityteam.org/
 - https://joshwcomeau.com/react/announcing-use-sound-react-hook/
+- https://source-separation.github.io/tutorial/landing.html
 
 ### Lightweight Charts/Dataviz
 
