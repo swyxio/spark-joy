@@ -967,6 +967,7 @@ Tutorials from successful Youtubers
 ### Perf
 
 - https://tinypng.com/
+- https://resizeimage.net/
 
 ## Other Lists like this one
 
