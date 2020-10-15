@@ -964,6 +964,10 @@ Tutorials from successful Youtubers
 - https://monodraw.helftone.com/
 - text to diagramming tools [list](https://smusamashah.github.io/text-to-diagram)
 
+### Perf
+
+- https://tinypng.com/
+
 ## Other Lists like this one
 
 - https://a11yresources.webflow.io/ 
