@@ -402,6 +402,8 @@ Logos
 
 General & Misc
 
+> Note you can put gradients on SVG icons manually https://play.tailwindcss.com/yM2N8GpEUK
+
 - https://iconsear.ch/ instant search of 50k svg icons from GitHub and GitLab
 - list of lists of icons https://icones.netlify.app/
 - https://thenounproject.com/ Every icon you can think of, in PNG or SVG formats. They offer over 20 million icons, with built-in customization colors like size and color. Requires login, needs creative commons attribution or $3 download
