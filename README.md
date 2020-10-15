@@ -951,6 +951,7 @@ Tutorials from successful Youtubers
 
 - RoughJS Animated Annotation - https://roughnotation.com/
 - https://excalidraw.com/
+- https://alias-rahil.github.io/handwritten.js/
 
 ### Pixel Art
 
