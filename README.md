@@ -119,6 +119,7 @@ More. Spacing. Please.
 ## Layout
 
 - https://gedd.ski/post/article-grid-layout/
+- css grid tool https://grid.layoutit.com/
 - https://every-layout.dev/
 - https://csslayout.io/ ([github](https://github.com/phuoc-ng/csslayout))
 - Visual Hierarchy https://youtu.be/qZWDJqY27bw
