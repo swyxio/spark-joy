@@ -107,6 +107,7 @@ focus is fun/nostalgia
   
 - Arwes - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps https://arwes.dev/
 - https://secretgeek.github.io/html_wysiwyg/html.html This page is a truly naked, brutalist html quine.
+- https://mrcoles.com/demo/markdown-css/ CSS to make HTML markup look like plain-text markdown.
 
 ### CSS Resets
 
