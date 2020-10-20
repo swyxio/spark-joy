@@ -403,6 +403,7 @@ Don't forget them!
   - [FontIcon](https://gauger.io/fonticon/) - Generate favicons and images from Font Awesome icons
   - [Favicon Generator](http://tools.dynamicdrive.com/favicon/) - another one
   - https://textmoji.app/ small text icons meant for Slack but also can use for faviconning
+  - [SVG Favicon maker](https://formito.com/tools/favicon) - supports emojis and 2 letter favicons with custom fonts
   - SVG favicons are modifiable by scroll percentage
     - you can https://css-tricks.com/svg-favicons-and-all-the-fun-things-we-can-do-with-them/
     - put the scroll percentage! https://css-tricks.com/how-i-put-the-scroll-percentage-in-the-browser-title-bar/
