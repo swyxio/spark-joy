@@ -887,6 +887,7 @@ Tools:
 - [Gooey Effect with SVG and Filters](https://css-tricks.com/gooey-effect/)
 - [Backdrop Filters and Multiple Inner Shadows](https://twitter.com/MengTo/status/1311029761490198528?s=20)
 - [Swyx CSS Filter toy](https://svelte.dev/repl/defc901c5f434ed4a76161605cf1db76?version=3.29.0)
+- [CSS motion blur on css tricks](https://css-tricks.com/how-to-create-a-realistic-motion-blur-with-css-transitions/)
 - [Instagram filters created with CSS filters, by Una](https://una.im/CSSgram/)
 - [CSS only hover effect with Headers](https://codepen.io/oliviale/pen/YgzNzK)
 - [SVG iPhone mock and animated notification transition](https://codepen.io/sdras/pen/LYELqPX)
