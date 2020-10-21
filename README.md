@@ -145,6 +145,10 @@ More. Spacing. Please.
 - https://csslayout.io/ ([github](https://github.com/phuoc-ng/csslayout))
 - Visual Hierarchy https://youtu.be/qZWDJqY27bw
 
+special topic - responsive media
+
+- https://piccalil.li/tutorial/build-a-responsive-media-browser-with-css/
+
 ## Typography
 
 <details>
