@@ -692,6 +692,7 @@ box-shadow:  20px 20px 22px #cfb3a6,
 - https://wweb.dev/resources/css-separator-generator
 - https://inkscape.org/
 - text effects https://css-tricks.com/animate-blob-text-with-svg-text-clipping/
+- more text effects https://letsbuildui.dev/articles/css-text-effects-five-minimal-examples
 - animate an existing svg https://svgartista.net/
 - `mix-blend-mode: screen` is [really good for SVG icons, with hover](https://ishadeed.com/article/blending-modes-css/)
 - SVG animations
