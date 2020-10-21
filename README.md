@@ -569,6 +569,7 @@ Mocking your browser/phone
 - :star: https://www.humaaans.com/ diverse, customizable human svgs
   - https://fresh-folk.com/ is similar
 - :star: https://www.blackillustrations.com/ "Beautiful, FREE illustrations of black people for your next digital project"
+  - hire custom designs via https://www.illustratorhub.com/
 - :star: https://www.vecteezy.com/ High quality vector graphics with worry-free licensing for personal and commercial use.
 - :star: https://streamlineicons.com/ux/ illustrations to go with Streamline icons
 - https://icons8.com/illustrations (previously ouch.pics)
