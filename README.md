@@ -47,10 +47,11 @@ Keep it simple: https://jgthms.com/web-design-in-4-minutes/
 
 ## CSS/UI Templates
 
-HTML/Bootstrap/jQuery-era templates
+HTML/CSS nice templates
 
 - https://www.free-css.com/
-- https://www.creative-tim.com/ ([copycat](https://themeselection.com/))
+- https://www.creative-tim.com/
+- https://themeselection.com/
 - https://html5up.net/
 
 ### Serious CSS Frameworks 
