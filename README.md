@@ -553,7 +553,8 @@ Backend entity/ ERD /SQL diagramming
 Mocking your browser/phone
 
 - Browser: https://shooot.bourhaouta.com/, https://screenshot.rocks/
-- Books: https://diybookcovers.com/3Dmockups/ https://3d-book-css.netlify.app/
+- Books: https://diybookcovers.com/3Dmockups/ 
+  - https://3d-book-css.netlify.app/ and https://3dbook.xyz/
 - Macbook: https://magicmockups.com
 - animate them, why not https://deviceful.app/
 - phone/watch: https://www.rotato.xyz/
