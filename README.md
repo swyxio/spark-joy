@@ -514,6 +514,7 @@ Entity Relationship Diagrams
 
 Special Focus For Cloud Architecture diagrams (needs logos etc)
 
+- Amazon architecture icons: https://aws.amazon.com/architecture/icons/ as well as the software that has them built in
 - https://www.draw.io/
 - https://www.lucidchart.com/
 - https://www.omnigroup.com/omnigraffle/ (used by tim bray)
