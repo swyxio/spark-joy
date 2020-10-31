@@ -549,6 +549,10 @@ Backend entity/ ERD /SQL diagramming
 - SQL https://drawsql.app/
 - Cloud AWS/Azure/GCP diagrams https://www.cloudskew.com/
 
+DIY illustration
+
+- Wobble paint https://www.lexaloffle.com/bbs/?tid=40058
+
 ### Device Mocks 
 
 Mocking your browser/phone
