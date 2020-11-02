@@ -760,6 +760,7 @@ background-image: linear-gradient(
 - https://www.gradientmagic.com/
 - http://thepatternlibrary.com/
 - http://svgbackgrounds.com/
+- https://pattern.monster/
 - https://bgjar.com/
 - https://products.ls.graphics/paaatterns/
 
