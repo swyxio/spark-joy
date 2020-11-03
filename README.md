@@ -130,6 +130,13 @@ more control in exchange for more work on your part.
 - chrome extension https://chrome.google.com/webstore/detail/a11ycss/iolfinldndiiobhednboghogkiopppid?hl=en
 
 
+### Tailwind Component Libraries
+
+- https://github.com/thedevdojo/tails
+- http://tailwindcomponents.com/
+- https://tailwindui.com/components
+
+
 ## Spacing
 
 More. Spacing. Please.
