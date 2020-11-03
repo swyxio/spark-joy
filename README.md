@@ -838,6 +838,10 @@ background-image: linear-gradient(
 - 3D LED switch: https://codepen.io/jkantner/pen/VwaBomY
 - The Crazy Egg Guide to Great Form UI and UX https://www.crazyegg.com/blog/guides/great-form-ui-and-ux/
 
+### Tables
+
+- https://www.uxbooth.com/articles/designing-user-friendly-data-tables/
+
 ### Sound
 
 - https://www.zapsplat.com/
