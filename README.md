@@ -934,6 +934,7 @@ Tools:
 ## Design Software
 
 - Image editing/Export to SVG/Object Removal/Photoshop - [Photopea](https://www.photopea.com/)
+- online SVG editor - https://yqnn.github.io/svg-path-editor/
 - GIMP alternative - https://glimpse-editor.org/
 - Lunacy - https://icons8.com/lunacy Graphic design software with built-in assets
 - Website design feedback collaboration - [Pagereview.io](https://pagereview.io/)
