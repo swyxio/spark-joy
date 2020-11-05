@@ -580,6 +580,7 @@ Mocking your browser/phone
 
 ### Illustrations
 
+- https://www.reddit.com/r/FreeIllustrations/top?t=all
 - :star: https://undraw.co/ An open-source illustrations website, where you can change the colors of the illustrations online before downloading.
 - :star: https://www.humaaans.com/ diverse, customizable human svgs
   - https://fresh-folk.com/ is similar
@@ -592,6 +593,10 @@ Mocking your browser/phone
 - :star: https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
 - https://www.seekpng.com/ 1m+ Transparent PNG Images For Free
 - https://freellustrations.com/
+- https://www.reddit.com/r/FreeIllustrations/top/?t=all
+- https://2.flexiple.com/scale/home
+- https://www.glazestock.com/
+- https://openclipart.org/
 - https://iradesign.io/ Build your own illustrations, Using our gradients and hand drawn sketch components.
 - https://gallery.manypixels.co/ ManyPixels offer free svg illustrations with the possibility to customize the color as well.
 - https://generator.opendoodles.com/ illustrations with color generator for svgs
@@ -1074,6 +1079,7 @@ Tutorials from successful Youtubers
 - https://tiny-helpers.dev/
 - https://www.uigoodies.com/
 - https://www.uplabs.com/
+- https://github.com/neutraltone/awesome-stock-resources
 - https://nodesign.dev/
 - https://github.com/LisaDziuba/Awesome-Design-Tools
 - https://github.com/emmabostian/design-inspiration
