@@ -92,23 +92,32 @@ main {
 
 ### Fun CSS Frameworks
 
-focus is fun/nostalgia
+focus is fun
 
   - https://www.getpapercss.com/ (handrwritingey css similar to roughjs)
   - https://terminalcss.xyz/
-  - [NES.css](https://github.com/nostalgic-css/NES.css): NES.css is a NES-style(8bit-like) CSS Framework.
-  - [PSone.css](https://github.com/micah5/PSone.css): PS1 style CSS Framework, inspired by NES.css.
-  - [LaTeX.css](https://latex.now.sh/)
-  - [98.css](https://github.com/jdan/98.css): A Windows 98 inspired framework for building faithful recreations of old UIs.
-  - [XP.css](https://github.com/botoxparty/XP.css): A Windows XP inspired framework for building faithful recreations of operating system GUIs. An extension of 98.css.
-  - [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386): A vintage 1980s DOS inspired Twitter Bootstrap theme
-  - [Text UI CSS](https://github.com/vinibiavatti1/TuiCss): bios like UI's
-  - [New Dawn](https://github.com/npjg/new-dawn): A mac classic After Dark inspired stylesheet.
-  - more https://dev.to/iainfreestone/10-resources-for-recreating-old-school-retro-user-interfaces-today-hkj
-  
-- Arwes - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps https://arwes.dev/
+
+focus is brutalism
+
 - https://secretgeek.github.io/html_wysiwyg/html.html This page is a truly naked, brutalist html quine.
 - https://mrcoles.com/demo/markdown-css/ CSS to make HTML markup look like plain-text markdown.
+
+focus is fun/nostalgia
+
+- [NES.css](https://github.com/nostalgic-css/NES.css): NES.css is a NES-style(8bit-like) CSS Framework.
+- [PSone.css](https://github.com/micah5/PSone.css): PS1 style CSS Framework, inspired by NES.css.
+- [LaTeX.css](https://latex.now.sh/)
+- [98.css](https://github.com/jdan/98.css): A Windows 98 inspired framework for building faithful recreations of old UIs.
+- [XP.css](https://github.com/botoxparty/XP.css): A Windows XP inspired framework for building faithful recreations of operating system GUIs. An extension of 98.css.
+- [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386): A vintage 1980s DOS inspired Twitter Bootstrap theme
+- [Text UI CSS](https://github.com/vinibiavatti1/TuiCss): bios like UI's
+- [New Dawn](https://github.com/npjg/new-dawn): A mac classic After Dark inspired stylesheet.
+- more https://dev.to/iainfreestone/10-resources-for-recreating-old-school-retro-user-interfaces-today-hkj
+
+focus in futurism
+  
+- Arwes - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps https://arwes.dev/
+- http://augmented-ui.com/ - Futuristic, Sci-Fi shaping for any element
 
 ### CSS Resets
 
