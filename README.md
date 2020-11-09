@@ -1240,3 +1240,4 @@ Tutorials from successful Youtubers
 - https://github.com/public-apis/public-apis
 - https://public-apis.io/ (A Directory of Free Public & Open Rest APIs)
 - https://pokeapi.co/api/v2/
+- https://github.com/Marak/faker.js
