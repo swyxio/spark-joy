@@ -320,6 +320,10 @@ You can also have a grey for secondary content, and lighter grey for tertiary co
 
 Don't use system default/named colors, too brutal. Soften it a bit. "[Never use black](https://ianstormtaylor.com/design-tip-never-use-black/)" has been proposed as a rule, but [this is debated](https://news.ycombinator.com/item?id=24303042).
 
+1 in 12 men and 1 in 200 women have color blindness. Make sure to check that important distinctions can be perceived. 
+
+- https://twitter.com/LoanReads/status/1313974210151305218?s=20
+- https://www.colourblindawareness.org/colour-blindness/
 
 <details>
 <summary>
