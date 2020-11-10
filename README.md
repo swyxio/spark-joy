@@ -974,6 +974,7 @@ Tools:
 - https://100dailyui.webflow.io/ Free Figma library of products, elements,
 and screens.
 - https://blush.design/ -  Free Customizable Illustrations With Figma Plugin
+- https://www.figmafreebies.com/
 
 ### Sketch
 
@@ -1099,6 +1100,7 @@ Tutorials from successful Youtubers
 - https://nodesign.dev/
 - https://github.com/LisaDziuba/Awesome-Design-Tools
 - https://github.com/emmabostian/design-inspiration
+- https://undesign.learn.uno/
 
 ## Helpful podcasts and talks
 
