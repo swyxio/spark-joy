@@ -445,17 +445,20 @@ Don't forget them!
 
 ### Icons
 
-Logos
+Logos (incl company logos)
 - https://logosear.ch/ superfast metasearch of 200k svg logos from GitHub
 - https://seeklogo.com/
 - https://www.iconfinder.com/iconsets/payment-method-1
 - https://www.logology.co/
+- https://iconsear.ch/ instant search of 50k svg icons from GitHub and GitLab
 
 General & Misc
 
 > Note you can put gradients on SVG icons manually https://play.tailwindcss.com/yM2N8GpEUK
 
-- https://iconsear.ch/ instant search of 50k svg icons from GitHub and GitLab
+- ⭐ https://www.heroicons.com/ Steve schoger's (somewhat limited) svg iconset
+- ⭐ https://phosphoricons.com/ 3000+ fully customizable free SVG and PNG icons
+- ⭐ https://tablericons.com/ 937 Fully customizable free SVG icons
 - list of lists of icons https://icones.netlify.app/
 - https://thenounproject.com/ Every icon you can think of, in PNG or SVG formats. They offer over 20 million icons, with built-in customization colors like size and color. Requires login, needs creative commons attribution or $3 download
 - https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties. PNG, JPG, iOS, Android, PDF. No svg.
@@ -468,15 +471,12 @@ General & Misc
 - https://icons8.com/line-awesome fontawesome-like icons
 - http://www.entypo.com/
 - Bootstrap Icons https://github.com/twbs/icons
-- https://www.heroicons.com/
 - https://systemuicons.com/
-- https://phosphoricons.com/ a flexible icon family for interfaces, diagrams, presentations
 - https://icons.mono.company/
 - https://iconscout.com/unicons and https://github.com/Iconscout/react-unicons
 - https://feathericons.com/
 - https://www.zondicons.com/
 - https://linearicons.com/free
-- https://tablericons.com/ 558 Fully customizable SVG icons
 - animated icons http://www.transformicons.com/builder.html
 - https://game-icons.net/
 - Covid 19 icons - https://design.dev/ 
