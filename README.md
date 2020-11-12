@@ -470,6 +470,7 @@ General & Misc
 - Bootstrap Icons https://github.com/twbs/icons
 - https://www.heroicons.com/
 - https://systemuicons.com/
+- https://phosphoricons.com/ a flexible icon family for interfaces, diagrams, presentations
 - https://icons.mono.company/
 - https://iconscout.com/unicons and https://github.com/Iconscout/react-unicons
 - https://feathericons.com/
