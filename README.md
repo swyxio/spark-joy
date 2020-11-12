@@ -1248,3 +1248,4 @@ Tutorials from successful Youtubers
 - https://public-apis.io/ (A Directory of Free Public & Open Rest APIs)
 - https://pokeapi.co/api/v2/
 - https://github.com/Marak/faker.js
+- https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
