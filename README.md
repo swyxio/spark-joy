@@ -993,10 +993,16 @@ and screens.
 
 - [Curtains.js](https://www.curtainsjs.com/) ([example](https://codepen.io/martinlaxenaire/post/webgl-enhanced-drag-slider-tutorial-with-curtains-js-part-3))
 
-## ThreeJS
+## 3D
+
+ThreeJS
 
 - LowPoly 3D models from Google https://poly.google.com/search/duck
 - https://www.kukla-kit.com/ Huge pack of 3D elements accessible directly from Figma.
+
+BabylonJS
+
+- https://babylonjs.medium.com/babylon-js-4-2-simplicity-reimagined-965f88d0fad
 
 ## Video
 
