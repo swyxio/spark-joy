@@ -26,7 +26,7 @@
 - [Design Software](#design-software)
 - [Canvas](#canvas)
 - [WebGL](#webgl)
-- [ThreeJS](#threejs)
+- [3D](#3d)
 - [Video](#video)
 - [Onboarding](#onboarding)
 - [Misc Genres (Handwriting, Pixel, ASCII styles)](#misc-genres-handwriting-pixel-ascii-styles)
