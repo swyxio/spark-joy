@@ -411,6 +411,7 @@ But here are tools to help generate palettes:
 - https://maketintsandshades.com/ Generate tint and shades from hex code
 - Special usecases: 
   - Pick colors from an image https://imagehive.co/
+  - Mix colors in pure CSS https://css-tricks.com/mixing-colors-in-pure-css/
 
 ### Color knowledge
 
