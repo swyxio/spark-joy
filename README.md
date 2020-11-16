@@ -460,6 +460,7 @@ General & Misc
 - ⭐ https://www.heroicons.com/ Steve schoger's (somewhat limited) svg iconset
 - ⭐ https://phosphoricons.com/ 3000+ fully customizable free SVG and PNG icons
 - ⭐ https://tablericons.com/ 937 Fully customizable free SVG icons
+- https://icons.modulz.app/ Radix Icons - A crisp set of 15×15 icons designed by the Modulz team. - some great app icons
 - list of lists of icons https://icones.netlify.app/
 - https://thenounproject.com/ Every icon you can think of, in PNG or SVG formats. They offer over 20 million icons, with built-in customization colors like size and color. Requires login, needs creative commons attribution or $3 download
 - https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties. PNG, JPG, iOS, Android, PDF. No svg.
