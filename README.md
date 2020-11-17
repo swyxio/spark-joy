@@ -452,6 +452,7 @@ Logos (incl company logos)
 - https://www.iconfinder.com/iconsets/payment-method-1
 - https://www.logology.co/
 - https://iconsear.ch/ instant search of 50k svg icons from GitHub and GitLab
+- https://macosicons.com/  icons intended to replace mac desktop icons
 
 General & Misc
 
