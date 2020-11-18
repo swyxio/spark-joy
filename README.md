@@ -130,6 +130,7 @@ more control in exchange for more work on your part.
   - https://gist.github.com/DavidWells/18e73022e723037a50d6
   - http://necolas.github.io/normalize.css/ (yes, technically does more than a reset)
     - Tailwind's https://tailwindcss.com/docs/preflight/ is built atop normalize
+  - https://github.com/kripod/css-homogenizer - a modern take on Eric Meyer's Reset, based upon direct comparison between user agent style sheets.
 
 ### CSS A11y Checkers
 
