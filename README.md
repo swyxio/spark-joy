@@ -526,13 +526,12 @@ Before you get to the tools - some good thinking (and lists of tools) on archite
 General Purpose
 
 - https://excalidraw.com/ (free, open source)
-- miro.om - freemium, used by Maggie
+- https://miro.com/ - freemium, used by Maggie
 - https://www.draw.io/ - now [shifted](https://www.diagrams.net/blog/move-diagrams-net) to https://www.diagrams.net/ (free) - has [VS Code extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 - https://inkscape.org/ (free)
 - https://www.websequencediagrams.com/
 - https://whimsical.com/ ($10/mo)
 - https://www.lucidchart.com/
-- https://miro.com/
 - https://www.simplediagrams.com/
 - [Microsoft Visio](https://www.microsoft.com/en-sg/microsoft-365/visio/flowchart-software)
 - https://www.plectica.com/
