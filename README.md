@@ -797,6 +797,7 @@ background-image: linear-gradient(
 - https://pattern.monster/
 - https://bgjar.com/
 - https://products.ls.graphics/paaatterns/
+- https://notchris.net/patterns/ (Really simple SVG Patterns using single unicode characters.)
 
 ### Background Illustrations
 
