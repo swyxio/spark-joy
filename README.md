@@ -56,13 +56,25 @@ HTML/CSS nice templates
 
 ### Serious CSS Frameworks 
 
-Heavy ones (has js, bigger learning curve, but more OOTB) 
+#### Heavier CSS Frameworks
 
-  - Bootstrap, [Foundation](https://get.foundation/sites/docs/), [Blaze UI](https://www.blazeui.com/), [PatternFly](https://www.patternfly.org/v4/documentation/core/components/aboutmodalbox), [UIKit](https://getuikit.com/docs/introduction)
-  - Utility CSS: [Bonsai CSS](https://www.bonsaicss.com/), [Tailwindcss](https://tailwindcss.com/)
-  - Web Components: [Weightless](https://weightless.dev/elements/checkbox), [Shoelace](https://shoelace.style/)
+bigger learning curve, may have js, but more OOTB)
 
-Drop-in ones (lighter, no js)
+  - Bootstrap
+  - [Foundation](https://get.foundation/sites/docs/)
+  - [Blaze UI](https://www.blazeui.com/)
+  - [PatternFly](https://www.patternfly.org/v4/documentation/core/components/aboutmodalbox)
+  - [UIKit](https://getuikit.com/docs/introduction)
+  - Utility CSS
+    - [Bonsai CSS](https://www.bonsaicss.com/)
+    - [Tailwindcss](https://tailwindcss.com/)
+  - Web Components
+    - [Weightless](https://weightless.dev/elements/checkbox)
+    - [Shoelace](https://shoelace.style/)
+
+### Drop-in CSS Frameworks
+
+lighter, no js. preview some of these with https://sites.yax.com/
 
   - [Spectre.css](https://picturepan2.github.io/spectre/getting-started/installation.html)
   - https://purecss.io/
