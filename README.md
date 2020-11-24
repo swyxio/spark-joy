@@ -472,7 +472,7 @@ General & Misc
 
 > Note you can put gradients on SVG icons manually https://play.tailwindcss.com/yM2N8GpEUK
 
-- ⭐ https://www.heroicons.com/ Steve schoger's (somewhat limited) svg iconset
+- ⭐ https://www.heroicons.com/ Steve schoger's (somewhat limited) svg iconset. another viewer: https://heroicons.dev/
 - ⭐ https://phosphoricons.com/ 3000+ fully customizable free SVG and PNG icons
 - ⭐ https://tablericons.com/ 937 Fully customizable free SVG icons
 - https://icons.modulz.app/ Radix Icons - >250 15×15 icons designed by the Modulz team. - some great app icons
