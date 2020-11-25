@@ -322,12 +322,12 @@ Note: `vw` has known a11y issues: Preserve Zooming. [Sara Soueidan](https://twit
 
 You may wish to use `max-width: 60ch` on content. [Note on the `ch` unit not being EXACTLY 60 chars](https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/)
 
-## Color Picking
+## Colors
 
 Pick a primary "brand" color to match your personality. [DO NOT OVERUSE IT.](https://twitter.com/steveschoger/status/1299372332579008515)
 
 - Blue: safe, familiar
-- Gold: expensive, sophisticated ([Examples](https://twitter.com/erikdkennedy/status/948914185596960768))
+- Gold: expensive, sophisticated ([Examples](https://twitter.com/erikdkennedy/status/948914185596960768), [again](https://twitter.com/erikdkennedy/status/1331236629571362816?s=20))
 - Pink: fun, not so serious
 
 You can also have a grey for secondary content, and lighter grey for tertiary content.
@@ -889,6 +889,7 @@ background-image: linear-gradient(
 ### Tables
 
 - https://www.uxbooth.com/articles/designing-user-friendly-data-tables/
+- https://twitter.com/erikdkennedy/status/1329787833058353154?s=20
 
 ### Sound
 
