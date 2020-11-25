@@ -13,7 +13,7 @@
 - [Spacing](#spacing)
 - [Layout](#layout)
 - [Typography](#typography)
-- [Color Picking](#color-picking)
+- [Colors](#colors)
 - [Icons and Favicons](#icons-and-favicons)
 - [Diagramming](#diagramming)
 - [Wireframing](#wireframing)
