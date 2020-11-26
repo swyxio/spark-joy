@@ -1245,6 +1245,7 @@ Tutorials from successful Youtubers
 - for the 4 month version: https://learnui.design/
 - i may be signing up for https://shiftnudge.com/ .. its super expensive tho
 - upcoming design for devs book from adrian twarog https://www.enhanceui.com/
+- meng to https://designcode.io/ui-design-for-developers
 
 ## The value of design
 
