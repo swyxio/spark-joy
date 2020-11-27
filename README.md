@@ -440,6 +440,7 @@ But here are tools to help generate palettes:
 - [Justin Baker on Color Theory](https://medium.muz.li/the-ultimate-ux-guide-to-color-design-4d0a18a706ed)
 - [How to do Dark Mode right](https://darkmodedesign.xyz/)
 - [Inventorying and naming a Color Palette at UXPin](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
+- [Reasoning about Color](http://notes.neeasade.net/color-spaces.html) some light reading on color spaces and transforms (eg "pastelize" operation) 
 </details>
 
 ## Icons and Favicons
