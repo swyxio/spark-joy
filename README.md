@@ -469,6 +469,7 @@ Logos (incl company logos)
 - https://www.logology.co/
 - https://iconsear.ch/ instant search of 50k svg icons from GitHub and GitLab
 - https://macosicons.com/  icons intended to replace mac desktop icons
+- https://awsicons.dev/ AWS icons
 
 General & Misc
 
@@ -559,6 +560,7 @@ Entity Relationship Diagrams
 Special Focus For Cloud Architecture diagrams (needs logos etc)
 
 - Amazon architecture icons: https://aws.amazon.com/architecture/icons/ as well as the software that has them built in
+  - https://awsicons.dev/ AWS icons
 - https://www.draw.io/
 - https://www.lucidchart.com/
 - https://www.omnigroup.com/omnigraffle/ (used by tim bray)
