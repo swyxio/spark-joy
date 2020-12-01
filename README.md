@@ -254,6 +254,7 @@ special topic - responsive media
     - Caveat and Reenie Beanie on google fonts  https://twitter.com/round/status/1178090890004455424?s=19
 - Font Pairing
   - Canva has a great tool: https://www.canva.com/font-combinations/
+  - https://www.colorsandfonts.com/font-pairings
 - [Font variants and oldstyle numbers](https://www.jonathan-harrell.com/blog/better-typography-with-font-variants/)
 - steve schoger blessed typekit fonts **for UI's**
   - proxima nova
@@ -398,6 +399,7 @@ But here are tools to help generate palettes:
 - https://tailwind.ink/
 - https://colorgen.dev/
 - https://color.adobe.com/create
+- https://www.colorsandfonts.com/
 - https://coolors.co/
 - https://colorsinspo.com
 - https://duo.alexpate.uk/
