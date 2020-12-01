@@ -1288,7 +1288,7 @@ Tutorials from successful Youtubers
 - https://github.com/public-apis/public-apis
 - https://public-apis.io/ (A Directory of Free Public & Open Rest APIs)
 - https://pokeapi.co/api/v2/
-- https://github.com/Marak/faker.js
+- https://github.com/Marak/faker.js - generate fake pdf https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/
 - https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
 
 ## Emails
