@@ -51,6 +51,7 @@ HTML/CSS nice templates
 
 - https://www.free-css.com/
 - https://www.creative-tim.com/
+- https://wickedtemplates.com using Tailwind v2
 - https://themeselection.com/
 - https://html5up.net/
 
