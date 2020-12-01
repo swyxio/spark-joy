@@ -237,6 +237,7 @@ special topic - responsive media
 - Free fonts that are great with examples (thanks [@edadams](https://github.com/sw-yx/spark-joy/issues/22))
   - Google Fonts - ([see Harry Roberts on Google Font loading perf](https://csswizardry.com/2020/05/the-fastest-google-fonts/))
     - [40 best google fonts by Typewolf](https://www.typewolf.com/google-fonts)
+    - [50 selections of google fuonts](https://www.notion.so/e873b52e0cc54f2981acc430417ba61d?v=05acdd40b0564920be69f5347f619bc3)
     - [Noto Sans](https://www.google.com/get/noto/)
     - [Fira Sans](https://fonts.google.com/specimen/Fira+Sans) - related to [Fira Code](https://github.com/tonsky/FiraCode) for devvy stuff
     - [Raleway](https://fonts.google.com/specimen/Raleway)
@@ -405,6 +406,7 @@ But here are tools to help generate palettes:
 - https://colorsinspo.com
 - https://duo.alexpate.uk/
 - https://colorhunt.co/
+- https://2colors.colorion.co/
 - https://dribbble.com/colors/4030e8
 - https://palettte.app/ (advanced tool; try importing the default palettes)
 - http://colours.neilorangepeel.com/category/red/
@@ -1287,3 +1289,7 @@ Tutorials from successful Youtubers
 - https://pokeapi.co/api/v2/
 - https://github.com/Marak/faker.js
 - https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
+
+## Emails
+
+- https://www.goodemailcopy.com/
