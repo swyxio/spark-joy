@@ -442,6 +442,8 @@ But here are tools to help generate palettes:
 - [How to do Dark Mode right](https://darkmodedesign.xyz/)
 - [Inventorying and naming a Color Palette at UXPin](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
 - [Reasoning about Color](http://notes.neeasade.net/color-spaces.html) some light reading on color spaces and transforms (eg "pastelize" operation) 
+- [Picking your palette](https://refactoringui.com/previews/building-your-color-palette/) 
+
 </details>
 
 ## Icons and Favicons
