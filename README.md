@@ -638,6 +638,7 @@ Mocking your browser/phone
 - https://icons8.com/illustrations (previously ouch.pics)
 - :star: https://blush.design/ good random generator by Pablo Stanley.  Made for Sketch, Figma, InVision Studio and Adobe XD.
 - :star: https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
+- https://www.pixeltrue.com/frontliner-heroes 24 high-quality Covid illustrations.
 - https://www.seekpng.com/ 1m+ Transparent PNG Images For Free
 - https://freellustrations.com/
 - https://www.reddit.com/r/FreeIllustrations/top/?t=all
