@@ -299,12 +299,18 @@ Don't forget setting `max-width` - betweeen 60-75chars is good.
 - https://www.charactercountonline.com/
 - https://charcounter.com/en/
 
+
+<details>
+<summary>
 Don't forget setting Leading on your h1 text and minding kerning:
+</summary>
 
 ![https://hottips.imgix.net/2020/07/044-tracking-animation.gif](https://hottips.imgix.net/2020/07/044-tracking-animation.gif)
 
 - https://creativemarket.com/blog/whats-the-difference-between-leading-kerning-and-tracking
 - https://99designs.com/blog/tips/11-kerning-tips/
+
+</details>
 
 Other things you might try:
 
