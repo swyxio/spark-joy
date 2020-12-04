@@ -638,7 +638,9 @@ Mocking your browser/phone
 - https://icons8.com/illustrations (previously ouch.pics)
 - :star: https://blush.design/ good random generator by Pablo Stanley.  Made for Sketch, Figma, InVision Studio and Adobe XD.
 - :star: https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
-- https://www.pixeltrue.com/frontliner-heroes 24 high-quality Covid illustrations.
+- https://www.pixeltrue.com/
+  - https://www.pixeltrue.com/frontliner-heroes 24 high-quality Covid illustrations.
+  - https://www.pixeltrue.com/free-illustrations free vector illustrations
 - https://www.seekpng.com/ 1m+ Transparent PNG Images For Free
 - https://freellustrations.com/
 - https://www.reddit.com/r/FreeIllustrations/top/?t=all
@@ -869,6 +871,7 @@ background-image: linear-gradient(
 - Layout https://github.com/aholachek/react-flip-toolkit
 - Hover and loaders: https://www.csswand.dev/
 - Graphic animations: https://lottiefiles.com/
+  - https://www.pixeltrue.com/free-illustrations lottie animations
 - HTML animation? https://tumult.com/hype/ (paid)
 - Page Transitions with swup https://github.com/swup/swup ([css tricks](https://css-tricks.com/page-transitions-for-everyone/))
 - React
