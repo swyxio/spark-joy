@@ -38,7 +38,7 @@
 - [The value of design](#the-value-of-design)
 - [Interaction/Design Inspo](#interactiondesign-inspo)
 - [Mock APIs](#mock-apis)
-- [Emails](#emails)
+- [Copy and Emails](#copy-and-emails)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
