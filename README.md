@@ -1288,6 +1288,14 @@ Tutorials from successful Youtubers
 - https://theanimatedweb.com/
 - https://pageflows.com/
 - https://goodui.org/ "leaked ab tests" 
+- http://ui-patterns.com/
+- https://uigarage.net/
+- https://pttrns.com/
+
+Game design inspo
+
+- https://interfaceingame.com/
+- https://www.gameuidatabase.com/
 
 ## Mock APIs
 
@@ -1301,6 +1309,7 @@ Tutorials from successful Youtubers
 - https://github.com/Marak/faker.js - generate fake pdf https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/
 - https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
 
-## Emails
+## Copy and Emails
 
 - https://www.goodemailcopy.com/
+- https://www.swipefiles.co/
