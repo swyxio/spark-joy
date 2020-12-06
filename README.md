@@ -88,6 +88,8 @@ lighter, no js. preview some of these with https://sites.yax.com/
   - https://native-elements.dev/
   - https://watercss.kognise.dev/
   - https://jenil.github.io/chota/ 
+  - https://github.com/susam/spcss
+  - https://elementcss.neocities.org/
   - Collections of even more:
     - https://github.com/dohliam/dropin-minimal-css
     - https://github.com/dbohdan/classless-css
