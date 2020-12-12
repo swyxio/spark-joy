@@ -923,6 +923,7 @@ background-image: linear-gradient(
 - https://icons8.com/music
 - https://freesound.org/
 - https://cchound.com/ 100% free, quality CC audio
+- https://aaraalto.com/sounds a few brief guitar samples for podcast transitions 
 
 Paid:
 
