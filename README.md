@@ -1052,6 +1052,7 @@ BabylonJS
 
 ## Video
 
+- stock video https://www.pond5.com/
 - https://animoto.com/ - drag and drop video maker
 - https://biteable.com/ - video maker with templates
 - https://powtoon.com - videos and presentations for engaging and explaining
@@ -1066,6 +1067,7 @@ BabylonJS
 Tutorials from successful Youtubers
 
 - https://www.youtube.com/watch?v=N6-Q2dgodLs
+- florin pop https://www.youtube.com/watch?v=vcKkRrNBdVI
 
 ## Onboarding
 
