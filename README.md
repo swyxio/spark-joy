@@ -650,7 +650,8 @@ Mocking your browser/phone
   - https://www.pixeltrue.com/frontliner-heroes 24 high-quality Covid illustrations.
   - https://www.pixeltrue.com/free-illustrations free vector illustrations
 - https://www.seekpng.com/ 1m+ Transparent PNG Images For Free
-- https://freellustrations.com/
+- https://freellustrations.com/ 
+- https://2.flexiple.com/scale/all-illustrations One new high-quality, open-source illustration each day. Use our color-picker to adapt the illustrations to your brand identity! 
 - https://www.reddit.com/r/FreeIllustrations/top/?t=all
 - https://2.flexiple.com/scale/home
 - https://www.glazestock.com/
@@ -660,6 +661,10 @@ Mocking your browser/phone
 - https://generator.opendoodles.com/ illustrations with color generator for svgs
 - https://www.openpeeps.com/ a hand-drawn illustration library to create scenes of people.
 - https://opengameart.org/
+- https://usesmash.com/ Smash Illustrations features trendy characters and simple illustrations for free in commercial and personal use. It features more than 250+ objects and characters, and 20+ unique scenes so you can compose them however you like.
+- https://control.rocks/ 
+- https://mixkit.co/free-stock-art/ Mixkit is the Unsplash of illustrations, or that is their objective. It features many illustration categories and also stock videos and music, all free of charge.
+- https://delesign.com/free-designs/graphics/
 - https://illlustrations.co/ 100 beautiful illustrations, designed by Vijay Verma during a 100 days of illustrations challenge.
 - https://isometric.online/ This website offers a searchable list of nice and free isometric illustrations.
 - https://www.glazestock.com/ 
@@ -679,6 +684,7 @@ Mocking your browser/phone
 - https://hotpot.ai Free or paid. Create icons, app screenshots, MacBook/browser mockups, social media posts, and other graphics for mobile apps and browser extensions.
 - https://www.magicpattern.design/examples - one-click web editor for illustration patterns. It's perfect for branding landing pages, social media posts and featured images. Requires Google signup.
 - https://gumroad.com/l/just sketch me (paid) 
+- https://error404.fun/ 404 page illustrations
 
 Illo's in context: https://onepagelove.com/tag/illustrations
 
@@ -1156,6 +1162,8 @@ Tutorials from successful Youtubers
 - https://github.com/LisaDziuba/Awesome-Design-Tools
 - https://github.com/emmabostian/design-inspiration
 - https://undesign.learn.uno/
+- https://dev.to/theme_selection/best-design-resources-websites-every-developer-should-bookmark-1p5d
+- https://dev.to/joserfelix/40-high-quality-free-resources-for-web-development-10o3
 
 ## Helpful podcasts and talks
 
