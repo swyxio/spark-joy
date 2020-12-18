@@ -721,6 +721,7 @@ Learn 3d illo in blender https://polygonrunway.com/
 - https://en.gravatar.com/
 - https://unavatar.now.sh/ grab social images from username/email
 - http://avatars.adorable.io/#demo
+- https://multiavatar.com
 - https://personas.draftbit.com/ A playful avatar generator for the modern age.
 - https://avataaars.com/ and https://getavataaars.com/
 - https://bigheads.io/
