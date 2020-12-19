@@ -257,7 +257,10 @@ special topic - responsive media
   - Handwritten Fonts - great for presentations, annotated illustrations
     - https://www.urbanfonts.com/fonts/handwritten-fonts.htm
     - Caveat and Reenie Beanie on google fonts  https://twitter.com/round/status/1178090890004455424?s=19
+- https://fontsarena.com/ 
 - Font Pairing
+  - https://fontpair.co/ 
+  - https://fontjoy.com/ 
   - Canva has a great tool: https://www.canva.com/font-combinations/
   - https://www.colorsandfonts.com/font-pairings
 - [Font variants and oldstyle numbers](https://www.jonathan-harrell.com/blog/better-typography-with-font-variants/)
@@ -509,6 +512,7 @@ General & Misc
 - https://icons8.com/emoji emoji style customizable icons
 - https://icons8.com/line-awesome fontawesome-like icons
 - http://www.entypo.com/
+- https://simpleicons.org/ 
 - Bootstrap Icons https://github.com/twbs/icons
 - https://systemuicons.com/
 - https://icons.mono.company/
@@ -1317,6 +1321,8 @@ Game design inspo
 - https://dog.ceo/
 - https://randomuser.me/
 - https://swapi.dev/
+- http://quotes.rest/ 
+- https://openweathermap.org/guide
 - https://jsonplaceholder.typicode.com/
 - https://github.com/public-apis/public-apis
 - https://public-apis.io/ (A Directory of Free Public & Open Rest APIs)
