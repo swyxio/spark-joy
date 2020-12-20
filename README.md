@@ -55,6 +55,7 @@ HTML/CSS nice templates
 - https://wickedtemplates.com using Tailwind v2
 - https://themeselection.com/
 - https://html5up.net/
+- https://frontendor.com/ using bootstrap
 
 ### Serious CSS Frameworks 
 
