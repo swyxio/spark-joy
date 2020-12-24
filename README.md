@@ -470,6 +470,7 @@ But here are tools to help generate palettes:
 
 Don't forget them!
 
+  - [the 6 favicon types you need](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
   - **[Real Favicon generator](https://realfavicongenerator.net/)** - pop in an image, get back a favicon! The most comprehensive one for all platforms (Windows, iOS, Android)
   - [Favicon.io](https://favicon.io/) - Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats
   - [FontIcon](https://gauger.io/fonticon/) - Generate favicons and images from Font Awesome icons
