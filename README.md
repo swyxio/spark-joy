@@ -1182,6 +1182,7 @@ Tutorials from successful Youtubers
 - [UI Design for Developers](https://designcode.io/ui-design-for-developers) (Meng To)
 - [Learning How to Design](https://shoptalkshow.com/343/) (ShopTalk)
 - [Laws of UX](https://lawsofux.com/) 
+- https://littlebigdetails.com/
 - [Design Principles](https://principles.design/)
 - https://twitter.com/mrcndrw/status/1283078825870532609?s=20
 - [Simple Layout checklist](https://docs.google.com/file/d/0B0gPtgNVonXPT1NsWGpKZWZKV1U/edit)
