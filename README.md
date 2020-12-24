@@ -922,6 +922,7 @@ background-image: linear-gradient(
 - Toggles: https://jnkkkk.github.io/MoreToggles.css/allToggles.html
 - 3D LED switch: https://codepen.io/jkantner/pen/VwaBomY
 - The Crazy Egg Guide to Great Form UI and UX https://www.crazyegg.com/blog/guides/great-form-ui-and-ux/
+- Best practice, research insights and examples by Geri Reid https://gerireid.com/forms.html
 
 ### Tables
 
