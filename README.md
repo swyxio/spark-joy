@@ -1320,6 +1320,7 @@ Game design inspo
 
 - https://interfaceingame.com/
 - https://www.gameuidatabase.com/
+- movie UIs https://www.pushing-pixels.org/fui/
 
 ## Mock APIs
 
