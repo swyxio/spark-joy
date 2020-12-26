@@ -1336,6 +1336,8 @@ Game design inspo
 - https://pokeapi.co/api/v2/
 - https://github.com/Marak/faker.js - generate fake pdf https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/
 - https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
+- https://github.com/Rolstenhouse/unofficial-apis
+
 
 ## Copy and Emails
 
