@@ -1188,7 +1188,8 @@ Tutorials from successful Youtubers
 - [Laws of UX](https://lawsofux.com/) 
 - https://littlebigdetails.com/
 - [Design Principles](https://principles.design/)
-- https://twitter.com/mrcndrw/status/1283078825870532609?s=20
+- https://twitter.com/mrcndrw/status/1283078825870532609
+- https://internetdevels.com/blog/the-10-commandments-of-user-interface-design ([infographic](https://www.designmantic.com/blog/infographics/the-10-commandments-of-ui-design/))
 - [Simple Layout checklist](https://docs.google.com/file/d/0B0gPtgNVonXPT1NsWGpKZWZKV1U/edit)
   - [ ] Clear idea of purpose, target audience, where/how long it will be seen
   - [ ] Information hierarchy (vary size, contrast, position)
