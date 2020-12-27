@@ -1320,7 +1320,7 @@ Tutorials from successful Youtubers
 - https://uigarage.net/
 - https://pttrns.com/
 
-Game design inspo
+### Game design inspo
 
 - https://interfaceingame.com/
 - https://www.gameuidatabase.com/
