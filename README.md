@@ -1325,6 +1325,7 @@ Game design inspo
 - https://interfaceingame.com/
 - https://www.gameuidatabase.com/
 - movie UIs https://www.pushing-pixels.org/fui/
+- game movie and other fantasy UIs https://www.saji8k.com/kit-fui/
 
 ## Mock APIs
 
