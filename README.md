@@ -484,7 +484,8 @@ Don't forget them!
 
 ### Icons
 
-Logos (incl company logos)
+#### Logos (incl company logos)
+
 - https://logosear.ch/ superfast metasearch of 200k svg logos from GitHub
 - https://seeklogo.com/
 - https://www.iconfinder.com/iconsets/payment-method-1
@@ -493,7 +494,9 @@ Logos (incl company logos)
 - https://macosicons.com/  icons intended to replace mac desktop icons
 - https://awsicons.dev/ AWS icons
 
-General & Misc
+#### General & Misc
+
+**Important**: Note on accessibility (whether or not to use `aria-hidden`): https://css-tricks.com/accessible-svg-icons/
 
 > Note you can put gradients on SVG icons manually https://play.tailwindcss.com/yM2N8GpEUK
 
