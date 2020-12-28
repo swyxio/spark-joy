@@ -1193,6 +1193,11 @@ Tutorials from successful Youtubers
 - [UI Design for Developers](https://designcode.io/ui-design-for-developers) (Meng To)
 - [Learning How to Design](https://shoptalkshow.com/343/) (ShopTalk)
 - [Laws of UX](https://lawsofux.com/) 
+- https://learnui.design/blog/4-rules-intuitive-ux.html
+  - Obey the Law of Locality 
+  - Anything But Dropdowns
+  - Pass the Squint Test
+  - Teach By Example
 - https://littlebigdetails.com/
 - [Design Principles](https://principles.design/)
 - https://twitter.com/mrcndrw/status/1283078825870532609
