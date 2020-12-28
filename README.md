@@ -498,7 +498,7 @@ Don't forget them!
 
 **Important**: Note on [icon accessibility](https://css-tricks.com/accessible-svg-icons/)
 
-- Icon + text: use `aria-hidden`
+- Icon + text: use `<svg aria-hidden="true">`
 - Icon only: `<svg role="img"><title>foo</title>...</svg`
 - Icon with link: `<a href="/" aria-label="Good Label"><svg aria-hidden="true" ... ></svg></a>`
 
