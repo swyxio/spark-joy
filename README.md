@@ -496,7 +496,11 @@ Don't forget them!
 
 #### General & Misc
 
-**Important**: Note on accessibility (whether or not to use `aria-hidden`): https://css-tricks.com/accessible-svg-icons/
+**Important**: Note on [icon accessibility](https://css-tricks.com/accessible-svg-icons/)
+
+- Icon + text: use `aria-hidden`
+- Icon only: `<svg role="img"><title>foo</title>...</svg`
+- Icon with link: `<a href="/" aria-label="Good Label"><svg aria-hidden="true" ... ></svg></a>`
 
 > Note you can put gradients on SVG icons manually https://play.tailwindcss.com/yM2N8GpEUK
 
