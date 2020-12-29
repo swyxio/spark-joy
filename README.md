@@ -282,6 +282,7 @@ special topic - responsive media
 - more opinions places
   - https://muffingroup.com/blog/best-free-fonts/
   - https://type-scale.com/
+  - https://www.youtube.com/watch?v=Vd6jZR-GknA 
   - [6 ways to justify font choices in your designs](https://learnui.design/blog/justifying-font-choices.html)
    
 
