@@ -249,6 +249,10 @@ special topic - responsive media
     - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
     - [Recursive](https://www.recursive.design/) - 1 variable font that can handle both monospace and UI usecases, very versatile
     - Cavivanar https://twitter.com/atav1k/status/1178096244490723328?s=19
+    - Jack Butcher faves
+      - Rubik
+      - Work Sans
+      - IBM Plex Family (Mono, Sans, Serif)
   - Chivo https://www.latinxswhodesign.com/
   - [Lato](http://www.latofonts.com/) Well known, very readable, pretty, client favorite
   - [Libre Franklin](https://beautifulwebtype.com/libre-franklin/) Elegant and thin
