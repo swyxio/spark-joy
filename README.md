@@ -585,6 +585,7 @@ General Purpose
 - https://www.websequencediagrams.com/
 - https://whimsical.com/ ($10/mo)
 - https://www.lucidchart.com/
+- https://www.gliffy.com/
 - https://www.simplediagrams.com/
 - [Microsoft Visio](https://www.microsoft.com/en-sg/microsoft-365/visio/flowchart-software)
 - https://www.plectica.com/
