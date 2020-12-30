@@ -52,7 +52,7 @@ HTML/CSS nice templates
 
 - https://www.free-css.com/
 - https://www.creative-tim.com/
-- https://wickedtemplates.com using Tailwind v2
+- https://wickedtemplates.com using Tailwind v2 (and [wickedblocks](https://blocks.wickedtemplates.com/))
 - https://www.tailwind-kit.com/ free tailwind component kit
 - https://themeselection.com/
 - https://html5up.net/
