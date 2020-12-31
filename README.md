@@ -505,7 +505,7 @@ Don't forget them!
 **Important**: Note on [icon accessibility](https://css-tricks.com/accessible-svg-icons/)
 
 - Icon + text: use `<svg aria-hidden="true">`
-- Icon only: `<svg role="img"><title>foo</title>...</svg`
+- Icon only: `<svg role="img"><title>foo</title>...</svg`. Pick from [Aria roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles) list.
 - Icon with link: `<a href="/" aria-label="Good Label"><svg aria-hidden="true" ... ></svg></a>`
 
 > Note you can put gradients on SVG icons manually https://play.tailwindcss.com/yM2N8GpEUK
