@@ -863,6 +863,7 @@ developers and designers
   - Card border Generator https://card.surge.sh/
   - Conic gradient borders https://twitter.com/argyleink/status/1282889809782927360
   - Components.ai box shadows https://components.ai/box-shadows
+  - Emoji Shadows https://codepen.io/dienhn/pen/xxErveM
   - Neuomorphism Generator https://neumorphism.io/#f3d2c3
 
 ```css
