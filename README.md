@@ -187,6 +187,8 @@ special topic - responsive media
 
 ## Typography
 
+### Fonts
+
 <details>
   <summary>For speed, use System Font Stacks (incl. Segoe and Roboto)</summary>
   
@@ -304,6 +306,14 @@ you can learn more about proofing premium fonts here https://www.typography.com/
 
 </details>
 
+### Line Height
+
+
+https://www.thegoodlineheight.com
+
+### Line Width
+
+
 Don't forget setting `max-width` - betweeen 60-75chars is good.
 
 - https://pearsonified.com/characters-per-line/
@@ -311,6 +321,7 @@ Don't forget setting `max-width` - betweeen 60-75chars is good.
 - https://www.charactercountonline.com/
 - https://charcounter.com/en/
 
+### Kerning and char spacing
 
 <details>
 <summary>
@@ -324,7 +335,7 @@ Don't forget setting Leading on your h1 text and minding kerning:
 
 </details>
 
-Other things you might try:
+### Other things
 
 - Font smoothing - [explained](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth)
 - Tool for learning what fonts other people use https://fontanello.oktavilla.se/
