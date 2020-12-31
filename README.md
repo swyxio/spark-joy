@@ -306,6 +306,52 @@ you can learn more about proofing premium fonts here https://www.typography.com/
 
 </details>
 
+#### Font Loading Strategy
+
+- Everything [Harry Roberts](https://twitter.com/csswizardry) writes
+  - [Google Fonts strategy](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
+  
+     ```html
+      <!--
+        - 1. Preemptively warm up the fonts’ origin.
+        -
+        - 2. Initiate a high-priority, asynchronous fetch for the CSS file. Works in
+        -    most modern browsers.
+        -
+        - 3. Initiate a low-priority, asynchronous fetch that gets applied to the page
+        -    only after it’s arrived. Works in all browsers with JavaScript enabled.
+        -
+        - 4. In the unlikely event that a visitor has intentionally disabled
+        -    JavaScript, fall back to the original method. The good news is that,
+        -    although this is a render-blocking request, it can still make use of the
+        -    preconnect which makes it marginally faster than the default.
+        -->
+
+      <!-- [1] -->
+      <link rel="preconnect"
+            href="https://fonts.gstatic.com"
+            crossorigin />
+
+      <!-- [2] -->
+      <link rel="preload"
+            as="style"
+            href="$CSS&display=swap" />
+
+      <!-- [3] -->
+      <link rel="stylesheet"
+            href="$CSS&display=swap"
+            media="print" onload="this.media='all'" />
+
+      <!-- [4] -->
+      <noscript>
+        <link rel="stylesheet"
+              href="$CSS&display=swap" />
+      </noscript>
+      ```
+- `font-display: optional` [may be good](https://css-tricks.com/a-font-display-setting-for-slow-connections/)
+  - but harry roberts [doesnt like it](https://csswizardry.com/2020/05/the-fastest-google-fonts/#comparisons-and-visualisations)
+- don't load fonts if `prefers-reduced-data` [see Kilian Valkhof](https://css-tricks.com/responsible-conditional-loading/)
+
 ### Line Height
 
 https://www.thegoodlineheight.com
@@ -495,6 +541,41 @@ Don't forget them!
   - SVG favicons are modifiable by scroll percentage
     - you can https://css-tricks.com/svg-favicons-and-all-the-fun-things-we-can-do-with-them/
     - put the scroll percentage! https://css-tricks.com/how-i-put-the-scroll-percentage-in-the-browser-title-bar/
+
+### `<link rel="">` tags and opengraph
+
+Ideas of things you can include based on my own site
+
+```html
+  <link rel="icon" type="image/png" href="/favicon.png" />
+  <link rel="webmention" href="https://webmention.io/www.swyx.io/webmention" />
+  <link rel="pingback" href="https://webmention.io/www.swyx.io/xmlrpc" />
+  <meta name="theme-color" content="#818CF8">
+  <title>{frontmatter.title} ∊ swyx.io</title>
+  <link rel="canonical" href={canonical} />
+  <meta property="og:url" content={swyxioURL} />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content={seoTitle} />
+  <meta name="Description" content={seoDescription} />
+  <meta property="og:description" content={seoDescription} />
+  {#if frontmatter.cover_image}
+    <meta property="og:image" content={coverImage} />
+  {/if}
+  <meta
+    name="twitter:card"
+    content={frontmatter.cover_image ? 'summary_large_image' : 'summary'} />
+  <meta name="twitter:domain" content="swyx.io" />
+  <meta name="twitter:creator" content="@swyx" />
+  <meta name="twitter:title" content={seoTitle} />
+  <meta name="twitter:description" content={seoDescription} />
+  <meta
+    name="twitter:image"
+    content={frontmatter.cover_image ? frontmatter.cover_image : 'https://www.swyx.io/swyx-ski.jpeg'} />
+  <meta name="twitter:label1" value="Last updated" content="Last updated" />
+  <meta name="twitter:data1" value={metaDate} content={metaDate} />
+  <meta name="twitter:label2" content="Read Time" />
+  <meta name="twitter:data2" content={readTime} />
+```
 
 ### Icons
 
@@ -1143,6 +1224,12 @@ Tutorials from successful Youtubers
 - https://tinypng.com/
 - https://resizeimage.net/
 
+<details>
+<summary>
+Sample meta tags with preconnects
+</summary>
+
+
 ```jsx
         <link rel="icon" type="image/png" href="/temporal-icon.png" />
         <meta name="theme-color" content="#317EFB"/>
@@ -1184,6 +1271,11 @@ Tutorials from successful Youtubers
           }}
         />
 ```
+
+
+</details>
+
+
 
 ## Other Lists like this one
 
