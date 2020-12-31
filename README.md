@@ -308,11 +308,9 @@ you can learn more about proofing premium fonts here https://www.typography.com/
 
 ### Line Height
 
-
 https://www.thegoodlineheight.com
 
 ### Line Width
-
 
 Don't forget setting `max-width` - betweeen 60-75chars is good.
 
@@ -335,6 +333,10 @@ Don't forget setting Leading on your h1 text and minding kerning:
 
 </details>
 
+Note: `vw` has known a11y issues: Preserve Zooming. [Sara Soueidan](https://twitter.com/SaraSoueidan/status/1121645149983891457?s=20) recommends wrapping with `calc`, e.g. `font-size: calc(16px + .3vw);`
+
+You may wish to use `max-width: 60ch` on content. [Note on the `ch` unit not being EXACTLY 60 chars](https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/)
+
 ### Other things
 
 - Font smoothing - [explained](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth)
@@ -350,11 +352,6 @@ Don't forget setting Leading on your h1 text and minding kerning:
   - Don't go under font weight 400, use a lighter color or smaller fontsize instead
 - International fonts stack https://www.figma.com/blog/when-fonts-fall/
 - In future, try out [leading-trim](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202) 
-
-
-Note: `vw` has known a11y issues: Preserve Zooming. [Sara Soueidan](https://twitter.com/SaraSoueidan/status/1121645149983891457?s=20) recommends wrapping with `calc`, e.g. `font-size: calc(16px + .3vw);`
-
-You may wish to use `max-width: 60ch` on content. [Note on the `ch` unit not being EXACTLY 60 chars](https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/)
 
 ## Colors
 
