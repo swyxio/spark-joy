@@ -397,6 +397,7 @@ You may wish to use `max-width: 60ch` on content. [Note on the `ch` unit not bei
 - [Inter/Tailwind font-size combo](https://twitter.com/samselikoff/status/1204412222593568769?s=20)
 - [BAD, SLOW fontsize calc](https://twitter.com/drewml/status/1115339490179072000?s=20)
 - [Complete font-size notes](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/)
+- if all letters at the same height all caps this is called [Majuscule](https://www.wordgenius.com/words/majuscule)
 - Don't rely on varying fontsize to control hierarchy - also use font weight (normal = 400/500, heavy = 600/700) and color
   - Don't go under font weight 400, use a lighter color or smaller fontsize instead
 - International fonts stack https://www.figma.com/blog/when-fonts-fall/
