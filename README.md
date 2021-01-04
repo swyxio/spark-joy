@@ -163,6 +163,9 @@ more control in exchange for more work on your part.
 - https://github.com/thedevdojo/tails
 - http://tailwindcomponents.com/
 - https://tailwindui.com/components
+- https://merakiui.com/
+- https://www.gustui.com/
+- https://mertjf.github.io/tailblocks/
 
 
 ## Spacing
