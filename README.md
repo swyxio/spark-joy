@@ -391,6 +391,7 @@ You may wish to use `max-width: 60ch` on content. [Note on the `ch` unit not bei
 - Font smoothing - [explained](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth)
 - Tool for learning what fonts other people use https://fontanello.oktavilla.se/
 - Fluid typography with [`clamp`](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp): `font-size: clamp(1.125rem, 1rem + 2vw, 1.5rem)`
+  - [CSS Tricks](https://css-tricks.com/design-v18/) v18: `font-size: clamp(2rem, calc(2rem + 1.2vw), 3rem);`
   - Another responsive typography fallback - [`font-size: calc(1rem + 2px + ((100vw - 550px) / 250))`](https://twitter.com/Kikobeats/status/1093620157912616966?s=20) - you can [fit text to screen width](https://twitter.com/shshaw/status/1240647643388395521?s=20) 
 - [FlowType.js](https://simplefocus.com/flowtype/)
 - [FitText](https://css-tricks.com/viewport-sized-typography/)
