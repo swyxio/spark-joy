@@ -896,6 +896,7 @@ box-shadow:  20px 20px 22px #cfb3a6,
 - https://www.blobmaker.app/
 - https://www.shapedivider.app/
 - https://getwaves.io/
+- svg waves generator https://codepen.io/jh3y/full/poEvKxo
 - https://wweb.dev/resources/css-separator-generator
 - https://inkscape.org/
 - text effects https://css-tricks.com/animate-blob-text-with-svg-text-clipping/
