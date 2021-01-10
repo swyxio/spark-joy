@@ -1475,3 +1475,8 @@ Sample meta tags with preconnects
 
 - https://www.goodemailcopy.com/
 - https://www.swipefiles.co/
+
+
+## Random Stuff That Doesn't Fit Anywhere
+
+- https://10ideesrecuesenuxdesign.castoretpollux.com/en/
