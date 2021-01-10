@@ -39,6 +39,7 @@
 - [Interaction/Design Inspo](#interactiondesign-inspo)
 - [Mock APIs](#mock-apis)
 - [Copy and Emails](#copy-and-emails)
+- [Random Stuff That Doesn't Fit Anywhere](#random-stuff-that-doesnt-fit-anywhere)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
