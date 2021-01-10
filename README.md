@@ -406,6 +406,8 @@ You may wish to use `max-width: 60ch` on content. [Note on the `ch` unit not bei
 - International fonts stack https://www.figma.com/blog/when-fonts-fall/
 - In future, try out [leading-trim](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202) 
 
+If building a collaborative design tool that offers font choice, see how Figma does it https://youtu.be/kVD-sjtFoEI
+
 ## Colors
 
 Pick a primary "brand" color to match your personality. [DO NOT OVERUSE IT.](https://twitter.com/steveschoger/status/1299372332579008515)
