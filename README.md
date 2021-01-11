@@ -485,6 +485,7 @@ But here are tools to help generate palettes:
 - https://colorgen.dev/
 - https://color.adobe.com/create
 - https://www.colorsandfonts.com/
+- https://colorswall.com/
 - https://coolors.co/
 - https://colorsinspo.com
 - https://duo.alexpate.uk/
