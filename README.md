@@ -529,6 +529,7 @@ But here are tools to help generate palettes:
 - [JustinMezzell on Color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed) - advanced stuff on picking color tone/temperature
 - [Justin Baker on Color Theory](https://medium.muz.li/the-ultimate-ux-guide-to-color-design-4d0a18a706ed)
 - [Convertkit on Color Theory](https://convertkit.com/color-theory)
+- [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 - [How to do Dark Mode right](https://darkmodedesign.xyz/)
 - [Inventorying and naming a Color Palette at UXPin](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
 - [Reasoning about Color](http://notes.neeasade.net/color-spaces.html) some light reading on color spaces and transforms (eg "pastelize" operation) 
