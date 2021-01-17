@@ -818,6 +818,7 @@ Learn 3d illo in blender https://polygonrunway.com/
 
 - https://snappa.com/
 - https://www.canva.com/
+- https://www.fotojet.com/ esp for photo collages
 - https://studio.polotno.dev/
 
 ### Stock Photos and Videos
