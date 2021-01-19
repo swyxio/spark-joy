@@ -543,6 +543,8 @@ But here are tools to help generate palettes:
 - [Reasoning about Color](http://notes.neeasade.net/color-spaces.html) some light reading on color spaces and transforms (eg "pastelize" operation) 
 - [Picking your palette](https://refactoringui.com/previews/building-your-color-palette/) 
 
+(fun) [history of primary colors](https://publicdomainreview.org/essay/primary-sources)
+
 </details>
 
 ## Icons and Favicons
