@@ -662,6 +662,8 @@ Ideas of things you can include based on my own site
   - https://react-icons.netlify.com/#/icons/fa (typically fontawesome). note that there is some tree shaking issues in the discussions. you may wish to use the https://github.com/meronex/meronex-icons fork instead
   - https://github.com/bytedance/IconPark - more than 1,200 high-quality icons, and introduces an interface for customizing your icons. across React, Vue, SVG, PNG.
   - https://github.com/useAnimations/react-useanimations
+  
+> You may like: [Free Fundamentals of Icon design in 1 hour course by MDS](http://introtoicons.com/)
 
 
 **premium/paid icons**
