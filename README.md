@@ -168,6 +168,7 @@ more control in exchange for more work on your part.
 - https://merakiui.com/
 - https://www.gustui.com/
 - https://mertjf.github.io/tailblocks/
+- https://shuffle.dev/ Tailwind visual builder
 
 
 ## Spacing
