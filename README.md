@@ -389,21 +389,28 @@ Note: `vw` has known a11y issues: Preserve Zooming. [Sara Soueidan](https://twit
 
 You may wish to use `max-width: 60ch` on content. [Note on the `ch` unit not being EXACTLY 60 chars](https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/)
 
+### Font Sizing
+
+DON'T GO CRAZY WITH FONT SIZES. 
+
+- Try to use 1-2 sizes and vary other things like weight, space/leading, color, casing.
+- Don't rely on varying fontsize to control hierarchy - also use font weight (normal = 400/500, heavy = 600/700) and color
+  - Don't go under font weight 400, use a lighter color or smaller fontsize instead
+- Fluid typography with [`clamp`](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp): `font-size: clamp(1.125rem, 1rem + 2vw, 1.5rem)`
+  - [CSS Tricks](https://css-tricks.com/design-v18/) v18: `font-size: clamp(2rem, calc(2rem + 1.2vw), 3rem);`
+  - Another responsive typography fallback - [`font-size: calc(1rem + 2px + ((100vw - 550px) / 250))`](https://twitter.com/Kikobeats/status/1093620157912616966?s=20) - you can [fit text to screen width](https://twitter.com/shshaw/status/1240647643388395521?s=20) 
+- [Inter/Tailwind font-size combo](https://twitter.com/samselikoff/status/1204412222593568769?s=20)
+- [BAD, SLOW fontsize calc](https://twitter.com/drewml/status/1115339490179072000?s=20)
+- [Complete font-size notes](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/)
+
+
 ### Other things
 
 - Font smoothing - [explained](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth)
 - Tool for learning what fonts other people use https://fontanello.oktavilla.se/
-- Fluid typography with [`clamp`](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp): `font-size: clamp(1.125rem, 1rem + 2vw, 1.5rem)`
-  - [CSS Tricks](https://css-tricks.com/design-v18/) v18: `font-size: clamp(2rem, calc(2rem + 1.2vw), 3rem);`
-  - Another responsive typography fallback - [`font-size: calc(1rem + 2px + ((100vw - 550px) / 250))`](https://twitter.com/Kikobeats/status/1093620157912616966?s=20) - you can [fit text to screen width](https://twitter.com/shshaw/status/1240647643388395521?s=20) 
 - [FlowType.js](https://simplefocus.com/flowtype/)
 - [FitText](https://css-tricks.com/viewport-sized-typography/)
-- [Inter/Tailwind font-size combo](https://twitter.com/samselikoff/status/1204412222593568769?s=20)
-- [BAD, SLOW fontsize calc](https://twitter.com/drewml/status/1115339490179072000?s=20)
-- [Complete font-size notes](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/)
 - if all letters at the same height all caps this is called [Majuscule](https://www.wordgenius.com/words/majuscule)
-- Don't rely on varying fontsize to control hierarchy - also use font weight (normal = 400/500, heavy = 600/700) and color
-  - Don't go under font weight 400, use a lighter color or smaller fontsize instead
 - International fonts stack https://www.figma.com/blog/when-fonts-fall/
 - In future, try out [leading-trim](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202) 
 
@@ -1336,6 +1343,10 @@ Sample meta tags with preconnects
 - [Design Principles](https://principles.design/)
 - https://twitter.com/mrcndrw/status/1283078825870532609
 - https://internetdevels.com/blog/the-10-commandments-of-user-interface-design ([infographic](https://www.designmantic.com/blog/infographics/the-10-commandments-of-ui-design/))
+- 3 most common mistakes of UI design by [MDS](https://robhope.com/yo-mds)
+  - too many font sizes used. Try to use 1-2 sizes and vary other things like weight, negative space, color, casing.
+  - don't over rely on strict mathematical spacing - use optical alignment instead - make judgments based on the needs of the layout.
+  - consistent color usage. Tappable = one color. dont make titles and buttons same color. mind accessibility.
 - [Simple Layout checklist](https://docs.google.com/file/d/0B0gPtgNVonXPT1NsWGpKZWZKV1U/edit)
   - [ ] Clear idea of purpose, target audience, where/how long it will be seen
   - [ ] Information hierarchy (vary size, contrast, position)
