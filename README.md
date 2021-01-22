@@ -625,10 +625,10 @@ Ideas of things you can include based on my own site
 - ⭐ https://phosphoricons.com/ 3000+ fully customizable free SVG and PNG icons
 - ⭐ https://tablericons.com/ 937 Fully customizable free SVG icons
 - https://icons.modulz.app/ Radix Icons - >250 15×15 icons designed by the Modulz team. - some great app icons
-- **list of lists of icons**
+- **icon metasearch** (list of lists of icons)
   - https://icones.netlify.app/
   - https://www.iconbolt.com/
-
+  - https://iconduck.com/ 104,808 free open source icons
 - https://thenounproject.com/ Every icon you can think of, in PNG or SVG formats. They offer over 20 million icons, with built-in customization colors like size and color. Requires login, needs creative commons attribution or $3 download
 - https://nucleoapp.com/ Nucleo is a beautiful library of 30635 icons, and a powerful application to collect, customize and export all your icons. $99 lifetime purchase.
 - https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties. PNG, JPG, iOS, Android, PDF. No svg.
