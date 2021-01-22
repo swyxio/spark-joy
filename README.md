@@ -788,8 +788,8 @@ Mocking your browser/phone
 - https://www.seekpng.com/ 1m+ Transparent PNG Images For Free
 - https://freellustrations.com/ 
 - https://2.flexiple.com/scale/all-illustrations One new high-quality, open-source illustration each day. Use our color-picker to adapt the illustrations to your brand identity! 
-- https://www.reddit.com/r/FreeIllustrations/top/?t=all
 - https://2.flexiple.com/scale/home
+- https://illustrationkit.com/ Free vector illustrations for personal & commercial projects no attribution required
 - https://www.glazestock.com/
 - https://openclipart.org/
 - https://iradesign.io/ Build your own illustrations, Using our gradients and hand drawn sketch components.
