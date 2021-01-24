@@ -856,6 +856,7 @@ Learn 3d illo in blender https://polygonrunway.com/
 - https://allthefreestock.com/
 - https://thenounproject.com/search/photos/?q=happy
 
+Image modification for hover effects: https://photomosh.com/
 
 ### Avatars
 
@@ -1053,6 +1054,7 @@ background-image: linear-gradient(
 - links https://cssanimation.rocks/animating-links/
 - tooltips on hover https://kazzkiq.github.io/balloon.css/
 - Link and Button hover effects https://www.youtube.com/watch?v=ceNMP-aQkQ4
+- Image modification for hover effects: https://photomosh.com/
 
 ### Buttons
 
@@ -1164,6 +1166,7 @@ Tools:
 - Image editing/Export to SVG/Object Removal/Photoshop - [Photopea](https://www.photopea.com/)
 - online SVG editor - https://yqnn.github.io/svg-path-editor/
 - GIMP alternative - https://glimpse-editor.org/
+- Image modification for hover effects: https://photomosh.com/
 - Lunacy - https://icons8.com/lunacy Graphic design software with built-in assets
 - Website design feedback collaboration - [Pagereview.io](https://pagereview.io/)
 - Invision https://www.invisionapp.com/inside-design/design-resources/
@@ -1188,6 +1191,11 @@ and screens.
 
 - http://freebiesketch.com/
 - https://www.sketchappsources.com/
+
+### Generative Design Tools
+
+- Image modification for hover effects: https://photomosh.com/
+- http://components.ai/
 
 ## Canvas
 
