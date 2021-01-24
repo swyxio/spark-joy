@@ -642,6 +642,7 @@ Ideas of things you can include based on my own site
 - https://icons8.com/line-awesome fontawesome-like icons
 - http://www.entypo.com/
 - https://simpleicons.org/ 
+- http://github.com/propublica/weepeople A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots.
 - Bootstrap Icons https://github.com/twbs/icons
 - https://systemuicons.com/
 - https://icons.mono.company/
