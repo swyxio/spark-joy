@@ -524,6 +524,7 @@ But here are tools to help generate palettes:
 - Special usecases: 
   - Pick colors from an image https://imagehive.co/
   - Mix colors in pure CSS https://css-tricks.com/mixing-colors-in-pure-css/
+  - [HSLuv](https://www.hsluv.org/comparison/) color space is preferable to HSL. [Palette generator](https://colors.madscience.design/)
 
 ### Color knowledge
 
