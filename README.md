@@ -1462,7 +1462,7 @@ Sample meta tags with preconnects
 - for the 4 minute version: https://jgthms.com/web-design-in-4-minutes/
 - for the 4 hour version: https://frontendmasters.com/courses/design-for-developers/
 - for the 4 week version: https://refactoringui.com/book
-- for the 4 month version: https://learnui.design/
+- for the 4 month version: https://learnui.design/ 995/1495/2495. 48 lessons, 26 hours
 - weekly lessons drip fed over email https://hackdesign.org/
 - i may be signing up for https://shiftnudge.com/ .. its super expensive tho
 - upcoming design for devs book from adrian twarog https://www.enhanceui.com/
