@@ -1167,6 +1167,7 @@ Tools:
 - online SVG editor - https://yqnn.github.io/svg-path-editor/
 - GIMP alternative - https://glimpse-editor.org/
 - Image modification for hover effects: https://photomosh.com/
+- Enlarge low res images with ML: https://twitter.com/addyosmani/status/1353616560057815041
 - Lunacy - https://icons8.com/lunacy Graphic design software with built-in assets
 - Website design feedback collaboration - [Pagereview.io](https://pagereview.io/)
 - Invision https://www.invisionapp.com/inside-design/design-resources/
