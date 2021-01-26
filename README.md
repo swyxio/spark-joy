@@ -1043,11 +1043,13 @@ background-image: linear-gradient(
   - https://www.pixeltrue.com/free-illustrations lottie animations
 - HTML animation? https://tumult.com/hype/ (paid)
 - Page Transitions with swup https://github.com/swup/swup ([css tricks](https://css-tricks.com/page-transitions-for-everyone/))
+- css animation without keyframes https://animxyz.com/docs/
 - React
   - https://react-simple-animate.now.sh/
   - https://github.com/brunnolou/react-morph
   - https://github.com/kitze/react-genie
   - Page transitions https://github.com/joerez/react-transitions/
+  - https://animxyz.com/docs/ has react and vue integration
 
 ## Individual Elements
 
