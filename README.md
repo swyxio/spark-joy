@@ -1503,6 +1503,8 @@ Sample meta tags with preconnects
 
 ## Mock APIs
 
+free or mock data apis for demos
+
 - https://dog.ceo/
 - https://randomuser.me/
 - https://swapi.dev/
@@ -1515,6 +1517,7 @@ Sample meta tags with preconnects
 - https://github.com/Marak/faker.js - generate fake pdf https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/
 - https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
 - https://github.com/Rolstenhouse/unofficial-apis
+- https://devresourc.es/tools-and-utilities/public-apis 
 
 
 ## Copy and Emails
