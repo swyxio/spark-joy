@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/6764957/83363763-7d5c1a80-a3ce-11ea-95fb-2df3dd5aad34.png)
+s![image](https://user-images.githubusercontent.com/6764957/83363763-7d5c1a80-a3ce-11ea-95fb-2df3dd5aad34.png)
 
 > **Easy ways to add design flair, user delight, and whimsy to your product!**
 
@@ -883,6 +883,7 @@ developers and designers
   - CSS3 Patterns https://leaverou.github.io/css3patterns/
 - CSS 3D Text https://markdotto.com/playground/3d-text/
 - 3D CSS hover effects https://polypane.app/css-3d-transform-examples/
+- set cursor to emoji using SVG https://twitter.com/mgechev/status/1354300680807329793?s=20
 - glassy glassmorphism [codepen](https://codepen.io/a-trost/pen/dypQzwq), [in context](https://codepen.io/TurkAysenur/pen/ZEpxeYm)
 
     ```css
