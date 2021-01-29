@@ -1014,7 +1014,7 @@ background-image: linear-gradient(
 - Image Placeholders - blurring - https://blurha.sh/ (and gatsby image and nextjs image)
 - Dimming/coloring text on background images https://coder-coder.com/background-image-opacity/
 - [True Grit Texture Supply](https://www.truegrittexturesupply.com/) PNG textures (paid)
-- Remove backgrounds https://www.remove.bg/
+- Remove backgrounds https://www.remove.bg/ from images, https://www.unscreen.com/ for gif/video
 - colorizing black and white images https://demos.algorithmia.com/colorize-photos
 
 ## Spinners
