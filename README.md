@@ -126,9 +126,12 @@ focus is fun/nostalgia
 - [NES.css](https://github.com/nostalgic-css/NES.css): NES.css is a NES-style(8bit-like) CSS Framework.
 - [PSone.css](https://github.com/micah5/PSone.css): PS1 style CSS Framework, inspired by NES.css.
 - [LaTeX.css](https://latex.now.sh/)
-- [98.css](https://github.com/jdan/98.css): A Windows 98 inspired framework for building faithful recreations of old UIs.
-  - [Office 97 clipart in svg format](https://archive.org/details/mso97clipart)
-- [XP.css](https://github.com/botoxparty/XP.css): A Windows XP inspired framework for building faithful recreations of operating system GUIs. An extension of 98.css.
+- Operating System CSS
+  - [98.css](https://github.com/jdan/98.css): A Windows 98 inspired framework for building faithful recreations of old UIs.
+    - [Office 97 clipart in svg format](https://archive.org/details/mso97clipart)
+  - [XP.css](https://github.com/botoxparty/XP.css): A Windows XP inspired framework for building faithful recreations of operating system GUIs. An extension of 98.css.
+  - [7.css](https://khang-nd.github.io/7.css/)
+  - [Commodore 64 CSS](http://pixelambacht.nl/2013/css3-c64/)
 - [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386): A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [Text UI CSS](https://github.com/vinibiavatti1/TuiCss): bios like UI's
 - [New Dawn](https://github.com/npjg/new-dawn): A mac classic After Dark inspired stylesheet.
