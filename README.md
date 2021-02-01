@@ -135,6 +135,7 @@ focus is fun/nostalgia
   - DOS: [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386): A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [Text UI CSS](https://github.com/vinibiavatti1/TuiCss): bios like UI's
 - [New Dawn](https://github.com/npjg/new-dawn): A mac classic After Dark inspired stylesheet.
+- [Geocities Bootstrap theme](https://code.divshot.com/geo-bootstrap/)
 - more https://dev.to/iainfreestone/10-resources-for-recreating-old-school-retro-user-interfaces-today-hkj
 
 focus in futurism
