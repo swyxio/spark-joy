@@ -1,4 +1,4 @@
-s![image](https://user-images.githubusercontent.com/6764957/83363763-7d5c1a80-a3ce-11ea-95fb-2df3dd5aad34.png)
+![image](https://user-images.githubusercontent.com/6764957/83363763-7d5c1a80-a3ce-11ea-95fb-2df3dd5aad34.png)
 
 > **Easy ways to add design flair, user delight, and whimsy to your product!**
 
