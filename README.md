@@ -559,6 +559,24 @@ But here are tools to help generate palettes:
 
 Don't forget them!
 
+  - [How to Favicon in 2021](https://css-tricks.com/how-to-favicon-in-2021/)
+  
+     ```html
+    <link rel="icon" href="/favicon.ico"><!-- 32×32 -->
+    <link rel="icon" href="/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png"><!-- 180×180 -->
+    <link rel="manifest" href="/manifest.webmanifest">
+     ```
+     
+     ```json
+     // manifest.webmanifest
+     {
+        "icons": [
+          { "src": "/192.png", "type": "image/png", "sizes": "192x192" },
+          { "src": "/512.png", "type": "image/png", "sizes": "512x512" }
+        ]
+      }
+     ```
   - [the 6 favicon types you need](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
   - **[Real Favicon generator](https://realfavicongenerator.net/)** - pop in an image, get back a favicon! The most comprehensive one for all platforms (Windows, iOS, Android)
   - [Favicon.io](https://favicon.io/) - Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats
