@@ -632,6 +632,7 @@ Ideas of things you can include based on my own site
 - https://seeklogo.com/
 - https://www.iconfinder.com/iconsets/payment-method-1
 - https://www.logology.co/
+- https://www.svgrepo.com/
 - https://iconsear.ch/ instant search of 50k svg icons from GitHub and GitLab
 - https://macosicons.com/  icons intended to replace mac desktop icons
 - https://awsicons.dev/ AWS icons
