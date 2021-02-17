@@ -1082,6 +1082,12 @@ background-image: linear-gradient(
 
 - links https://cssanimation.rocks/animating-links/
 - tooltips on hover https://kazzkiq.github.io/balloon.css/
+- put scroll margin on [everything with an `id`](https://piccalil.li/quick-tip/add-scroll-margin-to-all-elements-which-can-be-targeted)
+  ```css
+  [id] {
+    scroll-margin-top: 2ex;
+  }
+  ```
 - Link and Button hover effects https://www.youtube.com/watch?v=ceNMP-aQkQ4
 - Image modification for hover effects: https://photomosh.com/
 
@@ -1094,6 +1100,8 @@ background-image: linear-gradient(
 ### Forms
 
 - Accessible Styled Forms https://github.com/scottaohara/a11y_styled_form_controls
+- Form Validation https://www.bram.us/2021/01/28/form-validation-you-want-notfocusinvalid-not-invalid/
+  - use `input:not(:focus):not(:placeholder-shown):valid` for non freakout UX
 - WTF Forms: Nicer Forms eg Radio Buttons with pure CSS https://github.com/mdo/wtf-forms
 - Output-inspired form: https://twitter.com/steveschoger/status/1171429842442522625
 - show button when placeholder-shown:  https://codepen.io/liamj/pen/vYYLGZj
