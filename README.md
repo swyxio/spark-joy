@@ -1124,6 +1124,7 @@ background-image: linear-gradient(
 - https://freesound.org/
 - https://cchound.com/ 100% free, quality CC audio
 - https://aaraalto.com/sounds a few brief guitar samples for podcast transitions 
+- https://transistor.fm/free-podcast-intro-music/ free podcast intro music
 
 Paid:
 
