@@ -1090,6 +1090,7 @@ background-image: linear-gradient(
   ```
 - Link and Button hover effects https://www.youtube.com/watch?v=ceNMP-aQkQ4
 - Image modification for hover effects: https://photomosh.com/
+- shrinking header on scroll https://css-tricks.com/how-to-create-a-shrinking-header-on-scroll-without-javascript
 
 ### Buttons
 
@@ -1114,6 +1115,7 @@ background-image: linear-gradient(
 
 - https://www.uxbooth.com/articles/designing-user-friendly-data-tables/
 - https://twitter.com/erikdkennedy/status/1329787833058353154?s=20
+- [A table with both a sticky header and a sticky first column](https://css-tricks.com/a-table-with-both-a-sticky-header-and-a-sticky-first-column)
 
 ### Sound
 
