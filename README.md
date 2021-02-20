@@ -1091,6 +1091,7 @@ background-image: linear-gradient(
 - Link and Button hover effects https://www.youtube.com/watch?v=ceNMP-aQkQ4
 - Image modification for hover effects: https://photomosh.com/
 - shrinking header on scroll https://css-tricks.com/how-to-create-a-shrinking-header-on-scroll-without-javascript
+- https://smolcss.dev/ more simple CSS tricks for responsive elements
 
 ### Buttons
 
