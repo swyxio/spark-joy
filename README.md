@@ -301,6 +301,8 @@ special topic - responsive media
 - more opinions places
   - https://muffingroup.com/blog/best-free-fonts/
   - https://type-scale.com/
+  - https://practicaltypography.com
+  - http://webtypography.net/intro/
   - https://www.youtube.com/watch?v=Vd6jZR-GknA 
   - [6 ways to justify font choices in your designs](https://learnui.design/blog/justifying-font-choices.html)
    
@@ -1509,6 +1511,7 @@ Sample meta tags with preconnects
 - i may be signing up for https://shiftnudge.com/ .. its super expensive tho
 - upcoming design for devs book from adrian twarog https://www.enhanceui.com/
 - meng to https://designcode.io/ui-design-for-developers
+- the non-designer's design book https://www.amazon.co.uk/Non-Designers-Design-Book-Robin-Williams/dp/0133966151
 
 ## The value of design
 
