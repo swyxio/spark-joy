@@ -1562,6 +1562,7 @@ free or mock data apis for demos
 - https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
 - https://github.com/Rolstenhouse/unofficial-apis
 - https://devresourc.es/tools-and-utilities/public-apis 
+- https://free-for.dev/#/?id=apis-data-and-ml
 
 
 ## Copy and Emails
