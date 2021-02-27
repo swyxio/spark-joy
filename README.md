@@ -644,7 +644,7 @@ Ideas of things you can include based on my own site
 
 #### General & Misc
 
-**Important**: Note on [icon accessibility](https://css-tricks.com/accessible-svg-icons/)
+**Important**: Note on [icon accessibility](https://css-tricks.com/accessible-svg-icons/). [Don't use icon fonts.](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/)
 
 - Icon + text: use `<svg aria-hidden="true">`
 - Icon only: `<svg role="img"><title>foo</title>...</svg`. Pick from [Aria roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles) list.
