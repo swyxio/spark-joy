@@ -518,7 +518,6 @@ But here are tools to help generate palettes:
 - https://croncolor.com/color-tool
 - https://leonardocolor.io/?colorKeys=%236fa7ff&base=ffffff&ratios=3%2C4.5&mode=CAM02
 - https://happyhues.co/
-- gradients https://mybrandnewlogo.com/color-gradient-generator
 - https://www.colourlovers.com/ *recommended by Tracy Osborn*
 - https://flatuicolors.com/
 - https://colorsupplyyy.com/
@@ -530,12 +529,27 @@ But here are tools to help generate palettes:
 - http://khroma.co/ neural network generated color palettes
 - https://learnui.design/tools/data-color-picker.html Color picker for data visualizations
 - https://learnui.design/tools/accessible-color-generator.html Accessible color generator
-- CSS Gradient Text https://twitter.com/argyleink/status/1281623252662489088/photo/2
 - https://maketintsandshades.com/ Generate tint and shades from hex code
 - Special usecases: 
   - Pick colors from an image https://imagehive.co/
   - Mix colors in pure CSS https://css-tricks.com/mixing-colors-in-pure-css/
   - [HSLuv](https://www.hsluv.org/comparison/) color space is preferable to HSL. [Palette generator](https://colors.madscience.design/)
+
+
+
+### Color Gradients
+
+- gradients https://mybrandnewlogo.com/color-gradient-generator
+- CSS Gradient Text https://twitter.com/argyleink/status/1281623252662489088/photo/2
+- https://mycolor.space/gradient Generate a CSS Color Gradient
+- https://webgradients.com/ free collection of 180 linear gradients 
+- https://uigradients.com/#Petrichor
+- https://learnui.design/tools/gradient-generator.html (to avoid [the "gray zone" problem](https://css-tricks.com/the-gray-dead-zone-of-gradients/))
+- Adam Argyle conic CSS gradient examples https://www.conic.style/
+- https://www.grabient.com/
+- ANIMATED GRADIENTS https://www.gradient-animator.com/
+- Subtle gradients by bumping only saturation on HSL (thanks [argyleink](https://twitter.com/argyleink/status/1197205254623780864)) - You can [really take this to the extreme](https://twitter.com/argyleink/status/1216815958917992450?s=20)!
+
 
 ### Color knowledge
 
@@ -991,6 +1005,7 @@ Background Radial Bursts behind images:
 
 #### Background Gradients
 
+Make sure to see the [Color Gradients](#color-gradients) section to generate gradients
 
 ```css
 background-image: linear-gradient(
@@ -999,14 +1014,6 @@ background-image: linear-gradient(
   hsl(200 100% 90%) 100%
 );
 ```
-
-- https://mycolor.space/gradient Generate a CSS Color Gradient
-- https://webgradients.com/ free collection of 180 linear gradients 
-- https://uigradients.com/#Petrichor
-- https://www.grabient.com/
-- ANIMATED GRADIENTS https://www.gradient-animator.com/
-- Subtle gradients by bumping only saturation on HSL (thanks [argyleink](https://twitter.com/argyleink/status/1197205254623780864)) - You can [really take this to the extreme](https://twitter.com/argyleink/status/1216815958917992450?s=20)!
-
 
 #### Background Patterns
 
