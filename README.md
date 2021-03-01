@@ -1026,6 +1026,7 @@ background-image: linear-gradient(
 - https://bgjar.com/
 - https://products.ls.graphics/paaatterns/
 - https://notchris.net/patterns/ (Really simple SVG Patterns using single unicode characters.)
+- https://doodad.dev/pattern-generator/ (Pattern generator that exports to png, jpg and svg.)
 
 ### Background Illustrations
 
