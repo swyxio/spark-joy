@@ -1557,6 +1557,7 @@ Sample meta tags with preconnects
 
 free or mock data apis for demos
 
+- https://picsum.photos
 - https://dog.ceo/
 - https://randomuser.me/
 - https://swapi.dev/
