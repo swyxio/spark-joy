@@ -1110,6 +1110,9 @@ background-image: linear-gradient(
 - https://frontend.horse/articles/buttons-that-spark-joy/
 - https://cssbuttons.vercel.app/ cssbuttons: HTML & CSS Buttons Collection Built in React
 - moving lightsource on hover css buttons idea https://jsfiddle.net/pixel67/ZxZ6B/28/
+- Button without ugly focus ring with Tailwind:
+  -  `focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2`
+  -  for links `focus:shadow-outline focus:outline-none`
 
 ### Forms
 
