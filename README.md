@@ -1031,6 +1031,7 @@ background-image: linear-gradient(
 - https://www.gradientmagic.com/
 - http://thepatternlibrary.com/
 - http://svgbackgrounds.com/
+- https://haikei.app/ - web app to generate unique SVG shapes, backgrounds, and patterns 
 - https://pattern.monster/
 - https://bgjar.com/
 - https://products.ls.graphics/paaatterns/
@@ -1051,6 +1052,7 @@ background-image: linear-gradient(
 - CSS backgroundy patterns https://leaverou.github.io/css3patterns/
 - this guy https://twitter.com/yuanchuan23
 - Generative Gradients http://generative-placeholders.glitch.me/
+  - Generateive SVG https://dev.to/georgedoescode/a-generative-svg-starter-kit-5cm1
 - Image Placeholders - blurring - https://blurha.sh/ (and gatsby image and nextjs image)
 - Dimming/coloring text on background images https://coder-coder.com/background-image-opacity/
 - [True Grit Texture Supply](https://www.truegrittexturesupply.com/) PNG textures (paid)
