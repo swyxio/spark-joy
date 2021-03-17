@@ -1163,6 +1163,7 @@ Tools:
 ### Lightweight Charts/Dataviz
 
 - https://rbitr.github.io/ChartS.css/
+- https://chartscss.org/
 - Sparkline fonts in text: https://github.com/aftertheflood/sparks and https://www.scribbletone.com/typefaces/ff-chartwell
 
 ### Nice React Components
