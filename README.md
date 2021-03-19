@@ -1017,6 +1017,8 @@ background-image: linear-gradient(
 );
 ```
 
+https://meshgradient.com/ swirly backgrounds like apple
+
 #### Background Patterns
 
 - https://leaverou.github.io/css3patterns/
