@@ -149,6 +149,7 @@ focus in futurism
 more control in exchange for more work on your part.
 
   - eric meyer v2 https://meyerweb.com/eric/tools/css/reset/
+  - https://github.com/jensimmons/cssremedy css working group's reset if it didnt have to worry about tech debt 
   - https://github.com/tiaanduplessis/nanoreset
   - https://nicolas-cusan.github.io/destyle.css/
   - https://hankchizljaw.com/wrote/a-modern-css-reset/
