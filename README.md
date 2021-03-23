@@ -1098,7 +1098,7 @@ https://meshgradient.com/ swirly backgrounds like apple
   - Page transitions https://github.com/joerez/react-transitions/
   - https://animxyz.com/docs/ has react and vue integration
 
-## Individual Elements
+## Individual HTML Elements
 
 - links https://cssanimation.rocks/animating-links/
 - tooltips on hover https://kazzkiq.github.io/balloon.css/
@@ -1114,6 +1114,9 @@ https://meshgradient.com/ swirly backgrounds like apple
 - https://smolcss.dev/ more simple CSS tricks for responsive elements
 - prefer click menus over hover menus https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/
 
+
+
+
 ### Buttons
 
 - https://frontend.horse/articles/buttons-that-spark-joy/
@@ -1126,6 +1129,7 @@ https://meshgradient.com/ swirly backgrounds like apple
 ### Forms
 
 - Accessible Styled Forms https://github.com/scottaohara/a11y_styled_form_controls
+- accessibility for all elements https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/ 
 - Form Validation https://www.bram.us/2021/01/28/form-validation-you-want-notfocusinvalid-not-invalid/
   - use `input:not(:focus):not(:placeholder-shown):valid` for non freakout UX
 - WTF Forms: Nicer Forms eg Radio Buttons with pure CSS https://github.com/mdo/wtf-forms
