@@ -22,7 +22,7 @@
 - [Background Stuff](#background-stuff)
 - [Spinners](#spinners)
 - [Animations & Transitions](#animations--transitions)
-- [Individual Elements](#individual-elements)
+- [Individual HTML Elements](#individual-html-elements)
 - [Design Software](#design-software)
 - [Canvas](#canvas)
 - [WebGL](#webgl)
