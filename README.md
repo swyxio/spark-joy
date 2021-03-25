@@ -771,6 +771,9 @@ Special Focus For Cloud Architecture diagrams (needs logos etc)
 - https://www.cloudskew.com/
 - https://arcentry.com/ (interactive/realtime) - discontinued!
 
+the 5 types of arch diagrams https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/
+
+
 Code-based Graph tools
 
 - graphviz/dot - useful inside jupyter
