@@ -738,6 +738,7 @@ Ideas of things you can include based on my own site
 Before you get to the tools - some good thinking (and lists of tools) on architecture diagrams:
 
 - https://nocomplexity.com/documents/arplaybook/businessarchitecture.html
+- https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315
 - https://c4model.com/ ([more from Simon](https://dev.to/simonbrown/how-to-review-a-software-architecture-diagram-6p0))
 
 General Purpose
