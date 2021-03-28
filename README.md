@@ -1411,6 +1411,7 @@ Sample meta tags with preconnects
 - https://github.com/neutraltone/awesome-stock-resources
 - https://nodesign.dev/
 - https://github.com/LisaDziuba/Awesome-Design-Tools
+- https://github.com/goabstract/Awesome-Design-Tools
 - https://github.com/emmabostian/design-inspiration
 - https://undesign.learn.uno/
 - https://dev.to/theme_selection/best-design-resources-websites-every-developer-should-bookmark-1p5d
