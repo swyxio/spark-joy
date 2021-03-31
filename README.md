@@ -428,7 +428,7 @@ DON'T GO CRAZY WITH FONT SIZES.
 - International fonts stack https://www.figma.com/blog/when-fonts-fall/
 - In future, try out [leading-trim](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202) 
 - https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website
-
+- css podcast primer on typography https://thecsspodcast.libsyn.com/tcp036-v2
 
 If building a collaborative design tool that offers font choice, see how Figma does it https://youtu.be/kVD-sjtFoEI
 
