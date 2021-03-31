@@ -681,6 +681,7 @@ Ideas of things you can include based on my own site
   - https://iconduck.com/ 104,808 free open source icons
 - https://thenounproject.com/ Every icon you can think of, in PNG or SVG formats. They offer over 20 million icons, with built-in customization colors like size and color. Requires login, needs creative commons attribution or $3 download
 - https://nucleoapp.com/ Nucleo is a beautiful library of 30635 icons, and a powerful application to collect, customize and export all your icons. $99 lifetime purchase.
+  - https://nucleoapp.com/tool/icon-transition SVG Icon Transitions Generator
 - https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties. PNG, JPG, iOS, Android, PDF. No svg.
 - **https://iconmonstr.com/** Discover 4486+ free icons in 310 collections. SVG, EPS, PSD, PNG. [OK without attribution, don't sell it](https://iconmonstr.com/license/).
 - https://icomoon.io/ - 450 icons, SVG, PDF, EPS, Ai, PSD. Paid tier goes up to 1600 icons.
@@ -978,23 +979,54 @@ box-shadow:  20px 20px 22px #cfb3a6,
 
 ### SVG/Canvas Masking
 
+- JPG/PNG to SVG 
+  - core tool http://potrace.sourceforge.net/
+  - https://picsvg.com/
+  - https://svgurt.com/#/
+  - https://codepen.io/jesstelford/pen/PaBMrL small dynamic SVG placeholders
+  - https://github.com/woltapp/blurhash small dynamic SVG placeholders for blurring up
+- SVG to JSX
+  - https://omatsuri.app/svg-to-jsx
+  - https://svg2jsx.com/
+  - https://react-svgr.com/playground/
+- SVG editors
+  - https://boxy-svg.com/
+  - https://editor.method.ac/
+  - https://vecta.io/ collaboration tools for teams, and also supporting diagrams, Autocad drawings, Vision stencils and drawings.
+  - https://macsvg.org/ light open-source macOS application for SVG editing and animations
+  - https://github.com/SVG-Edit/svgedit fully-fledged SVG editor for sophisticated SVG editing. 
+- SVG Compression
+  - https://jakearchibald.github.io/svgomg/
+  - SVGO https://www.smashingmagazine.com/2021/03/svg-generators/#svg-compression
+- SVG assets manager
+  - https://svgx.app/ free desktop SVG asset manager which allows you to keep all SVGs in one place. You can bookmark, search and preview SVG icons, live-edit the SVG markup, preview the icons in dark mode and copy/paste markup and CSS with one click. By default it also uses SVGO for SVG optimizations. Available for Mac and Windows.
+  - https://iconset.io/ You can drag icons from Iconset directly into Sketch, Figma, Adobe XD and pretty much anything else, without plugin or extension installs. Plus, you can also sync icons across devices via Dropbox or similar services, and publish and share your icon sets. Available for Mac and Windows.
+- SVG Sprites generator https://svgsprit.es/  context https://www.smashingmagazine.com/2021/03/svg-generators/#svg-sprites-generator
 - Transparent fill SVG and color in on Hover - [Codepen](https://codepen.io/m4r1vs/pen/qVReQz)
 - https://speckyboy.com/css-svg-canvas-masks/
-- https://www.blobmaker.app/
-- https://www.shapedivider.app/
-- https://getwaves.io/
-- svg waves generator https://codepen.io/jh3y/full/poEvKxo
-- https://wweb.dev/resources/css-separator-generator
+- https://www.blobmaker.app/ generate some fancy blobs.
+- https://squircley.app/ generator of organic shapes for any kind of visuals or background images. You choose the rotation, the scale, the “curvature” and the fill color, and the tool takes care of the rest.
 - https://inkscape.org/
-- text effects https://css-tricks.com/animate-blob-text-with-svg-text-clipping/
-- more text effects https://letsbuildui.dev/articles/css-text-effects-five-minimal-examples
+- https://svg-path-visualizer.netlify.app/
+- https://svgcrop.com/ remove blank space automatically
+- https://msurguy.github.io/svg-cropper-tool/ more refined control of cropping with additional options for cropping style — circle, polygon, custom shape
+- SVG Polygon Generator https://codepen.io/winkerVSbecks/full/wrZQQm/ allows you to define the number of sides, radius, spacing and it generates a <polygon> SVG element for you.
+- https://rawgraphs.io/ SVG Data Visualization Generator -  sunburst, circular dendrogram or multiple convex hull, for example. with tutorials: https://rawgraphs.io/learning
+- svg and text effects
+  - https://pavellaptev.github.io/warp-svg/
+  - https://css-tricks.com/animate-blob-text-with-svg-text-clipping/
+  - more text effects https://letsbuildui.dev/articles/css-text-effects-five-minimal-examples
 - animate an existing svg https://svgartista.net/
 - `mix-blend-mode: screen` is [really good for SVG icons, with hover](https://ishadeed.com/article/blending-modes-css/)
 - SVG animations
-  - https://www.svgator.com/
   - SVG icon transitions https://blog.nucleoapp.com/create-2-state-svg-powered-animated-icons-76ed19160a7e
+    - https://nucleoapp.com/tool/icon-transition
   - scroll based svg text path animation https://www.youtube.com/watch?v=Tae96ze3xwY
   - stroke path animation https://css-tricks.com/a-trick-that-makes-drawing-svg-lines-way-easier/
+  - https://maxwellito.github.io/vivus-instant/ animate svg strokes
+  - https://svgartista.net/ basic fill and stroke animations
+  - https://www.svgator.com/ dedicated editor for SVG animations with plenty of dedicated panels for everything from skewing to stroke path and filters
+  - GSAP, SVG.js (http://www.svgjs.com/), Lottie
 
 ## Background Stuff
 
@@ -1031,22 +1063,40 @@ https://meshgradient.com/ swirly backgrounds like apple
 
 - https://leaverou.github.io/css3patterns/
 - https://github.com/bansal-io/pattern.css
-- http://www.heropatterns.com/
+- http://www.heropatterns.com/ SVG Repeating Patterns Generator
+- https://www.wowpatterns.com/free-vector-art thousands of freevector patterns, based on shapes, organic shapes as well as themes, such as animals, beach, city and people, festivals, florals etc.
 - https://www.transparenttextures.com/
 - https://www.toptal.com/designers/subtlepatterns/ (exports png though :( )
 - https://pattern.flaticon.com/ (create a bg pattern of icons)
 - https://coolbackgrounds.io/
+- https://tabbied.com/ abstract Doodles with generated patterns
 - https://css-doodle.com/
 - https://hero-generator.netlify.app/ hero picture CSS generator
 - https://www.gradientmagic.com/
+- https://kumiko-generator.netlify.app/
 - http://thepatternlibrary.com/
+- https://msurguy.github.io/flow-lines/ produces random geometric lines, and we can adjust the formulas and distances between the shapes drawn
 - http://svgbackgrounds.com/
 - https://haikei.app/ - web app to generate unique SVG shapes, backgrounds, and patterns 
-- https://pattern.monster/
+- https://pattern.monster/ 180 patterns, and you can filter them by mode and color, and search
+- http://iros.github.io/patternfills/ - plenty of black-and-white patterns, also available from the command line
+- https://www.kennethcachia.com/plain-pattern/ allows you to upload an SVG shape (or use one of the existing ones) and it creates a repeating pattern which can be exported as SVG.
+- http://www.patternify.com/ CSS Pattern generator that allows you to define a pattern in a 10×10 grid
+- https://www.magicpattern.design/tools/css-backgrounds library of pure CSS background patterns like ZigZag or diagonal ones.
 - https://bgjar.com/
 - https://products.ls.graphics/paaatterns/
 - https://notchris.net/patterns/ (Really simple SVG Patterns using single unicode characters.)
 - https://doodad.dev/pattern-generator/ (Pattern generator that exports to png, jpg and svg.)
+- wave dividers
+  - https://www.shapedivider.app/ generate custom shape dividers 
+  - https://svgwave.in/ 
+  - https://getwaves.io/ generate SVG waves
+  - https://wavelry.vercel.app/ choose between sharp, linear and smooth waves
+  - https://www.outpan.com/app/9aaaf27303/svg-gradient-wave-generator adjust amplitudes, smoothness, saturation and hues
+  - https://loading.io/background/m-wave/ generate waves, and even animate them
+  - https://haikei.app/ full fledged generate SVG assets, from layered waves to stacked waves and blob scenes
+  - svg waves generator https://codepen.io/jh3y/full/poEvKxo
+  - https://wweb.dev/resources/css-separator-generator
 
 ### Background Illustrations
 
@@ -1226,6 +1276,7 @@ Tools:
 - Netflix slide-in menu - [Codepen](https://codepen.io/FlorinPop17/pen/KKPBgeQ)
 - Peek Href on Links - [2min video](https://www.youtube.com/watch?v=zMZckWl_B4c&feature=youtu.be)
 - [Gooey Effect with SVG and Filters](https://css-tricks.com/gooey-effect/)
+- More on [SVG filters](https://www.smashingmagazine.com/2021/03/svg-generators/#svg-filters-color-matrix-mixer)
 - [Backdrop Filters and Multiple Inner Shadows](https://twitter.com/MengTo/status/1311029761490198528?s=20)
 - [Swyx CSS Filter toy](https://svelte.dev/repl/defc901c5f434ed4a76161605cf1db76?version=3.29.0)
 - [CSS motion blur on css tricks](https://css-tricks.com/how-to-create-a-realistic-motion-blur-with-css-transitions/)
