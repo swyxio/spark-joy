@@ -273,6 +273,8 @@ special topic - responsive media
       - IBM Plex Family (Mono, Sans, Serif)
   - Fontshare 50 free fonts https://www.fontshare.com/
     - [Erik Kennedy picks from these](https://twitter.com/erikdkennedy/status/1374382006658723840?s=20)
+  - Premium-looking Free Fonts https://learnui.design/blog/ultimate-guide-similar-fonts.html
+    - Apercu · Avenir · Circular · DIN · Futura · Gotham · Helvetica · Proxima Nova · Times New Roman
   - Chivo https://www.latinxswhodesign.com/
   - [Lato](http://www.latofonts.com/) Well known, very readable, pretty, client favorite
   - [Libre Franklin](https://beautifulwebtype.com/libre-franklin/) Elegant and thin
