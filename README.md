@@ -1471,7 +1471,7 @@ Sample meta tags with preconnects
 - https://dev.to/theme_selection/best-design-resources-websites-every-developer-should-bookmark-1p5d
 - https://dev.to/joserfelix/40-high-quality-free-resources-for-web-development-10o3
 
-## Helpful podcasts and talks
+## Helpful podcasts/talks/articles
 
 - [How do I learn design?](https://www.codenewbie.org/podcast/how-do-i-learn-design) (CodeNewbie)
 - [Design foundations for developers](https://syntax.fm/show/196/design-foundations-for-developers) (Syntax)
@@ -1480,6 +1480,7 @@ Sample meta tags with preconnects
 - [UI Design for Developers](https://designcode.io/ui-design-for-developers) (Meng To)
 - [Learning How to Design](https://shoptalkshow.com/343/) (ShopTalk)
 - [Laws of UX](https://lawsofux.com/) 
+- [100 Things I Know About Design](https://odannyboy.medium.com/100-things-i-know-about-design-8e50f7b1818b)
 - https://learnui.design/blog/4-rules-intuitive-ux.html
   - Obey the Law of Locality 
   - Anything But Dropdowns
