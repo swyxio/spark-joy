@@ -31,7 +31,7 @@
 - [Onboarding](#onboarding)
 - [Misc Genres (Handwriting, Pixel, ASCII styles)](#misc-genres-handwriting-pixel-ascii-styles)
 - [Other Lists like this one](#other-lists-like-this-one)
-- [Helpful podcasts and talks](#helpful-podcasts-and-talks)
+- [Helpful podcasts/talks/articles](#helpful-podcaststalksarticles)
 - [More Free Stuff](#more-free-stuff)
 - [Paid Premium Services](#paid-premium-services)
 - [Courses](#courses)
