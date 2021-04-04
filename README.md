@@ -940,6 +940,7 @@ developers and designers
 - CSS 3D Text https://markdotto.com/playground/3d-text/
 - 3D CSS hover effects https://polypane.app/css-3d-transform-examples/
 - set cursor to emoji using SVG https://twitter.com/mgechev/status/1354300680807329793?s=20
+- swipey image grids using SVG https://www.cassie.codes/posts/swipey-image-grids/
 - glassy glassmorphism [codepen](https://codepen.io/a-trost/pen/dypQzwq), [in context](https://codepen.io/TurkAysenur/pen/ZEpxeYm)
 
     ```css
