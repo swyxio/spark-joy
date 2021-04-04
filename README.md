@@ -820,6 +820,7 @@ Mocking your browser/phone
 - animate them, why not https://deviceful.app/
 - phone/watch: https://www.rotato.xyz/
 - other devices https://deviceshots.com/
+- 3D mocks: https://things.morflax.com/styles
 - 🔥 [Facebook Design Devices](https://facebook.design/devices)
 - [Shotsnapp](https://shotsnapp.com/)
 - https://www.ls.graphics/devices-mockups
