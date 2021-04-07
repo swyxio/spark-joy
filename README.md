@@ -280,6 +280,7 @@ special topic - responsive media
   - [Libre Franklin](https://beautifulwebtype.com/libre-franklin/) Elegant and thin
   - [IBM Plex Sans](https://www.ibm.com/plex/) Loads of weights, beautifully done
   - [Clear Sans](https://01.org/clear-sans)
+  - [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) from Braille institue
   - [Inter](https://rsms.me/inter/) [Rasmus'](https://rsms.me/) typeface carefully crafted & designed for computer screens.
   - [Jetbrains Mono](https://www.jetbrains.com/lp/mono/) - Monospace font for devvy stuff
   - Handwritten Fonts - great for presentations, annotated illustrations
