@@ -1294,6 +1294,7 @@ Tools:
 - Greensock GSAP scroll trigger demo with a ThreeJS Plane model https://codepen.io/ste-vg/pen/GRooLza
 - little HTML tricks that are handy https://htmldom.dev/
 - https://1stwebdesigner.com/css-effects/
+- great svg ideas https://twitter.com/cassiecodes/status/1383432725059674112?s=20
 
 ## Design Software
 
