@@ -1644,21 +1644,28 @@ Sample meta tags with preconnects
 
 free or mock data apis for demos
 
-- https://picsum.photos
-- https://dog.ceo/
-- https://randomuser.me/
-- https://swapi.dev/
-- http://quotes.rest/ 
-- https://openweathermap.org/guide
-- https://jsonplaceholder.typicode.com/
-- https://github.com/public-apis/public-apis
-- https://public-apis.io/ (A Directory of Free Public & Open Rest APIs)
-- https://pokeapi.co/api/v2/
-- https://github.com/Marak/faker.js - generate fake pdf https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/
-- https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
-- https://github.com/Rolstenhouse/unofficial-apis
-- https://devresourc.es/tools-and-utilities/public-apis 
-- https://free-for.dev/#/?id=apis-data-and-ml
+- Simple Data
+  - http://quotes.rest/ 
+  - https://api.chucknorris.io/
+  - https://jokeapi.dev/
+  - https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
+- Pictures
+  - https://picsum.photos
+  - https://dog.ceo/
+- Users
+  - https://randomuser.me/
+  - https://jsonplaceholder.typicode.com/
+- Relational Data
+  - https://swapi.dev/ - theres a graphql swapi as well
+  - https://pokeapi.co/api/v2/
+- Misc
+  - https://openweathermap.org/guide
+  - https://github.com/public-apis/public-apis
+  - https://public-apis.io/ (A Directory of Free Public & Open Rest APIs)
+  - https://github.com/Marak/faker.js - generate fake pdf https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/
+  - https://github.com/Rolstenhouse/unofficial-apis
+  - https://devresourc.es/tools-and-utilities/public-apis 
+  - https://free-for.dev/#/?id=apis-data-and-ml
 
 
 ## Copy and Emails
