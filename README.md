@@ -651,6 +651,8 @@ Ideas of things you can include based on my own site
   <meta name="twitter:data2" content={readTime} />
 ```
 
+other boilerplates to use https://www.matuzo.at/blog/html-boilerplate/
+
 ### Icons
 
 #### Logos (incl company logos)
