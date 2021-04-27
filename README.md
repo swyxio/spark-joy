@@ -763,6 +763,9 @@ Before you get to the tools - some good thinking (and lists of tools) on archite
 - https://whimsical.com/ ($10/mo)
 - https://www.lucidchart.com/
 - https://www.gliffy.com/
+- https://diagrams.net/
+- https://www.ilograph.com/
+- https://zenuml.com
 - https://www.simplediagrams.com/
 - [Microsoft Visio](https://www.microsoft.com/en-sg/microsoft-365/visio/flowchart-software)
 - https://www.plectica.com/
@@ -774,6 +777,8 @@ Before you get to the tools - some good thinking (and lists of tools) on archite
 - https://swimlanes.io/  a simple online tool for creating sequence diagrams.
 - https://bramp.github.io/js-sequence-diagrams/
 - https://sequencediagram.org/
+- https://playground.diagram.codes/
+- http://sdedit.sourceforge.net/ Quick Sequence Diagram Editor (but doesnt seem active)
 
 ### Entity Relationship Diagrams
 
