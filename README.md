@@ -506,7 +506,7 @@ Examples: https://dev.to/dcodeyt/add-dark-mode-to-your-websites-with-css-5bh4
 
 One liner dark mode (careful about perf!): `filter: invert(100%) hue-rotate(180deg);` - more [filters here](https://svelte.dev/repl/defc901c5f434ed4a76161605cf1db76?version=3.29.0)
 
-But here are tools to help generate palettes:
+### Palette Generators
 
 - https://tailwind.ink/
 - https://www.tailwindshades.com/
@@ -521,6 +521,7 @@ But here are tools to help generate palettes:
 - https://2colors.colorion.co/
 - https://dribbble.com/colors/4030e8
 - https://palettte.app/ (advanced tool; try importing the default palettes)
+- https://www.paletter.app/ - Create Professional Color Palettes from a Single Color
 - http://colours.neilorangepeel.com/category/red/
 - https://www.colorbox.io (by Lyft Design https://design.lyft.com/)
 - Consider [darker/lighter color variations](https://learnui.design/blog/color-in-ui-design-a-practical-framework.html)
