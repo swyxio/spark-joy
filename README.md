@@ -508,14 +508,13 @@ One liner dark mode (careful about perf!): `filter: invert(100%) hue-rotate(180d
 
 ### Palette Generators
 
-- https://tailwind.ink/
-- https://www.tailwindshades.com/
 - https://colorgen.dev/
 - https://color.adobe.com/create
 - https://www.colorsandfonts.com/
 - https://colorswall.com/
 - https://coolors.co/
 - https://colorsinspo.com
+- https://huey.design/ Rapid color palettes across the rainbow
 - https://duo.alexpate.uk/
 - https://colorhunt.co/
 - https://2colors.colorion.co/
@@ -540,6 +539,12 @@ One liner dark mode (careful about perf!): `filter: invert(100%) hue-rotate(180d
 - https://learnui.design/tools/data-color-picker.html Color picker for data visualizations
 - https://learnui.design/tools/accessible-color-generator.html Accessible color generator
 - https://maketintsandshades.com/ Generate tint and shades from hex code
+- Tailwind:
+  - https://tailwind.ink/
+  - https://www.tailwindshades.com/
+  - https://tailwind.simeongriggs.dev
+  - https://javisperez.github.io/tailwindcolorshades/
+  - https://tailwind-color-picker.jessarcher.com
 - Special usecases: 
   - Pick colors from an image https://imagehive.co/
   - Mix colors in pure CSS https://css-tricks.com/mixing-colors-in-pure-css/
