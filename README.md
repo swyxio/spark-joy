@@ -772,6 +772,8 @@ Before you get to the tools - some good thinking (and lists of tools) on archite
 
 - https://www.websequencediagrams.com/
 - https://swimlanes.io/  a simple online tool for creating sequence diagrams.
+- https://bramp.github.io/js-sequence-diagrams/
+- https://sequencediagram.org/
 
 ### Entity Relationship Diagrams
 
