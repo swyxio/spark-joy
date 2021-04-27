@@ -754,13 +754,12 @@ Before you get to the tools - some good thinking (and lists of tools) on archite
 - https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315
 - https://c4model.com/ ([more from Simon](https://dev.to/simonbrown/how-to-review-a-software-architecture-diagram-6p0))
 
-General Purpose
+### General Purpose Diagramming
 
 - https://excalidraw.com/ (free, open source)
 - https://miro.com/ - freemium, used by Maggie
 - https://www.draw.io/ - now [shifted](https://www.diagrams.net/blog/move-diagrams-net) to https://www.diagrams.net/ (free) - has [VS Code extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 - https://inkscape.org/ (free)
-- https://www.websequencediagrams.com/
 - https://whimsical.com/ ($10/mo)
 - https://www.lucidchart.com/
 - https://www.gliffy.com/
@@ -769,7 +768,12 @@ General Purpose
 - https://www.plectica.com/
 - more tools - [see hn thread](https://news.ycombinator.com/item?id=21513337)
 
-Entity Relationship Diagrams
+### Sequence Diagrams
+
+- https://www.websequencediagrams.com/
+- https://swimlanes.io/  a simple online tool for creating sequence diagrams.
+
+### Entity Relationship Diagrams
 
 - https://dbdiagram.io/home
 
