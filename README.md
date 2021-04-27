@@ -1541,6 +1541,7 @@ Sample meta tags with preconnects
   - [ ] Repetition: consistency of fonts, colors, logos
   - [ ] Direction: F, E, Z pattern. Put key info in left
   - [ ] Space: use space to amplify other objects
+- Simple design: https://www.anthonyhobday.com/simpledesign/ (rec by [Hey designer](https://twitter.com/jonasdowney/status/1280620028774305792/photo/1))
 - [Refactoring UI](https://refactoringui.com/)
   - Starting from Scratch
     - Choose a personality
