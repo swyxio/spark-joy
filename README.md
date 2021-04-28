@@ -784,7 +784,9 @@ Before you get to the tools - some good thinking (and lists of tools) on archite
 
 - https://dbdiagram.io/home
 
-Special Focus For Cloud Architecture diagrams (needs logos etc)
+### Cloud Architecture diagrams 
+
+useful eg if needs logos
 
 - Amazon architecture icons: https://aws.amazon.com/architecture/icons/ as well as the software that has them built in
   - https://awsicons.dev/ AWS icons
@@ -799,7 +801,7 @@ Special Focus For Cloud Architecture diagrams (needs logos etc)
 the 5 types of arch diagrams https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/
 
 
-Code-based Graph tools
+### Code-based Graph tools
 
 - graphviz/dot - useful inside jupyter
 - mermaid https://mermaid-js.github.io/mermaid/
@@ -808,7 +810,10 @@ Code-based Graph tools
 - https://structurizr.com/
 - https://plantuml.com/
 - https://github.com/mhlabs/cfn-diagram visualize cloudformation -> draw.io 
+- https://wavedrom.com/ (OSS) - Digital Timing Diagram or Waveform from simple textual description.
 - way more tools here: https://xosh.org/text-to-diagram/
+
+
 
 ## Wireframing
 
