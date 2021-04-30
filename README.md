@@ -686,6 +686,7 @@ other boilerplates to use https://www.matuzo.at/blog/html-boilerplate/
 - ⭐ https://www.heroicons.com/ Steve schoger's (somewhat limited) svg iconset. another viewer: https://heroicons.dev/
 - ⭐ https://phosphoricons.com/ 3000+ fully customizable free SVG and PNG icons
 - ⭐ https://tablericons.com/ 937 Fully customizable free SVG icons
+- https://iconic.app/
 - https://icons.modulz.app/ Radix Icons - >250 15×15 icons designed by the Modulz team. - some great app icons
 - **icon metasearch** (list of lists of icons)
   - https://icones.netlify.app/
