@@ -313,6 +313,7 @@ special topic - responsive media
   - http://webtypography.net/intro/
   - https://www.youtube.com/watch?v=Vd6jZR-GknA 
   - [6 ways to justify font choices in your designs](https://learnui.design/blog/justifying-font-choices.html)
+  - [statistical data on font usage](https://dribbble.com/stories/2021/04/26/web-design-data-fonts)
    
 
 <details>
