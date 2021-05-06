@@ -782,6 +782,8 @@ Before you get to the tools - some good thinking (and lists of tools) on archite
 - https://playground.diagram.codes/
 - http://sdedit.sourceforge.net/ Quick Sequence Diagram Editor (but doesnt seem active)
 
+Specifically for BPMN: https://bpmn.io/
+
 ### Entity Relationship Diagrams
 
 - https://dbdiagram.io/home
