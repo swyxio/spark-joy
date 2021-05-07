@@ -1006,6 +1006,7 @@ developers and designers
   - Components.ai box shadows https://components.ai/box-shadows
   - Emoji Shadows https://codepen.io/dienhn/pen/xxErveM
   - Neuomorphism Generator https://neumorphism.io/#f3d2c3
+    - primer on skeuo vs flat vs neuomorphism https://uxdesign.cc/tridimensionality-of-skeuomorphism-flat-design-and-neumorphism-bc9d705a5cc7
 
 ```css
 border-radius: 50px;
