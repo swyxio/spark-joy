@@ -259,6 +259,7 @@ special topic - responsive media
   - [14 free programming fonts](https://twitter.com/zenorocha/status/1359508613606199301?s=20)
 - Free fonts that are great with examples (thanks [@edadams](https://github.com/sw-yx/spark-joy/issues/22))
   - Google Fonts - ([see Harry Roberts on Google Font loading perf](https://csswizardry.com/2020/05/the-fastest-google-fonts/) - you should [self host this](https://wicki.io/posts/2020-11-goodbye-google-fonts/))
+    - https://bueltge.de/free-web-font-combinations/
     - [40 best google fonts by Typewolf](https://www.typewolf.com/google-fonts)
     - [50 selections of google fonts](https://www.notion.so/e873b52e0cc54f2981acc430417ba61d?v=05acdd40b0564920be69f5347f619bc3)
     - [Noto Sans](https://www.google.com/get/noto/)
@@ -290,6 +291,10 @@ special topic - responsive media
 - Font Pairing
   - https://fontpair.co/ 
   - https://fontjoy.com/ 
+  - http://femmebot.github.io/google-type/
+  - https://www.boldwebdesign.com.au/
+  - https://justmytype.co/
+  - https://bueltge.de/free-web-font-combinations/
   - Canva has a great tool: https://www.canva.com/font-combinations/
   - https://www.colorsandfonts.com/font-pairings
 - [Font variants and oldstyle numbers](https://www.jonathan-harrell.com/blog/better-typography-with-font-variants/)
