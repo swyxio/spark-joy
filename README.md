@@ -936,7 +936,10 @@ Learn 3d illo in blender https://polygonrunway.com/
 - https://covers.alphacoders.com/by_category/4/2/twitter-header
 - https://www.nappy.co/ "Beautiful, high-res photos of black and brown people. For free."
 - https://photos.icons8.com/creator/ Create custom stock photos
-- https://pexels.com
+- Videos
+  - https://pexels.com
+  - https://pixabay.com/videos
+  - https://mixkit.co
 - https://generated.photos/ AI-generated stock photos
 - https://visualsofearth.com/c/ nature, space, desert, etc. mobile focused.
 - :star: https://unsplash.com/ of course
