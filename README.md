@@ -35,7 +35,6 @@
 - [More Free Stuff](#more-free-stuff)
 - [Paid Premium Services](#paid-premium-services)
 - [Courses](#courses)
-- [The value of design](#the-value-of-design)
 - [Interaction/Design Inspo](#interactiondesign-inspo)
 - [Mock APIs](#mock-apis)
 - [Copy and Emails](#copy-and-emails)
