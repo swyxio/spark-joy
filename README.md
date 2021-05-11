@@ -1660,10 +1660,9 @@ Sample meta tags with preconnects
 - upcoming design for devs book from adrian twarog https://www.enhanceui.com/
 - meng to https://designcode.io/ui-design-for-developers
 - the non-designer's design book https://www.amazon.co.uk/Non-Designers-Design-Book-Robin-Williams/dp/0133966151
-
-## The value of design
-
-- https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908
+- Copywork
+  - https://www.frontendpractice.com/
+  - https://www.codewell.cc/
 
 ## Interaction/Design Inspo
 
