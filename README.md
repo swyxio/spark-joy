@@ -1379,6 +1379,7 @@ and screens.
 
 - http://freebiesketch.com/
 - https://www.sketchappsources.com/
+- Apple design resources https://developer.apple.com/design/resources/
 
 ### Generative Design Tools
 
