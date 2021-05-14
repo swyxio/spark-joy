@@ -631,7 +631,7 @@ Don't forget them!
 
 ### `<link rel="">` tags and opengraph
 
-Ideas of things you can include based on my own site
+Ideas of things you can include based on my own site.
 
 ```html
   <link rel="icon" type="image/png" href="/favicon.png" />
@@ -664,7 +664,10 @@ Ideas of things you can include based on my own site
   <meta name="twitter:data2" content={readTime} />
 ```
 
-other boilerplates to use https://www.matuzo.at/blog/html-boilerplate/
+other boilerplates to use
+
+- https://github.com/joshbuchea/HEAD
+- https://www.matuzo.at/blog/html-boilerplate/
 
 ### Icons
 
