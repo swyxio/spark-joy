@@ -314,6 +314,8 @@ special topic - responsive media
   - https://muffingroup.com/blog/best-free-fonts/
   - https://type-scale.com/
   - https://practicaltypography.com
+  - http://thinkingwithtype.com/
+  - https://typographyforlawyers.com/
   - http://webtypography.net/intro/
   - https://www.youtube.com/watch?v=Vd6jZR-GknA 
   - [6 ways to justify font choices in your designs](https://learnui.design/blog/justifying-font-choices.html)
@@ -428,7 +430,21 @@ DON'T GO CRAZY WITH FONT SIZES.
 - [Complete font-size notes](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/)
 
 
-### Other things
+### Typography Talks
+
+- Typography for Developers (2hrs) https://www.youtube.com/watch?v=agbh1wbfJt8
+- Web Typography (48mins) https://www.youtube.com/watch?v=hbIZX6tE9JY
+  1. Don't trust computers
+  2. Use the default font size for paragraph text
+  3. Adjust type size according to reading distance
+  4. Adjust the font size if the typeface requires it
+  5. Set tables to be read
+  6. Resize display text as you would an image
+  7. Reduce your playload
+  8. Optimise page render timing
+- https://www.youtube.com/watch?v=OgsHSVsNRdg
+
+### Other Typography Resources
 
 - Font smoothing - [explained](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth)
 - Tool for learning what fonts other people use https://fontanello.oktavilla.se/
