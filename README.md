@@ -339,6 +339,7 @@ you can learn more about proofing premium fonts here https://www.typography.com/
 #### Font Loading Strategy
 
 - https://github.com/zachleat/web-font-loading-recipes
+- https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/
 - Everything [Harry Roberts](https://twitter.com/csswizardry) writes
   - [Google Fonts strategy](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
   
