@@ -928,7 +928,6 @@ Mocking your browser/phone
 - https://woobro.design/
 - https://pimpmydrawing.com/
 - https://www.drawkit.io/ Hand-drawn vector illustration resources for your next project
-- https://www.isometriclove.com/ Cute Isometric Objects For Your Design
 - https://www.karthiksrinivas.in/charco  A set of 16 handcrafted illustrations for your web & app projects. This set includes categories like 404 error, no internet connection, no service, fatal error, page not found, something went wrong, under construction and many more.
 - https://www.veila.me/freebies/scandinavian-houses-free-vector-images
 - https://absurd.design/
@@ -941,6 +940,14 @@ Mocking your browser/phone
 - https://error404.fun/ 404 page illustrations
 
 Illo's in context: https://onepagelove.com/tag/illustrations
+
+### 3D illustrations
+
+- https://www.isometriclove.com/ Cute Isometric Objects For Your Design
+- https://www.handz.design/ 3d hand gestures
+- https://isoflat.com/ Isometric and flat graphic resources 
+- https://www.shapefest.com/ 160,000+ high resolution PNG images of beautiful 3D shapes
+- https://powerpeopleplatform.com/ delicious design library of 3D avatars
 
 Learn 3d illo in blender https://polygonrunway.com/
 
