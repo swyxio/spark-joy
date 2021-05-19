@@ -1588,6 +1588,8 @@ Sample meta tags with preconnects
   - [ ] Space - leave enough whitespace. Too much > too little
   - [ ] Alignment - use as few lines as possible
 - [Human Interface Guidelines from Apple, Microsoft, Elementary OS, IBM, etc](http://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/)
+- 50 UI tips https://fifty.user-interface.io/
+  - https://fifty.user-interface.io/50_ui_tips.pdf
 - Steve Schoger - [little details of visual ui design](https://twitter.com/swyx/status/1206234577821286406?s=20)
   - [ ] add a bit of color to your greys
   - [ ] saturate greys when using a colored background
