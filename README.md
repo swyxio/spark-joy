@@ -1574,6 +1574,7 @@ Sample meta tags with preconnects
   - Pass the Squint Test
   - Teach By Example
 - https://littlebigdetails.com/
+- web interface handbook https://imperavi.com/books/web-interface-handbook/
 - [Design Principles](https://principles.design/)
 - https://twitter.com/mrcndrw/status/1283078825870532609
 - https://internetdevels.com/blog/the-10-commandments-of-user-interface-design ([infographic](https://www.designmantic.com/blog/infographics/the-10-commandments-of-ui-design/))
