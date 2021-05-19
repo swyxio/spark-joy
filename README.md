@@ -255,6 +255,7 @@ special topic - responsive media
   - Sciency/technical: squared off (geometric) sans like [`DIN`](https://fonts.adobe.com/fonts/din-2014), [`Industry`](https://fonts.adobe.com/fonts/industry)
   - monospace fonts: https://devfonts.gafi.dev/
   - Variable fonts: https://whirlybirdie.com/
+  - Novelty: http://velvetyne.fr/
   - [use a Uniwidth font (not monospace) for interface design](https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7)
   - [14 free programming fonts](https://twitter.com/zenorocha/status/1359508613606199301?s=20)
 - Free fonts that are great with examples (thanks [@edadams](https://github.com/sw-yx/spark-joy/issues/22))
@@ -288,6 +289,7 @@ special topic - responsive media
     - https://www.urbanfonts.com/fonts/handwritten-fonts.htm
     - Caveat and Reenie Beanie on google fonts  https://twitter.com/round/status/1178090890004455424?s=19
 - https://fontsarena.com/ 
+- "Open Source Beautiful Fonts" [by Gontijo](https://twitter.com/gontijodesign/status/1394624373823348737)
 - Font Pairing
   - https://fontpair.co/ 
   - https://fontjoy.com/ 
