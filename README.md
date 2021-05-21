@@ -962,29 +962,57 @@ Learn 3d illo in blender https://polygonrunway.com/
 
 ### Stock Photos and Videos
 
-- https://zoomstock.com/ t-SNE stock photo search 
-- https://artvee.com/ public domain art (in particular check out the [NASA collection](https://artvee.com/?s=nasa&post_type=product&product_cat=0))
-- https://covers.alphacoders.com/by_category/4/2/twitter-header
-- https://www.nappy.co/ "Beautiful, high-res photos of black and brown people. For free."
-- https://photos.icons8.com/creator/ Create custom stock photos
-- Videos
-  - https://pexels.com
-  - https://pixabay.com/videos
-  - https://mixkit.co
-- https://generated.photos/ AI-generated stock photos
-- https://visualsofearth.com/c/ nature, space, desert, etc. mobile focused.
 - :star: https://unsplash.com/ of course
-- https://visualhunt.com/ search 354m high quality creative commons licensed photos
-- https://photos.icons8.com/
-- http://www.ghibli.jp/info/013251/ studio ghibli free backgrounds
-- https://www.stocksy.com/ (premium)
-- https://500px.com/ (premium - search by color)
-- https://duotone.shapefactory.co/?f=f56468&t=27184f&q=_&i=oMpAz-DN-9I (unsplash with duotone filter)
-- https://github.com/neutraltone/awesome-stock-resources
-- https://allthefreestock.com/
-- https://thenounproject.com/search/photos/?q=happy
+- https://www.flickr.com/creativecommons/
+- https://isorepublic.com/
+- https://negativespace.co/
+- stock photo metasearch
+  - https://www.everypixel.com/ 
+  - https://www.chamberofcommerce.org/findaphoto/
+  - https://zoomstock.com/ t-SNE stock photo search 
+  - https://www.goodfreephotos.com/ 27k free and public domain photos, images, clipart, pics and vectors 
+  - https://visualhunt.com/ search 354m high quality creative commons licensed photos
+- art focus
+  - https://artvee.com/ public domain art (in particular check out the [NASA collection](https://artvee.com/?s=nasa&post_type=product&product_cat=0))
+- startups
+  - https://startupstockphotos.com/
+- faces
+  - https://www.nappy.co/ "Beautiful, high-res photos of black and brown people. For free."
+- nature
+  - https://freenaturestock.com/
+  - http://imagebase.net/
+  - https://visualsofearth.com/c/ nature, space, desert, etc. mobile focused.
+- travel
+  - http://photos.bucketlistly.com/ A free creative common collection of over 5000+ travel photos from all over the world anyone can use.
+- color
+  - https://500px.com/ (premium - search by color)
+- misc/novelty
+  - http://www.ghibli.jp/info/013251/ studio ghibli free backgrounds
+  - https://gratisography.com/ quirky/whimsy
+  - https://covers.alphacoders.com/by_category/4/2/twitter-header
+  - https://foter.com/ furniture
+  - https://picjumbo.com/
+  - https://photos.icons8.com/creator/ Create custom stock photos
+  - https://generated.photos/ AI-generated stock photos
+  - https://photos.icons8.com/
+  - https://duotone.shapefactory.co/?f=f56468&t=27184f&q=_&i=oMpAz-DN-9I (unsplash with duotone filter)
+  - https://allthefreestock.com/
+  - https://thenounproject.com/search/photos/?q=happy
+- lists of more resources
+  - random low quality list https://www.mattcrampton.com/blog/mega_list_of_free_image_sites_for_blogging/
+  - https://github.com/neutraltone/awesome-stock-resources
+  - https://burst.shopify.com/ Burst from Shopify - Free stock photos for everyone
+- Paid
+  - https://deathtothestockphoto.com/
+  - https://www.stocksy.com/ (premium)
 
 Image modification for hover effects: https://photomosh.com/
+
+### Stock Videos
+
+- https://pexels.com
+- https://pixabay.com/videos
+- https://mixkit.co
 
 ### Avatars
 
