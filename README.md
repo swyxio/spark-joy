@@ -1325,6 +1325,7 @@ https://meshgradient.com/ swirly backgrounds like apple
 - https://www.youtube.com/audiolibrary/music?nv=1
 - https://icons8.com/music
 - https://freesound.org/
+- https://pixabay.com/music/
 - https://cchound.com/ 100% free, quality CC audio
 - https://www.pianobook.co.uk/ as hundreds of no-charge sample libraries (many pianos, lots of other things).
 - podcast intros
