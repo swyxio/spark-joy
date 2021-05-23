@@ -1326,8 +1326,10 @@ https://meshgradient.com/ swirly backgrounds like apple
 - https://icons8.com/music
 - https://freesound.org/
 - https://cchound.com/ 100% free, quality CC audio
-- https://aaraalto.com/sounds a few brief guitar samples for podcast transitions 
-- https://transistor.fm/free-podcast-intro-music/ free podcast intro music
+- https://www.pianobook.co.uk/ as hundreds of no-charge sample libraries (many pianos, lots of other things).
+- podcast intros
+  - https://aaraalto.com/sounds a few brief guitar samples for podcast transitions 
+  - https://transistor.fm/free-podcast-intro-music/ free podcast intro music
 
 Paid:
 
