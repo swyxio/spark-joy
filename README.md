@@ -451,6 +451,7 @@ DON'T GO CRAZY WITH FONT SIZES.
 
 ### Other Typography Resources
 
+- Typography in 10 minutes https://medium.com/nextux/become-a-typography-nerd-in-under-10-minutes-5a7eda093cb3
 - Font smoothing - [explained](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth)
 - Tool for learning what fonts other people use https://fontanello.oktavilla.se/
 - [FlowType.js](https://simplefocus.com/flowtype/)
@@ -1302,6 +1303,10 @@ https://meshgradient.com/ swirly backgrounds like apple
 
 - Accessible Styled Forms https://github.com/scottaohara/a11y_styled_form_controls
 - accessibility for all elements https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/ 
+- Form Design Best Practices https://medium.com/nextux/form-design-best-practices-9525c321d759
+- Form Wizard https://medium.com/nextux/how-to-design-a-form-wizard-b85fe1cc665a
+- Complex Forms https://medium.com/nextux/form-design-for-complex-applications-d8a1d025eba6
+- Form Validation UX https://medium.com/nextux/forms-need-validation-2ecbccbacea1
 - Form Validation https://www.bram.us/2021/01/28/form-validation-you-want-notfocusinvalid-not-invalid/
   - use `input:not(:focus):not(:placeholder-shown):valid` for non freakout UX
 - WTF Forms: Nicer Forms eg Radio Buttons with pure CSS https://github.com/mdo/wtf-forms
@@ -1315,6 +1320,7 @@ https://meshgradient.com/ swirly backgrounds like apple
 ### Tables
 
 - https://www.uxbooth.com/articles/designing-user-friendly-data-tables/
+- https://medium.com/nextux/design-better-data-tables-4ecc99d23356
 - https://twitter.com/erikdkennedy/status/1329787833058353154?s=20
 - [A table with both a sticky header and a sticky first column](https://css-tricks.com/a-table-with-both-a-sticky-header-and-a-sticky-first-column)
 
