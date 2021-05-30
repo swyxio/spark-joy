@@ -438,6 +438,7 @@ DON'T GO CRAZY WITH FONT SIZES.
 ### Typography Talks
 
 - Typography for Developers (2hrs) https://www.youtube.com/watch?v=agbh1wbfJt8
+- Adam Argyle on Typography https://www.youtube.com/watch?v=aaro26rK61o&t=874s
 - Web Typography (48mins) https://www.youtube.com/watch?v=hbIZX6tE9JY
   1. Don't trust computers
   2. Use the default font size for paragraph text
