@@ -599,7 +599,8 @@ One liner dark mode (careful about perf!): `filter: invert(100%) hue-rotate(180d
 
 <details>
   <summary> Not tools but still important so here they are </summary>
-  
+
+- [A Beginner’s Guide to Applying Color in UI Design](https://georgefrancis.dev/writing/a-beginners-guide-to-applying-color-in-ui-design/?ref=sidebar)
 - [Sarah Drasner on Color](https://css-tricks.com/nerds-guide-color-web/)
 - [Louisa Barret on Color](https://www.youtube.com/watch?v=NdKAUXAvt8E)
 - [Erik Kennedy on HSB](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
