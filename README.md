@@ -201,6 +201,8 @@ special topic - responsive media
 
 ## Typography
 
+typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
+
 ### Fonts
 
 <details>
