@@ -1782,6 +1782,11 @@ free or mock data apis for demos
   - https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
 - Pictures
   - https://picsum.photos
+  - https://assetroulette.com/
+    - Get a random image: `<img src="https://api.assetroulette.com/random_image">`
+    - Get a random meme image: `<img src="https://api.assetroulette.com/random_meme">`
+    - Get a random image from Unsplash: `<img src="https://api.assetroulette.com/random_unsplash">`
+    - Get a random CSS definition for base classes: `<link rel="stylesheet" href="https://api.assetroulette.com/random.css">`
   - https://dog.ceo/
 - Users
   - https://randomuser.me/
