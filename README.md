@@ -1284,6 +1284,7 @@ https://meshgradient.com/ swirly backgrounds like apple
 
 - links https://cssanimation.rocks/animating-links/
 - tooltips on hover https://kazzkiq.github.io/balloon.css/
+- details/summary css - use `details[open]` to target https://codepen.io/chriscoyier/pen/wvJmqjY
 - put scroll margin on [everything with an `id`](https://piccalil.li/quick-tip/add-scroll-margin-to-all-elements-which-can-be-targeted)
   ```css
   [id] {
