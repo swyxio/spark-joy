@@ -1780,8 +1780,26 @@ free or mock data apis for demos
   - https://api.chucknorris.io/
   - https://jokeapi.dev/
   - https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
-- Pictures
+- Placeholder Pictures
+  - https://source.unsplash.com/
+  - https://github.com/imsky/holder
+  - https://lorempixel.com/
+  - http://placeimg.com/
   - https://picsum.photos
+  - Blanks
+    - http://placehold.it/300x300
+  - Animals
+    - https://placedog.net/
+    - https://placebear.com/
+    - http://placekitten.com/
+  - Food
+    - http://placebeer.com/
+    - https://baconmockup.com/
+  - Actors
+    - https://www.placecage.com/
+    - https://placekeanu.com/
+    - https://www.stevensegallery.com/
+    - https://www.fillmurray.com/
   - https://assetroulette.com/
     - Get a random image: `<img src="https://api.assetroulette.com/random_image">`
     - Get a random meme image: `<img src="https://api.assetroulette.com/random_meme">`
