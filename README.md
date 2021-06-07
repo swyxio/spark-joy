@@ -585,6 +585,8 @@ One liner dark mode (careful about perf!): `filter: invert(100%) hue-rotate(180d
 
 ### Color Gradients
 
+Note: Default gradients often have "hard edges" that are too rough. ([example](https://twitter.com/JoshWComeau/status/1401926170589863946)). You can use [esaing gradients](https://larsenwork.com/easing-gradients/) in future.
+
 - gradients https://mybrandnewlogo.com/color-gradient-generator
 - CSS Gradient Text https://twitter.com/argyleink/status/1281623252662489088/photo/2
 - https://mycolor.space/gradient Generate a CSS Color Gradient
