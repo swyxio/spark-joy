@@ -976,6 +976,7 @@ Learn 3d illo in blender https://polygonrunway.com/
 - https://negativespace.co/
 - stock photo metasearch
   - https://www.everypixel.com/ 
+  - https://same.energy/ AI driven similarity search
   - https://www.chamberofcommerce.org/findaphoto/
   - https://zoomstock.com/ t-SNE stock photo search 
   - https://www.goodfreephotos.com/ 27k free and public domain photos, images, clipart, pics and vectors 
