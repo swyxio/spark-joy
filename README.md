@@ -724,6 +724,7 @@ other boilerplates to use
 - ⭐ https://phosphoricons.com/ 3000+ fully customizable free SVG and PNG icons
 - ⭐ https://tablericons.com/ 937 Fully customizable free SVG icons
 - https://iconic.app/
+- Google icons https://fonts.google.com/icons
 - https://icons.modulz.app/ Radix Icons - >250 15×15 icons designed by the Modulz team. - some great app icons
 - **icon metasearch** (list of lists of icons)
   - https://icones.netlify.app/
