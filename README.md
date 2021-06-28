@@ -1677,7 +1677,7 @@ Sample meta tags with preconnects
   - [ ] Repetition: consistency of fonts, colors, logos
   - [ ] Direction: F, E, Z pattern. Put key info in left
   - [ ] Space: use space to amplify other objects
-- Matt D Smith Checklist
+- Matt D Smith Checklist ([Notion](https://www.notion.so/UI-Checklist-d47ae9676a004a9b9d942a7908ac9efd))
   - [ ]  Do I have a very solid understanding of the *human* problem I'm solving with this interface?
   - [ ]  Is this a low, medium, or high complexity project and have I let that drive my decision for designing a low-fidelity version or not?
   - [ ]  If I'm using reference material, would I feel comfortable putting my design next to the reference and talking through the areas I used for inspiration, without giving the impression that I copied or created a very close derivative?
