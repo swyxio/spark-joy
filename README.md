@@ -214,6 +214,20 @@ More. Spacing. Please.
 
 ## Layout
 
+When in doubt, use Material Layout: https://material.io/design/layout/responsive-layout-grid.html#breakpoints
+
+| Screen size         | Margin  | Body    | Layout columns |
+|---------------------|---------|---------|----------------|
+| Extra-small (phone) |         |         |                |
+| 0-599dp             | 16dp    | Scaling | 4              |
+| Small (tablet)      |         |         |                |
+| 600-904             | 32dp    | Scaling | 8              |
+| 905-1239            | Scaling | 840dp   | 12             |
+| Medium (laptop)     |         |         |                |
+| 1240-1439           | 200dp   | Scaling | 12             |
+| Large (desktop)     |         |         |                |
+| 1440+               | Scaling | 1040    | 12             |
+
 - https://gedd.ski/post/article-grid-layout/
 - css grid generators 
   - https://grid.layoutit.com/
@@ -225,6 +239,13 @@ More. Spacing. Please.
 special topic - responsive media
 
 - https://piccalil.li/tutorial/build-a-responsive-media-browser-with-css/
+- [Tailwind's breakpoints](https://tailwindcss.com/docs/breakpoints) don't come with layout recommendations but here they are:
+  - sm: 640px
+  - md: 768px
+  - lg: 1024px
+  - xl: 1280px
+  - 2xl: 1536px
+
 
 ## Typography
 
