@@ -646,7 +646,8 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 - https://www.grabient.com/
 - ANIMATED GRADIENTS https://www.gradient-animator.com/
 - Subtle gradients by bumping only saturation on HSL (thanks [argyleink](https://twitter.com/argyleink/status/1197205254623780864)) - You can [really take this to the extreme](https://twitter.com/argyleink/status/1216815958917992450?s=20)!
-
+- Tailwind
+  - https://hypercolor.dev/
 
 ### Color knowledge
 
