@@ -328,6 +328,7 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
     - [Erik Kennedy picks from these](https://twitter.com/erikdkennedy/status/1374382006658723840?s=20)
   - Premium-looking Free Fonts https://learnui.design/blog/ultimate-guide-similar-fonts.html
     - Apercu · Avenir · Circular · DIN · Futura · Gotham · Helvetica · Proxima Nova · Times New Roman
+  - https://beautifulwebtype.com/
   - Chivo https://www.latinxswhodesign.com/
   - [Lato](http://www.latofonts.com/) Well known, very readable, pretty, client favorite
   - [Libre Franklin](https://beautifulwebtype.com/libre-franklin/) Elegant and thin
