@@ -55,6 +55,7 @@ HTML/CSS nice templates
 - https://www.creative-tim.com/
 - https://wickedtemplates.com using Tailwind v2 (and [wickedblocks](https://blocks.wickedtemplates.com/))
 - https://www.tailwind-kit.com/ free tailwind component kit
+- https://daisyui.com/ tailwind theme
 - https://themeselection.com/
 - https://html5up.net/
 - https://frontendor.com/ using bootstrap
@@ -178,6 +179,7 @@ more control in exchange for more work on your part.
 - https://www.gustui.com/
 - https://mertjf.github.io/tailblocks/
 - https://shuffle.dev/ Tailwind visual builder
+- https://daisyui.com/
 
 ## Elevation
 
