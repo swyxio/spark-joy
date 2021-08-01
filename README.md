@@ -1842,6 +1842,25 @@ Sample meta tags with preconnects
     - [ ]  Have I created the necessary prototypes to experiment with animations and interactions?
     - [ ]  Do I need to create any separate prototype flows to describe certain functionality to stakeholders or developers?
     - [ ]  Have a been an excellent communicator from the very beginning of the project and now that's it's time to hand off the design, I already know what my developer needs?
+- [UI Common Mistakes Checklist](https://twitter.com/vponamariov/status/1421014957110579203)
+  1. Poor contrast
+  2. Many primary buttons
+  3. Small clickable area
+  4. Poor paddings
+  5. Icon inconsistency
+  6. Text hard to read/scan
+  7. Wrong alignment
+  8. Not enough whitespace
+  9. Poor validation
+  10. Proximity violation
+  11. Long text lines
+  12. Redundant texts
+  13. Poor quality of screenshots
+  14. Small font-size
+  15. Taking full width when it's not necessary
+  16. No hovering state
+  17. Poor shadows
+  18. Layout shifts
 - Simple design: https://www.anthonyhobday.com/simpledesign/ (rec by [Hey designer](https://twitter.com/jonasdowney/status/1280620028774305792/photo/1))
 - [Refactoring UI](https://refactoringui.com/)
   - Starting from Scratch
