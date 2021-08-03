@@ -672,6 +672,7 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 - [Inventorying and naming a Color Palette at UXPin](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
 - [Reasoning about Color](http://notes.neeasade.net/color-spaces.html) some light reading on color spaces and transforms (eg "pastelize" operation) 
 - [Picking your palette](https://refactoringui.com/previews/building-your-color-palette/) 
+- [Numeric systems of color palettes explained](https://n8d.at/the-numeric-colour-palettes-in-modern-web-frameworks-explained)
 
 (fun) [history of primary colors](https://publicdomainreview.org/essay/primary-sources)
 
