@@ -674,6 +674,7 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 - [Reasoning about Color](http://notes.neeasade.net/color-spaces.html) some light reading on color spaces and transforms (eg "pastelize" operation) 
 - [Picking your palette](https://refactoringui.com/previews/building-your-color-palette/) 
 - [Numeric systems of color palettes explained](https://n8d.at/the-numeric-colour-palettes-in-modern-web-frameworks-explained)
+- [Monocrhromatic color scheme guide](https://www.vectornator.io/blog/monochromatic-colors)
 
 (fun) [history of primary colors](https://publicdomainreview.org/essay/primary-sources)
 
