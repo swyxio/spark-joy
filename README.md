@@ -53,7 +53,7 @@ HTML/CSS nice templates
 
 - https://www.free-css.com/
 - https://www.creative-tim.com/
-- https://wickedtemplates.com using Tailwind v2 (and [wickedblocks](https://blocks.wickedtemplates.com/))
+- https://wickedtemplates.com using Tailwind v2 (and [wickedblocks](https://blocks.wickedtemplates.com/)) and https://wickedbackgrounds.com/
 - https://www.tailwind-kit.com/ free tailwind component kit
 - https://daisyui.com/ tailwind theme
 - https://themeselection.com/
@@ -1251,6 +1251,7 @@ https://meshgradient.com/ swirly backgrounds like apple
 - https://github.com/bansal-io/pattern.css
 - http://www.heropatterns.com/ SVG Repeating Patterns Generator
 - https://www.wowpatterns.com/free-vector-art thousands of freevector patterns, based on shapes, organic shapes as well as themes, such as animals, beach, city and people, festivals, florals etc.
+- https://wickedbackgrounds.com/?ref=producthunt svg background waves
 - https://www.transparenttextures.com/
 - https://www.toptal.com/designers/subtlepatterns/ (exports png though :( )
 - https://pattern.flaticon.com/ (create a bg pattern of icons)
