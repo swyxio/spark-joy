@@ -1361,7 +1361,17 @@ https://meshgradient.com/ swirly backgrounds like apple
 - prefer click menus over hover menus https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/
 - how to make settings https://web.dev/building-a-settings-component/
 
-
+### Anything But Dropdowns
+  
+Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.html)
+  - Segmented Buttons (Horizontal or Vertical)
+  - Checkbox
+  - Switch
+  - Radio button
+  - Cards and Visual options (images as buttons)
+  - Typeahead (for large dropdown eg countries)
+  - Date (calendar control for poisson dates, input type="date" for high variability)
+  - Stepper (for numbers)
 
 ### Buttons
 
