@@ -334,7 +334,7 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
   - Chivo https://www.latinxswhodesign.com/
   - [Lato](http://www.latofonts.com/) Well known, very readable, pretty, client favorite
   - [Libre Franklin](https://beautifulwebtype.com/libre-franklin/) Elegant and thin
-  - [IBM Plex Sans](https://www.ibm.com/plex/) Loads of weights, beautifully done
+  - [IBM Plex Sans](https://www.ibm.com/plex/) Loads of weights, beautifully done - example: https://thesephist.com/posts/inc/
   - [Clear Sans](https://01.org/clear-sans)
   - [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) from Braille institue
   - [Inter](https://rsms.me/inter/) [Rasmus'](https://rsms.me/) typeface carefully crafted & designed for computer screens.
