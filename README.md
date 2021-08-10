@@ -1411,7 +1411,7 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 
 - https://www.zapsplat.com/
 - https://www.myinstants.com/index/se/
-- https://www.youtube.com/audiolibrary/music?nv=1
+- YouTube's Audio Library https://studio.youtube.com/channel/<replace-with-channel-id>/music
 - https://icons8.com/music
 - https://freesound.org/
 - https://pixabay.com/music/
@@ -1420,6 +1420,12 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 - podcast intros
   - https://aaraalto.com/sounds a few brief guitar samples for podcast transitions 
   - https://transistor.fm/free-podcast-intro-music/ free podcast intro music
+- https://www.soundstripe.com/
+- https://www.premiumbeat.com/
+- https://www.streambeats.com/
+- https://www.canva.com/help/article/stock-music
+- https://www.epidemicsound.com/
+- https://www.youtube.com/channel/UCV3itPyPPgvftXBsreYADlw Bensound
 
 Paid:
 
