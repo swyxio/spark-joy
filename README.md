@@ -1681,8 +1681,7 @@ Sample meta tags with preconnects
 - https://www.uplabs.com/
 - https://github.com/neutraltone/awesome-stock-resources
 - https://nodesign.dev/
-- https://github.com/LisaDziuba/Awesome-Design-Tools
-- https://github.com/goabstract/Awesome-Design-Tools
+- https://github.com/goabstract/Awesome-Design-Tools / https://github.com/LisaDziuba/Awesome-Design-Tools
 - https://github.com/emmabostian/design-inspiration
 - https://undesign.learn.uno/
 - https://user-interface.io/
