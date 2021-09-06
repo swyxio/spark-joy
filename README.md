@@ -590,6 +590,9 @@ Examples: https://dev.to/dcodeyt/add-dark-mode-to-your-websites-with-css-5bh4
 
 One liner dark mode (careful about perf!): `filter: invert(100%) hue-rotate(180deg);` - more [filters here](https://svelte.dev/repl/defc901c5f434ed4a76161605cf1db76?version=3.29.0)
 
+https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?ref=sidebar
+
+
 ### Palette Generators
 
 - https://colorgen.dev/
@@ -670,6 +673,7 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 - [Convertkit on Color Theory](https://convertkit.com/color-theory)
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 - [How to do Dark Mode right](https://darkmodedesign.xyz/)
+  - Zeno Rocha 5 tips for dark mode https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?ref=sidebar
 - [Inventorying and naming a Color Palette at UXPin](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
 - [Reasoning about Color](http://notes.neeasade.net/color-spaces.html) some light reading on color spaces and transforms (eg "pastelize" operation) 
 - [Picking your palette](https://refactoringui.com/previews/building-your-color-palette/) 
