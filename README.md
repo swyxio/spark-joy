@@ -1993,6 +1993,7 @@ free or mock data apis for demos
   - https://api.chucknorris.io/
   - https://jokeapi.dev/ https://v2.jokeapi.dev/joke/Any\?type\=single\&blacklistFlags=nsfw,racist,sexist,explicit
   - https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
+  - simple quote https://api.quotable.io/random
 - Placeholder Pictures
   - https://source.unsplash.com/
   - https://github.com/imsky/holder
