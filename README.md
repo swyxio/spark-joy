@@ -1931,7 +1931,6 @@ Sample meta tags with preconnects
 - [Degreeless.design](https://www.degreeless.design/#basics)
 - Free tier software https://free-for.dev/#/
 - https://github.com/Vincenius/link-list
-- Public API's for demos https://github.com/public-api-lists/public-api-lists
 - Demo HTML
   - https://github.com/cristurm/nyan-cat
   - https://github.com/netlify/netlify-drop-demo-site/archive/master.zip
@@ -2029,6 +2028,7 @@ free or mock data apis for demos
 - Misc
   - https://openweathermap.org/guide
   - https://github.com/public-apis/public-apis
+    - https://github.com/public-api-lists/public-api-lists
   - https://public-apis.io/ (A Directory of Free Public & Open Rest APIs)
   - https://github.com/Marak/faker.js - generate fake pdf https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/
   - https://github.com/Rolstenhouse/unofficial-apis
