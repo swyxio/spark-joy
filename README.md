@@ -1085,6 +1085,7 @@ Image modification for hover effects: https://photomosh.com/
 - https://pexels.com
 - https://pixabay.com/videos
 - https://mixkit.co
+- https://www.vecteezy.com/
 
 ### Avatars
 
