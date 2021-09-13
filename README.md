@@ -1145,6 +1145,7 @@ developers and designers
     - text shadows
     - experiment with multiple shadows on one element
     - https://getcssscan.com/css-box-shadow-examples
+    - Designing Beautiful Shadows in CSS https://www.joshwcomeau.com/css/designing-shadows/
   - Card border Generator https://card.surge.sh/
   - CSS Scroll Shadows https://css-scroll-shadows.now.sh/
   - Conic gradient borders https://twitter.com/argyleink/status/1282889809782927360
