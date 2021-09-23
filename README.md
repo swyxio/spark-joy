@@ -1351,6 +1351,27 @@ https://meshgradient.com/ swirly backgrounds like apple
 
 ## Individual HTML Elements
 
+- branding color with accents: https://web.dev/accent-color/
+  ```css
+  html { 
+    --brand: hotpink;
+    scrollbar-color: hotpink Canvas;
+  }
+
+  :root { accent-color: var(--brand); }
+  :focus-visible { outline-color: var(--brand); }
+  ::selection { background-color: var(--brand); }
+  ::marker { color: var(--brand); }
+
+  :is(
+    ::-webkit-calendar-picker-indicator,
+    ::-webkit-clear-button,
+    ::-webkit-inner-spin-button, 
+    ::-webkit-outer-spin-button
+  ) {
+    color: var(--brand);
+  }
+  ```
 - links https://cssanimation.rocks/animating-links/
 - tooltips on hover https://kazzkiq.github.io/balloon.css/
     - [niche tip on tooltips js perf](https://atfzl.com/don-t-attach-tooltips-to-document-body)
