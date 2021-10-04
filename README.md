@@ -313,6 +313,7 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
   - [14 free programming fonts](https://twitter.com/zenorocha/status/1359508613606199301?s=20)
 - Free fonts that are great with examples (thanks [@edadams](https://github.com/sw-yx/spark-joy/issues/22))
   - Google Fonts - ([see Harry Roberts on Google Font loading perf](https://csswizardry.com/2020/05/the-fastest-google-fonts/) - you should [self host this](https://wicki.io/posts/2020-11-goodbye-google-fonts/))
+    - https://www.colorsandfonts.com/font-pairing
     - https://bueltge.de/free-web-font-combinations/
     - [40 best google fonts by Typewolf](https://www.typewolf.com/google-fonts)
     - [50 selections of google fonts](https://www.notion.so/e873b52e0cc54f2981acc430417ba61d?v=05acdd40b0564920be69f5347f619bc3)
@@ -605,6 +606,7 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
 - https://duo.alexpate.uk/
 - https://colorhunt.co/
 - https://2colors.colorion.co/
+- https://www.colorsandfonts.com/color-palettes
 - https://dribbble.com/colors/4030e8
 - https://palettte.app/ (advanced tool; try importing the default palettes)
 - https://www.paletter.app/ - Create Professional Color Palettes from a Single Color
@@ -653,6 +655,7 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 - https://learnui.design/tools/gradient-generator.html (to avoid [the "gray zone" problem](https://css-tricks.com/the-gray-dead-zone-of-gradients/))
 - Adam Argyle conic CSS gradient examples https://www.conic.style/
 - https://www.grabient.com/
+- https://www.colorsandfonts.com/color-gradients
 - ANIMATED GRADIENTS https://www.gradient-animator.com/
 - Subtle gradients by bumping only saturation on HSL (thanks [argyleink](https://twitter.com/argyleink/status/1197205254623780864)) - You can [really take this to the extreme](https://twitter.com/argyleink/status/1216815958917992450?s=20)!
 - Tailwind
