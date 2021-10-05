@@ -84,6 +84,7 @@ bigger learning curve, may have js, but more OOTB)
 lighter, no js. preview some of these with https://sites.yax.com/
 
   - [Spectre.css](https://picturepan2.github.io/spectre/getting-started/installation.html)
+  - 🌟 https://latex.vercel.app/
   - https://purecss.io/
   - https://ajusa.github.io/lit/
   - https://screencss.com/
