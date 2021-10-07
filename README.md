@@ -1451,6 +1451,7 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 - https://pixabay.com/music/
 - https://cchound.com/ 100% free, quality CC audio
 - https://www.pianobook.co.uk/ as hundreds of no-charge sample libraries (many pianos, lots of other things).
+- https://loyaltyfreakmusic.com/ some royalty free music. gremlin podcast usees it
 - podcast intros
   - https://aaraalto.com/sounds a few brief guitar samples for podcast transitions 
   - https://transistor.fm/free-podcast-intro-music/ free podcast intro music
