@@ -103,13 +103,15 @@ lighter, no js. preview some of these with https://sites.yax.com/
     - https://github.com/ubershmekel/cssbed
     - https://thesephist.github.io/paper.css/ and https://thesephist.github.io/blocks.css/
     
-Superlight: [58 bytes of css to look great nearly everywhere](https://jrl.ninja/etc/1/)
+Superlight: [100 bytes of css to look great nearly everywhere](https://dev.to/swyx/100-bytes-of-css-to-look-great-everywhere-19pd)
 
 ```css
-main {
-  max-width: 38rem;
-  padding: 2rem;
+html {
+  max-width: 60ch;
+  padding: 1.5rem;
   margin: auto;
+  line-height: 1.5rem;
+  font-size: 24px;
 }
 ```
 
@@ -876,6 +878,10 @@ Before you get to the tools - some good thinking (and lists of tools) on archite
 - [Microsoft Visio](https://www.microsoft.com/en-sg/microsoft-365/visio/flowchart-software)
 - https://www.plectica.com/
 - more tools - [see hn thread](https://news.ycombinator.com/item?id=21513337)
+
+### software arch 
+
+- software arch diagrams https://twitter.com/terrastruct
 
 ### Sequence Diagrams
 
