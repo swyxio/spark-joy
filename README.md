@@ -677,6 +677,7 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 - [JustinMezzell on Color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed) - advanced stuff on picking color tone/temperature
 - [Justin Baker on Color Theory](https://medium.muz.li/the-ultimate-ux-guide-to-color-design-4d0a18a706ed)
 - [Convertkit on Color Theory](https://convertkit.com/color-theory)
+- [Josh Comeau on Color Palettes](https://courses.joshwcomeau.com/css-for-js/treasure-trove/014-color-palettes)
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 - [How to do Dark Mode right](https://darkmodedesign.xyz/)
   - Zeno Rocha 5 tips for dark mode https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?ref=sidebar
