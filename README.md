@@ -1418,6 +1418,7 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 ### Buttons
 
 - https://frontend.horse/articles/buttons-that-spark-joy/
+- https://getcssscan.com/css-buttons-examples
 - https://cssbuttons.vercel.app/ cssbuttons: HTML & CSS Buttons Collection Built in React
 - moving lightsource on hover css buttons idea https://jsfiddle.net/pixel67/ZxZ6B/28/
 - Button without ugly focus ring with Tailwind:
