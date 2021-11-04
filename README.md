@@ -389,6 +389,7 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
   - Proxima Nova https://a16z.com/ (on Typekit)
   - Graphik https://type.today/en/Graphik
   - https://www.typewolf.com/
+  - MD Prime - used on CSS tricks https://www.youtube.com/watch?v=mTIatvwm1MM
   - Arida Black (maggie's font) https://www.myfonts.com/fonts/latinotype/arida/black/
   - [Dank Mono](https://dank.sh/)
   - Tekton https://twitter.com/round/status/1178090204562968576?s=19
