@@ -1270,6 +1270,7 @@ https://meshgradient.com/ swirly backgrounds like apple
 - https://leaverou.github.io/css3patterns/
 - https://github.com/bansal-io/pattern.css
 - http://www.heropatterns.com/ SVG Repeating Patterns Generator
+- https://doodad.dev/pattern-generator/
 - https://www.wowpatterns.com/free-vector-art thousands of freevector patterns, based on shapes, organic shapes as well as themes, such as animals, beach, city and people, festivals, florals etc.
 - https://wickedbackgrounds.com/?ref=producthunt svg background waves
 - https://www.svgbackgrounds.com/
