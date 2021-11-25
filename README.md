@@ -86,6 +86,7 @@ lighter, no js. preview some of these with https://sites.yax.com/
   - [Spectre.css](https://picturepan2.github.io/spectre/getting-started/installation.html)
   - 🌟 https://latex.vercel.app/
   - https://purecss.io/
+  - https://simplecss.org/demo
   - https://ajusa.github.io/lit/
   - https://screencss.com/
   - https://andybrewer.github.io/mvp/
