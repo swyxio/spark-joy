@@ -51,6 +51,7 @@ Keep it simple: https://jgthms.com/web-design-in-4-minutes/
 
 HTML/CSS nice templates
 
+- 🆕 https://shuffle.dev/ tailwind/bootstrap/materialui randomly generated templates
 - https://www.free-css.com/
 - https://www.creative-tim.com/
 - https://wickedtemplates.com using Tailwind v2 (and [wickedblocks](https://blocks.wickedtemplates.com/)) and https://wickedbackgrounds.com/
@@ -60,6 +61,7 @@ HTML/CSS nice templates
 - https://html5up.net/
 - https://frontendor.com/ using bootstrap
 - https://cruip.com/ HTML, React, Vue.js, and Tailwind templates
+
 
 ### Serious CSS Frameworks 
 
