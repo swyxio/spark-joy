@@ -1106,12 +1106,25 @@ Image modification for hover effects: https://photomosh.com/
 
 ### Video creation tools
 
-- https://motionbox.io/ - Good in browser video editor - nice intros and outros, templates a bit limited but pretty good
-- https://invideo.io/ - good video maker with lots of nice generic templates and imports stock video
-- https://biteable.com/ - simple video maker with templates and stock video. kiiinda cartoony
-- https://animoto.com/ - drag and drop video maker. more elegant/real.
-- https://powtoon.com - nice studio for cartoony professional videos and presentations with nice transitions 
+- Generic editors
+  - https://motionbox.io/ - Good in browser video editor - nice intros and outros, templates a bit limited but pretty good
+  - https://invideo.io/ - good video maker with lots of nice generic templates and imports stock video
+  - https://www.moovly.com/video-templates
+  - https://animoto.com/ - drag and drop video maker. more elegant/real.
+  - Canva video - does some nice transitions and charts but all the stock stuff is behind canva pro ($13/mo)
+  - https://www.renderforest.com/templates seems versatile but not super intuitive and dunno how to change the transitions
+- specialty videos
+  - https://biteable.com/ - simple video maker with templates and stock video. kiiinda cartoony
+  - https://vyond.com/ - also kinda cartoony
+  - https://app.animaker.com/moments also kinda cartoony but can do real video
+  - https://powtoon.com - nice studio for cartoony professional videos and presentations with nice transitions 
+  - https://www.doodly.com/ whiteboard doodle explainer videos. [see demo](https://www.youtube.com/watch?v=Cdv0do3oMbA&list=PLvCrTe3h4inftA8S94CZmRVWB0EzihJeQ&index=1) $39/mo
+
+misc
+
+- https://github.com/remotion-dev/remotion - code videos with React
 - https://glitterly.app/ - kinda rough - mostly image maker, video features in beta
+- https://viddyoze.com "3d video animations". promising videos, but $97 lifetime.. seems sketchy
 - https://www.fiverr.com/search/gigs?query=explainer%20videos&source=top-bar&search_in=everywhere&search-autocomplete-original-term=explainer%20videos
   
 Do it for you
