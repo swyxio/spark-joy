@@ -1102,6 +1102,27 @@ Image modification for hover effects: https://photomosh.com/
 - https://pixabay.com/videos
 - https://mixkit.co
 - https://www.vecteezy.com/
+- https://www.pond5.com/
+- https://videohive.net/ - 3,048,864 Video effects and stock footage
+
+### Video creation tools
+
+- https://motionbox.io/ - Good in browser video editor - nice intros and outros, templates a bit limited but pretty good
+- https://invideo.io/ - good video maker with lots of nice generic templates and imports stock video
+- https://biteable.com/ - simple video maker with templates and stock video. kiiinda cartoony
+- https://animoto.com/ - drag and drop video maker. more elegant/real.
+- https://powtoon.com - nice studio for cartoony professional videos and presentations with nice transitions 
+- https://glitterly.app/ - kinda rough - mostly image maker, video features in beta
+- https://www.fiverr.com/search/gigs?query=explainer%20videos&source=top-bar&search_in=everywhere&search-autocomplete-original-term=explainer%20videos
+  
+Do it for you
+  
+- https://www.medialuv.com/ - design animation studio
+
+Tutorials from successful Youtubers
+
+- Fireship/jeff delaney https://www.youtube.com/watch?v=N6-Q2dgodLs
+- Florin pop https://www.youtube.com/watch?v=vcKkRrNBdVI
 
 ### Avatars
 
@@ -1616,25 +1637,6 @@ ThreeJS
 BabylonJS
 
 - https://babylonjs.medium.com/babylon-js-4-2-simplicity-reimagined-965f88d0fad
-
-## Video
-
-- stock video https://www.pond5.com/
-- https://animoto.com/ - drag and drop video maker
-- https://biteable.com/ - video maker with templates
-- https://powtoon.com - videos and presentations for engaging and explaining
-- https://storycreatorapp.com/ - Simple online video editing for digital creators
-- make video demos https://glitterly.app/
-- https://storycreatorapp.com/
-- https://www.fiverr.com/search/gigs?query=explainer%20videos&source=top-bar&search_in=everywhere&search-autocomplete-original-term=explainer%20videos
-- https://www.medialuv.com/
-- https://videohive.net/
-- https://invideo.io/ - video maker with templates
-
-Tutorials from successful Youtubers
-
-- https://www.youtube.com/watch?v=N6-Q2dgodLs
-- florin pop https://www.youtube.com/watch?v=vcKkRrNBdVI
 
 ## Onboarding
 
