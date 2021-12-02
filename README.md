@@ -99,6 +99,7 @@ lighter, no js. preview some of these with https://sites.yax.com/
   - https://github.com/susam/spcss
   - https://elementcss.neocities.org/
   - https://codepen.io/web-dot-dev/pen/abpoXGZ the base classes for web.dev/learn/csss
+  - https://open-props.style/ css variables framework - "tailwind without tailwind"
   - Collections of even more:
     - https://github.com/dohliam/dropin-minimal-css
     - https://github.com/dbohdan/classless-css
@@ -1427,8 +1428,10 @@ https://meshgradient.com/ swirly backgrounds like apple
   }
   ```
 - links https://cssanimation.rocks/animating-links/
-- tooltips on hover https://kazzkiq.github.io/balloon.css/
-    - [niche tip on tooltips js perf](https://atfzl.com/don-t-attach-tooltips-to-document-body)
+- tooltips on hover 
+  - https://kazzkiq.github.io/balloon.css/
+  - [niche tip on tooltips js perf](https://atfzl.com/don-t-attach-tooltips-to-document-body)
+  - https://www.floating-ui.com/ from tippyjs guy
 - details/summary css - use `details[open]` to target https://codepen.io/chriscoyier/pen/wvJmqjY
 - put scroll margin on [everything with an `id`](https://piccalil.li/quick-tip/add-scroll-margin-to-all-elements-which-can-be-targeted)
   ```css
