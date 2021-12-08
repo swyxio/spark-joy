@@ -1445,6 +1445,7 @@ https://meshgradient.com/ swirly backgrounds like apple
 - https://smolcss.dev/ more simple CSS tricks for responsive elements
 - prefer click menus over hover menus https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/
 - how to make settings https://web.dev/building-a-settings-component/
+- Defensive CSS https://ishadeed.com/article/defensive-css/
 
 ### Anything But Dropdowns
   
