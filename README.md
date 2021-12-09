@@ -918,7 +918,10 @@ useful eg if needs logos
 - https://www.cloudskew.com/
 - https://arcentry.com/ (interactive/realtime) - discontinued!
 
-the 5 types of arch diagrams https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/
+further reading
+
+- lynn langit's list https://github.com/lynnlangit/learning-cloud/blob/master/patterns/VIZUALIZE.md
+- the 5 types of arch diagrams https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/
 
 
 ### Code-based Graph tools
