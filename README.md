@@ -1199,7 +1199,7 @@ developers and designers
     - experiment with multiple shadows on one element
     - https://getcssscan.com/css-box-shadow-examples
     - Designing Beautiful Shadows in CSS https://www.joshwcomeau.com/css/designing-shadows/
-  - https://www.joshwcomeau.com/shadow-palette/
+  - https://www.joshwcomeau.com/shadow-palette/ (https://css-tricks.com/shadow-palette-generator/)
   - Card border Generator https://card.surge.sh/
   - CSS Scroll Shadows https://css-scroll-shadows.now.sh/
   - Conic gradient borders https://twitter.com/argyleink/status/1282889809782927360
@@ -1304,6 +1304,8 @@ background-image: linear-gradient(
   hsl(200 100% 90%) 100%
 );
 ```
+  
+Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-linear-gradients/
 
 https://meshgradient.com/ swirly backgrounds like apple
 
