@@ -96,6 +96,7 @@ lighter, no js. preview some of these with https://sites.yax.com/
   - https://native-elements.dev/
   - https://watercss.kognise.dev/
   - https://jenil.github.io/chota/ 
+  - https://chr15m.github.io/DoodleCSS/ hand drawn look
   - https://github.com/susam/spcss
   - https://elementcss.neocities.org/
   - https://codepen.io/web-dot-dev/pen/abpoXGZ the base classes for web.dev/learn/csss
