@@ -2047,6 +2047,7 @@ Sample meta tags with preconnects
 - http://ui-patterns.com/
 - https://uigarage.net/
 - https://pttrns.com/
+- steve schoger ui ux inspo list https://twitter.com/steveschoger/status/1215673997725196288?s=20
 
 ### Game design inspo
 
