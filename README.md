@@ -1118,6 +1118,7 @@ Image modification for hover effects: https://photomosh.com/
   - https://animoto.com/ - drag and drop video maker. more elegant/real.
   - Canva video - does some nice transitions and charts but all the stock stuff is behind canva pro ($13/mo)
   - https://www.renderforest.com/templates seems versatile but not super intuitive and dunno how to change the transitions
+  - https://videobolt.net nice intro editor with some video templates - from jay phelps
 - specialty videos
   - https://biteable.com/ - simple video maker with templates and stock video. kiiinda cartoony
   - https://vyond.com/ - also kinda cartoony
