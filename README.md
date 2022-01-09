@@ -796,11 +796,13 @@ other boilerplates to use
 > Note you can put gradients on SVG icons manually https://play.tailwindcss.com/yM2N8GpEUK
 
 - ⭐ https://www.heroicons.com/ Steve schoger's (somewhat limited) svg iconset. another viewer: https://heroicons.dev/
-- ⭐ https://phosphoricons.com/ 3000+ fully customizable free SVG and PNG icons
+- ⭐ https://phosphoricons.com/ 3000+ fully customizable free SVG and PNG icons. style, variations, easy to consume
 - ⭐ https://tablericons.com/ 937 Fully customizable free SVG icons
+- ⭐ https://icons.modulz.app/ Radix Icons - >250 15×15 icons designed by the Modulz team. - some great app icons
+- ⭐ https://feathericons.com/ clean and minimal markup
 - https://iconic.app/
 - Google icons https://fonts.google.com/icons
-- https://icons.modulz.app/ Radix Icons - >250 15×15 icons designed by the Modulz team. - some great app icons
+- Material Design https://materialdesignicons.com/ https://material.io/resources/icons/?style=baseline
 - **icon metasearch** (list of lists of icons)
   - https://icones.netlify.app/
   - https://www.iconbolt.com/
@@ -812,18 +814,19 @@ other boilerplates to use
 - **https://iconmonstr.com/** Discover 4486+ free icons in 310 collections. SVG, EPS, PSD, PNG. [OK without attribution, don't sell it](https://iconmonstr.com/license/).
 - https://icomoon.io/ - 450 icons, SVG, PDF, EPS, Ai, PSD. Paid tier goes up to 1600 icons.
 - https://orioniconlibrary.com/ has customizable colors and packs eg for ecommerce
-- https://material.io/resources/icons/?style=baseline
+- https://github.com/edent/SuperTinyIcons Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is under 465 bytes! 
+- https://github.com/Remix-Design/RemixIcon neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 2200+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid.
 - https://icons8.com/l/fluent/ colored "microsoft style" icons
 - https://icons8.com/emoji emoji style customizable icons
 - https://icons8.com/line-awesome fontawesome-like icons
+- https://iconsvg.xyz/ Quick customizable icons for your projects
 - http://www.entypo.com/
 - https://simpleicons.org/ 
 - http://github.com/propublica/weepeople A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots.
-- Bootstrap Icons https://github.com/twbs/icons
+- Bootstrap Icons https://github.com/twbs/icons, https://icons.getbootstrap.com/
 - https://systemuicons.com/
 - https://icons.mono.company/
 - https://iconscout.com/unicons and https://github.com/Iconscout/react-unicons
-- https://feathericons.com/
 - https://www.zondicons.com/
 - https://linearicons.com/free
 - animated icons http://www.transformicons.com/builder.html
@@ -836,7 +839,10 @@ other boilerplates to use
   - https://css.gg/ 700+ Customizable & Retina-Ready app icons — entirely built in CSS 
   - https://worldvectorlogo.com/
   - https://www.vectorlogo.zone/ - consistently formatted SVG logos
+- Icon Libraries and Framework
+  - Iconify https://github.com/iconify/iconify -> use in https://github.com/antfu/unplugin-icons
 - React Icons
+  - https://react-icons.github.io/react-icons/
   - https://github.com/miukimiu/react-kawaii
   - https://reactsvgicons.com/
   - https://react-icons.netlify.com/#/icons/fa (typically fontawesome). note that there is some tree shaking issues in the discussions. you may wish to use the https://github.com/meronex/meronex-icons fork instead
