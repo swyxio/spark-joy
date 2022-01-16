@@ -1429,6 +1429,7 @@ https://meshgradient.com/ swirly backgrounds like apple
   :root { accent-color: var(--brand); }
   :focus-visible { outline-color: var(--brand); }
   ::selection { background-color: var(--brand); }
+  .dark ::selection { color: #1d1d1d; } /* if you have a dark mode class */
   ::marker { color: var(--brand); }
 
   :is(
@@ -1438,6 +1439,20 @@ https://meshgradient.com/ swirly backgrounds like apple
     ::-webkit-outer-spin-button
   ) {
     color: var(--brand);
+  }
+  
+  
+  /* https://css-tricks.com/two-issues-styling-the-details-element-and-how-to-solve-them/ */
+  details {
+    border: 2px solid var(--brand-accent);
+    padding: 0.5rem 1rem;
+  }
+  details > summary { 
+    cursor: pointer;
+  }
+  
+  details > summary > *:first-child {
+    display: inline;
   }
   ```
 - links https://cssanimation.rocks/animating-links/
