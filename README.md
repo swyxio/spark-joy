@@ -1456,6 +1456,7 @@ https://meshgradient.com/ swirly backgrounds like apple
     display: inline;
   }
   ```
+- meta theme-color https://github.com/sw-yx/swyxkit/issues/19
 - links https://cssanimation.rocks/animating-links/
 - tooltips on hover 
   - https://kazzkiq.github.io/balloon.css/
@@ -1500,6 +1501,7 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 
 ### Forms
 
+- form submission UX https://twitter.com/swyx/status/1081200428950335488?s=21
 - Accessible Styled Forms https://github.com/scottaohara/a11y_styled_form_controls
 - accessibility for all elements https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/ 
 - Form Design Best Practices https://medium.com/nextux/form-design-best-practices-9525c321d759
