@@ -1132,6 +1132,7 @@ Image modification for hover effects: https://photomosh.com/
   - https://app.animaker.com/moments also kinda cartoony but can do real video
   - https://powtoon.com - nice studio for cartoony professional videos and presentations with nice transitions 
   - https://www.doodly.com/ whiteboard doodle explainer videos. [see demo](https://www.youtube.com/watch?v=Cdv0do3oMbA&list=PLvCrTe3h4inftA8S94CZmRVWB0EzihJeQ&index=1) $39/mo
+  - website demo video https://talevideo.com/ https://www.reddit.com/r/SideProject/comments/ra7inj/app_to_create_a_website_videos/
 
 misc
 
