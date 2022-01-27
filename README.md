@@ -60,6 +60,7 @@ HTML/CSS nice templates
 - https://html5up.net/
 - https://frontendor.com/ using bootstrap
 - https://cruip.com/ HTML, React, Vue.js, and Tailwind templates
+- https://open-props.style/ design tokens using CSS variables
 
 
 ### Serious CSS Frameworks 
@@ -87,6 +88,7 @@ lighter, no js. preview some of these with https://sites.yax.com/
   - [Spectre.css](https://picturepan2.github.io/spectre/getting-started/installation.html)
   - 🌟 https://latex.vercel.app/
   - https://purecss.io/
+  - https://picocss.com/
   - https://simplecss.org/demo
   - https://ajusa.github.io/lit/
   - https://screencss.com/
@@ -95,6 +97,7 @@ lighter, no js. preview some of these with https://sites.yax.com/
   - https://github.com/oxalorg/sakura
   - https://native-elements.dev/
   - https://watercss.kognise.dev/
+  - https://luxacss.com/
   - https://jenil.github.io/chota/ 
   - https://chr15m.github.io/DoodleCSS/ hand drawn look
   - https://github.com/susam/spcss
@@ -186,8 +189,11 @@ more control in exchange for more work on your part.
 - https://merakiui.com/
 - https://www.gustui.com/
 - https://mertjf.github.io/tailblocks/
-- https://shuffle.dev/ Tailwind visual builder
+- Tailwind visual builder
+  - https://devdojo.com/tails
+  - https://shuffle.dev/
 - https://daisyui.com/
+- https://www.tailwind-kit.com/
 
 ## Elevation
 
@@ -239,10 +245,13 @@ When in doubt, use Material Layout: https://material.io/design/layout/responsive
 | 1440+               | Scaling | 1040    | 12             |
 
 - https://gedd.ski/post/article-grid-layout/
+- https://web.dev/patterns/layout/
 - css grid generators 
   - https://grid.layoutit.com/
   - https://cssgrid-generator.netlify.app/
+  - https://layout.bradwoods.io/
 - https://every-layout.dev/
+- https://uisual.com/
 - https://csslayout.io/ ([github](https://github.com/phuoc-ng/csslayout))
 - Visual Hierarchy https://youtu.be/qZWDJqY27bw
 
@@ -314,7 +323,9 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
   - Playful: rounded sans serif like [`Proxima Soft`](https://fonts.adobe.com/fonts/proxima-soft)
   - Plain/Safe: neutral sans serif like [`Freight Sans`](https://fonts.adobe.com/fonts/freight-sans), [`Inter`](https://rsms.me/inter/), [`Proxima Nova`](https://fonts.adobe.com/fonts/proxima-nova)
   - Sciency/technical: squared off (geometric) sans like [`DIN`](https://fonts.adobe.com/fonts/din-2014), [`Industry`](https://fonts.adobe.com/fonts/industry)
-  - monospace fonts: https://devfonts.gafi.dev/
+  - monospace fonts
+    - https://devfonts.gafi.dev/
+    - https://coding-fonts.css-tricks.com/
   - Variable fonts: https://whirlybirdie.com/
   - Novelty: http://velvetyne.fr/
   - [use a Uniwidth font (not monospace) for interface design](https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7)
@@ -352,6 +363,7 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
     - https://www.urbanfonts.com/fonts/handwritten-fonts.htm
     - Caveat and Reenie Beanie on google fonts  https://twitter.com/round/status/1178090890004455424?s=19
 - https://fontsarena.com/ 
+- https://uncut.wtf/ 90 typefaces with a focus on contemporary, or modern, type.
 - "Open Source Beautiful Fonts" [by Gontijo](https://twitter.com/gontijodesign/status/1394624373823348737)
 - Font Pairing
   - https://fontpair.co/ 
@@ -491,6 +503,7 @@ DON'T GO CRAZY WITH FONT SIZES.
   - Don't go under font weight 400, use a lighter color or smaller fontsize instead
 - Fluid typography with [`clamp`](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp): `font-size: clamp(1.125rem, 1rem + 2vw, 1.5rem)`
   - [CSS Tricks](https://css-tricks.com/design-v18/) v18: `font-size: clamp(2rem, calc(2rem + 1.2vw), 3rem);`
+  - https://maximeroudier.com/typeScaleClampGenerator/
   - Another responsive typography fallback - [`font-size: calc(1rem + 2px + ((100vw - 550px) / 250))`](https://twitter.com/Kikobeats/status/1093620157912616966?s=20) - you can [fit text to screen width](https://twitter.com/shshaw/status/1240647643388395521?s=20) 
   - demo it with this https://fluid-typography.netlify.app/
 - [Inter/Tailwind font-size combo](https://twitter.com/samselikoff/status/1204412222593568769?s=20)
@@ -520,6 +533,7 @@ DON'T GO CRAZY WITH FONT SIZES.
 - Tool for learning what fonts other people use https://fontanello.oktavilla.se/
 - [FlowType.js](https://simplefocus.com/flowtype/)
 - [FitText](https://css-tricks.com/viewport-sized-typography/)
+- https://wh0.github.io/glitter/ It’s a generator that produces text in a glitter-like style, which you can save as SVG. Definitely not for 99% of your projects, but a pretty cool text effect.
 - if all letters at the same height all caps this is called [Majuscule](https://www.wordgenius.com/words/majuscule)
 - International fonts stack https://www.figma.com/blog/when-fonts-fall/
 - In future, try out [leading-trim](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202) 
@@ -610,6 +624,7 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
 - https://www.colorsandfonts.com/
 - https://colorswall.com/
 - https://coolors.co/
+- https://colorpalettes.earth/ displays color palettes sourced from images of nature (taken from Unsplash)
 - https://colorsinspo.com
 - https://huey.design/ Rapid color palettes across the rainbow
 - https://duo.alexpate.uk/
@@ -809,6 +824,7 @@ other boilerplates to use
   - https://www.iconbolt.com/
   - https://iconduck.com/ 104,808 free open source icons
 - https://thenounproject.com/ Every icon you can think of, in PNG or SVG formats. They offer over 20 million icons, with built-in customization colors like size and color. Requires login, needs creative commons attribution or $3 download
+- https://www.snoweb-svg.com/
 - https://nucleoapp.com/ Nucleo is a beautiful library of 30635 icons, and a powerful application to collect, customize and export all your icons. $99 lifetime purchase.
   - https://nucleoapp.com/tool/icon-transition SVG Icon Transitions Generator
 - https://hotpot.ai/free_icons 5,000+ free icons. Customize colors, size, and other properties. PNG, JPG, iOS, Android, PDF. No svg.
@@ -1193,6 +1209,7 @@ developers and designers
       }
     }
     ```
+- https://ui.glass/generator/ Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.
 - glassy glassmorphism [codepen](https://codepen.io/a-trost/pen/dypQzwq), [in context](https://codepen.io/TurkAysenur/pen/ZEpxeYm)
 
     ```css
@@ -1381,10 +1398,14 @@ https://meshgradient.com/ swirly backgrounds like apple
 - Image Placeholders - blurring - https://blurha.sh/ (and gatsby image and nextjs image)
 - Dimming/coloring text on background images https://coder-coder.com/background-image-opacity/
 - [True Grit Texture Supply](https://www.truegrittexturesupply.com/) PNG textures (paid)
-- Remove backgrounds https://www.remove.bg/ from images, https://www.unscreen.com/ for gif/video
+- Remove backgrounds 
+  - https://www.remove.bg/ from images
+  - https://baseline.is/tools/background-remover/ from images
+  - https://www.unscreen.com/ for gif/video
 - colorizing black and white images https://demos.algorithmia.com/colorize-photos
+- https://animatedbackgrounds.me/
 
-## Spinners
+## Loading Spinners
 
 - web components https://wc-spinners.cjennings.dev/
 - Spinners https://tobiasahlin.com/spinkit/
@@ -1393,6 +1414,7 @@ https://meshgradient.com/ swirly backgrounds like apple
 - React, Vue and Angular Spinners https://github.com/JoshK2/react-spinners-css
 - https://andrew.wang-hoyer.com/experiments/svg-animations/
 - Single Element CSS Spinners https://projects.lukehaas.me/css-loaders/
+- https://whirl.netlify.app/ 100+ animated loaders
 
 ## Animations & Transitions
 
@@ -1400,8 +1422,11 @@ https://meshgradient.com/ swirly backgrounds like apple
 - general http://animista.net
   - animate an existing svg https://svgartista.net/ (by the same people as animista)
 - general https://animejs.com/
+- https://www.theatrejs.com/ animate DOM elements or WebGL using a convenient visual editor that works along with the code you write.
 - motion graphics https://github.com/mojs/mojs
+- https://www.transition.style/ CSS transitions "My favourites are the ones that incorporate some hesitation in the animation, for an added uniqueness"
 - general https://daneden.github.io/animate.css/
+- https://animxyz.com/ Tailwind for animations, since you’re only using HTML classes.
 - general https://ianlunn.github.io/Hover/
 - Burgers https://march08.github.io/animated-burgers/
 - Burgers http://negomi.github.io/react-burger-menu/
@@ -1495,6 +1520,9 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 - https://frontend.horse/articles/buttons-that-spark-joy/
 - https://getcssscan.com/css-buttons-examples
 - https://cssbuttons.vercel.app/ cssbuttons: HTML & CSS Buttons Collection Built in React
+- https://getcssscan.com/css-buttons-examples
+- https://simurai.com/archive/buttons/ bonbon sweet css 3d buttons
+- https://markodenic.com/tools/buttons-generator/
 - moving lightsource on hover css buttons idea https://jsfiddle.net/pixel67/ZxZ6B/28/
 - Button without ugly focus ring with Tailwind:
   -  `focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2`
@@ -1525,7 +1553,11 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 - https://medium.com/nextux/design-better-data-tables-4ecc99d23356
 - https://twitter.com/erikdkennedy/status/1329787833058353154?s=20
 - [A table with both a sticky header and a sticky first column](https://css-tricks.com/a-table-with-both-a-sticky-header-and-a-sticky-first-column)
-
+  
+### Datepickers
+  
+- https://github.com/Pikaday/Pikaday
+  
 ### Sound
 
 - https://www.zapsplat.com/
@@ -1567,7 +1599,20 @@ Tools:
 - https://rbitr.github.io/ChartS.css/
 - https://chartscss.org/
 - Sparkline fonts in text: https://github.com/aftertheflood/sparks and https://www.scribbletone.com/typefaces/ff-chartwell
+- https://vizzuhq.com/
+  
+### Dashboarding
+  
+- https://github.com/cruip/tailwind-dashboard-template This one is made with Tailwind and React and includes optional chart components built with Chart.js.
 
+### React component libs
+
+- https://nextui.org/ uses Stitches, includes light and dark UI components out-of-the-box along with a default color palette that might be good for quickly building landing pages or other content that’s not initially tied to any branding.
+- https://akaspanion.github.io/ui-neumorphism/
+- https://component.gallery/
+- https://headlessui.dev/
+- https://ui.supabase.io/
+  
 ### Nice React Components
 
 - https://react-smooth-range-input.now.sh/
@@ -1602,6 +1647,7 @@ Tools:
 
 - Perspective stairstep text effects https://codepen.io/jamc92/details/KaMLvY (in action: http://tennentbrown.co.nz)
 - Split text animations https://web.dev/building-split-text-animations/
+- https://party.js.org/ add particle effects to a web page, specifically confetti and sparkles.
 - Duotone blend modes: https://jmperezperez.com/duotone-using-css-blend-modes/
 - Decovar Font with Text shadows: https://codepen.io/mandymichael/details/dJZQaz (and other [Variable Fonts by Mandy](https://variablefonts.dev/))
 - Drop shadows: `box-shadow: 10px 12px 0.5rem rgba(0,0,0,0.5);`
@@ -1778,6 +1824,8 @@ Sample meta tags with preconnects
 - https://a11yresources.webflow.io/ 
 - https://webflow.com/accessibility/checklist
 - https://www.getstark.co/library/
+- https://10015.io/
+- https://www.fetoolkit.io/
 - https://github.com/bradtraversy/design-resources-for-developers
 - https://tiny-helpers.dev/
 - https://www.uigoodies.com/
@@ -2095,6 +2143,7 @@ free or mock data apis for demos
   - simple quote https://api.quotable.io/random
 - Placeholder Pictures
   - https://source.unsplash.com/
+  - https://skuawk.com/
   - https://github.com/imsky/holder
   - https://lorempixel.com/
   - http://placeimg.com/
