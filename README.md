@@ -21,7 +21,7 @@
 - [Graphics and SVG Illustrations](#graphics-and-svg-illustrations)
 - [Pure CSS Tricks](#pure-css-tricks)
 - [Background Stuff](#background-stuff)
-- [Spinners](#spinners)
+- [Loading Spinners](#loading-spinners)
 - [Animations & Transitions](#animations--transitions)
 - [Individual HTML Elements](#individual-html-elements)
 - [Design Software](#design-software)
