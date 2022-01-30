@@ -951,6 +951,7 @@ further reading
 
 ### Code-based Graph tools
 
+- https://gojs.net/latest/samples/decisionTree.html interactive diagrams
 - graphviz/dot - useful inside jupyter
 - mermaid https://mermaid-js.github.io/mermaid/
 - http://blockdiag.com/en/
