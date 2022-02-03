@@ -334,6 +334,7 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
 - Free fonts that are great with examples (thanks [@edadams](https://github.com/sw-yx/spark-joy/issues/22))
   - Google Fonts - ([see Harry Roberts on Google Font loading perf](https://csswizardry.com/2020/05/the-fastest-google-fonts/) - you should [self host this](https://wicki.io/posts/2020-11-goodbye-google-fonts/))
     - https://www.colorsandfonts.com/font-pairing
+    - https://fontflipper.com/upload Just upload an image, write some sample copy. And flip through 500 Google fonts one by one.
     - https://bueltge.de/free-web-font-combinations/
     - [40 best google fonts by Typewolf](https://www.typewolf.com/google-fonts)
     - [50 selections of google fonts](https://www.notion.so/e873b52e0cc54f2981acc430417ba61d?v=05acdd40b0564920be69f5347f619bc3)
@@ -879,7 +880,7 @@ other boilerplates to use
 - https://symbolicons.com/
 - 🔥 https://streamlineicons.com/ (used in [Glide Apps](https://twitter.com/glideapps/status/1199396690182230016))
 - https://www.iconfinder.com/
-- https://www.flaticon.com/
+- https://www.flaticon.com/ 6.5m icons, free for PNG, paid for SVG
 - https://gumroad.com/l/primaries
 - https://gumroad.com/l/gPEAU ios 14 icons from traf - for inspo, mainly
 
@@ -1066,6 +1067,7 @@ Illo's in context: https://onepagelove.com/tag/illustrations
 - https://isoflat.com/ Isometric and flat graphic resources 
 - https://www.shapefest.com/ 160,000+ high resolution PNG images of beautiful 3D shapes
 - https://powerpeopleplatform.com/ delicious design library of 3D avatars
+- https://spline.design/ Easily create and publish 3D web experiences. Build and iterate fast with production-ready results.
 
 Learn 3d illo in blender https://polygonrunway.com/
 
@@ -1406,6 +1408,7 @@ https://meshgradient.com/ swirly backgrounds like apple
   - https://www.remove.bg/ from images
   - https://baseline.is/tools/background-remover/ from images
   - https://www.unscreen.com/ for gif/video
+- Remove ANYTHING (AMAZING) https://cleanup.pictures/
 - colorizing black and white images https://demos.algorithmia.com/colorize-photos
 - https://animatedbackgrounds.me/
 
