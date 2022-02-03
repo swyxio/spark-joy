@@ -1409,6 +1409,7 @@ https://meshgradient.com/ swirly backgrounds like apple
   - https://baseline.is/tools/background-remover/ from images
   - https://www.unscreen.com/ for gif/video
 - Remove ANYTHING (AMAZING) https://cleanup.pictures/
+- edit photo in browser no BS https://edit.photo/
 - colorizing black and white images https://demos.algorithmia.com/colorize-photos
 - https://animatedbackgrounds.me/
 
