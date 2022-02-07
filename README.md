@@ -818,6 +818,7 @@ other boilerplates to use
 - ⭐ https://tablericons.com/ 937 Fully customizable free SVG icons
 - ⭐ https://icons.modulz.app/ Radix Icons - >250 15×15 icons designed by the Modulz team. - some great app icons
 - ⭐ https://feathericons.com/ clean and minimal markup
+- https://iconoir.com/ free open source library with 1000+ SVG Icons, designed on a 24x24 pixels grid
 - https://iconic.app/
 - Google icons https://fonts.google.com/icons
 - Material Design https://materialdesignicons.com/ https://material.io/resources/icons/?style=baseline
