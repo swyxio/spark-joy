@@ -1197,7 +1197,6 @@ developers and designers
 - MAKE SURE TO CHECK OUT https://components.ai
 - https://twitter.com/JoshWComeau/status/1170358024319492097?s=20
 - Sarah Drasner picks https://codepen.io/collection/nMgKxJ?cursor=ZD0xJm89MCZwPTEmdj0yNjc5NTQ1
-- CSS3 3D Buttons http://simurai.com/archive/buttons/#
 - Lea Verou CSS Secrets https://twitter.com/swyx/status/982786353216843776?s=20
   - CSS3 Patterns https://leaverou.github.io/css3patterns/
 - CSS 3D Text https://markdotto.com/playground/3d-text/
@@ -1527,6 +1526,9 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 
 - https://frontend.horse/articles/buttons-that-spark-joy/
 - https://getcssscan.com/css-buttons-examples
+- 3d buttons
+  - CSS3 3D Buttons http://simurai.com/archive/buttons/#
+  - Button Deluxe v3 A whimsical 3D pure CSS button https://code.hnldesign.nl/btn-deluxe/
 - https://cssbuttons.vercel.app/ cssbuttons: HTML & CSS Buttons Collection Built in React
 - https://getcssscan.com/css-buttons-examples
 - https://simurai.com/archive/buttons/ bonbon sweet css 3d buttons
