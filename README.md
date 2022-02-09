@@ -1341,6 +1341,8 @@ background-image: linear-gradient(
 Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-linear-gradients/
 
 https://meshgradient.com/ swirly backgrounds like apple
+  
+https://meshgradient.in/ generate mesh gradient backgrounds
 
 #### Background Patterns
 
