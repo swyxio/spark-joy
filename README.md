@@ -654,6 +654,7 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
 - https://learnui.design/tools/data-color-picker.html Color picker for data visualizations
 - https://learnui.design/tools/accessible-color-generator.html Accessible color generator
 - https://maketintsandshades.com/ Generate tint and shades from hex code
+- http://paletton.com/
 - Tailwind:
   - https://tailwind.ink/
   - https://www.tailwindshades.com/
