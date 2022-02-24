@@ -788,6 +788,7 @@ Ideas of things you can include based on my own site.
 
 other boilerplates to use
 
+- https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/
 - https://github.com/joshbuchea/HEAD
 - https://www.matuzo.at/blog/html-boilerplate/
 
