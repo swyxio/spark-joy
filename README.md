@@ -665,6 +665,7 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
   - Pick colors from an image https://imagehive.co/
   - Mix colors in pure CSS https://css-tricks.com/mixing-colors-in-pure-css/
   - [HSLuv](https://www.hsluv.org/comparison/) color space is preferable to HSL. [Palette generator](https://colors.madscience.design/)
+  - https://colors.lol/ Overly descriptive color palettes (fun)
 
 
 
