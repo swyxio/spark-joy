@@ -370,6 +370,7 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
 - Font Pairing
   - https://fontpair.co/ 
   - https://fontjoy.com/ 
+  - https://fontsinuse.com/ - see how [Steve Schoger uses it](https://youtu.be/S6-q5BheEYU)
   - http://femmebot.github.io/google-type/
   - https://www.boldwebdesign.com.au/
   - https://justmytype.co/
