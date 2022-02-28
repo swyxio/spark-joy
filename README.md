@@ -1547,6 +1547,8 @@ Tools:
 
 ### React component libs
 
+- [Radix UI](https://www.radix-ui.com/) Unstyled, accessible components for building high‑quality design systems and web apps in React.
+- [Mantine](https://mantine.dev/) More than 120 customizable components and hooks to cover you in any situation.
 - https://nextui.org/ uses Stitches, includes light and dark UI components out-of-the-box along with a default color palette that might be good for quickly building landing pages or other content that’s not initially tied to any branding.
 - https://akaspanion.github.io/ui-neumorphism/
 - https://component.gallery/
