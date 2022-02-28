@@ -849,6 +849,7 @@ other boilerplates to use
 - http://github.com/propublica/weepeople A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots.
 - Bootstrap Icons https://github.com/twbs/icons, https://icons.getbootstrap.com/
 - https://systemuicons.com/
+- https://github.com/microsoft/fluentui-system-icons Fluent UI System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - https://icons.mono.company/
 - https://iconscout.com/unicons and https://github.com/Iconscout/react-unicons
 - https://www.zondicons.com/
