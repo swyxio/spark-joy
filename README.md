@@ -1776,6 +1776,10 @@ Feature tours
 - https://github.com/zurb/joyride jQuery feature tour plugin, used in https://www.airdna.co/
 - tippy.js to handroll
 - React Curved Arrow https://react-curved-arrow.nickjanssen.com/
+  
+Welcome emails
+
+- https://blog.appsumo.com/welcome-email-examples/
 
 ### Empty states
 
