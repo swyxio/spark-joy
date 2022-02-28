@@ -2,10 +2,11 @@
 
 > **Easy ways to add design flair, user delight, and whimsy to your product!**
 
-*The Spark Joy philosophy is explained in further detail [in my book](https://learninpublic.org/), check it out if you'd like to explore how this approach applies to a lot more than design utilities.*
+_The Spark Joy philosophy is explained in further detail [in my book](https://learninpublic.org/), check it out if you'd like to explore how this approach applies to a lot more than design utilities._
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 **Table of Contents**
 
 - [Web Design in 4 minutes](#web-design-in-4-minutes)
@@ -120,54 +121,53 @@ HTML/CSS nice templates
 - https://cruip.com/ HTML, React, Vue.js, and Tailwind templates
 - https://open-props.style/ design tokens using CSS variables
 
-
-### Serious CSS Frameworks 
+### Serious CSS Frameworks
 
 #### Heavier CSS Frameworks
 
 bigger learning curve, may have js, but more OOTB)
 
-  - Bootstrap
-  - [Foundation](https://get.foundation/sites/docs/)
-  - [Blaze UI](https://www.blazeui.com/)
-  - [PatternFly](https://www.patternfly.org/v4/documentation/core/components/aboutmodalbox)
-  - [UIKit](https://getuikit.com/docs/introduction)
-  - Utility CSS
-    - [Bonsai CSS](https://www.bonsaicss.com/)
-    - [Tailwindcss](https://tailwindcss.com/)
-  - Web Components
-    - [Weightless](https://weightless.dev/elements/checkbox)
-    - [Shoelace](https://shoelace.style/)
+- Bootstrap
+- [Foundation](https://get.foundation/sites/docs/)
+- [Blaze UI](https://www.blazeui.com/)
+- [PatternFly](https://www.patternfly.org/v4/documentation/core/components/aboutmodalbox)
+- [UIKit](https://getuikit.com/docs/introduction)
+- Utility CSS
+  - [Bonsai CSS](https://www.bonsaicss.com/)
+  - [Tailwindcss](https://tailwindcss.com/)
+- Web Components
+  - [Weightless](https://weightless.dev/elements/checkbox)
+  - [Shoelace](https://shoelace.style/)
 
 ### Drop-in CSS Frameworks
 
 lighter, no js. preview some of these with https://sites.yax.com/
 
-  - [Spectre.css](https://picturepan2.github.io/spectre/getting-started/installation.html)
-  - 🌟 https://latex.vercel.app/
-  - https://purecss.io/
-  - https://picocss.com/
-  - https://simplecss.org/demo
-  - https://ajusa.github.io/lit/
-  - https://screencss.com/
-  - https://andybrewer.github.io/mvp/
-  - https://github.com/xz/new.css
-  - https://github.com/oxalorg/sakura
-  - https://native-elements.dev/
-  - https://watercss.kognise.dev/
-  - https://luxacss.com/
-  - https://jenil.github.io/chota/ 
-  - https://chr15m.github.io/DoodleCSS/ hand drawn look
-  - https://github.com/susam/spcss
-  - https://elementcss.neocities.org/
-  - https://codepen.io/web-dot-dev/pen/abpoXGZ the base classes for web.dev/learn/csss
-  - https://open-props.style/ css variables framework - "tailwind without tailwind"
-  - Collections of even more:
-    - https://github.com/dohliam/dropin-minimal-css
-    - https://github.com/dbohdan/classless-css
-    - https://github.com/ubershmekel/cssbed
-    - https://thesephist.github.io/paper.css/ and https://thesephist.github.io/blocks.css/
-    
+- [Spectre.css](https://picturepan2.github.io/spectre/getting-started/installation.html)
+- 🌟 https://latex.vercel.app/
+- https://purecss.io/
+- https://picocss.com/
+- https://simplecss.org/demo
+- https://ajusa.github.io/lit/
+- https://screencss.com/
+- https://andybrewer.github.io/mvp/
+- https://github.com/xz/new.css
+- https://github.com/oxalorg/sakura
+- https://native-elements.dev/
+- https://watercss.kognise.dev/
+- https://luxacss.com/
+- https://jenil.github.io/chota/
+- https://chr15m.github.io/DoodleCSS/ hand drawn look
+- https://github.com/susam/spcss
+- https://elementcss.neocities.org/
+- https://codepen.io/web-dot-dev/pen/abpoXGZ the base classes for web.dev/learn/csss
+- https://open-props.style/ css variables framework - "tailwind without tailwind"
+- Collections of even more:
+  - https://github.com/dohliam/dropin-minimal-css
+  - https://github.com/dbohdan/classless-css
+  - https://github.com/ubershmekel/cssbed
+  - https://thesephist.github.io/paper.css/ and https://thesephist.github.io/blocks.css/
+
 Superlight: [100 bytes of css to look great nearly everywhere](https://dev.to/swyx/100-bytes-of-css-to-look-great-everywhere-19pd)
 
 ```css
@@ -184,8 +184,8 @@ html {
 
 focus is fun
 
-  - https://www.getpapercss.com/ (handrwritingey css similar to roughjs)
-  - https://terminalcss.xyz/
+- https://www.getpapercss.com/ (handrwritingey css similar to roughjs)
+- https://terminalcss.xyz/
 
 focus is brutalism
 
@@ -210,7 +210,7 @@ focus is fun/nostalgia
 - more https://dev.to/iainfreestone/10-resources-for-recreating-old-school-retro-user-interfaces-today-hkj
 
 focus in futurism
-  
+
 - Arwes - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps https://arwes.dev/
 - http://augmented-ui.com/ - Futuristic, Sci-Fi shaping for any element
 
@@ -218,18 +218,18 @@ focus in futurism
 
 more control in exchange for more work on your part.
 
-  - eric meyer v2 https://meyerweb.com/eric/tools/css/reset/
-  - josh comeau reset https://www.joshwcomeau.com/css/custom-css-reset/ - [Chris Coyier comments](https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/)
-  - https://github.com/jensimmons/cssremedy css working group's reset if it didnt have to worry about tech debt 
-  - https://github.com/tiaanduplessis/nanoreset
-  - https://nicolas-cusan.github.io/destyle.css/
-  - https://hankchizljaw.com/wrote/a-modern-css-reset/
-  - https://gist.github.com/DavidWells/18e73022e723037a50d6
-  - http://necolas.github.io/normalize.css/ (yes, technically does more than a reset)
-    - https://github.com/sindresorhus/modern-normalize is a smaller version that just supports latest Chrome, Firefox, and Safari
-    - Tailwind's https://tailwindcss.com/docs/preflight/ is built atop normalize
-  - https://github.com/kripod/css-homogenizer - a modern take on Eric Meyer's Reset, based upon direct comparison between user agent style sheets.
-  - Jamie Kyle CSS preset https://twitter.com/buildsghost/status/1360343126510981122?s=20
+- eric meyer v2 https://meyerweb.com/eric/tools/css/reset/
+- josh comeau reset https://www.joshwcomeau.com/css/custom-css-reset/ - [Chris Coyier comments](https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/)
+- https://github.com/jensimmons/cssremedy css working group's reset if it didnt have to worry about tech debt
+- https://github.com/tiaanduplessis/nanoreset
+- https://nicolas-cusan.github.io/destyle.css/
+- https://hankchizljaw.com/wrote/a-modern-css-reset/
+- https://gist.github.com/DavidWells/18e73022e723037a50d6
+- http://necolas.github.io/normalize.css/ (yes, technically does more than a reset)
+  - https://github.com/sindresorhus/modern-normalize is a smaller version that just supports latest Chrome, Firefox, and Safari
+  - Tailwind's https://tailwindcss.com/docs/preflight/ is built atop normalize
+- https://github.com/kripod/css-homogenizer - a modern take on Eric Meyer's Reset, based upon direct comparison between user agent style sheets.
+- Jamie Kyle CSS preset https://twitter.com/buildsghost/status/1360343126510981122?s=20
 
 ### CSS A11y Checkers
 
@@ -237,7 +237,6 @@ more control in exchange for more work on your part.
 - https://ffoodd.github.io/a11y.css/
 - https://github.com/mike-engel/a11y-css-reset
 - chrome extension https://chrome.google.com/webstore/detail/a11ycss/iolfinldndiiobhednboghogkiopppid?hl=en
-
 
 ### Tailwind Component Libraries
 
@@ -254,12 +253,14 @@ more control in exchange for more work on your part.
 - https://daisyui.com/
 - https://www.tailwind-kit.com/
 
-## Elevation
+## Layout
+
+### Stacking and Elevation
 
 Good idea to have an elevation system in place. Material's is pretty good: https://material.io/design/environment/elevation.html
 
 | Component                                                 | Default elevation values (dp) |
-|-----------------------------------------------------------|-------------------------------|
+| --------------------------------------------------------- | ----------------------------- |
 | Dialog                                                    | 24                            |
 | Modal bottom sheet Modal side sheet                       | 16                            |
 | Navigation drawer                                         | 16                            |
@@ -281,18 +282,18 @@ Good idea to have an elevation system in place. Material's is pretty good: https
 | Text button                                               | 0                             |
 | Standard side sheet                                       | 0                             |
 
-## Spacing
+### 2D Spacing
 
 More. Spacing. Please.
 
 [Double your whitespace](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html#rule-3-double-your-whitespace)
 
-## Layout
+### Responsive Layout Breakpoints
 
 When in doubt, use Material Layout: https://material.io/design/layout/responsive-layout-grid.html#breakpoints
 
 | Screen size         | Margin  | Body    | Layout columns |
-|---------------------|---------|---------|----------------|
+| ------------------- | ------- | ------- | -------------- |
 | Extra-small (phone) |         |         |                |
 | 0-599dp             | 16dp    | Scaling | 4              |
 | Small (tablet)      |         |         |                |
@@ -303,19 +304,6 @@ When in doubt, use Material Layout: https://material.io/design/layout/responsive
 | Large (desktop)     |         |         |                |
 | 1440+               | Scaling | 1040    | 12             |
 
-- https://gedd.ski/post/article-grid-layout/
-- https://web.dev/patterns/layout/
-- css grid generators 
-  - https://grid.layoutit.com/
-  - https://cssgrid-generator.netlify.app/
-  - https://layout.bradwoods.io/
-- https://every-layout.dev/
-- https://uisual.com/
-- https://csslayout.io/ ([github](https://github.com/phuoc-ng/csslayout))
-- Visual Hierarchy https://youtu.be/qZWDJqY27bw
-
-special topic - responsive media
-
 - https://piccalil.li/tutorial/build-a-responsive-media-browser-with-css/
 - [Tailwind's breakpoints](https://tailwindcss.com/docs/breakpoints) don't come with layout recommendations but here they are:
   - sm: 640px
@@ -324,6 +312,18 @@ special topic - responsive media
   - xl: 1280px
   - 2xl: 1536px
 
+### Other Layout Tools and tips
+
+- 🌟 https://every-layout.dev/
+- https://web.dev/patterns/layout/
+- https://gedd.ski/post/article-grid-layout/
+- CSS grid generator tools
+  - https://grid.layoutit.com/
+  - https://cssgrid-generator.netlify.app/
+  - https://layout.bradwoods.io/
+- https://uisual.com/
+- https://csslayout.io/ ([github](https://github.com/phuoc-ng/csslayout))
+- Visual Hierarchy https://youtu.be/qZWDJqY27bw
 
 ## Typography
 
@@ -373,8 +373,8 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
   }
 ```
 
-  - [Some systems come with good premium fonts](https://twitter.com/MatiasEduardoPR/status/1093508700378144768?s=20) - Apple OSes have `“avenir next”, “avenir”, “proxima-nova”`
-  
+- [Some systems come with good premium fonts](https://twitter.com/MatiasEduardoPR/status/1093508700378144768?s=20) - Apple OSes have `“avenir next”, “avenir”, “proxima-nova”`
+
 </details>
 
 - Consider your site personality
@@ -421,13 +421,13 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
   - [Jetbrains Mono](https://www.jetbrains.com/lp/mono/) - Monospace font for devvy stuff
   - Handwritten Fonts - great for presentations, annotated illustrations
     - https://www.urbanfonts.com/fonts/handwritten-fonts.htm
-    - Caveat and Reenie Beanie on google fonts  https://twitter.com/round/status/1178090890004455424?s=19
-- https://fontsarena.com/ 
+    - Caveat and Reenie Beanie on google fonts https://twitter.com/round/status/1178090890004455424?s=19
+- https://fontsarena.com/
 - https://uncut.wtf/ 90 typefaces with a focus on contemporary, or modern, type.
 - "Open Source Beautiful Fonts" [by Gontijo](https://twitter.com/gontijodesign/status/1394624373823348737)
 - Font Pairing
-  - https://fontpair.co/ 
-  - https://fontjoy.com/ 
+  - https://fontpair.co/
+  - https://fontjoy.com/
   - https://fontsinuse.com/ - see how [Steve Schoger uses it](https://youtu.be/S6-q5BheEYU)
   - http://femmebot.github.io/google-type/
   - https://www.boldwebdesign.com.au/
@@ -447,7 +447,7 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
   - https://www.haleyfiege.fun/fonts
   - pixel fonts https://twitter.com/castpixel/status/1281345373336985612?s=20
 - CSS 3D text https://markdotto.com/playground/3d-text/
-- JS 3D text https://bennettfeely.com/ztext/ 
+- JS 3D text https://bennettfeely.com/ztext/
 - TypeSpiration https://typespiration.com/ premade font pairings for you
 - more opinions places
   - https://muffingroup.com/blog/best-free-fonts/
@@ -456,10 +456,9 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
   - http://thinkingwithtype.com/
   - https://typographyforlawyers.com/
   - http://webtypography.net/intro/
-  - https://www.youtube.com/watch?v=Vd6jZR-GknA 
+  - https://www.youtube.com/watch?v=Vd6jZR-GknA
   - [6 ways to justify font choices in your designs](https://learnui.design/blog/justifying-font-choices.html)
   - [statistical data on font usage](https://dribbble.com/stories/2021/04/26/web-design-data-fonts)
-   
 
 <details>
   <summary> Premium fonts and some examples </summary>
@@ -481,45 +480,45 @@ you can learn more about proofing premium fonts here https://www.typography.com/
 - https://github.com/zachleat/web-font-loading-recipes
 - https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/
 - Everything [Harry Roberts](https://twitter.com/csswizardry) writes
+
   - [Google Fonts strategy](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
-  
-     ```html
-      <!--
-        - 1. Preemptively warm up the fonts’ origin.
-        -
-        - 2. Initiate a high-priority, asynchronous fetch for the CSS file. Works in
-        -    most modern browsers.
-        -
-        - 3. Initiate a low-priority, asynchronous fetch that gets applied to the page
-        -    only after it’s arrived. Works in all browsers with JavaScript enabled.
-        -
-        - 4. In the unlikely event that a visitor has intentionally disabled
-        -    JavaScript, fall back to the original method. The good news is that,
-        -    although this is a render-blocking request, it can still make use of the
-        -    preconnect which makes it marginally faster than the default.
-        -->
 
-      <!-- [1] -->
-      <link rel="preconnect"
-            href="https://fonts.gstatic.com"
-            crossorigin />
+    ```html
+    <!--
+       - 1. Preemptively warm up the fonts’ origin.
+       -
+       - 2. Initiate a high-priority, asynchronous fetch for the CSS file. Works in
+       -    most modern browsers.
+       -
+       - 3. Initiate a low-priority, asynchronous fetch that gets applied to the page
+       -    only after it’s arrived. Works in all browsers with JavaScript enabled.
+       -
+       - 4. In the unlikely event that a visitor has intentionally disabled
+       -    JavaScript, fall back to the original method. The good news is that,
+       -    although this is a render-blocking request, it can still make use of the
+       -    preconnect which makes it marginally faster than the default.
+       -->
 
-      <!-- [2] -->
-      <link rel="preload"
-            as="style"
-            href="$CSS&display=swap" />
+    <!-- [1] -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
-      <!-- [3] -->
-      <link rel="stylesheet"
-            href="$CSS&display=swap"
-            media="print" onload="this.media='all'" />
+    <!-- [2] -->
+    <link rel="preload" as="style" href="$CSS&display=swap" />
 
-      <!-- [4] -->
-      <noscript>
-        <link rel="stylesheet"
-              href="$CSS&display=swap" />
-      </noscript>
-      ```
+    <!-- [3] -->
+    <link
+      rel="stylesheet"
+      href="$CSS&display=swap"
+      media="print"
+      onload="this.media='all'"
+    />
+
+    <!-- [4] -->
+    <noscript>
+      <link rel="stylesheet" href="$CSS&display=swap" />
+    </noscript>
+    ```
+
 - `font-display: optional` [may be good](https://css-tricks.com/a-font-display-setting-for-slow-connections/)
   - but harry roberts [doesnt like it](https://csswizardry.com/2020/05/the-fastest-google-fonts/#comparisons-and-visualisations)
 - don't load fonts if `prefers-reduced-data` [see Kilian Valkhof](https://css-tricks.com/responsible-conditional-loading/)
@@ -537,11 +536,13 @@ Don't forget setting `max-width` - betweeen 60-75chars is good.
 - https://www.charactercountonline.com/
 - https://charcounter.com/en/
 
+You may wish to use `max-width: 60ch` on content. [Note on the `ch` unit not being EXACTLY 60 chars](https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/)
+
 ### Kerning and char spacing
 
 <details>
 <summary>
-Don't forget setting Leading on your h1 text and minding kerning:
+Don't forget setting Leading (line height) on your h1 text and minding kerning:
 </summary>
 
 ![https://hottips.imgix.net/2020/07/044-tracking-animation.gif](https://hottips.imgix.net/2020/07/044-tracking-animation.gif)
@@ -551,13 +552,11 @@ Don't forget setting Leading on your h1 text and minding kerning:
 
 </details>
 
-Note: `vw` has known a11y issues: Preserve Zooming. [Sara Soueidan](https://twitter.com/SaraSoueidan/status/1121645149983891457?s=20) recommends wrapping with `calc`, e.g. `font-size: calc(16px + .3vw);`
-
-You may wish to use `max-width: 60ch` on content. [Note on the `ch` unit not being EXACTLY 60 chars](https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/)
+When you use allcaps section titles, set the tracking (`letting-spacing`) a little wider. ([Example from Steve Schoger](https://www.youtube.com/watch?v=S6-q5BheEYU))
 
 ### Font Sizing
 
-DON'T GO CRAZY WITH FONT SIZES. 
+DON'T GO CRAZY WITH FONT SIZES.
 
 - Try to use 1-2 sizes and vary other things like weight, space/leading, color, casing.
 - Don't rely on varying fontsize to control hierarchy - also use font weight (normal = 400/500, heavy = 600/700) and color
@@ -565,12 +564,12 @@ DON'T GO CRAZY WITH FONT SIZES.
 - Fluid typography with [`clamp`](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp): `font-size: clamp(1.125rem, 1rem + 2vw, 1.5rem)`
   - [CSS Tricks](https://css-tricks.com/design-v18/) v18: `font-size: clamp(2rem, calc(2rem + 1.2vw), 3rem);`
   - https://maximeroudier.com/typeScaleClampGenerator/
-  - Another responsive typography fallback - [`font-size: calc(1rem + 2px + ((100vw - 550px) / 250))`](https://twitter.com/Kikobeats/status/1093620157912616966?s=20) - you can [fit text to screen width](https://twitter.com/shshaw/status/1240647643388395521?s=20) 
+  - Another responsive typography fallback - [`font-size: calc(1rem + 2px + ((100vw - 550px) / 250))`](https://twitter.com/Kikobeats/status/1093620157912616966?s=20) - you can [fit text to screen width](https://twitter.com/shshaw/status/1240647643388395521?s=20)
   - demo it with this https://fluid-typography.netlify.app/
 - [Inter/Tailwind font-size combo](https://twitter.com/samselikoff/status/1204412222593568769?s=20)
 - [BAD, SLOW fontsize calc](https://twitter.com/drewml/status/1115339490179072000?s=20)
+  - Note: `vw` has known a11y issues: Preserve Zooming. [Sara Soueidan](https://twitter.com/SaraSoueidan/status/1121645149983891457?s=20) recommends wrapping with `calc`, e.g. `font-size: calc(16px + .3vw);`
 - [Complete font-size notes](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/)
-
 
 ### Typography Talks
 
@@ -597,7 +596,7 @@ DON'T GO CRAZY WITH FONT SIZES.
 - https://wh0.github.io/glitter/ It’s a generator that produces text in a glitter-like style, which you can save as SVG. Definitely not for 99% of your projects, but a pretty cool text effect.
 - if all letters at the same height all caps this is called [Majuscule](https://www.wordgenius.com/words/majuscule)
 - International fonts stack https://www.figma.com/blog/when-fonts-fall/
-- In future, try out [leading-trim](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202) 
+- In future, try out [leading-trim](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202)
 - https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website
 - css podcast primer on typography https://thecsspodcast.libsyn.com/tcp036-v2
 
@@ -617,7 +616,7 @@ Don't use system default/named colors, too brutal. Soften it a bit. "[Never use 
 
 Here's a [more complete primer on color personalities](https://99designs.com/blog/tips/logo-color-meanings/) with more examples.
 
-**Mind accessibility**. 1 in 12 men and 1 in 200 women have color blindness. Make sure to check that important distinctions can be perceived. 
+**Mind accessibility**. 1 in 12 men and 1 in 200 women have color blindness. Make sure to check that important distinctions can be perceived.
 
 - https://twitter.com/LoanReads/status/1313974210151305218?s=20
 - https://www.colourblindawareness.org/colour-blindness/
@@ -626,10 +625,8 @@ Here's a [more complete primer on color personalities](https://99designs.com/blo
 <summary>
 Example blueish palette
 </summary>
-  
-  
 
-Monotone: 
+Monotone:
 
 - White-ish Card background: #FCFCFC
 - Blueish-Black icons: #1C1E20
@@ -649,14 +646,12 @@ Multicolor:
 
 </details>
 
-
 <details>
 <summary>  
 You may or may not want to use generic names if you want it swappable for dark mode:
 </summary>
   
 Example [yellowish palette](https://codepen.io/oliviale/full/XyqQYL):
-
 
 - primary-light: #FFD151 mustard
 - primary-dark: #FFAE03 UCLA gold
@@ -676,7 +671,6 @@ Examples: https://dev.to/dcodeyt/add-dark-mode-to-your-websites-with-css-5bh4
 One liner dark mode (careful about perf!): `filter: invert(100%) hue-rotate(180deg);` - more [filters here](https://svelte.dev/repl/defc901c5f434ed4a76161605cf1db76?version=3.29.0)
 
 https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?ref=sidebar
-
 
 ### Palette Generators
 
@@ -701,7 +695,7 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
 - https://croncolor.com/color-tool
 - https://leonardocolor.io/?colorKeys=%236fa7ff&base=ffffff&ratios=3%2C4.5&mode=CAM02
 - https://happyhues.co/
-- https://www.colourlovers.com/ *recommended by Tracy Osborn*
+- https://www.colourlovers.com/ _recommended by Tracy Osborn_
 - https://flatuicolors.com/
 - https://colorsupplyyy.com/
 - [chroma.js color palette helper](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1)
@@ -720,13 +714,11 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
   - https://tailwind.simeongriggs.dev
   - https://javisperez.github.io/tailwindcolorshades/
   - https://tailwind-color-picker.jessarcher.com
-- Special usecases: 
+- Special usecases:
   - Pick colors from an image https://imagehive.co/
   - Mix colors in pure CSS https://css-tricks.com/mixing-colors-in-pure-css/
   - [HSLuv](https://www.hsluv.org/comparison/) color space is preferable to HSL. [Palette generator](https://colors.madscience.design/)
   - https://colors.lol/ Overly descriptive color palettes (fun)
-
-
 
 ### Color Gradients
 
@@ -736,7 +728,7 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 - gradients https://mybrandnewlogo.com/color-gradient-generator
 - CSS Gradient Text https://twitter.com/argyleink/status/1281623252662489088/photo/2
 - https://mycolor.space/gradient Generate a CSS Color Gradient
-- https://webgradients.com/ free collection of 180 linear gradients 
+- https://webgradients.com/ free collection of 180 linear gradients
 - https://uigradients.com/#Petrichor
 - https://www.meshgradients.design/ 100 curated Mesh Gradients
 - https://gradient-king.vercel.app/
@@ -749,7 +741,7 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 - Tailwind
   - https://hypercolor.dev/
 
-### Color knowledge
+### Color Theory
 
 <details>
   <summary> Not tools but still important so here they are </summary>
@@ -767,8 +759,8 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 - [How to do Dark Mode right](https://darkmodedesign.xyz/)
   - Zeno Rocha 5 tips for dark mode https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?ref=sidebar
 - [Inventorying and naming a Color Palette at UXPin](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
-- [Reasoning about Color](http://notes.neeasade.net/color-spaces.html) some light reading on color spaces and transforms (eg "pastelize" operation) 
-- [Picking your palette](https://refactoringui.com/previews/building-your-color-palette/) 
+- [Reasoning about Color](http://notes.neeasade.net/color-spaces.html) some light reading on color spaces and transforms (eg "pastelize" operation)
+- [Picking your palette](https://refactoringui.com/previews/building-your-color-palette/)
 - [Numeric systems of color palettes explained](https://n8d.at/the-numeric-colour-palettes-in-modern-web-frameworks-explained)
 - [Monocrhromatic color scheme guide](https://www.vectornator.io/blog/monochromatic-colors)
 
@@ -776,74 +768,178 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 
 </details>
 
+## Backgrounds
+
+### Background Gradients and Patterns
+
+Not just for background backgrounds - applying gradients and background images to text is super underrated. Examples:
+
+- [https://philcoffman.com/](https://user-images.githubusercontent.com/6764957/64589989-7985f500-d374-11e9-9d8a-2a8888df6981.png)
+- [https://css-tricks.com/](https://user-images.githubusercontent.com/6764957/64590103-beaa2700-d374-11e9-8a84-95ab4826a577.png)
+- https://magicmind.co/ very subtle texture
+- https://increase.com/
+
+Background Radial Bursts behind images:
+
+- https://cssgradient.io/
+- https://youtu.be/U4z-wph1NyI
+- https://onepagelove.com/tag/gradients
+
+![https://hottips.imgix.net/2020/07/063-burst.jpg?w=1200&auto=compress](https://hottips.imgix.net/2020/07/063-burst.jpg?w=1200&auto=compress)
+
+#### Background Gradients
+
+Make sure to see the [Color Gradients](#color-gradients) section to generate gradients
+
+```css
+background-image: linear-gradient(
+  120deg,
+  hsl(200 50% 90%) 0%,
+  hsl(200 100% 90%) 100%
+);
+```
+
+Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-linear-gradients/
+
+https://meshgradient.com/ swirly backgrounds like apple
+
+https://meshgradient.in/ generate mesh gradient backgrounds
+
+#### Background Patterns
+
+- https://leaverou.github.io/css3patterns/
+- https://github.com/bansal-io/pattern.css
+- http://www.heropatterns.com/ SVG Repeating Patterns Generator
+- https://doodad.dev/pattern-generator/
+- https://www.wowpatterns.com/free-vector-art thousands of freevector patterns, based on shapes, organic shapes as well as themes, such as animals, beach, city and people, festivals, florals etc.
+- https://wickedbackgrounds.com/?ref=producthunt svg background waves
+- https://www.svgbackgrounds.com/
+- https://www.transparenttextures.com/
+- https://www.toptal.com/designers/subtlepatterns/ (exports png though :( )
+- https://pattern.flaticon.com/ (create a bg pattern of icons)
+- https://coolbackgrounds.io/
+- https://tabbied.com/ abstract Doodles with generated patterns
+- https://css-doodle.com/
+- https://hero-generator.netlify.app/ hero picture CSS generator
+- https://www.gradientmagic.com/
+- https://kumiko-generator.netlify.app/
+- http://thepatternlibrary.com/
+- https://msurguy.github.io/flow-lines/ produces random geometric lines, and we can adjust the formulas and distances between the shapes drawn
+- http://svgbackgrounds.com/
+- https://haikei.app/ - web app to generate unique SVG shapes, backgrounds, and patterns
+- https://pattern.monster/ 180 patterns, and you can filter them by mode and color, and search
+- http://iros.github.io/patternfills/ - plenty of black-and-white patterns, also available from the command line
+- https://www.kennethcachia.com/plain-pattern/ allows you to upload an SVG shape (or use one of the existing ones) and it creates a repeating pattern which can be exported as SVG.
+- http://www.patternify.com/ CSS Pattern generator that allows you to define a pattern in a 10×10 grid
+- https://www.magicpattern.design/tools/css-backgrounds library of pure CSS background patterns like ZigZag or diagonal ones.
+- https://bgjar.com/
+- https://products.ls.graphics/paaatterns/
+- https://notchris.net/patterns/ (Really simple SVG Patterns using single unicode characters.)
+- https://doodad.dev/pattern-generator/ (Pattern generator that exports to png, jpg and svg.)
+- wave dividers
+  - https://www.shapedivider.app/ generate custom shape dividers
+  - https://svgwave.in/
+  - https://getwaves.io/ generate SVG waves
+  - https://wavelry.vercel.app/ choose between sharp, linear and smooth waves
+  - https://www.outpan.com/app/9aaaf27303/svg-gradient-wave-generator adjust amplitudes, smoothness, saturation and hues
+  - https://loading.io/background/m-wave/ generate waves, and even animate them
+  - https://haikei.app/ full fledged generate SVG assets, from layered waves to stacked waves and blob scenes
+  - svg waves generator https://codepen.io/jh3y/full/poEvKxo
+  - https://wweb.dev/resources/css-separator-generator
+
+### Background Illustrations
+
+- https://freellustrations.com/
+
+### Background SVG texture
+
+- for increase.com https://twitter.com/bdc/status/1443557247813099522?s=20
+
+### Misc Backgroundy Stuff
+
+- CSS Doodle https://css-doodle.com/
+- CSS backgroundy patterns https://leaverou.github.io/css3patterns/
+- this guy https://twitter.com/yuanchuan23
+- Generative Gradients http://generative-placeholders.glitch.me/
+  - Generateive SVG https://dev.to/georgedoescode/a-generative-svg-starter-kit-5cm1
+- Image Placeholders - blurring - https://blurha.sh/ (and gatsby image and nextjs image)
+- Dimming/coloring text on background images https://coder-coder.com/background-image-opacity/
+- [True Grit Texture Supply](https://www.truegrittexturesupply.com/) PNG textures (paid)
+- Remove backgrounds
+  - https://www.remove.bg/ from images
+  - https://baseline.is/tools/background-remover/ from images
+  - https://www.unscreen.com/ for gif/video
+- Remove ANYTHING (AMAZING) https://cleanup.pictures/
+- edit photo in browser no BS https://edit.photo/
+- colorizing black and white images https://demos.algorithmia.com/colorize-photos
+- https://animatedbackgrounds.me/
+
 ## Icons and Favicons
 
 ### Favicons
 
 Don't forget them!
 
-  - [How to Favicon in 2021](https://css-tricks.com/how-to-favicon-in-2021/)
-  
-     ```html
-    <link rel="icon" href="/favicon.ico"><!-- 32×32 -->
-    <link rel="icon" href="/icon.svg" type="image/svg+xml">
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png"><!-- 180×180 -->
-    <link rel="manifest" href="/manifest.webmanifest">
-     ```
-     
-     ```json
-     // manifest.webmanifest
-     {
-        "icons": [
-          { "src": "/192.png", "type": "image/png", "sizes": "192x192" },
-          { "src": "/512.png", "type": "image/png", "sizes": "512x512" }
-        ]
-      }
-     ```
-  - [the 6 favicon types you need](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
-  - **[Real Favicon generator](https://realfavicongenerator.net/)** - pop in an image, get back a favicon! The most comprehensive one for all platforms (Windows, iOS, Android)
-  - [Favicon.io](https://favicon.io/) - Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats
-  - [FontIcon](https://gauger.io/fonticon/) - Generate favicons and images from Font Awesome icons
-  - [Favicon Generator](http://tools.dynamicdrive.com/favicon/) - another one
-  - https://textmoji.app/ small text icons meant for Slack but also can use for faviconning
-  - [SVG Favicon maker](https://formito.com/tools/favicon) - supports emojis and 2 letter favicons with custom fonts
-  - SVG favicons are modifiable by scroll percentage
-    - you can https://css-tricks.com/svg-favicons-and-all-the-fun-things-we-can-do-with-them/
-    - put the scroll percentage! https://css-tricks.com/how-i-put-the-scroll-percentage-in-the-browser-title-bar/
+- [How to Favicon in 2021](https://css-tricks.com/how-to-favicon-in-2021/)
+
+  ```html
+  <link rel="icon" href="/favicon.ico" /><!-- 32×32 -->
+  <link rel="icon" href="/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" /><!-- 180×180 -->
+  <link rel="manifest" href="/manifest.webmanifest" />
+  ```
+
+  ```json
+  // manifest.webmanifest
+  {
+    "icons": [
+      { "src": "/192.png", "type": "image/png", "sizes": "192x192" },
+      { "src": "/512.png", "type": "image/png", "sizes": "512x512" }
+    ]
+  }
+  ```
+
+- [the 6 favicon types you need](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
+- 🌟 **[Real Favicon generator](https://realfavicongenerator.net/)** - pop in an image, get back a favicon! The most comprehensive one for all platforms (Windows, iOS, Android)
+- [Favicon.io](https://favicon.io/) - Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats
+- [FontIcon](https://gauger.io/fonticon/) - Generate favicons and images from Font Awesome icons
+- [Favicon Generator](http://tools.dynamicdrive.com/favicon/) - another one
+- https://textmoji.app/ small text icons meant for Slack but also can use for faviconning
+- [SVG Favicon maker](https://formito.com/tools/favicon) - supports emojis and 2 letter favicons with custom fonts
+- SVG favicons are modifiable by scroll percentage
+  - you can https://css-tricks.com/svg-favicons-and-all-the-fun-things-we-can-do-with-them/
+  - put the scroll percentage! https://css-tricks.com/how-i-put-the-scroll-percentage-in-the-browser-title-bar/
 
 ### `<link rel="">` tags and opengraph
 
 Ideas of things you can include based on my own site.
 
 ```html
-  <link rel="icon" type="image/png" href="/favicon.png" />
-  <link rel="webmention" href="https://webmention.io/www.swyx.io/webmention" />
-  <link rel="pingback" href="https://webmention.io/www.swyx.io/xmlrpc" />
-  <meta name="theme-color" content="#818CF8">
-  <title>{frontmatter.title} ∊ swyx.io</title>
-  <link rel="canonical" href={canonical} />
-  <meta property="og:url" content={swyxioURL} />
-  <meta property="og:type" content="article" />
-  <meta property="og:title" content={seoTitle} />
-  <meta name="Description" content={seoDescription} />
-  <meta property="og:description" content={seoDescription} />
-  {#if frontmatter.cover_image}
-    <meta property="og:image" content={coverImage} />
-  {/if}
-  <meta
-    name="twitter:card"
-    content={frontmatter.cover_image ? 'summary_large_image' : 'summary'} />
-  <meta name="twitter:domain" content="swyx.io" />
-  <meta name="twitter:creator" content="@swyx" />
-  <meta name="twitter:title" content={seoTitle} />
-  <meta name="twitter:description" content={seoDescription} />
-  <meta
-    name="twitter:image"
-    content={frontmatter.cover_image ? frontmatter.cover_image : 'https://www.swyx.io/swyx-ski.jpeg'} />
-  <meta name="twitter:label1" value="Last updated" content="Last updated" />
-  <meta name="twitter:data1" value={metaDate} content={metaDate} />
-  <meta name="twitter:label2" content="Read Time" />
-  <meta name="twitter:data2" content={readTime} />
+<link rel="icon" type="image/png" href="/favicon.png" />
+<link rel="webmention" href="https://webmention.io/www.swyx.io/webmention" />
+<link rel="pingback" href="https://webmention.io/www.swyx.io/xmlrpc" />
+<meta name="theme-color" content="#818CF8" />
+<title>{frontmatter.title} ∊ swyx.io</title>
+<link rel="canonical" href="{canonical}" />
+<meta property="og:url" content="{swyxioURL}" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{seoTitle}" />
+<meta name="Description" content="{seoDescription}" />
+<meta property="og:description" content="{seoDescription}" />
+{#if frontmatter.cover_image}
+<meta property="og:image" content="{coverImage}" />
+{/if} <meta name="twitter:card" content={frontmatter.cover_image ?
+'summary_large_image' : 'summary'} />
+<meta name="twitter:domain" content="swyx.io" />
+<meta name="twitter:creator" content="@swyx" />
+<meta name="twitter:title" content="{seoTitle}" />
+<meta name="twitter:description" content="{seoDescription}" />
+<meta name="twitter:image" content={frontmatter.cover_image ?
+frontmatter.cover_image : 'https://www.swyx.io/swyx-ski.jpeg'} />
+<meta name="twitter:label1" value="Last updated" content="Last updated" />
+<meta name="twitter:data1" value="{metaDate}" content="{metaDate}" />
+<meta name="twitter:label2" content="Read Time" />
+<meta name="twitter:data2" content="{readTime}" />
 ```
 
 other boilerplates to use
@@ -851,6 +947,7 @@ other boilerplates to use
 - https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/
 - https://github.com/joshbuchea/HEAD
 - https://www.matuzo.at/blog/html-boilerplate/
+- maybe think about adding JSON+LD too.
 
 ### Icons
 
@@ -860,9 +957,9 @@ other boilerplates to use
 - https://seeklogo.com/
 - https://www.iconfinder.com/iconsets/payment-method-1
 - https://www.logology.co/
-- https://www.svgrepo.com/ Browse 300.000+ SVG Vectors and Icons 
+- https://www.svgrepo.com/ Browse 300.000+ SVG Vectors and Icons
 - https://iconsear.ch/ instant search of 50k svg icons from GitHub and GitLab
-- https://macosicons.com/  icons intended to replace mac desktop icons
+- https://macosicons.com/ icons intended to replace mac desktop icons
 - https://awsicons.dev/ AWS icons
 
 #### General & Misc
@@ -896,14 +993,14 @@ other boilerplates to use
 - **https://iconmonstr.com/** Discover 4486+ free icons in 310 collections. SVG, EPS, PSD, PNG. [OK without attribution, don't sell it](https://iconmonstr.com/license/).
 - https://icomoon.io/ - 450 icons, SVG, PDF, EPS, Ai, PSD. Paid tier goes up to 1600 icons.
 - https://orioniconlibrary.com/ has customizable colors and packs eg for ecommerce
-- https://github.com/edent/SuperTinyIcons Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is under 465 bytes! 
+- https://github.com/edent/SuperTinyIcons Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is under 465 bytes!
 - https://github.com/Remix-Design/RemixIcon neutral-style system symbols for designers and developers. Unlike a patchwork icon library, 2200+ icons are all elaborately crafted so that they are born with the gene of readability, consistency and perfect pixels. Each icon was designed in "Outlined" and "Filled" styles based on a 24x24 grid.
 - https://icons8.com/l/fluent/ colored "microsoft style" icons
 - https://icons8.com/emoji emoji style customizable icons
 - https://icons8.com/line-awesome fontawesome-like icons
 - https://iconsvg.xyz/ Quick customizable icons for your projects
 - http://www.entypo.com/
-- https://simpleicons.org/ 
+- https://simpleicons.org/
 - http://github.com/propublica/weepeople A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots.
 - Bootstrap Icons https://github.com/twbs/icons, https://icons.getbootstrap.com/
 - https://systemuicons.com/
@@ -914,12 +1011,12 @@ other boilerplates to use
 - https://linearicons.com/free
 - animated icons http://www.transformicons.com/builder.html
 - https://game-icons.net/
-- Covid 19 icons - https://design.dev/ 
+- Covid 19 icons - https://design.dev/
 - https://kenney.nl/ public domain game assets
 - https://www.iconshock.com/social-media-icons/ A pack of 300 social media icons (PNG & Vector) and a set of animated icons (Lottie and AE), which cover all the trendiest social media networks nowadays.
 - brand icons
   - http://simpleicons.org/ icons for every brand like graphql, adobe xd, youtube, etc
-  - https://css.gg/ 700+ Customizable & Retina-Ready app icons — entirely built in CSS 
+  - https://css.gg/ 700+ Customizable & Retina-Ready app icons — entirely built in CSS
   - https://worldvectorlogo.com/
   - https://www.vectorlogo.zone/ - consistently formatted SVG logos
 - Icon Libraries and Framework
@@ -931,9 +1028,8 @@ other boilerplates to use
   - https://react-icons.netlify.com/#/icons/fa (typically fontawesome). note that there is some tree shaking issues in the discussions. you may wish to use the https://github.com/meronex/meronex-icons fork instead
   - https://github.com/bytedance/IconPark - more than 1,200 high-quality icons, and introduces an interface for customizing your icons. across React, Vue, SVG, PNG.
   - https://github.com/useAnimations/react-useanimations
-  
-> You may like: [Free Fundamentals of Icon design in 1 hour course by MDS](http://introtoicons.com/)
 
+> You may like: [Free Fundamentals of Icon design in 1 hour course by MDS](http://introtoicons.com/)
 
 **premium/paid icons**
 
@@ -947,7 +1043,6 @@ other boilerplates to use
 - https://www.flaticon.com/ 6.5m icons, free for PNG, paid for SVG
 - https://gumroad.com/l/primaries
 - https://gumroad.com/l/gPEAU ios 14 icons from traf - for inspo, mainly
-
 
 ## Diagramming
 
@@ -975,14 +1070,14 @@ Before you get to the tools - some good thinking (and lists of tools) on archite
 - https://www.plectica.com/
 - more tools - [see hn thread](https://news.ycombinator.com/item?id=21513337)
 
-### software arch 
+### Software Arch Diagrams
 
 - software arch diagrams https://twitter.com/terrastruct
 
 ### Sequence Diagrams
 
 - https://www.websequencediagrams.com/
-- https://swimlanes.io/  a simple online tool for creating sequence diagrams.
+- https://swimlanes.io/ a simple online tool for creating sequence diagrams.
 - https://bramp.github.io/js-sequence-diagrams/
 - https://sequencediagram.org/
 - https://playground.diagram.codes/
@@ -994,7 +1089,7 @@ Specifically for BPMN: https://bpmn.io/
 
 - https://dbdiagram.io/home
 
-### Cloud Architecture diagrams 
+### Cloud Architecture diagrams
 
 useful eg if needs logos
 
@@ -1013,7 +1108,6 @@ further reading
 - lynn langit's list https://github.com/lynnlangit/learning-cloud/blob/master/patterns/VIZUALIZE.md
 - the 5 types of arch diagrams https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/
 
-
 ### Code-based Graph tools
 
 - https://gojs.net/latest/samples/decisionTree.html interactive diagrams
@@ -1023,17 +1117,9 @@ further reading
 - python's `diagrams` https://pypi.org/project/diagrams/
 - https://structurizr.com/
 - https://plantuml.com/
-- https://github.com/mhlabs/cfn-diagram visualize cloudformation -> draw.io 
+- https://github.com/mhlabs/cfn-diagram visualize cloudformation -> draw.io
 - https://wavedrom.com/ (OSS) - Digital Timing Diagram or Waveform from simple textual description.
 - way more tools here: https://xosh.org/text-to-diagram/
-
-
-
-## Wireframing
-
-- balsamiq
-- https://wireflow.co/ free open source visual designer for user flows. collaborative.
-
 
 ## Graphics and SVG Illustrations
 
@@ -1041,7 +1127,7 @@ Hipster Logo Generator? any others?
 
 - https://hipsterlogogenerator.com/
 
-Backend entity/ ERD /SQL diagramming 
+Backend entity/ ERD /SQL diagramming
 
 - SQL https://drawsql.app/
 - Cloud AWS/Azure/GCP diagrams https://www.cloudskew.com/
@@ -1050,12 +1136,17 @@ DIY illustration
 
 - Wobble paint https://www.lexaloffle.com/bbs/?tid=40058
 
-### Device Mocks 
+### Wireframing
+
+- balsamiq
+- https://wireflow.co/ free open source visual designer for user flows. collaborative.
+
+### Device Mocks
 
 Mocking your browser/phone
 
 - Browser: https://shooot.bourhaouta.com/, https://screenshot.rocks/
-- Books: https://diybookcovers.com/3Dmockups/ 
+- Books: https://diybookcovers.com/3Dmockups/
   - https://3d-book-css.netlify.app/ and https://3dbook.xyz/
   - book cover advice https://convertkit.com/how-to-make-an-ebook-cover
 - Macbook: https://magicmockups.com
@@ -1081,7 +1172,7 @@ Mocking your browser/phone
 - :star: https://www.vecteezy.com/ High quality vector graphics with worry-free licensing for personal and commercial use.
 - :star: https://streamlineicons.com/ux/ illustrations to go with Streamline icons
 - https://icons8.com/illustrations (previously ouch.pics)
-- :star: https://blush.design/ good random generator by Pablo Stanley.  Made for Sketch, Figma, InVision Studio and Adobe XD.
+- :star: https://blush.design/ good random generator by Pablo Stanley. Made for Sketch, Figma, InVision Studio and Adobe XD.
 - :star: https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
 - https://iradesign.io/ Build your own amazing illustrations - very gradient/faceless illo heavy
 - https://www.storyset.com/ free customizable illustrations for your next project
@@ -1089,8 +1180,8 @@ Mocking your browser/phone
   - https://www.pixeltrue.com/frontliner-heroes 24 high-quality Covid illustrations.
   - https://www.pixeltrue.com/free-illustrations free vector illustrations
 - https://www.seekpng.com/ 1m+ Transparent PNG Images For Free
-- https://freellustrations.com/ 
-- https://2.flexiple.com/scale/all-illustrations One new high-quality, open-source illustration each day. Use our color-picker to adapt the illustrations to your brand identity! 
+- https://freellustrations.com/
+- https://2.flexiple.com/scale/all-illustrations One new high-quality, open-source illustration each day. Use our color-picker to adapt the illustrations to your brand identity!
 - https://2.flexiple.com/scale/home
 - https://illustrationkit.com/ Free vector illustrations for personal & commercial projects no attribution required
 - https://www.glazestock.com/
@@ -1101,19 +1192,19 @@ Mocking your browser/phone
 - https://www.openpeeps.com/ a hand-drawn illustration library to create scenes of people.
 - https://opengameart.org/
 - https://usesmash.com/ Smash Illustrations features trendy characters and simple illustrations for free in commercial and personal use. It features more than 250+ objects and characters, and 20+ unique scenes so you can compose them however you like.
-- https://control.rocks/ 
+- https://control.rocks/
 - https://mixkit.co/free-stock-art/ Mixkit is the Unsplash of illustrations, or that is their objective. It features many illustration categories and also stock videos and music, all free of charge.
 - https://delesign.com/free-designs/graphics/
 - https://illlustrations.co/ 100 beautiful illustrations, designed by Vijay Verma during a 100 days of illustrations challenge.
 - https://isometric.online/ This website offers a searchable list of nice and free isometric illustrations.
-- https://www.glazestock.com/ 
-- https://lukaszadam.com/illustrations  library of Free Illustrations and Icons for everyone.
+- https://www.glazestock.com/
+- https://lukaszadam.com/illustrations library of Free Illustrations and Icons for everyone.
 - https://design.dev/ some illustrations in PS/sketch/etc. requires account.
 - https://www.manuelalangella.com/retroooo-folks/ Retroooo Folks is a vector-based Mix-and-Match library of hand-drawn sketches, created for Adobe Illustrator, Sketch and Adobe Draw.
 - https://woobro.design/
 - https://pimpmydrawing.com/
 - https://www.drawkit.io/ Hand-drawn vector illustration resources for your next project
-- https://www.karthiksrinivas.in/charco  A set of 16 handcrafted illustrations for your web & app projects. This set includes categories like 404 error, no internet connection, no service, fatal error, page not found, something went wrong, under construction and many more.
+- https://www.karthiksrinivas.in/charco A set of 16 handcrafted illustrations for your web & app projects. This set includes categories like 404 error, no internet connection, no service, fatal error, page not found, something went wrong, under construction and many more.
 - https://www.veila.me/freebies/scandinavian-houses-free-vector-images
 - https://absurd.design/
 - https://github.com/MariaLetta/mega-doodles-pack
@@ -1121,7 +1212,7 @@ Mocking your browser/phone
 - https://autodraw.com Google AI assisted drawing
 - https://hotpot.ai Free or paid. Create icons, app screenshots, MacBook/browser mockups, social media posts, and other graphics for mobile apps and browser extensions.
 - https://www.magicpattern.design/examples - one-click web editor for illustration patterns. It's perfect for branding landing pages, social media posts and featured images. Requires Google signup.
-- https://gumroad.com/l/just sketch me (paid) 
+- https://gumroad.com/l/just sketch me (paid)
 - https://error404.fun/ 404 page illustrations
 
 Illo's in context: https://onepagelove.com/tag/illustrations
@@ -1130,12 +1221,34 @@ Illo's in context: https://onepagelove.com/tag/illustrations
 
 - https://www.isometriclove.com/ Cute Isometric Objects For Your Design
 - https://www.handz.design/ 3d hand gestures
-- https://isoflat.com/ Isometric and flat graphic resources 
+- https://isoflat.com/ Isometric and flat graphic resources
 - https://www.shapefest.com/ 160,000+ high resolution PNG images of beautiful 3D shapes
 - https://powerpeopleplatform.com/ delicious design library of 3D avatars
 - https://spline.design/ Easily create and publish 3D web experiences. Build and iterate fast with production-ready results.
 
 Learn 3d illo in blender https://polygonrunway.com/
+
+### Handwritten Look
+
+RoughJS Tools
+
+- RoughJS Animated Annotation - https://roughnotation.com/
+- https://excalidraw.com/
+- https://alias-rahil.github.io/handwritten.js/
+
+### Pixel Art
+
+- http://pixelartmaker.com/
+- https://nostalgic-css.github.io/NES.css/
+- SNES music https://www.zophar.net/music/nintendo-snes-spc
+
+### ASCII Art
+
+- https://fatiherikli.github.io/archetype/
+- https://textik.com/#a4ec12a68785f25f
+- http://asciiflow.com/
+- https://monodraw.helftone.com/
+- text to diagramming tools [list](https://smusamashah.github.io/text-to-diagram)
 
 ### DIY Graphic Design
 
@@ -1151,11 +1264,11 @@ Learn 3d illo in blender https://polygonrunway.com/
 - https://isorepublic.com/
 - https://negativespace.co/
 - stock photo metasearch
-  - https://www.everypixel.com/ 
+  - https://www.everypixel.com/
   - https://same.energy/ AI driven similarity search
   - https://www.chamberofcommerce.org/findaphoto/
-  - https://zoomstock.com/ t-SNE stock photo search 
-  - https://www.goodfreephotos.com/ 27k free and public domain photos, images, clipart, pics and vectors 
+  - https://zoomstock.com/ t-SNE stock photo search
+  - https://www.goodfreephotos.com/ 27k free and public domain photos, images, clipart, pics and vectors
   - https://visualhunt.com/ search 354m high quality creative commons licensed photos
 - art focus
   - https://artvee.com/ public domain art (in particular check out the [NASA collection](https://artvee.com/?s=nasa&post_type=product&product_cat=0))
@@ -1216,7 +1329,7 @@ Image modification for hover effects: https://photomosh.com/
   - https://biteable.com/ - simple video maker with templates and stock video. kiiinda cartoony
   - https://vyond.com/ - also kinda cartoony
   - https://app.animaker.com/moments also kinda cartoony but can do real video ([story](https://codestory.co/podcast/bonus-raghav-r-s-animaker/))
-  - https://powtoon.com - nice studio for cartoony professional videos and presentations with nice transitions 
+  - https://powtoon.com - nice studio for cartoony professional videos and presentations with nice transitions
   - https://www.doodly.com/ whiteboard doodle explainer videos. [see demo](https://www.youtube.com/watch?v=Cdv0do3oMbA&list=PLvCrTe3h4inftA8S94CZmRVWB0EzihJeQ&index=1) $39/mo
   - website demo video https://talevideo.com/ https://www.reddit.com/r/SideProject/comments/ra7inj/app_to_create_a_website_videos/
 
@@ -1228,9 +1341,9 @@ misc
 - https://glitterly.app/ - kinda rough - mostly image maker, video features in beta
 - https://viddyoze.com "3d video animations". promising videos, but $97 lifetime.. seems sketchy
 - https://www.fiverr.com/search/gigs?query=explainer%20videos&source=top-bar&search_in=everywhere&search-autocomplete-original-term=explainer%20videos
-  
+
 Do it for you
-  
+
 - https://www.medialuv.com/ - design animation studio
 
 Tutorials from successful Youtubers
@@ -1254,9 +1367,74 @@ Tutorials from successful Youtubers
 - https://avataaars.com/ and https://getavataaars.com/
 - https://bigheads.io/
 - https://joeschmoe.io/ An illustrated avatar collection for
-developers and designers
+  developers and designers
 - https://amritpaldesign.com/toy-faces Toy Faces is a fun diverse library of 3D avatars for your design mockups and personal use.
 - https://gumroad.com/l/siKBl 3d diverse avatars, paid
+
+## Individual HTML Elements
+
+- branding color with accents: https://web.dev/accent-color/
+
+  ```css
+  html {
+    --brand: hotpink;
+    scrollbar-color: hotpink Canvas;
+  }
+
+  :root {
+    accent-color: var(--brand);
+  }
+  :focus-visible {
+    outline-color: var(--brand);
+  }
+  ::selection {
+    background-color: var(--brand);
+  }
+  .dark ::selection {
+    color: #1d1d1d;
+  } /* if you have a dark mode class */
+  ::marker {
+    color: var(--brand);
+  }
+
+  :is(::-webkit-calendar-picker-indicator, ::-webkit-clear-button, ::-webkit-inner-spin-button, ::-webkit-outer-spin-button) {
+    color: var(--brand);
+  }
+
+  /* https://css-tricks.com/two-issues-styling-the-details-element-and-how-to-solve-them/ */
+  details {
+    border: 2px solid var(--brand-accent);
+    padding: 0.5rem 1rem;
+  }
+  details > summary {
+    cursor: pointer;
+  }
+
+  details > summary > *:first-child {
+    display: inline;
+  }
+  ```
+
+- meta theme-color https://github.com/sw-yx/swyxkit/issues/19
+- links https://cssanimation.rocks/animating-links/
+- tooltips on hover
+  - https://kazzkiq.github.io/balloon.css/
+  - [niche tip on tooltips js perf](https://atfzl.com/don-t-attach-tooltips-to-document-body)
+  - https://www.floating-ui.com/ from tippyjs guy
+- details/summary css - use `details[open]` to target https://codepen.io/chriscoyier/pen/wvJmqjY
+- put scroll margin on [everything with an `id`](https://piccalil.li/quick-tip/add-scroll-margin-to-all-elements-which-can-be-targeted)
+  ```css
+  [id] {
+    scroll-margin-top: 2ex;
+  }
+  ```
+- Link and Button hover effects https://www.youtube.com/watch?v=ceNMP-aQkQ4
+- Image modification for hover effects: https://photomosh.com/
+- shrinking header on scroll https://css-tricks.com/how-to-create-a-shrinking-header-on-scroll-without-javascript
+- https://smolcss.dev/ more simple CSS tricks for responsive elements
+- prefer click menus over hover menus https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/
+- how to make settings https://web.dev/building-a-settings-component/
+- Defensive CSS https://ishadeed.com/article/defensive-css/
 
 ## Pure CSS Tricks
 
@@ -1270,26 +1448,25 @@ developers and designers
 - set cursor to emoji using SVG https://twitter.com/mgechev/status/1354300680807329793?s=20
 - swipey image grids using SVG https://www.cassie.codes/posts/swipey-image-grids/
 - animated focus https://twitter.com/argyleink/status/1387072095159406596
-    
-    ```css
-    @media
-     (prefers-reduced-motion: no-preference) {
-      :focus {
-        transition: outline-offset .25s ease;
-        outline-offset: 5px;
-      }
+  ```css
+  @media (prefers-reduced-motion: no-preference) {
+    :focus {
+      transition: outline-offset 0.25s ease;
+      outline-offset: 5px;
     }
-    ```
+  }
+  ```
 - https://ui.glass/generator/ Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.
 - glassy glassmorphism [codepen](https://codepen.io/a-trost/pen/dypQzwq), [in context](https://codepen.io/TurkAysenur/pen/ZEpxeYm)
 
-    ```css
-    .blur-and-rotate {
-      border-radius: 20px;
-      backdrop-filter: blur(20px) hue-rotate(120deg);
-      -webkit-backdrop-filter: hue-rotate(120deg);
-    }
-    ```
+  ```css
+  .blur-and-rotate {
+    border-radius: 20px;
+    backdrop-filter: blur(20px) hue-rotate(120deg);
+    -webkit-backdrop-filter: hue-rotate(120deg);
+  }
+  ```
+
 - Shadows
   - Box shadows https://brumm.af/shadows
     - drop shadows - eg -1px left -1px top - makes buttons look stamped
@@ -1309,23 +1486,21 @@ developers and designers
 ```css
 border-radius: 50px;
 background: #f3d2c3;
-box-shadow:  20px 20px 22px #cfb3a6, 
-             -20px -20px 22px #fff2e0;
+box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
 ```
 
 - Blend Modes
   - [`background-blend-mode` color-burn, lighten, multiply are cool](https://codemenatalie.com/blog/background-blend-mode-property/)
 - CSS clip path
-  - https://labs.jensimmons.com/#shapes 
-  - https://bennettfeely.com/clippy/ 
+  - https://labs.jensimmons.com/#shapes
+  - https://bennettfeely.com/clippy/
   - https://youtu.be/u9bDe3Bw0sA
   - CSS tricks clip path animation tutorial https://css-tricks.com/animating-with-clip-path/
   - slanted image gallery with clip path https://24ways.org/2019/flexible-captioned-slanted-images/
 
-
 ### SVG/Canvas Masking
 
-- JPG/PNG to SVG 
+- JPG/PNG to SVG
   - core tool http://potrace.sourceforge.net/
   - https://picsvg.com/
   - https://svgurt.com/#/
@@ -1340,14 +1515,14 @@ box-shadow:  20px 20px 22px #cfb3a6,
   - https://editor.method.ac/
   - https://vecta.io/ collaboration tools for teams, and also supporting diagrams, Autocad drawings, Vision stencils and drawings.
   - https://macsvg.org/ light open-source macOS application for SVG editing and animations
-  - https://github.com/SVG-Edit/svgedit fully-fledged SVG editor for sophisticated SVG editing. 
+  - https://github.com/SVG-Edit/svgedit fully-fledged SVG editor for sophisticated SVG editing.
 - SVG Compression
   - https://jakearchibald.github.io/svgomg/
   - SVGO https://www.smashingmagazine.com/2021/03/svg-generators/#svg-compression
 - SVG assets manager
   - https://svgx.app/ free desktop SVG asset manager which allows you to keep all SVGs in one place. You can bookmark, search and preview SVG icons, live-edit the SVG markup, preview the icons in dark mode and copy/paste markup and CSS with one click. By default it also uses SVGO for SVG optimizations. Available for Mac and Windows.
   - https://iconset.io/ You can drag icons from Iconset directly into Sketch, Figma, Adobe XD and pretty much anything else, without plugin or extension installs. Plus, you can also sync icons across devices via Dropbox or similar services, and publish and share your icon sets. Available for Mac and Windows.
-- SVG Sprites generator https://svgsprit.es/  context https://www.smashingmagazine.com/2021/03/svg-generators/#svg-sprites-generator
+- SVG Sprites generator https://svgsprit.es/ context https://www.smashingmagazine.com/2021/03/svg-generators/#svg-sprites-generator
 - Transparent fill SVG and color in on Hover - [Codepen](https://codepen.io/m4r1vs/pen/qVReQz)
 - https://speckyboy.com/css-svg-canvas-masks/
 - https://www.blobmaker.app/ generate some fancy blobs.
@@ -1357,7 +1532,7 @@ box-shadow:  20px 20px 22px #cfb3a6,
 - https://svgcrop.com/ remove blank space automatically
 - https://msurguy.github.io/svg-cropper-tool/ more refined control of cropping with additional options for cropping style — circle, polygon, custom shape
 - SVG Polygon Generator https://codepen.io/winkerVSbecks/full/wrZQQm/ allows you to define the number of sides, radius, spacing and it generates a <polygon> SVG element for you.
-- https://rawgraphs.io/ SVG Data Visualization Generator -  sunburst, circular dendrogram or multiple convex hull, for example. with tutorials: https://rawgraphs.io/learning
+- https://rawgraphs.io/ SVG Data Visualization Generator - sunburst, circular dendrogram or multiple convex hull, for example. with tutorials: https://rawgraphs.io/learning
 - svg and text effects
   - https://pavellaptev.github.io/warp-svg/
   - https://css-tricks.com/animate-blob-text-with-svg-text-clipping/
@@ -1374,122 +1549,6 @@ box-shadow:  20px 20px 22px #cfb3a6,
   - https://www.svgator.com/ dedicated editor for SVG animations with plenty of dedicated panels for everything from skewing to stroke path and filters
   - GSAP, SVG.js (http://www.svgjs.com/), Lottie
 
-## Background Stuff
-
-### Background Gradients and Patterns
-
-Not just for background backgrounds - applying gradients and background images to text is super underrated. Examples:
-
-- [https://philcoffman.com/](https://user-images.githubusercontent.com/6764957/64589989-7985f500-d374-11e9-9d8a-2a8888df6981.png)
-- [https://css-tricks.com/](https://user-images.githubusercontent.com/6764957/64590103-beaa2700-d374-11e9-8a84-95ab4826a577.png)
-
-Background Radial Bursts behind images:
-
-- https://cssgradient.io/
-- https://youtu.be/U4z-wph1NyI
-- https://onepagelove.com/tag/gradients
-
-![https://hottips.imgix.net/2020/07/063-burst.jpg?w=1200&auto=compress](https://hottips.imgix.net/2020/07/063-burst.jpg?w=1200&auto=compress)
-
-#### Background Gradients
-
-Make sure to see the [Color Gradients](#color-gradients) section to generate gradients
-
-```css
-background-image: linear-gradient(
-  120deg,
-  hsl(200 50% 90%) 0%,
-  hsl(200 100% 90%) 100%
-);
-```
-  
-Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-linear-gradients/
-
-https://meshgradient.com/ swirly backgrounds like apple
-  
-https://meshgradient.in/ generate mesh gradient backgrounds
-
-#### Background Patterns
-
-- https://leaverou.github.io/css3patterns/
-- https://github.com/bansal-io/pattern.css
-- http://www.heropatterns.com/ SVG Repeating Patterns Generator
-- https://doodad.dev/pattern-generator/
-- https://www.wowpatterns.com/free-vector-art thousands of freevector patterns, based on shapes, organic shapes as well as themes, such as animals, beach, city and people, festivals, florals etc.
-- https://wickedbackgrounds.com/?ref=producthunt svg background waves
-- https://www.svgbackgrounds.com/
-- https://www.transparenttextures.com/
-- https://www.toptal.com/designers/subtlepatterns/ (exports png though :( )
-- https://pattern.flaticon.com/ (create a bg pattern of icons)
-- https://coolbackgrounds.io/
-- https://tabbied.com/ abstract Doodles with generated patterns
-- https://css-doodle.com/
-- https://hero-generator.netlify.app/ hero picture CSS generator
-- https://www.gradientmagic.com/
-- https://kumiko-generator.netlify.app/
-- http://thepatternlibrary.com/
-- https://msurguy.github.io/flow-lines/ produces random geometric lines, and we can adjust the formulas and distances between the shapes drawn
-- http://svgbackgrounds.com/
-- https://haikei.app/ - web app to generate unique SVG shapes, backgrounds, and patterns 
-- https://pattern.monster/ 180 patterns, and you can filter them by mode and color, and search
-- http://iros.github.io/patternfills/ - plenty of black-and-white patterns, also available from the command line
-- https://www.kennethcachia.com/plain-pattern/ allows you to upload an SVG shape (or use one of the existing ones) and it creates a repeating pattern which can be exported as SVG.
-- http://www.patternify.com/ CSS Pattern generator that allows you to define a pattern in a 10×10 grid
-- https://www.magicpattern.design/tools/css-backgrounds library of pure CSS background patterns like ZigZag or diagonal ones.
-- https://bgjar.com/
-- https://products.ls.graphics/paaatterns/
-- https://notchris.net/patterns/ (Really simple SVG Patterns using single unicode characters.)
-- https://doodad.dev/pattern-generator/ (Pattern generator that exports to png, jpg and svg.)
-- wave dividers
-  - https://www.shapedivider.app/ generate custom shape dividers 
-  - https://svgwave.in/ 
-  - https://getwaves.io/ generate SVG waves
-  - https://wavelry.vercel.app/ choose between sharp, linear and smooth waves
-  - https://www.outpan.com/app/9aaaf27303/svg-gradient-wave-generator adjust amplitudes, smoothness, saturation and hues
-  - https://loading.io/background/m-wave/ generate waves, and even animate them
-  - https://haikei.app/ full fledged generate SVG assets, from layered waves to stacked waves and blob scenes
-  - svg waves generator https://codepen.io/jh3y/full/poEvKxo
-  - https://wweb.dev/resources/css-separator-generator
-
-### Background Illustrations
-
-- https://freellustrations.com/
-
-### Background SVG texture
-  
-- for increase.com https://twitter.com/bdc/status/1443557247813099522?s=20
-
-
-
-#### Misc Backgroundy Stuff
-
-- CSS Doodle https://css-doodle.com/
-- CSS backgroundy patterns https://leaverou.github.io/css3patterns/
-- this guy https://twitter.com/yuanchuan23
-- Generative Gradients http://generative-placeholders.glitch.me/
-  - Generateive SVG https://dev.to/georgedoescode/a-generative-svg-starter-kit-5cm1
-- Image Placeholders - blurring - https://blurha.sh/ (and gatsby image and nextjs image)
-- Dimming/coloring text on background images https://coder-coder.com/background-image-opacity/
-- [True Grit Texture Supply](https://www.truegrittexturesupply.com/) PNG textures (paid)
-- Remove backgrounds 
-  - https://www.remove.bg/ from images
-  - https://baseline.is/tools/background-remover/ from images
-  - https://www.unscreen.com/ for gif/video
-- Remove ANYTHING (AMAZING) https://cleanup.pictures/
-- edit photo in browser no BS https://edit.photo/
-- colorizing black and white images https://demos.algorithmia.com/colorize-photos
-- https://animatedbackgrounds.me/
-
-## Loading Spinners
-
-- web components https://wc-spinners.cjennings.dev/
-- Spinners https://tobiasahlin.com/spinkit/
-- Buttons, hover, inputs, and loaders https://cssfx.netlify.com/
-- Conic gradient loader in CSS - [Codepen](https://codepen.io/keithclark/pen/aEbEoo)
-- React, Vue and Angular Spinners https://github.com/JoshK2/react-spinners-css
-- https://andrew.wang-hoyer.com/experiments/svg-animations/
-- Single Element CSS Spinners https://projects.lukehaas.me/css-loaders/
-- https://whirl.netlify.app/ 100+ animated loaders
 
 ## Animations & Transitions
 
@@ -1512,83 +1571,38 @@ https://meshgradient.in/ generate mesh gradient backgrounds
 - HTML animation? https://tumult.com/hype/ (paid)
 - Page Transitions with swup https://github.com/swup/swup ([css tricks](https://css-tricks.com/page-transitions-for-everyone/))
 - css animation without keyframes https://animxyz.com/docs/
-- React
+
+### Loading Spinners
+
+- web components https://wc-spinners.cjennings.dev/
+- Spinners https://tobiasahlin.com/spinkit/
+- Buttons, hover, inputs, and loaders https://cssfx.netlify.com/
+- Conic gradient loader in CSS - [Codepen](https://codepen.io/keithclark/pen/aEbEoo)
+- React, Vue and Angular Spinners https://github.com/JoshK2/react-spinners-css
+- https://andrew.wang-hoyer.com/experiments/svg-animations/
+- Single Element CSS Spinners https://projects.lukehaas.me/css-loaders/
+- https://whirl.netlify.app/ 100+ animated loaders
+
+### React Animation Tools
+
   - https://react-simple-animate.now.sh/
   - https://github.com/brunnolou/react-morph
   - https://github.com/kitze/react-genie
   - Page transitions https://github.com/joerez/react-transitions/
   - https://animxyz.com/docs/ has react and vue integration
 
-## Individual HTML Elements
-
-- branding color with accents: https://web.dev/accent-color/
-  ```css
-  html { 
-    --brand: hotpink;
-    scrollbar-color: hotpink Canvas;
-  }
-
-  :root { accent-color: var(--brand); }
-  :focus-visible { outline-color: var(--brand); }
-  ::selection { background-color: var(--brand); }
-  .dark ::selection { color: #1d1d1d; } /* if you have a dark mode class */
-  ::marker { color: var(--brand); }
-
-  :is(
-    ::-webkit-calendar-picker-indicator,
-    ::-webkit-clear-button,
-    ::-webkit-inner-spin-button, 
-    ::-webkit-outer-spin-button
-  ) {
-    color: var(--brand);
-  }
-  
-  
-  /* https://css-tricks.com/two-issues-styling-the-details-element-and-how-to-solve-them/ */
-  details {
-    border: 2px solid var(--brand-accent);
-    padding: 0.5rem 1rem;
-  }
-  details > summary { 
-    cursor: pointer;
-  }
-  
-  details > summary > *:first-child {
-    display: inline;
-  }
-  ```
-- meta theme-color https://github.com/sw-yx/swyxkit/issues/19
-- links https://cssanimation.rocks/animating-links/
-- tooltips on hover 
-  - https://kazzkiq.github.io/balloon.css/
-  - [niche tip on tooltips js perf](https://atfzl.com/don-t-attach-tooltips-to-document-body)
-  - https://www.floating-ui.com/ from tippyjs guy
-- details/summary css - use `details[open]` to target https://codepen.io/chriscoyier/pen/wvJmqjY
-- put scroll margin on [everything with an `id`](https://piccalil.li/quick-tip/add-scroll-margin-to-all-elements-which-can-be-targeted)
-  ```css
-  [id] {
-    scroll-margin-top: 2ex;
-  }
-  ```
-- Link and Button hover effects https://www.youtube.com/watch?v=ceNMP-aQkQ4
-- Image modification for hover effects: https://photomosh.com/
-- shrinking header on scroll https://css-tricks.com/how-to-create-a-shrinking-header-on-scroll-without-javascript
-- https://smolcss.dev/ more simple CSS tricks for responsive elements
-- prefer click menus over hover menus https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/
-- how to make settings https://web.dev/building-a-settings-component/
-- Defensive CSS https://ishadeed.com/article/defensive-css/
-
 ### Anything But Dropdowns
-  
+
 Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.html)
-  - Segmented Buttons (Horizontal or Vertical)
-  - Checkbox
-  - Switch
-  - Radio button
-  - Cards and Visual options (images as buttons)
-  - Typeahead (for large dropdown eg countries)
-  - Date (calendar control for poisson dates, input type="date" for high variability)
-  - Stepper (for numbers)
+
+- Segmented Buttons (Horizontal or Vertical)
+- Checkbox
+- Switch
+- Radio button
+- Cards and Visual options (images as buttons)
+- Typeahead (for large dropdown eg countries)
+- Date (calendar control for poisson dates, input type="date" for high variability)
+- Stepper (for numbers)
 
 ### Buttons
 
@@ -1603,14 +1617,14 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 - https://markodenic.com/tools/buttons-generator/
 - moving lightsource on hover css buttons idea https://jsfiddle.net/pixel67/ZxZ6B/28/
 - Button without ugly focus ring with Tailwind:
-  -  `focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2`
-  -  for links `focus:shadow-outline focus:outline-none`
+  - `focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2`
+  - for links `focus:shadow-outline focus:outline-none`
 
 ### Forms
 
 - form submission UX https://twitter.com/swyx/status/1081200428950335488?s=21
 - Accessible Styled Forms https://github.com/scottaohara/a11y_styled_form_controls
-- accessibility for all elements https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/ 
+- accessibility for all elements https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/
 - Form Design Best Practices https://medium.com/nextux/form-design-best-practices-9525c321d759
 - Form Wizard https://medium.com/nextux/how-to-design-a-form-wizard-b85fe1cc665a
 - Complex Forms https://medium.com/nextux/form-design-for-complex-applications-d8a1d025eba6
@@ -1619,7 +1633,7 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
   - use `input:not(:focus):not(:placeholder-shown):valid` for non freakout UX
 - WTF Forms: Nicer Forms eg Radio Buttons with pure CSS https://github.com/mdo/wtf-forms
 - Output-inspired form: https://twitter.com/steveschoger/status/1171429842442522625
-- show button when placeholder-shown:  https://codepen.io/liamj/pen/vYYLGZj
+- show button when placeholder-shown: https://codepen.io/liamj/pen/vYYLGZj
 - Toggles: https://jnkkkk.github.io/MoreToggles.css/allToggles.html
 - 3D LED switch: https://codepen.io/jkantner/pen/VwaBomY
 - The Crazy Egg Guide to Great Form UI and UX https://www.crazyegg.com/blog/guides/great-form-ui-and-ux/
@@ -1631,11 +1645,11 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 - https://medium.com/nextux/design-better-data-tables-4ecc99d23356
 - https://twitter.com/erikdkennedy/status/1329787833058353154?s=20
 - [A table with both a sticky header and a sticky first column](https://css-tricks.com/a-table-with-both-a-sticky-header-and-a-sticky-first-column)
-  
+
 ### Datepickers
-  
+
 - https://github.com/Pikaday/Pikaday
-  
+
 ### Sound
 
 - https://www.zapsplat.com/
@@ -1648,7 +1662,7 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 - https://www.pianobook.co.uk/ as hundreds of no-charge sample libraries (many pianos, lots of other things).
 - https://loyaltyfreakmusic.com/ some royalty free music. gremlin podcast usees it
 - podcast intros
-  - https://aaraalto.com/sounds a few brief guitar samples for podcast transitions 
+  - https://aaraalto.com/sounds a few brief guitar samples for podcast transitions
   - https://transistor.fm/free-podcast-intro-music/ free podcast intro music
 - https://www.soundstripe.com/
 - https://www.premiumbeat.com/
@@ -1663,8 +1677,7 @@ Paid:
 - https://www.epidemicsound.com/
 - https://artlist.io/ - may have better licensing https://www.youtube.com/watch?v=mYU6XhORomg but no fx
 - https://www.soundstripe.com/ (cheapest) here's a comparison https://www.youtube.com/watch?v=1YBjY79axRo
-- https://www.bensound.com/ 
-
+- https://www.bensound.com/
 
 Tools:
 
@@ -1678,9 +1691,9 @@ Tools:
 - https://chartscss.org/
 - Sparkline fonts in text: https://github.com/aftertheflood/sparks and https://www.scribbletone.com/typefaces/ff-chartwell
 - https://vizzuhq.com/
-  
+
 ### Dashboarding
-  
+
 - https://github.com/cruip/tailwind-dashboard-template This one is made with Tailwind and React and includes optional chart components built with Chart.js.
 
 ### React component libs
@@ -1690,7 +1703,7 @@ Tools:
 - https://component.gallery/
 - https://headlessui.dev/
 - https://ui.supabase.io/
-  
+
 ### Nice React Components
 
 - https://react-smooth-range-input.now.sh/
@@ -1749,6 +1762,15 @@ Tools:
 - https://1stwebdesigner.com/css-effects/
 - great svg ideas https://twitter.com/cassiecodes/status/1383432725059674112?s=20
 
+## Improving UX
+
+Onboarding software/feature tours
+
+- https://www.appcues.com/ show people things they need as they need them
+- https://github.com/zurb/joyride jQuery feature tour plugin, used in https://www.airdna.co/
+- tippy.js to handroll
+- React Curved Arrow https://react-curved-arrow.nickjanssen.com/
+
 ## Design Software
 
 - Image editing/Export to SVG/Object Removal/Photoshop - [Photopea](https://www.photopea.com/)
@@ -1773,8 +1795,8 @@ Tools:
 ### Figma
 
 - https://100dailyui.webflow.io/ Free Figma library of products, elements,
-and screens.
-- https://blush.design/ -  Free Customizable Illustrations With Figma Plugin
+  and screens.
+- https://blush.design/ - Free Customizable Illustrations With Figma Plugin
 - https://www.figmafreebies.com/
 - 7hr figma course https://www.youtube.com/watch?v=RYDiDpW2VkM
 
@@ -1789,18 +1811,25 @@ and screens.
 - Image modification for hover effects: https://photomosh.com/
 - http://components.ai/
 
-## Canvas
+## Non-DOM Browser Technologies
+
+### Canvas
 
 - Trianglify http://qrohlf.com/trianglify/
 - generative artistry https://generativeartistry.com/
 - Canvas Cards https://canvas-cards.glitch.me/
 - Open Processing https://www.openprocessing.org/
 
-## WebGL
+### WebGL
 
 - [Curtains.js](https://www.curtainsjs.com/) ([example](https://codepen.io/martinlaxenaire/post/webgl-enhanced-drag-slider-tutorial-with-curtains-js-part-3))
 
-## 3D
+Makepad
+
+- https://github.com/makepad/makepad
+- https://www.youtube.com/watch?v=Xr6dtXw0Ipg
+
+### 3D
 
 ThreeJS
 
@@ -1811,95 +1840,9 @@ BabylonJS
 
 - https://babylonjs.medium.com/babylon-js-4-2-simplicity-reimagined-965f88d0fad
 
-## Onboarding
-
-- https://www.appcues.com/ show people things they need as they need them
-- React Curved Arrow https://react-curved-arrow.nickjanssen.com/
-
-## Misc Genres (Handwriting, Pixel, ASCII styles)
-
-
-### RoughJS Tools
-
-- RoughJS Animated Annotation - https://roughnotation.com/
-- https://excalidraw.com/
-- https://alias-rahil.github.io/handwritten.js/
-
-### Pixel Art
-
-- http://pixelartmaker.com/
-- https://nostalgic-css.github.io/NES.css/
-- SNES music https://www.zophar.net/music/nintendo-snes-spc
-
-### ASCII Art
-
-- https://fatiherikli.github.io/archetype/
-- https://textik.com/#a4ec12a68785f25f
-- http://asciiflow.com/
-- https://monodraw.helftone.com/
-- text to diagramming tools [list](https://smusamashah.github.io/text-to-diagram)
-
-### Perf
-
-- https://tinypng.com/
-- https://resizeimage.net/
-
-<details>
-<summary>
-Sample meta tags with preconnects
-</summary>
-
-
-```jsx
-        <link rel="icon" type="image/png" href="/temporal-icon.png" />
-        <meta name="theme-color" content="#317EFB"/>
-        <meta property="title" content="Temporal.io: Build Invincible Apps" />
-        <meta property="og:title" content="Temporal.io: Build Invincible Apps" />
-        <meta name="description" content="Temporal is the open source runtime for running mission critical code that runs atop unreliable, distributed services at any scale." />
-        <meta property="og:description" content="Temporal is the open source runtime for running mission critical code that runs atop unreliable, distributed services at any scale." />
-        <meta property="og:image" content="https://temporal.io/logo-font-straight-dark.svg" />
-        <meta property="og:url" content="http://temporal.io" />
-        <meta property="twitter:title" content="Temporal.io: Build Invincible Apps" />
-        <meta property="twitter:description" content="Temporal is the open source runtime for running mission critical code that runs atop unreliable, distributed services at any scale." />
-        <meta property="twitter:image" content="https://temporal.io/logo-font-straight-dark.svg" />
-        <meta property="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@temporaltech" />
-
-        {/* resource hints */}
-        <link rel="preconnect" href="https://fonts.gstatic.com" />
-        <link rel="preconnect" href="https://www.youtube.com" />
-        <link rel="preconnect" href="https://yt3.ggpht.com" />
-        <link rel="preconnect" href="https://static.doubleclick.net" />
-        <link rel="preconnect" href="https://googleads.g.doubleclick.net" />
-        <link rel="preconnect" href="https://i.ytimg.com" />
-        <link rel="preconnect" href="https://s.ytimg.com" />
-        <link rel="preconnect" href="https://www.google-analytics.com" />
-
-        <script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=[Tracking ID]"
-        />
-
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', '[Tracking ID]');
-              `,
-          }}
-        />
-```
-
-
-</details>
-
-
-
 ## Other Lists like this one
 
-- https://a11yresources.webflow.io/ 
+- https://a11yresources.webflow.io/
 - https://webflow.com/accessibility/checklist
 - https://www.getstark.co/library/
 - https://10015.io/
@@ -1925,10 +1868,10 @@ Sample meta tags with preconnects
 - [Tactical design advice for developers](https://changelog.com/podcast/333) (The Changelog)
 - [UI Design for Developers](https://designcode.io/ui-design-for-developers) (Meng To)
 - [Learning How to Design](https://shoptalkshow.com/343/) (ShopTalk)
-- [Laws of UX](https://lawsofux.com/) 
+- [Laws of UX](https://lawsofux.com/)
 - [100 Things I Know About Design](https://odannyboy.medium.com/100-things-i-know-about-design-8e50f7b1818b)
 - https://learnui.design/blog/4-rules-intuitive-ux.html
-  - Obey the Law of Locality 
+  - Obey the Law of Locality
   - Anything But Dropdowns
   - Pass the Squint Test
   - Teach By Example
@@ -1982,114 +1925,114 @@ Sample meta tags with preconnects
   - [ ] Direction: F, E, Z pattern. Put key info in left
   - [ ] Space: use space to amplify other objects
 - Matt D Smith Checklist ([Notion](https://www.notion.so/UI-Checklist-d47ae9676a004a9b9d942a7908ac9efd))
-  - [ ]  Do I have a very solid understanding of the *human* problem I'm solving with this interface?
-  - [ ]  Is this a low, medium, or high complexity project and have I let that drive my decision for designing a low-fidelity version or not?
-  - [ ]  If I'm using reference material, would I feel comfortable putting my design next to the reference and talking through the areas I used for inspiration, without giving the impression that I copied or created a very close derivative?
-  - [ ]  Have I had the necessary conversations with stakeholders and/or developers about the goal of this project and its ability to be implemented. In other words, am I aware of business and/or technological constraints?
+  - [ ] Do I have a very solid understanding of the _human_ problem I'm solving with this interface?
+  - [ ] Is this a low, medium, or high complexity project and have I let that drive my decision for designing a low-fidelity version or not?
+  - [ ] If I'm using reference material, would I feel comfortable putting my design next to the reference and talking through the areas I used for inspiration, without giving the impression that I copied or created a very close derivative?
+  - [ ] Have I had the necessary conversations with stakeholders and/or developers about the goal of this project and its ability to be implemented. In other words, am I aware of business and/or technological constraints?
   - Typography
-    - [ ]  Have I chosen font sizes very deliberately (*ideally 2-4 per screen or section)* and pushed myself to use as few as possible?
-    - [ ]  Am I sure there's not a single straggling font size lying around somewhere that could be matched up with another size?
-    - [ ]  Are there any areas where font **weight** would be a better change instead of font size?
-    - [ ]  Are there any areas where font case—whether UPPERCASE, Title Case, or Sentence case—would be more affective that a font size change?
-    - [ ]  Does the visual hierarchy of my typography content match my intentions with what is the most important on the screen?
-    - [ ]  Do my titles and body copy *feel* right together? Am I playing with type scale in a fun and dynamic way?
-    - [ ]  Have I defined the usage of certain sizes and/or colors for my typography, whether in my own head or specifically written documentation?
-    - [ ]  Are my typographic color choices extrememly well defined, a specific color for links, actions, buttons versus read-only text, and is there anywhere that can be improved?
-    - [ ]  If applicable, are there any areas where I could add more visual interest to my typography by adding any decorative or informational elements in the surrouding area?
-    - [ ]  Have I intentionally chosen a specific typeface for specific reasons?
-    - [ ]  If I haven't used sytem or open source fonts (SF Pro, Roboto, Inter, Helvetica, etc.) have I done due dilligence on purchasing the appropriate font licensing and/or checked with stakeholders or developers if the font I've chosen is approved and/or can be used during development?
-    - [ ]  Does the typeface I've chosen convey the right personality or feeling that I want to convey?
-    - [ ]  Have I considered adding the ability for a user to choose their own type size based on their preference, and if not have a made sure that the most important content is no smaller than 16px?
+    - [ ] Have I chosen font sizes very deliberately (_ideally 2-4 per screen or section)_ and pushed myself to use as few as possible?
+    - [ ] Am I sure there's not a single straggling font size lying around somewhere that could be matched up with another size?
+    - [ ] Are there any areas where font **weight** would be a better change instead of font size?
+    - [ ] Are there any areas where font case—whether UPPERCASE, Title Case, or Sentence case—would be more affective that a font size change?
+    - [ ] Does the visual hierarchy of my typography content match my intentions with what is the most important on the screen?
+    - [ ] Do my titles and body copy _feel_ right together? Am I playing with type scale in a fun and dynamic way?
+    - [ ] Have I defined the usage of certain sizes and/or colors for my typography, whether in my own head or specifically written documentation?
+    - [ ] Are my typographic color choices extrememly well defined, a specific color for links, actions, buttons versus read-only text, and is there anywhere that can be improved?
+    - [ ] If applicable, are there any areas where I could add more visual interest to my typography by adding any decorative or informational elements in the surrouding area?
+    - [ ] Have I intentionally chosen a specific typeface for specific reasons?
+    - [ ] If I haven't used sytem or open source fonts (SF Pro, Roboto, Inter, Helvetica, etc.) have I done due dilligence on purchasing the appropriate font licensing and/or checked with stakeholders or developers if the font I've chosen is approved and/or can be used during development?
+    - [ ] Does the typeface I've chosen convey the right personality or feeling that I want to convey?
+    - [ ] Have I considered adding the ability for a user to choose their own type size based on their preference, and if not have a made sure that the most important content is no smaller than 16px?
   - Layout
-    - [ ]  Have I used the box model concept while laying out out every element of my designs, or are there a few stragglers here and there that I haven't been intentional about?
-    - [ ]  Have I used a clear grid structure with properly aligned elements that visually balance each other out? (12 column, etc.)
-    - [ ]  Have I used an intentional implicit grid for all of the negative space surrounding the elements in my layout, especially to define intentional relationships with my content?
-    - [ ]  Does my design have enough negative space?
-    - [ ]  Are there elements in my design where the negative space could double to create a much nicer layout?
-    - [ ]  Does anything feel too crammed or too tight and have I considered layering the information where necessary to create more simplicity?
-    - [ ]  Is all of the text left or right aligned and scannable where applicable?
-    - [ ]  Does my eye have to dart around all over the screen to view the content or is there a nice line of continuation I can pay attention to while viewing?
-    - [ ]  Are my interface elements balanced compositionally with layout anchors?
-    - [ ]  Are there any areas where my designs have been mathematically aligned, but still feel off? Have I correct these with optical alignment?
-    - [ ]  Is the density of my design appropriate? Is it tight and condensed because of the high volume of information? Is it a medium density? Are there ways to add more negative space to have a more open and friendly feel with a lower density layout?
-    - [ ]  Are there any areas where I could create more intentional prioritization of content by using scale or visual weight with background color changes, etc.?
-    - [ ]  Is there appropriate affordance given to the interactive objects on the screen? Is it easy to see what's scrollable, swipeable, tappable, etc.? Are there areas where I know that it could be made more clear?
-    - [ ]  Have I fully considered exandable/collapseable or other interactive options for some of the components? Does everything on the screen need to be on the screen or is there a more elegant solution for the content that involves adding another page or another section?
+    - [ ] Have I used the box model concept while laying out out every element of my designs, or are there a few stragglers here and there that I haven't been intentional about?
+    - [ ] Have I used a clear grid structure with properly aligned elements that visually balance each other out? (12 column, etc.)
+    - [ ] Have I used an intentional implicit grid for all of the negative space surrounding the elements in my layout, especially to define intentional relationships with my content?
+    - [ ] Does my design have enough negative space?
+    - [ ] Are there elements in my design where the negative space could double to create a much nicer layout?
+    - [ ] Does anything feel too crammed or too tight and have I considered layering the information where necessary to create more simplicity?
+    - [ ] Is all of the text left or right aligned and scannable where applicable?
+    - [ ] Does my eye have to dart around all over the screen to view the content or is there a nice line of continuation I can pay attention to while viewing?
+    - [ ] Are my interface elements balanced compositionally with layout anchors?
+    - [ ] Are there any areas where my designs have been mathematically aligned, but still feel off? Have I correct these with optical alignment?
+    - [ ] Is the density of my design appropriate? Is it tight and condensed because of the high volume of information? Is it a medium density? Are there ways to add more negative space to have a more open and friendly feel with a lower density layout?
+    - [ ] Are there any areas where I could create more intentional prioritization of content by using scale or visual weight with background color changes, etc.?
+    - [ ] Is there appropriate affordance given to the interactive objects on the screen? Is it easy to see what's scrollable, swipeable, tappable, etc.? Are there areas where I know that it could be made more clear?
+    - [ ] Have I fully considered exandable/collapseable or other interactive options for some of the components? Does everything on the screen need to be on the screen or is there a more elegant solution for the content that involves adding another page or another section?
   - Color
-    - [ ]  Have a made a conscious choice between using HEX codes, RGB values, or HSB/HSL section methods?
-    - [ ]  Have I double checked to make sure that all of my interface elements have appropriate color contrast and meet at least WCAG 2.1 AA accessibility standards?
-    - [ ]  Have I made a very conscious decision about my structural colors versus my interactive colors?
-    - [ ]  Have I clearly defined a primary, secondary, and possibly tertiary CTA (call to action) color and used it accordingly?
-    - [ ]  Could my secondary styles and colors be tweaked slightly to better compliment the primary CTA?
-    - [ ]  Have I very strategically defined all of my color usages to create an understandable framework for future color usage? Is there room for improvement?
-    - [ ]  Does my color palette follow a systematic and intentional method for color selection based on a base HUE?
-    - [ ]  Is there room to provide a secondary HUE for structural or interactive colors or is the one I've chosen adequate?
-    - [ ]  Is there any opportunity for using a well-placed gradient? If I'm using a gradient have I double checked that any text used in combination with it is accessible?
-    - [ ]  Have I specifically chosen a very strict set of greys, if applicable, for my entire project across every screen?
-    - [ ]  Are there any greys that are very close in color that could be combined and simplified?
-    - [ ]  Have I revised and/or adjusted my overall color palette to include all colors and usages of those colors for every single element?
-    - [ ]  Have I considered the Z-axis of my layout and how white, grey, and darker colors create a natural depth? Are the objects closest to my foreground the lightest in color?
-    - [ ]  If my UI is dark in color, have I been extremely conscious with the overall contrast and meticulously chosen each color?
-    - [ ]  If my UI is dark in color, have I reserved absolute white and absolute black for specific pieces of the interface? Is there any room for almost black or almost white, with subtle changes in color?
+    - [ ] Have a made a conscious choice between using HEX codes, RGB values, or HSB/HSL section methods?
+    - [ ] Have I double checked to make sure that all of my interface elements have appropriate color contrast and meet at least WCAG 2.1 AA accessibility standards?
+    - [ ] Have I made a very conscious decision about my structural colors versus my interactive colors?
+    - [ ] Have I clearly defined a primary, secondary, and possibly tertiary CTA (call to action) color and used it accordingly?
+    - [ ] Could my secondary styles and colors be tweaked slightly to better compliment the primary CTA?
+    - [ ] Have I very strategically defined all of my color usages to create an understandable framework for future color usage? Is there room for improvement?
+    - [ ] Does my color palette follow a systematic and intentional method for color selection based on a base HUE?
+    - [ ] Is there room to provide a secondary HUE for structural or interactive colors or is the one I've chosen adequate?
+    - [ ] Is there any opportunity for using a well-placed gradient? If I'm using a gradient have I double checked that any text used in combination with it is accessible?
+    - [ ] Have I specifically chosen a very strict set of greys, if applicable, for my entire project across every screen?
+    - [ ] Are there any greys that are very close in color that could be combined and simplified?
+    - [ ] Have I revised and/or adjusted my overall color palette to include all colors and usages of those colors for every single element?
+    - [ ] Have I considered the Z-axis of my layout and how white, grey, and darker colors create a natural depth? Are the objects closest to my foreground the lightest in color?
+    - [ ] If my UI is dark in color, have I been extremely conscious with the overall contrast and meticulously chosen each color?
+    - [ ] If my UI is dark in color, have I reserved absolute white and absolute black for specific pieces of the interface? Is there any room for almost black or almost white, with subtle changes in color?
   - Style
-    - [ ]  Have I consciously decided on a specific design direction?
-    - [ ]  Can I intentionally describe my designs with specific adjectives?
-    - [ ]  Have I considered the constraints of the medium I'm designing for and how that should and will affect my designs?
-    - [ ]  Have I very consciously chosen specific corner radius styles? Should they be hard edge, slightly rounded, very rounded, pill-shaped?
-    - [ ]  If I have chosen specific corner radius styles for modules, buttons, etc. have I explored other options to see if there are better alternatives that specifically map to the type of style I'm trying to achieve?
-    - [ ]  Have I very specifically chosen a certain type of border or divider for my content?
-    - [ ]  Have I considered using only negative space to create a separation of content rather than relying on a line or separate modules?
-    - [ ]  Have I made sure my borders or dividers don't overpower the actual content? Could they be toned down to shift focus on the most important areas of the designs?
-    - [ ]  Have I considered depth, lighting, and shadow to the best of its potential? If I'm using any type of depth as a metaphor, are my darkest elements going back into the design and my brightest elements coming forward intentionally?
-    - [ ]  Have I strongly considered how my buttons are interacted with? Hover states, tapped states, etc. Are there any fun animations that I could add to double-down on the direction I'm trying to achieve?
-    - [ ]  Are my buttons working as hard as they should be to create laser-like focus on the most important actions on the screen when applicable?
+    - [ ] Have I consciously decided on a specific design direction?
+    - [ ] Can I intentionally describe my designs with specific adjectives?
+    - [ ] Have I considered the constraints of the medium I'm designing for and how that should and will affect my designs?
+    - [ ] Have I very consciously chosen specific corner radius styles? Should they be hard edge, slightly rounded, very rounded, pill-shaped?
+    - [ ] If I have chosen specific corner radius styles for modules, buttons, etc. have I explored other options to see if there are better alternatives that specifically map to the type of style I'm trying to achieve?
+    - [ ] Have I very specifically chosen a certain type of border or divider for my content?
+    - [ ] Have I considered using only negative space to create a separation of content rather than relying on a line or separate modules?
+    - [ ] Have I made sure my borders or dividers don't overpower the actual content? Could they be toned down to shift focus on the most important areas of the designs?
+    - [ ] Have I considered depth, lighting, and shadow to the best of its potential? If I'm using any type of depth as a metaphor, are my darkest elements going back into the design and my brightest elements coming forward intentionally?
+    - [ ] Have I strongly considered how my buttons are interacted with? Hover states, tapped states, etc. Are there any fun animations that I could add to double-down on the direction I'm trying to achieve?
+    - [ ] Are my buttons working as hard as they should be to create laser-like focus on the most important actions on the screen when applicable?
   - Imagery
-    - [ ]  Knowing that great imagery will make my designs 10X better than subpar imagery, have I intentionally chosen, selected, sourced, or created the absolute best possible imagery for my designs (if applicable)?
-    - [ ]  Does the imagery I'm using make my designs better or is it distracting?
-    - [ ]  Am I intentionally using a static image in my designs that will never be changed, or is there an opportunity to create something more dynamic based on events or user action?
-    - [ ]  Are there places in my design where I can leverage emoji (like on these checklist titles) to create a more unique design?
-    - [ ]  Am I using a rasterized bitmap image when I could be using CSS or an SVG in place of it?
-    - [ ]  If I'm using dynamic imagery in my designs, have I stress tested for all black or all white images to make sure the design still works?
-    - [ ]  If my designs contain user-generated content, have I carefully considered empty states, the ability to change the imagery, the ability to create and/or upload the imagery?
-    - [ ]  Are there smart defaults that look nice when no user generate content has been added?
-    - [ ]  Am I using any imagery that is only "so-so" and not adding great value to the design?
-    - [ ]  Have I paid special attention to any icons used in my project?
-    - [ ]  Are my icons following a strong pattern of size, color, stroke, fill, etc.?
-    - [ ]  Are my icons decorating or interactive and have I made that extremely clear with the designs?
-    - [ ]  Are there any opportunities to create a simple custom illustration (line, shape, pattern, etc.) to add more visual interest to the design?
-    - [ ]  Have I considered how the products marketing site or branding should or will impact the interface?
-    - [ ]  Is there an app store icon that needs to be designed? Are there opportunies to create a fun branded experience between the app icon, the loading screen, and the default view of the first time a user launches the app?
-    - [ ]  If I'm designing a website have I designed a custom favicon that shows up in the browser tab as an extra little detail for my project?
+    - [ ] Knowing that great imagery will make my designs 10X better than subpar imagery, have I intentionally chosen, selected, sourced, or created the absolute best possible imagery for my designs (if applicable)?
+    - [ ] Does the imagery I'm using make my designs better or is it distracting?
+    - [ ] Am I intentionally using a static image in my designs that will never be changed, or is there an opportunity to create something more dynamic based on events or user action?
+    - [ ] Are there places in my design where I can leverage emoji (like on these checklist titles) to create a more unique design?
+    - [ ] Am I using a rasterized bitmap image when I could be using CSS or an SVG in place of it?
+    - [ ] If I'm using dynamic imagery in my designs, have I stress tested for all black or all white images to make sure the design still works?
+    - [ ] If my designs contain user-generated content, have I carefully considered empty states, the ability to change the imagery, the ability to create and/or upload the imagery?
+    - [ ] Are there smart defaults that look nice when no user generate content has been added?
+    - [ ] Am I using any imagery that is only "so-so" and not adding great value to the design?
+    - [ ] Have I paid special attention to any icons used in my project?
+    - [ ] Are my icons following a strong pattern of size, color, stroke, fill, etc.?
+    - [ ] Are my icons decorating or interactive and have I made that extremely clear with the designs?
+    - [ ] Are there any opportunities to create a simple custom illustration (line, shape, pattern, etc.) to add more visual interest to the design?
+    - [ ] Have I considered how the products marketing site or branding should or will impact the interface?
+    - [ ] Is there an app store icon that needs to be designed? Are there opportunies to create a fun branded experience between the app icon, the loading screen, and the default view of the first time a user launches the app?
+    - [ ] If I'm designing a website have I designed a custom favicon that shows up in the browser tab as an extra little detail for my project?
   - Elements
-    - [ ]  Does my project have a clear navigation structure and ideally prioritize the top 5 or fewer links or sections?
-    - [ ]  Have I strongly considered how my input fields function (default, hover, focused, disabled, error, etc.) and created a very clear state design for all possibilities?
-    - [ ]  Do my input fields match the overall style and direction of the project?
-    - [ ]  Are the forms I've designed absolutey necessary and require the most critical information?
-    - [ ]  Have I very clearly communicated the reasons for requiring certain information?
-    - [ ]  If applicable, have I made it clear that certain pieces of information are required for the progress of the user through the app or site?
-    - [ ]  Have I considered all the variables and/or error states if some information is not gathered properly?
-    - [ ]  If my project has user profiles, have I considered what it will look like the first time it's used, after information has been added? Are the mechanisms for editing information abundantly clear or is there room for improvement?
-    - [ ]  Have I carefully considered the implications of a settings screen?
-    - [ ]  Have I done the hardwork of creating smart defaults for the user and not used the settings screen as a dumping ground for all possible changes?
-    - [ ]  Have I carefully chosen lists and/or card-based layouts in my designs based on the volume of information?
-    - [ ]  Are the any missing components to my designs that might not be needed now, but could be very useful in the future, eg. table designs, etc.?
-    - [ ]  Have I considered the states and function of all of my components and created a well-organized file system?
-    - [ ]  Is there a need to turn my clean and organized file-system into an actual design system to be used for other projects?
-    - [ ]  Are there more people on my team (stakeholders, developers, etc.) who need visibility into the choices I'm making for naming components, etc. and should they have an opinion or a say into what things are called as well?
+    - [ ] Does my project have a clear navigation structure and ideally prioritize the top 5 or fewer links or sections?
+    - [ ] Have I strongly considered how my input fields function (default, hover, focused, disabled, error, etc.) and created a very clear state design for all possibilities?
+    - [ ] Do my input fields match the overall style and direction of the project?
+    - [ ] Are the forms I've designed absolutey necessary and require the most critical information?
+    - [ ] Have I very clearly communicated the reasons for requiring certain information?
+    - [ ] If applicable, have I made it clear that certain pieces of information are required for the progress of the user through the app or site?
+    - [ ] Have I considered all the variables and/or error states if some information is not gathered properly?
+    - [ ] If my project has user profiles, have I considered what it will look like the first time it's used, after information has been added? Are the mechanisms for editing information abundantly clear or is there room for improvement?
+    - [ ] Have I carefully considered the implications of a settings screen?
+    - [ ] Have I done the hardwork of creating smart defaults for the user and not used the settings screen as a dumping ground for all possible changes?
+    - [ ] Have I carefully chosen lists and/or card-based layouts in my designs based on the volume of information?
+    - [ ] Are the any missing components to my designs that might not be needed now, but could be very useful in the future, eg. table designs, etc.?
+    - [ ] Have I considered the states and function of all of my components and created a well-organized file system?
+    - [ ] Is there a need to turn my clean and organized file-system into an actual design system to be used for other projects?
+    - [ ] Are there more people on my team (stakeholders, developers, etc.) who need visibility into the choices I'm making for naming components, etc. and should they have an opinion or a say into what things are called as well?
   - Tactics
-    - [ ]  Have I explored LOTS of alternative versions of what I'm trying to design and by process of elimination decided on what works best?
-    - [ ]  If my project is slightly more complex than the average project, whether because of features or team size, have I spent enough time getting everyone on board with how the app should function by using low-fidelity designs?
-    - [ ]  If my project is a web-based project, have I fully considered the mobile version and used that as a way to force prioritization of features and layout?
-    - [ ]  If my project is an application, have a used a mobile-first approach to create simplicity up front?
-    - [ ]  If my project is more of a marketing site, have I designed and explored really nice and impactful desktop versions before confining myself too much with mobile versions?
-    - [ ]  If my project is an iOS app, have I made intentional decisions about where to follow the Apple HIG (human interface guidelines) or where to deviate from it? If I've deviated, do I have a VERY good reason to do so and are the stakeholders and developers OK with this?
-    - [ ]  If my project is an Android app, have I made the decision to exclusively use a material design system, or do I have strong reasons for not doing that?
-    - [ ]  Have I used very intentional placeholder copy and/or images in my designs that could support specific users, etc.?
-    - [ ]  Have I told a story with my designs (based on features) and could I effectively present my designs using what I've created?
-    - [ ]  Are my designs organized in a clear way to showcase specific features and flows?
-    - [ ]  Have I created the necessary prototypes to experiment with animations and interactions?
-    - [ ]  Do I need to create any separate prototype flows to describe certain functionality to stakeholders or developers?
-    - [ ]  Have a been an excellent communicator from the very beginning of the project and now that's it's time to hand off the design, I already know what my developer needs?
+    - [ ] Have I explored LOTS of alternative versions of what I'm trying to design and by process of elimination decided on what works best?
+    - [ ] If my project is slightly more complex than the average project, whether because of features or team size, have I spent enough time getting everyone on board with how the app should function by using low-fidelity designs?
+    - [ ] If my project is a web-based project, have I fully considered the mobile version and used that as a way to force prioritization of features and layout?
+    - [ ] If my project is an application, have a used a mobile-first approach to create simplicity up front?
+    - [ ] If my project is more of a marketing site, have I designed and explored really nice and impactful desktop versions before confining myself too much with mobile versions?
+    - [ ] If my project is an iOS app, have I made intentional decisions about where to follow the Apple HIG (human interface guidelines) or where to deviate from it? If I've deviated, do I have a VERY good reason to do so and are the stakeholders and developers OK with this?
+    - [ ] If my project is an Android app, have I made the decision to exclusively use a material design system, or do I have strong reasons for not doing that?
+    - [ ] Have I used very intentional placeholder copy and/or images in my designs that could support specific users, etc.?
+    - [ ] Have I told a story with my designs (based on features) and could I effectively present my designs using what I've created?
+    - [ ] Are my designs organized in a clear way to showcase specific features and flows?
+    - [ ] Have I created the necessary prototypes to experiment with animations and interactions?
+    - [ ] Do I need to create any separate prototype flows to describe certain functionality to stakeholders or developers?
+    - [ ] Have a been an excellent communicator from the very beginning of the project and now that's it's time to hand off the design, I already know what my developer needs?
 - [UI Common Mistakes Checklist](https://twitter.com/vponamariov/status/1421014957110579203)
   1. Poor contrast
   2. Many primary buttons
@@ -2161,7 +2104,7 @@ Sample meta tags with preconnects
   - https://github.com/netlify/netlify-drop-demo-site/archive/master.zip
 - [The Design Newsletter](https://learnui.design/newsletter.html)
 
-## Paid Premium Services
+## Paid Design Services of Note
 
 - Design Pickle
 - Manypixels
@@ -2196,7 +2139,7 @@ Sample meta tags with preconnects
 - https://collectui.com/
 - https://theanimatedweb.com/
 - https://pageflows.com/
-- https://goodui.org/ "leaked ab tests" 
+- https://goodui.org/ "leaked ab tests"
 - http://ui-patterns.com/
 - https://uigarage.net/
 - https://pttrns.com/
@@ -2214,7 +2157,7 @@ Sample meta tags with preconnects
 free or mock data apis for demos
 
 - Simple Data
-  - http://quotes.rest/ 
+  - http://quotes.rest/
   - https://api.chucknorris.io/
   - https://jokeapi.dev/ https://v2.jokeapi.dev/joke/Any\?type\=single\&blacklistFlags=nsfw,racist,sexist,explicit
   - https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
@@ -2259,15 +2202,13 @@ free or mock data apis for demos
   - https://public-apis.io/ (A Directory of Free Public & Open Rest APIs)
   - https://github.com/Marak/faker.js - generate fake pdf https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/
   - https://github.com/Rolstenhouse/unofficial-apis
-  - https://devresourc.es/tools-and-utilities/public-apis 
+  - https://devresourc.es/tools-and-utilities/public-apis
   - https://free-for.dev/#/?id=apis-data-and-ml
-
 
 ## Copy and Emails
 
 - https://www.goodemailcopy.com/
 - https://www.swipefiles.co/
-
 
 ## Random Stuff That Doesn't Fit Anywhere
 
