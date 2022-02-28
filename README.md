@@ -1436,161 +1436,6 @@ Tutorials from successful Youtubers
 - how to make settings https://web.dev/building-a-settings-component/
 - Defensive CSS https://ishadeed.com/article/defensive-css/
 
-## Pure CSS Tricks
-
-- MAKE SURE TO CHECK OUT https://components.ai
-- https://twitter.com/JoshWComeau/status/1170358024319492097?s=20
-- Sarah Drasner picks https://codepen.io/collection/nMgKxJ?cursor=ZD0xJm89MCZwPTEmdj0yNjc5NTQ1
-- Lea Verou CSS Secrets https://twitter.com/swyx/status/982786353216843776?s=20
-  - CSS3 Patterns https://leaverou.github.io/css3patterns/
-- CSS 3D Text https://markdotto.com/playground/3d-text/
-- 3D CSS hover effects https://polypane.app/css-3d-transform-examples/
-- set cursor to emoji using SVG https://twitter.com/mgechev/status/1354300680807329793?s=20
-- swipey image grids using SVG https://www.cassie.codes/posts/swipey-image-grids/
-- animated focus https://twitter.com/argyleink/status/1387072095159406596
-  ```css
-  @media (prefers-reduced-motion: no-preference) {
-    :focus {
-      transition: outline-offset 0.25s ease;
-      outline-offset: 5px;
-    }
-  }
-  ```
-- https://ui.glass/generator/ Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.
-- glassy glassmorphism [codepen](https://codepen.io/a-trost/pen/dypQzwq), [in context](https://codepen.io/TurkAysenur/pen/ZEpxeYm)
-
-  ```css
-  .blur-and-rotate {
-    border-radius: 20px;
-    backdrop-filter: blur(20px) hue-rotate(120deg);
-    -webkit-backdrop-filter: hue-rotate(120deg);
-  }
-  ```
-
-- Shadows
-  - Box shadows https://brumm.af/shadows
-    - drop shadows - eg -1px left -1px top - makes buttons look stamped
-    - text shadows
-    - experiment with multiple shadows on one element
-    - https://getcssscan.com/css-box-shadow-examples
-    - Designing Beautiful Shadows in CSS https://www.joshwcomeau.com/css/designing-shadows/
-  - https://www.joshwcomeau.com/shadow-palette/ (https://css-tricks.com/shadow-palette-generator/)
-  - Card border Generator https://card.surge.sh/
-  - CSS Scroll Shadows https://css-scroll-shadows.now.sh/
-  - Conic gradient borders https://twitter.com/argyleink/status/1282889809782927360
-  - Components.ai box shadows https://components.ai/box-shadows
-  - Emoji Shadows https://codepen.io/dienhn/pen/xxErveM
-  - Neuomorphism Generator https://neumorphism.io/#f3d2c3
-    - primer on skeuo vs flat vs neuomorphism https://uxdesign.cc/tridimensionality-of-skeuomorphism-flat-design-and-neumorphism-bc9d705a5cc7
-
-```css
-border-radius: 50px;
-background: #f3d2c3;
-box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
-```
-
-- Blend Modes
-  - [`background-blend-mode` color-burn, lighten, multiply are cool](https://codemenatalie.com/blog/background-blend-mode-property/)
-- CSS clip path
-  - https://labs.jensimmons.com/#shapes
-  - https://bennettfeely.com/clippy/
-  - https://youtu.be/u9bDe3Bw0sA
-  - CSS tricks clip path animation tutorial https://css-tricks.com/animating-with-clip-path/
-  - slanted image gallery with clip path https://24ways.org/2019/flexible-captioned-slanted-images/
-
-### SVG/Canvas Masking
-
-- JPG/PNG to SVG
-  - core tool http://potrace.sourceforge.net/
-  - https://picsvg.com/
-  - https://svgurt.com/#/
-  - https://codepen.io/jesstelford/pen/PaBMrL small dynamic SVG placeholders
-  - https://github.com/woltapp/blurhash small dynamic SVG placeholders for blurring up
-- SVG to JSX
-  - https://omatsuri.app/svg-to-jsx
-  - https://svg2jsx.com/
-  - https://react-svgr.com/playground/
-- SVG editors
-  - https://boxy-svg.com/
-  - https://editor.method.ac/
-  - https://vecta.io/ collaboration tools for teams, and also supporting diagrams, Autocad drawings, Vision stencils and drawings.
-  - https://macsvg.org/ light open-source macOS application for SVG editing and animations
-  - https://github.com/SVG-Edit/svgedit fully-fledged SVG editor for sophisticated SVG editing.
-- SVG Compression
-  - https://jakearchibald.github.io/svgomg/
-  - SVGO https://www.smashingmagazine.com/2021/03/svg-generators/#svg-compression
-- SVG assets manager
-  - https://svgx.app/ free desktop SVG asset manager which allows you to keep all SVGs in one place. You can bookmark, search and preview SVG icons, live-edit the SVG markup, preview the icons in dark mode and copy/paste markup and CSS with one click. By default it also uses SVGO for SVG optimizations. Available for Mac and Windows.
-  - https://iconset.io/ You can drag icons from Iconset directly into Sketch, Figma, Adobe XD and pretty much anything else, without plugin or extension installs. Plus, you can also sync icons across devices via Dropbox or similar services, and publish and share your icon sets. Available for Mac and Windows.
-- SVG Sprites generator https://svgsprit.es/ context https://www.smashingmagazine.com/2021/03/svg-generators/#svg-sprites-generator
-- Transparent fill SVG and color in on Hover - [Codepen](https://codepen.io/m4r1vs/pen/qVReQz)
-- https://speckyboy.com/css-svg-canvas-masks/
-- https://www.blobmaker.app/ generate some fancy blobs.
-- https://squircley.app/ generator of organic shapes for any kind of visuals or background images. You choose the rotation, the scale, the “curvature” and the fill color, and the tool takes care of the rest.
-- https://inkscape.org/
-- https://svg-path-visualizer.netlify.app/
-- https://svgcrop.com/ remove blank space automatically
-- https://msurguy.github.io/svg-cropper-tool/ more refined control of cropping with additional options for cropping style — circle, polygon, custom shape
-- SVG Polygon Generator https://codepen.io/winkerVSbecks/full/wrZQQm/ allows you to define the number of sides, radius, spacing and it generates a <polygon> SVG element for you.
-- https://rawgraphs.io/ SVG Data Visualization Generator - sunburst, circular dendrogram or multiple convex hull, for example. with tutorials: https://rawgraphs.io/learning
-- svg and text effects
-  - https://pavellaptev.github.io/warp-svg/
-  - https://css-tricks.com/animate-blob-text-with-svg-text-clipping/
-  - more text effects https://letsbuildui.dev/articles/css-text-effects-five-minimal-examples
-- animate an existing svg https://svgartista.net/
-- `mix-blend-mode: screen` is [really good for SVG icons, with hover](https://ishadeed.com/article/blending-modes-css/)
-- SVG animations
-  - SVG icon transitions https://blog.nucleoapp.com/create-2-state-svg-powered-animated-icons-76ed19160a7e
-    - https://nucleoapp.com/tool/icon-transition
-  - scroll based svg text path animation https://www.youtube.com/watch?v=Tae96ze3xwY
-  - stroke path animation https://css-tricks.com/a-trick-that-makes-drawing-svg-lines-way-easier/
-  - https://maxwellito.github.io/vivus-instant/ animate svg strokes
-  - https://svgartista.net/ basic fill and stroke animations
-  - https://www.svgator.com/ dedicated editor for SVG animations with plenty of dedicated panels for everything from skewing to stroke path and filters
-  - GSAP, SVG.js (http://www.svgjs.com/), Lottie
-
-
-## Animations & Transitions
-
-- Buttons, hover, inputs, and loaders https://cssfx.netlify.com/
-- general http://animista.net
-  - animate an existing svg https://svgartista.net/ (by the same people as animista)
-- general https://animejs.com/
-- https://www.theatrejs.com/ animate DOM elements or WebGL using a convenient visual editor that works along with the code you write.
-- motion graphics https://github.com/mojs/mojs
-- https://www.transition.style/ CSS transitions "My favourites are the ones that incorporate some hesitation in the animation, for an added uniqueness"
-- general https://daneden.github.io/animate.css/
-- https://animxyz.com/ Tailwind for animations, since you’re only using HTML classes.
-- general https://ianlunn.github.io/Hover/
-- Burgers https://march08.github.io/animated-burgers/
-- Burgers http://negomi.github.io/react-burger-menu/
-- Layout https://github.com/aholachek/react-flip-toolkit
-- Hover and loaders: https://www.csswand.dev/
-- Graphic animations: https://lottiefiles.com/
-  - https://www.pixeltrue.com/free-illustrations lottie animations
-- HTML animation? https://tumult.com/hype/ (paid)
-- Page Transitions with swup https://github.com/swup/swup ([css tricks](https://css-tricks.com/page-transitions-for-everyone/))
-- css animation without keyframes https://animxyz.com/docs/
-
-### Loading Spinners
-
-- web components https://wc-spinners.cjennings.dev/
-- Spinners https://tobiasahlin.com/spinkit/
-- Buttons, hover, inputs, and loaders https://cssfx.netlify.com/
-- Conic gradient loader in CSS - [Codepen](https://codepen.io/keithclark/pen/aEbEoo)
-- React, Vue and Angular Spinners https://github.com/JoshK2/react-spinners-css
-- https://andrew.wang-hoyer.com/experiments/svg-animations/
-- Single Element CSS Spinners https://projects.lukehaas.me/css-loaders/
-- https://whirl.netlify.app/ 100+ animated loaders
-
-### React Animation Tools
-
-  - https://react-simple-animate.now.sh/
-  - https://github.com/brunnolou/react-morph
-  - https://github.com/kitze/react-genie
-  - Page transitions https://github.com/joerez/react-transitions/
-  - https://animxyz.com/docs/ has react and vue integration
-
 ### Anything But Dropdowns
 
 Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.html)
@@ -1762,14 +1607,175 @@ Tools:
 - https://1stwebdesigner.com/css-effects/
 - great svg ideas https://twitter.com/cassiecodes/status/1383432725059674112?s=20
 
-## Improving UX
+## Pure CSS Tricks
 
-Onboarding software/feature tours
+- MAKE SURE TO CHECK OUT https://components.ai
+- https://twitter.com/JoshWComeau/status/1170358024319492097?s=20
+- Sarah Drasner picks https://codepen.io/collection/nMgKxJ?cursor=ZD0xJm89MCZwPTEmdj0yNjc5NTQ1
+- Lea Verou CSS Secrets https://twitter.com/swyx/status/982786353216843776?s=20
+  - CSS3 Patterns https://leaverou.github.io/css3patterns/
+- CSS 3D Text https://markdotto.com/playground/3d-text/
+- 3D CSS hover effects https://polypane.app/css-3d-transform-examples/
+- set cursor to emoji using SVG https://twitter.com/mgechev/status/1354300680807329793?s=20
+- swipey image grids using SVG https://www.cassie.codes/posts/swipey-image-grids/
+- animated focus https://twitter.com/argyleink/status/1387072095159406596
+  ```css
+  @media (prefers-reduced-motion: no-preference) {
+    :focus {
+      transition: outline-offset 0.25s ease;
+      outline-offset: 5px;
+    }
+  }
+  ```
+- https://ui.glass/generator/ Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.
+- glassy glassmorphism [codepen](https://codepen.io/a-trost/pen/dypQzwq), [in context](https://codepen.io/TurkAysenur/pen/ZEpxeYm)
+
+  ```css
+  .blur-and-rotate {
+    border-radius: 20px;
+    backdrop-filter: blur(20px) hue-rotate(120deg);
+    -webkit-backdrop-filter: hue-rotate(120deg);
+  }
+  ```
+
+- Shadows
+  - Box shadows https://brumm.af/shadows
+    - drop shadows - eg -1px left -1px top - makes buttons look stamped
+    - text shadows
+    - experiment with multiple shadows on one element
+    - https://getcssscan.com/css-box-shadow-examples
+    - Designing Beautiful Shadows in CSS https://www.joshwcomeau.com/css/designing-shadows/
+  - https://www.joshwcomeau.com/shadow-palette/ (https://css-tricks.com/shadow-palette-generator/)
+  - Card border Generator https://card.surge.sh/
+  - CSS Scroll Shadows https://css-scroll-shadows.now.sh/
+  - Conic gradient borders https://twitter.com/argyleink/status/1282889809782927360
+  - Components.ai box shadows https://components.ai/box-shadows
+  - Emoji Shadows https://codepen.io/dienhn/pen/xxErveM
+  - Neuomorphism Generator https://neumorphism.io/#f3d2c3
+    - primer on skeuo vs flat vs neuomorphism https://uxdesign.cc/tridimensionality-of-skeuomorphism-flat-design-and-neumorphism-bc9d705a5cc7
+
+```css
+border-radius: 50px;
+background: #f3d2c3;
+box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
+```
+
+- Blend Modes
+  - [`background-blend-mode` color-burn, lighten, multiply are cool](https://codemenatalie.com/blog/background-blend-mode-property/)
+- CSS clip path
+  - https://labs.jensimmons.com/#shapes
+  - https://bennettfeely.com/clippy/
+  - https://youtu.be/u9bDe3Bw0sA
+  - CSS tricks clip path animation tutorial https://css-tricks.com/animating-with-clip-path/
+  - slanted image gallery with clip path https://24ways.org/2019/flexible-captioned-slanted-images/
+
+### SVG/Canvas Masking
+
+- JPG/PNG to SVG
+  - core tool http://potrace.sourceforge.net/
+  - https://picsvg.com/
+  - https://svgurt.com/#/
+  - https://codepen.io/jesstelford/pen/PaBMrL small dynamic SVG placeholders
+  - https://github.com/woltapp/blurhash small dynamic SVG placeholders for blurring up
+- SVG to JSX
+  - https://omatsuri.app/svg-to-jsx
+  - https://svg2jsx.com/
+  - https://react-svgr.com/playground/
+- SVG editors
+  - https://boxy-svg.com/
+  - https://editor.method.ac/
+  - https://vecta.io/ collaboration tools for teams, and also supporting diagrams, Autocad drawings, Vision stencils and drawings.
+  - https://macsvg.org/ light open-source macOS application for SVG editing and animations
+  - https://github.com/SVG-Edit/svgedit fully-fledged SVG editor for sophisticated SVG editing.
+- SVG Compression
+  - https://jakearchibald.github.io/svgomg/
+  - SVGO https://www.smashingmagazine.com/2021/03/svg-generators/#svg-compression
+- SVG assets manager
+  - https://svgx.app/ free desktop SVG asset manager which allows you to keep all SVGs in one place. You can bookmark, search and preview SVG icons, live-edit the SVG markup, preview the icons in dark mode and copy/paste markup and CSS with one click. By default it also uses SVGO for SVG optimizations. Available for Mac and Windows.
+  - https://iconset.io/ You can drag icons from Iconset directly into Sketch, Figma, Adobe XD and pretty much anything else, without plugin or extension installs. Plus, you can also sync icons across devices via Dropbox or similar services, and publish and share your icon sets. Available for Mac and Windows.
+- SVG Sprites generator https://svgsprit.es/ context https://www.smashingmagazine.com/2021/03/svg-generators/#svg-sprites-generator
+- Transparent fill SVG and color in on Hover - [Codepen](https://codepen.io/m4r1vs/pen/qVReQz)
+- https://speckyboy.com/css-svg-canvas-masks/
+- https://www.blobmaker.app/ generate some fancy blobs.
+- https://squircley.app/ generator of organic shapes for any kind of visuals or background images. You choose the rotation, the scale, the “curvature” and the fill color, and the tool takes care of the rest.
+- https://inkscape.org/
+- https://svg-path-visualizer.netlify.app/
+- https://svgcrop.com/ remove blank space automatically
+- https://msurguy.github.io/svg-cropper-tool/ more refined control of cropping with additional options for cropping style — circle, polygon, custom shape
+- SVG Polygon Generator https://codepen.io/winkerVSbecks/full/wrZQQm/ allows you to define the number of sides, radius, spacing and it generates a <polygon> SVG element for you.
+- https://rawgraphs.io/ SVG Data Visualization Generator - sunburst, circular dendrogram or multiple convex hull, for example. with tutorials: https://rawgraphs.io/learning
+- svg and text effects
+  - https://pavellaptev.github.io/warp-svg/
+  - https://css-tricks.com/animate-blob-text-with-svg-text-clipping/
+  - more text effects https://letsbuildui.dev/articles/css-text-effects-five-minimal-examples
+- animate an existing svg https://svgartista.net/
+- `mix-blend-mode: screen` is [really good for SVG icons, with hover](https://ishadeed.com/article/blending-modes-css/)
+- SVG animations
+  - SVG icon transitions https://blog.nucleoapp.com/create-2-state-svg-powered-animated-icons-76ed19160a7e
+    - https://nucleoapp.com/tool/icon-transition
+  - scroll based svg text path animation https://www.youtube.com/watch?v=Tae96ze3xwY
+  - stroke path animation https://css-tricks.com/a-trick-that-makes-drawing-svg-lines-way-easier/
+  - https://maxwellito.github.io/vivus-instant/ animate svg strokes
+  - https://svgartista.net/ basic fill and stroke animations
+  - https://www.svgator.com/ dedicated editor for SVG animations with plenty of dedicated panels for everything from skewing to stroke path and filters
+  - GSAP, SVG.js (http://www.svgjs.com/), Lottie
+
+
+## Animations & Transitions
+
+- Buttons, hover, inputs, and loaders https://cssfx.netlify.com/
+- general http://animista.net
+  - animate an existing svg https://svgartista.net/ (by the same people as animista)
+- general https://animejs.com/
+- https://www.theatrejs.com/ animate DOM elements or WebGL using a convenient visual editor that works along with the code you write.
+- motion graphics https://github.com/mojs/mojs
+- https://www.transition.style/ CSS transitions "My favourites are the ones that incorporate some hesitation in the animation, for an added uniqueness"
+- general https://daneden.github.io/animate.css/
+- https://animxyz.com/ Tailwind for animations, since you’re only using HTML classes.
+- general https://ianlunn.github.io/Hover/
+- Burgers https://march08.github.io/animated-burgers/
+- Burgers http://negomi.github.io/react-burger-menu/
+- Layout https://github.com/aholachek/react-flip-toolkit
+- Hover and loaders: https://www.csswand.dev/
+- Graphic animations: https://lottiefiles.com/
+  - https://www.pixeltrue.com/free-illustrations lottie animations
+- HTML animation? https://tumult.com/hype/ (paid)
+- Page Transitions with swup https://github.com/swup/swup ([css tricks](https://css-tricks.com/page-transitions-for-everyone/))
+- css animation without keyframes https://animxyz.com/docs/
+
+### Loading Spinners
+
+- web components https://wc-spinners.cjennings.dev/
+- Spinners https://tobiasahlin.com/spinkit/
+- Buttons, hover, inputs, and loaders https://cssfx.netlify.com/
+- Conic gradient loader in CSS - [Codepen](https://codepen.io/keithclark/pen/aEbEoo)
+- React, Vue and Angular Spinners https://github.com/JoshK2/react-spinners-css
+- https://andrew.wang-hoyer.com/experiments/svg-animations/
+- Single Element CSS Spinners https://projects.lukehaas.me/css-loaders/
+- https://whirl.netlify.app/ 100+ animated loaders
+
+### React Animation Tools
+
+  - https://react-simple-animate.now.sh/
+  - https://github.com/brunnolou/react-morph
+  - https://github.com/kitze/react-genie
+  - Page transitions https://github.com/joerez/react-transitions/
+  - https://animxyz.com/docs/ has react and vue integration
+
+## Ideas for Improving UX
+
+### Onboarding 
+
+Feature tours
 
 - https://www.appcues.com/ show people things they need as they need them
 - https://github.com/zurb/joyride jQuery feature tour plugin, used in https://www.airdna.co/
 - tippy.js to handroll
 - React Curved Arrow https://react-curved-arrow.nickjanssen.com/
+
+### Empty states
+
+https://emptystat.es/
 
 ## Design Software
 
@@ -1840,7 +1846,96 @@ BabylonJS
 
 - https://babylonjs.medium.com/babylon-js-4-2-simplicity-reimagined-965f88d0fad
 
-## Other Lists like this one
+## Interaction/Design Inspo
+
+- Dribbble ofc
+- https://pageflows.com/
+- https://uimovement.com/
+- https://uidesigndaily.com/
+- https://www.siteinspire.com/
+- https://www.landingfolio.com
+- http://www.cssmania.com/
+- https://www.uisources.com/
+- [Codrops](https://tympanus.net/codrops/2019/06/04/inspirational-websites-roundup-5/)
+- https://collectui.com/
+- https://theanimatedweb.com/
+- https://pageflows.com/
+- https://goodui.org/ "leaked ab tests"
+- http://ui-patterns.com/
+- https://uigarage.net/
+- https://pttrns.com/
+- steve schoger ui ux inspo list https://twitter.com/steveschoger/status/1215673997725196288?s=20
+
+### Game design inspo
+
+- https://interfaceingame.com/
+- https://www.gameuidatabase.com/
+- movie UIs https://www.pushing-pixels.org/fui/
+- game movie and other fantasy UIs https://www.saji8k.com/kit-fui/
+
+## Random Stuff That Doesn't Fit Anywhere
+
+- https://10ideesrecuesenuxdesign.castoretpollux.com/en/
+
+### Mock APIs
+
+free or mock data apis for demos
+
+- Simple Data
+  - http://quotes.rest/
+  - https://api.chucknorris.io/
+  - https://jokeapi.dev/ https://v2.jokeapi.dev/joke/Any\?type\=single\&blacklistFlags=nsfw,racist,sexist,explicit
+  - https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
+  - simple quote https://api.quotable.io/random
+- Placeholder Pictures
+  - https://source.unsplash.com/
+  - https://skuawk.com/
+  - https://github.com/imsky/holder
+  - https://lorempixel.com/
+  - http://placeimg.com/
+  - https://picsum.photos
+  - Blanks
+    - http://placehold.it/300x300
+  - Animals
+    - https://placedog.net/
+    - https://placebear.com/
+    - http://placekitten.com/
+  - Food
+    - http://placebeer.com/
+    - https://baconmockup.com/
+  - Actors
+    - https://www.placecage.com/
+    - https://placekeanu.com/
+    - https://www.stevensegallery.com/
+    - https://www.fillmurray.com/
+  - https://assetroulette.com/
+    - Get a random image: `<img src="https://api.assetroulette.com/random_image">`
+    - Get a random meme image: `<img src="https://api.assetroulette.com/random_meme">`
+    - Get a random image from Unsplash: `<img src="https://api.assetroulette.com/random_unsplash">`
+    - Get a random CSS definition for base classes: `<link rel="stylesheet" href="https://api.assetroulette.com/random.css">`
+  - https://dog.ceo/
+- Users
+  - https://randomuser.me/
+  - https://jsonplaceholder.typicode.com/
+- Relational Data
+  - https://swapi.dev/ - theres a graphql swapi as well
+  - https://pokeapi.co/api/v2/
+- Misc
+  - https://openweathermap.org/guide
+  - https://github.com/public-apis/public-apis
+    - https://github.com/public-api-lists/public-api-lists
+  - https://public-apis.io/ (A Directory of Free Public & Open Rest APIs)
+  - https://github.com/Marak/faker.js - generate fake pdf https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/
+  - https://github.com/Rolstenhouse/unofficial-apis
+  - https://devresourc.es/tools-and-utilities/public-apis
+  - https://free-for.dev/#/?id=apis-data-and-ml
+
+### Copy and Emails
+
+- https://www.goodemailcopy.com/
+- https://www.swipefiles.co/
+
+### Other Lists like this one
 
 - https://a11yresources.webflow.io/
 - https://webflow.com/accessibility/checklist
@@ -1860,7 +1955,7 @@ BabylonJS
 - https://dev.to/theme_selection/best-design-resources-websites-every-developer-should-bookmark-1p5d
 - https://dev.to/joserfelix/40-high-quality-free-resources-for-web-development-10o3
 
-## Helpful podcasts/talks/articles
+### Helpful podcasts/talks/articles
 
 - [How do I learn design?](https://www.codenewbie.org/podcast/how-do-i-learn-design) (CodeNewbie)
 - [Design foundations for developers](https://syntax.fm/show/196/design-foundations-for-developers) (Syntax)
@@ -2093,7 +2188,7 @@ BabylonJS
   - Use only good fonts
   - Steal like an artist
 
-## More Free Stuff
+### More Free Stuff
 
 - [Canva Design School](https://designschool.canva.com/)
 - [Degreeless.design](https://www.degreeless.design/#basics)
@@ -2104,13 +2199,13 @@ BabylonJS
   - https://github.com/netlify/netlify-drop-demo-site/archive/master.zip
 - [The Design Newsletter](https://learnui.design/newsletter.html)
 
-## Paid Design Services of Note
+### Paid Design Services of Note
 
 - Design Pickle
 - Manypixels
 - Contentfly (copywriting)
 
-## Courses
+### Courses
 
 - for the 4 minute version: https://jgthms.com/web-design-in-4-minutes/
 - for the 4 hour version: https://frontendmasters.com/courses/design-for-developers/
@@ -2124,92 +2219,3 @@ BabylonJS
 - Copywork
   - https://www.frontendpractice.com/
   - https://www.codewell.cc/
-
-## Interaction/Design Inspo
-
-- Dribbble ofc
-- https://pageflows.com/
-- https://uimovement.com/
-- https://uidesigndaily.com/
-- https://www.siteinspire.com/
-- https://www.landingfolio.com
-- http://www.cssmania.com/
-- https://www.uisources.com/
-- [Codrops](https://tympanus.net/codrops/2019/06/04/inspirational-websites-roundup-5/)
-- https://collectui.com/
-- https://theanimatedweb.com/
-- https://pageflows.com/
-- https://goodui.org/ "leaked ab tests"
-- http://ui-patterns.com/
-- https://uigarage.net/
-- https://pttrns.com/
-- steve schoger ui ux inspo list https://twitter.com/steveschoger/status/1215673997725196288?s=20
-
-### Game design inspo
-
-- https://interfaceingame.com/
-- https://www.gameuidatabase.com/
-- movie UIs https://www.pushing-pixels.org/fui/
-- game movie and other fantasy UIs https://www.saji8k.com/kit-fui/
-
-## Mock APIs
-
-free or mock data apis for demos
-
-- Simple Data
-  - http://quotes.rest/
-  - https://api.chucknorris.io/
-  - https://jokeapi.dev/ https://v2.jokeapi.dev/joke/Any\?type\=single\&blacklistFlags=nsfw,racist,sexist,explicit
-  - https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
-  - simple quote https://api.quotable.io/random
-- Placeholder Pictures
-  - https://source.unsplash.com/
-  - https://skuawk.com/
-  - https://github.com/imsky/holder
-  - https://lorempixel.com/
-  - http://placeimg.com/
-  - https://picsum.photos
-  - Blanks
-    - http://placehold.it/300x300
-  - Animals
-    - https://placedog.net/
-    - https://placebear.com/
-    - http://placekitten.com/
-  - Food
-    - http://placebeer.com/
-    - https://baconmockup.com/
-  - Actors
-    - https://www.placecage.com/
-    - https://placekeanu.com/
-    - https://www.stevensegallery.com/
-    - https://www.fillmurray.com/
-  - https://assetroulette.com/
-    - Get a random image: `<img src="https://api.assetroulette.com/random_image">`
-    - Get a random meme image: `<img src="https://api.assetroulette.com/random_meme">`
-    - Get a random image from Unsplash: `<img src="https://api.assetroulette.com/random_unsplash">`
-    - Get a random CSS definition for base classes: `<link rel="stylesheet" href="https://api.assetroulette.com/random.css">`
-  - https://dog.ceo/
-- Users
-  - https://randomuser.me/
-  - https://jsonplaceholder.typicode.com/
-- Relational Data
-  - https://swapi.dev/ - theres a graphql swapi as well
-  - https://pokeapi.co/api/v2/
-- Misc
-  - https://openweathermap.org/guide
-  - https://github.com/public-apis/public-apis
-    - https://github.com/public-api-lists/public-api-lists
-  - https://public-apis.io/ (A Directory of Free Public & Open Rest APIs)
-  - https://github.com/Marak/faker.js - generate fake pdf https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/
-  - https://github.com/Rolstenhouse/unofficial-apis
-  - https://devresourc.es/tools-and-utilities/public-apis
-  - https://free-for.dev/#/?id=apis-data-and-ml
-
-## Copy and Emails
-
-- https://www.goodemailcopy.com/
-- https://www.swipefiles.co/
-
-## Random Stuff That Doesn't Fit Anywhere
-
-- https://10ideesrecuesenuxdesign.castoretpollux.com/en/
