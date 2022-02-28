@@ -166,6 +166,7 @@ lighter, no js. preview some of these with https://sites.yax.com/
 - https://elementcss.neocities.org/
 - https://codepen.io/web-dot-dev/pen/abpoXGZ the base classes for web.dev/learn/csss
 - https://open-props.style/ css variables framework - "tailwind without tailwind"
+- https://github.com/alvaromontoro/almond.css classless css framework. [thin fonts](https://news.ycombinator.com/item?id=30497165).
 - Collections of even more:
   - https://github.com/dohliam/dropin-minimal-css
   - https://github.com/dbohdan/classless-css
