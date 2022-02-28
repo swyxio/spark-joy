@@ -7,4 +7,4 @@ jobs:
     steps:
       - uses: technote-space/toc-generator@v2
         with:
-          MAX_HEADER_LEVEL: 2
+          MAX_HEADER_LEVEL: 3
