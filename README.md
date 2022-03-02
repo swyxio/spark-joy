@@ -769,7 +769,9 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 - [Numeric systems of color palettes explained](https://n8d.at/the-numeric-colour-palettes-in-modern-web-frameworks-explained)
 - [Monocrhromatic color scheme guide](https://www.vectornator.io/blog/monochromatic-colors)
 
-(fun) [history of primary colors](https://publicdomainreview.org/essay/primary-sources)
+- (fun) [history of primary colors](https://publicdomainreview.org/essay/primary-sources)
+- big list of color names: https://github.com/meodai/color-names
+  
 
 </details>
 
@@ -806,9 +808,9 @@ background-image: linear-gradient(
 
 Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-linear-gradients/
 
-https://meshgradient.com/ swirly backgrounds like apple
-
-https://meshgradient.in/ generate mesh gradient backgrounds
+- https://meshgradient.com/ swirly backgrounds like apple
+- https://www.meshgradients.design/
+- https://meshgradient.in/ generate mesh gradient backgrounds
 
 #### Background Patterns
 
@@ -1202,6 +1204,7 @@ Mocking your browser/phone
 - https://delesign.com/free-designs/graphics/
 - https://illlustrations.co/ 100 beautiful illustrations, designed by Vijay Verma during a 100 days of illustrations challenge.
 - https://isometric.online/ This website offers a searchable list of nice and free isometric illustrations.
+- https://www.codeinwp.com/pattern-collection/ abstract art illutrations
 - https://www.glazestock.com/
 - https://lukaszadam.com/illustrations library of Free Illustrations and Icons for everyone.
 - https://design.dev/ some illustrations in PS/sketch/etc. requires account.
