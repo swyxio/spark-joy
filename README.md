@@ -2002,6 +2002,22 @@ free or mock data apis for demos
 - [Human Interface Guidelines from Apple, Microsoft, Elementary OS, IBM, etc](http://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/)
 - 50 UI tips https://fifty.user-interface.io/
   - https://fifty.user-interface.io/50_ui_tips.pdf
+- Steve Schoger - Refactoring UI process: https://www.youtube.com/watch?v=7Z9rrryIOC4
+  1. Give text consistent contrast
+  2. Don't use grey text on colored backgrounds
+  3. Use perceived brightness
+  4. Start with too much whitespace
+  5. Balance weight and contrast
+  6. Supercharge the defaults
+  7. Overlap elements to create depth
+  8. Use shadows to convey elevation
+  9. Shadows have two parts
+  10. Create depth with color
+  11. Use fewer borders
+  12. Think outside the database
+  13. Alternate Backgrounds
+  14. Grays dont have to be GRAY.
+  15. Use good fonts!
 - Steve Schoger - [little details of visual ui design](https://twitter.com/swyx/status/1206234577821286406?s=20)
   - [ ] add a bit of color to your greys
   - [ ] saturate greys when using a colored background
