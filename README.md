@@ -756,7 +756,7 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 - [Louisa Barret on Color](https://www.youtube.com/watch?v=NdKAUXAvt8E)
 - [Erik Kennedy on HSB](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
 - [Erik Kennedy on color variations](https://learnui.design/blog/color-in-ui-design-a-practical-framework.html)
-- [JustinMezzell on Color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed) - advanced stuff on picking color tone/temperature
+- [JustinMezzell on Color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed) - advanced stuff on picking color tone/temperature. [Basic version by Steve Schoger](https://twitter.com/steveschoger/status/1502318105124646924)
 - [Justin Baker on Color Theory](https://medium.muz.li/the-ultimate-ux-guide-to-color-design-4d0a18a706ed)
 - [Convertkit on Color Theory](https://convertkit.com/color-theory)
 - [Josh Comeau on Color Palettes](https://courses.joshwcomeau.com/css-for-js/treasure-trove/014-color-palettes)
