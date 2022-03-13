@@ -1345,6 +1345,7 @@ tips for product tours https://dev.to/highlight/how-to-create-animated-product-s
 
 misc
 
+- https://www.fable.app/academy/fable-quick-start-course-part-2-of-3 Fable motion design
 - https://github.com/remotion-dev/remotion - code videos with React
 - https://glitterly.app/ - kinda rough - mostly image maker, video features in beta
 - https://viddyoze.com "3d video animations". promising videos, but $97 lifetime.. seems sketchy
