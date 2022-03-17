@@ -1130,9 +1130,8 @@ further reading
 
 ## Graphics and SVG Illustrations
 
-Hipster Logo Generator? any others?
-
 - https://hipsterlogogenerator.com/
+- https://www.logotouse.com/ Download any logo in LogoToUse and do whatever you want with them. This is the place to showcase more than 120+ million logos that are already designed worldwide and are archived!
 
 Backend entity/ ERD /SQL diagramming
 
@@ -1568,6 +1567,7 @@ Tools:
 - [React-Designer](http://react-designer.github.io/react-designer/): Easy to configure, lightweight, editable vector graphics in your react components.
 - `<Foldable>` from [Folding the DOM](https://www.joshwcomeau.com/posts/folding-the-dom/)
 - React Hamburger Icons https://hamburger-react.netlify.com/
+  - note issues with hamburger menus https://news.ycombinator.com/item?id=30712599
 - React Curved Arrow https://react-curved-arrow.nickjanssen.com/
 - Spinners
   - https://github.com/tienpham94/react-awesome-spinners - requires styled components
