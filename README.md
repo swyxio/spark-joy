@@ -395,6 +395,7 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
   - Novelty: http://velvetyne.fr/
   - [use a Uniwidth font (not monospace) for interface design](https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7)
   - [14 free programming fonts](https://twitter.com/zenorocha/status/1359508613606199301?s=20)
+- Fonts have [fashions/trends](https://twitter.com/jgulden/status/1507467476807806979?s=21). current vogue is Inter.
 - Free fonts that are great with examples (thanks [@edadams](https://github.com/sw-yx/spark-joy/issues/22))
   - Google Fonts - ([see Harry Roberts on Google Font loading perf](https://csswizardry.com/2020/05/the-fastest-google-fonts/) - you should [self host this](https://wicki.io/posts/2020-11-goodbye-google-fonts/))
     - https://www.colorsandfonts.com/font-pairing
