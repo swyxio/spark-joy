@@ -1442,6 +1442,7 @@ Tutorials from successful Youtubers
 - prefer click menus over hover menus https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/
 - how to make settings https://web.dev/building-a-settings-component/
 - Defensive CSS https://ishadeed.com/article/defensive-css/
+- breadcrumb dividers: https://twitter.com/_philNelson/status/1512316711856345090?s=20&t=q3Cp0O1KPlxADCw_zUNHDA
 
 ### Anything But Dropdowns
 
