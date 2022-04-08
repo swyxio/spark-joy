@@ -962,7 +962,7 @@ other boilerplates to use
 - https://logosear.ch/ superfast metasearch of 200k svg logos from GitHub
 - https://seeklogo.com/
 - https://www.iconfinder.com/iconsets/payment-method-1
-- https://www.logology.co/
+- https://www.logology.co/ We’ve designed a catalog of 500+ logos. Take a brand identity test and we’ll instantly match you with the best ones, paired with the right fonts & colors.
 - https://www.svgrepo.com/ Browse 300.000+ SVG Vectors and Icons
 - https://iconsear.ch/ instant search of 50k svg icons from GitHub and GitLab
 - https://macosicons.com/ icons intended to replace mac desktop icons
