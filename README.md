@@ -1180,7 +1180,7 @@ Mocking your browser/phone
 - https://icons8.com/illustrations (previously ouch.pics)
 - :star: https://blush.design/ good random generator by Pablo Stanley. Made for Sketch, Figma, InVision Studio and Adobe XD.
 - :star: https://www.freepik.com/ Graphic resources for everyone: Find Free Vectors, Stock Photos, PSD and Icons
-- https://iradesign.io/ Build your own amazing illustrations - very gradient/faceless illo heavy
+- https://iradesign.io/ Build your own illustrations - very gradient/faceless illo heavy
 - https://www.storyset.com/ free customizable illustrations for your next project
 - https://www.pixeltrue.com/
   - https://www.pixeltrue.com/frontliner-heroes 24 high-quality Covid illustrations.
@@ -1192,7 +1192,6 @@ Mocking your browser/phone
 - https://illustrationkit.com/ Free vector illustrations for personal & commercial projects no attribution required
 - https://www.glazestock.com/
 - https://openclipart.org/
-- https://iradesign.io/ Build your own illustrations, Using our gradients and hand drawn sketch components.
 - https://gallery.manypixels.co/ ManyPixels offer free svg illustrations with the possibility to customize the color as well.
 - https://generator.opendoodles.com/ illustrations with color generator for svgs
 - https://www.openpeeps.com/ a hand-drawn illustration library to create scenes of people.
