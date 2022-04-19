@@ -681,6 +681,7 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
 
 ### Palette Generators
 
+- https://atmos.style A toolbox to create better UI color palettes.
 - https://colorgen.dev/
 - https://color.adobe.com/create
 - https://www.colorsandfonts.com/
