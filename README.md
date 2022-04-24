@@ -1345,6 +1345,7 @@ misc
 
 - https://www.fable.app/academy/fable-quick-start-course-part-2-of-3 Fable motion design
 - https://github.com/remotion-dev/remotion - code videos with React
+  -  example usage https://twitter.com/JDihlmann/status/1516853381242961921?s=20&t=kB6uuP2qxW83A0A-NlQerg
 - https://glitterly.app/ - kinda rough - mostly image maker, video features in beta
 - https://viddyoze.com "3d video animations". promising videos, but $97 lifetime.. seems sketchy
 - https://www.fiverr.com/search/gigs?query=explainer%20videos&source=top-bar&search_in=everywhere&search-autocomplete-original-term=explainer%20videos
