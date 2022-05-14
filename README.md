@@ -13,6 +13,7 @@ _The Spark Joy philosophy is explained in further detail [in my book](https://le
   - [Serious CSS Frameworks](#serious-css-frameworks)
   - [Drop-in CSS Frameworks](#drop-in-css-frameworks)
   - [Fun CSS Frameworks](#fun-css-frameworks)
+  - [No Framework](#no-framework)
   - [CSS Resets](#css-resets)
   - [CSS A11y Checkers](#css-a11y-checkers)
   - [Tailwind Component Libraries](#tailwind-component-libraries)
