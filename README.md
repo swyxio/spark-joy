@@ -1869,6 +1869,7 @@ BabylonJS
 - Dribbble ofc
 - https://pageflows.com/
 - https://uimovement.com/
+- https://land-book.com/
 - https://uidesigndaily.com/
 - https://www.siteinspire.com/
 - https://www.landingfolio.com
@@ -1982,6 +1983,7 @@ free or mock data apis for demos
 - [Tactical design advice for developers](https://changelog.com/podcast/333) (The Changelog)
 - [UI Design for Developers](https://designcode.io/ui-design-for-developers) (Meng To)
 - [Learning How to Design](https://shoptalkshow.com/343/) (ShopTalk)
+- [You can create a great looking website while sucking at design](https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/)
 - [Laws of UX](https://lawsofux.com/)
 - [100 Things I Know About Design](https://odannyboy.medium.com/100-things-i-know-about-design-8e50f7b1818b)
 - https://learnui.design/blog/4-rules-intuitive-ux.html
