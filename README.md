@@ -220,6 +220,10 @@ focus in futurism
 - Arwes - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps https://arwes.dev/
 - http://augmented-ui.com/ - Futuristic, Sci-Fi shaping for any element
 
+### No Framework
+
+Instead of using a framework, [consider not using one](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/).
+
 ### CSS Resets
 
 more control in exchange for more work on your part.
