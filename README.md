@@ -1228,6 +1228,7 @@ Mocking your browser/phone
 - https://www.magicpattern.design/examples - one-click web editor for illustration patterns. It's perfect for branding landing pages, social media posts and featured images. Requires Google signup.
 - https://gumroad.com/l/just sketch me (paid)
 - https://error404.fun/ 404 page illustrations
+- https://designstripe.com/ free illustrations + easy to use web editor that allows customizing palettes, characters, look & feel, among others
 
 Illo's in context: https://onepagelove.com/tag/illustrations
 
