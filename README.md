@@ -343,8 +343,10 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
 
 ### Fonts
 
+<ul>
+  <li>
 <details>
-  <summary>For speed, use System Font Stacks (incl. Segoe and Roboto)</summary>
+  <summary>For speed, use [System Font Stacks](https://systemfontstack.com/) (incl. Segoe and Roboto)</summary>
   
   ([what are these?](https://css-tricks.com/snippets/css/system-font-stack/))
   - GitHub: `font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Noto Color Emoji",  "Segoe UI Emoji", "Segoe UI Symbol";`
@@ -384,10 +386,16 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
       /* fallback */ monospace;
   }
 ```
-
 - [Some systems come with good premium fonts](https://twitter.com/MatiasEduardoPR/status/1093508700378144768?s=20) - Apple OSes have `“avenir next”, “avenir”, “proxima-nova”`
 
 </details>
+
+  - Sans-serif `font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;`
+  - Serif: `font-family: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;`
+  - Mono: `font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;`
+    
+  </li>
+</ul>
 
 - Consider your site personality
   - Elegant/Classic: serif like [`Freight Text`](https://fonts.adobe.com/fonts/freight-text), [`Adobe Garamond`](https://fonts.adobe.com/fonts/adobe-garamond), [`PT Serif`](https://fonts.google.com/specimen/PT+Serif)
