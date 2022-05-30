@@ -356,6 +356,23 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
   "Roboto", "Oxygen", "Ubuntu", "Helvetica Neue", Arial, sans-serif;`](https://twitter.com/laurosilvacom/status/1221138641923141632)
   - [`font-family: ‘system-ui’, sans-serif;`](https://twitter.com/esojrafael/status/1221107296127729664?s=20)
     - the ['system-ui' generic font family is new, standardizing name across Safari, Firefox and Blink](https://www.chromestatus.com/feature/5640395337760768)
+  - [StackOverflow almost-system-font stack](https://news.ycombinator.com/item?id=31544613):
+  
+```css
+@ff-sans:
+  -apple-system, BlinkMacSystemFont, // San Francisco on macOS and iOS
+  "Segoe UI",                        // Windows
+  "Liberation Sans",                 // Linux
+  sans-serif;                        // The final fallback for rendering in sans-serif.
+@ff-serif: Georgia, Cambria, "Times New Roman", Times, serif;
+@ff-mono:
+  ui-monospace,                     // San Francisco Mono on macOS and iOS
+  "Cascadia Mono", "Segoe UI Mono", // Newer Windows monospace fonts that are optionally installed. Most likely to be rendered in Consolas
+  "Liberation Mono",                // Linux
+  Menlo, Monaco, Consolas,          // A few sensible system font choices
+  monospace;                        // The final fallback for rendering in monospace.
+```
+  
   - [Sanitize.css](https://github.com/csstools/sanitize.css#typography-uses-the-default-system-font): 
   
 ```css
@@ -389,7 +406,7 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
 - [Some systems come with good premium fonts](https://twitter.com/MatiasEduardoPR/status/1093508700378144768?s=20) - Apple OSes have `“avenir next”, “avenir”, “proxima-nova”`
 
 </details>
-
+  - Simple: `font-family: system-ui, -apple-system, sans-serif;` ([has issues on old browsers + asian langauges]([url](https://news.ycombinator.com/item?id=31544075) - github and bootstrap have removed it fwiw))
   - Sans-serif `font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;`
   - Serif: `font-family: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;`
   - Mono: `font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;`
