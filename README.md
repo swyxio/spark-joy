@@ -1789,6 +1789,7 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
 - HTML animation? https://tumult.com/hype/ (paid)
 - Page Transitions with swup https://github.com/swup/swup ([css tricks](https://css-tricks.com/page-transitions-for-everyone/))
 - css animation without keyframes https://animxyz.com/docs/
+- collection of css animations https://xsgames.co/animatiss/
 
 ### Loading Spinners
 
