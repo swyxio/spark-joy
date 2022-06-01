@@ -1560,6 +1560,7 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 - https://www.epidemicsound.com/
 - https://www.youtube.com/channel/UCV3itPyPPgvftXBsreYADlw Bensound
 - https://www.soundboardguy.com/
+- https://snapmuse.com/ - royalty free music for Youtube, Podcast, Vlog and other video projects
 
 Paid:
 
@@ -1567,6 +1568,7 @@ Paid:
 - https://artlist.io/ - may have better licensing https://www.youtube.com/watch?v=mYU6XhORomg but no fx
 - https://www.soundstripe.com/ (cheapest) here's a comparison https://www.youtube.com/watch?v=1YBjY79axRo
 - https://www.bensound.com/
+- https://snapmuse.com/ 
 
 Tools:
 
