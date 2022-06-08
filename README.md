@@ -2043,6 +2043,7 @@ free or mock data apis for demos
   - [ ] Space - leave enough whitespace. Too much > too little
   - [ ] Alignment - use as few lines as possible
 - [Human Interface Guidelines from Apple, Microsoft, Elementary OS, IBM, etc](http://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/)
+  - Apple's HIG was updated for 2022 https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/
 - 50 UI tips https://fifty.user-interface.io/
   - https://fifty.user-interface.io/50_ui_tips.pdf
 - Steve Schoger - Refactoring UI process: https://www.youtube.com/watch?v=7Z9rrryIOC4
