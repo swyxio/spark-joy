@@ -1728,6 +1728,7 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
   - https://svgurt.com/#/
   - https://codepen.io/jesstelford/pen/PaBMrL small dynamic SVG placeholders
   - https://github.com/woltapp/blurhash small dynamic SVG placeholders for blurring up
+  - https://www.usetracy.com/ - make SVGs from monochrome drawings or images
 - SVG to JSX
   - https://omatsuri.app/svg-to-jsx
   - https://svg2jsx.com/
