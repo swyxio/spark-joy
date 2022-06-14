@@ -1995,6 +1995,9 @@ free or mock data apis for demos
 
 ### Useful big datasets
  
+- Dataset collections
+  - [Graphext collection](https://www.notion.so/cf3e33e64b6c4a71a014c134b6149b37?v=37e53f0e8a464293909206f499fdcc2e) 91 datasets
+  - [Data.world](https://data.world/datasets/open-data) There are 133398 open data datasets available on 
 - Tech
   - [GitHub Activity data](https://console.cloud.google.com/marketplace/details/github/github-repos?pli=1&project=uplifted-earth-144603) ([blog](https://cloud.google.com/blog/topics/public-datasets/github-on-bigquery-analyze-all-the-open-source-code)) This 3TB+ dataset comprises the largest released source of GitHub activity to date. It contains a full snapshot of the content of more than 2.8 million open source GitHub repositories including more than 145 million unique commits, over 2 billion different file paths, and the contents of the latest revision for 163 million files, all of which are searchable with regular expressions.
   - [Los Alamos cybersecurity data](https://csr.lanl.gov/data/cyber1/)
@@ -2006,6 +2009,8 @@ free or mock data apis for demos
   - [Enron email](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) ([source](https://www.cs.cmu.edu/~./enron/)): 500,000+ emails from 150 employees of the Enron Corporation ([podcast](https://99percentinvisible.org/episode/youve-got-enron-mail/))
   - [ICIJ Offshore Leaks db](https://offshoreleaks.icij.org/) This ICIJ database contains information on more than 810,000 offshore entities that are part of the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers
     - Kaggle: https://www.kaggle.com/zusmani/paradisepanamapapers
+  - [GDELT Project](https://www.gdeltproject.org/) "monitors the world's broadcast, print, and web news from nearly every corner of every country in over 100 languages and identifies the people, locations, organizations, themes, sources, emotions, counts, quotes, images and events driving our global society every second of every day, creating a free open platform for computing on the entire world."
+    - [Hex's Horoscope](https://www.izzy.co/blogs/horoscope-aug.html) Welcome to the inaugural Hex Horoscope, a new monthly series in which I attempt to divine the general trend of the month to come using Hex. We'll start with a visual look at how the first week of August stacks up to the competition, and then do some actual predictive modeling to take a stab at what the rest of the month has in store.
 - Geo
   - [BigQuery global daily weather data](https://cloud.google.com/blog/products/gcp/global-historical-daily-weather-data-now-available-in-bigquery) Using the BQ geo functions to overlay weather with key locations we cared about was a lot of fun.  [michael](https://twitter.com/gwenwindflower/status/1536132127678423046)
   - [SF Tree dataset](https://data.sfgov.org/City-Infrastructure/Street-Tree-List/tkzw-k3nq) Every tree in San Francisco (that are managed by the department of public works, so this excludes trees in places like Golden Gate Park): 196,000 trees listed and they update it constantly! [simonw](https://twitter.com/simonw/status/1536366226326228993?s=20&t=W8ioFSergYaZcLGjTxOGbQ)
@@ -2016,10 +2021,7 @@ free or mock data apis for demos
   - [Airbnb data on NY, London, SF, Paris, barcelona, Amsterdam](http://insideairbnb.com/)
   - [GeoNet earthquake catalog](https://www.geonet.org.nz/data/types/eq_catalogue)
   - New Zealand
-    - LINZ data service https://data.linz.govt.nz/
-- Dataset collections
-  - [Graphext collection](https://www.notion.so/cf3e33e64b6c4a71a014c134b6149b37?v=37e53f0e8a464293909206f499fdcc2e) 91 datasets
-  - [Data.world](https://data.world/datasets/open-data) There are 133398 open data datasets available on data.world.
+    - LINZ data service https://data.linz.govt.nz/data.world.
 - Misc?
   - [Correlates of War datasets](https://correlatesofwar.org/)
   - [Flight delays](https://data-se.netlify.app/2021/02/24/case-study-data-vizualization-on-flight-delays-using-tidyverse-tools/)
