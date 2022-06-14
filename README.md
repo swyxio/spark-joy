@@ -1992,7 +1992,7 @@ free or mock data apis for demos
   - https://devresourc.es/tools-and-utilities/public-apis
   - https://free-for.dev/#/?id=apis-data-and-ml
 
-### Useful demo big datasets
+### Useful big datasets
  
 - Tech
   - [GitHub Activity data](https://console.cloud.google.com/marketplace/details/github/github-repos?pli=1&project=uplifted-earth-144603) ([blog](https://cloud.google.com/blog/topics/public-datasets/github-on-bigquery-analyze-all-the-open-source-code)) This 3TB+ dataset comprises the largest released source of GitHub activity to date. It contains a full snapshot of the content of more than 2.8 million open source GitHub repositories including more than 145 million unique commits, over 2 billion different file paths, and the contents of the latest revision for 163 million files, all of which are searchable with regular expressions.
