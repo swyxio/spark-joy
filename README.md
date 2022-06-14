@@ -1992,6 +1992,40 @@ free or mock data apis for demos
   - https://devresourc.es/tools-and-utilities/public-apis
   - https://free-for.dev/#/?id=apis-data-and-ml
 
+### Useful demo big datasets
+ 
+- Tech
+  - [GitHub Activity data](https://console.cloud.google.com/marketplace/details/github/github-repos?pli=1&project=uplifted-earth-144603) ([blog](https://cloud.google.com/blog/topics/public-datasets/github-on-bigquery-analyze-all-the-open-source-code)) This 3TB+ dataset comprises the largest released source of GitHub activity to date. It contains a full snapshot of the content of more than 2.8 million open source GitHub repositories including more than 145 million unique commits, over 2 billion different file paths, and the contents of the latest revision for 163 million files, all of which are searchable with regular expressions.
+  - [Los Alamos cybersecurity data](https://csr.lanl.gov/data/cyber1/)
+    - This data set represents 58 consecutive days of de-identified event data collected from five sources within Los Alamos National Laboratory’s corporate, internal computer network.
+    - The data sources include Windows-based authentication events from both individual computers and centralized Active Directory domain controller servers; process start and stop events from individual Windows computers; Domain Name Service (DNS) lookups as collected on internal DNS servers; network flow data as collected on at several key router locations; and a set of well-defined red teaming events that present bad behavior within the 58 days. In total, the data set is approximately 12 gigabytes compressed across the five data elements and presents 1,648,275,307 events in total for 12,425 users, 17,684 computers, and 62,974 processes.
+- Finance
+  - [Numerai v4](https://numer.ai/data/v4) - 1191 features and targets for the entire history of the @numerai tournament. 2.4 million rows and 574 eras. One of the hardest tabular dataset competitions on the planet.
+- Text
+  - [Enron email](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) ([source](https://www.cs.cmu.edu/~./enron/)): 500,000+ emails from 150 employees of the Enron Corporation ([podcast](https://99percentinvisible.org/episode/youve-got-enron-mail/))
+  - [ICIJ Offshore Leaks db](https://offshoreleaks.icij.org/) This ICIJ database contains information on more than 810,000 offshore entities that are part of the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers
+    - Kaggle: https://www.kaggle.com/zusmani/paradisepanamapapers
+- Geo
+  - [BigQuery global daily weather data](https://cloud.google.com/blog/products/gcp/global-historical-daily-weather-data-now-available-in-bigquery) Using the BQ geo functions to overlay weather with key locations we cared about was a lot of fun.  [michael](https://twitter.com/gwenwindflower/status/1536132127678423046)
+  - [SF Tree dataset](https://data.sfgov.org/City-Infrastructure/Street-Tree-List/tkzw-k3nq) Every tree in San Francisco (that are managed by the department of public works, so this excludes trees in places like Golden Gate Park): 196,000 trees listed and they update it constantly! [simonw](https://twitter.com/simonw/status/1536366226326228993?s=20&t=W8ioFSergYaZcLGjTxOGbQ)
+  - [NYC taxi dataset](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
+    - Good for teaching: scalable sizes, moderate amounts of bad data
+    - ([spark + iceberg quickstart](https://github.com/tabular-io/docker-spark-iceberg) - [blog](https://tabular.io/blog/docker-spark-and-iceberg/))
+    - [Auckland Transport data](https://dev-portal.at.govt.nz/)
+  - [Airbnb data on NY, London, SF, Paris, barcelona, Amsterdam](http://insideairbnb.com/)
+  - [GeoNet earthquake catalog](https://www.geonet.org.nz/data/types/eq_catalogue)
+  - New Zealand
+    - LINZ data service https://data.linz.govt.nz/
+- Dataset collections
+  - [Graphext collection](https://www.notion.so/cf3e33e64b6c4a71a014c134b6149b37?v=37e53f0e8a464293909206f499fdcc2e) 91 datasets
+  - [Data.world](https://data.world/datasets/open-data) There are 133398 open data datasets available on data.world.
+- Misc?
+  - [Correlates of War datasets](https://correlatesofwar.org/)
+  - [Flight delays](https://data-se.netlify.app/2021/02/24/case-study-data-vizualization-on-flight-delays-using-tidyverse-tools/)
+  - [Disney world wait times](https://lucymcgowan.github.io/touringplans/) 
+  - [Trashnet](https://github.com/garythung/trashnet): Code (only for the convolutional neural network) and dataset for mine and Mindy Yang's final project for Stanford's CS 229: Machine Learning class. The dataset spans six classes: glass, paper, cardboard, plastic, metal, and trash. Currently, the dataset consists of 2527 images. The pictures were taken by placing the object on a white posterboard and using sunlight and/or room lighting. The pictures have been resized down to 512 x 384, which can be changed in data/constants.py (resizing them involves going through step 1 in usage). The devices used were Apple iPhone 7 Plus, Apple iPhone 5S, and Apple iPhone SE.
+  - [NFL play by play data](https://www.nflfastr.com/) The package contains NFL play-by-play data back to 1999. Includes completion probability (cp), completion percentage over expected (cpoe), and expected yards after the catch (xyac_epa and xyac_mean_yardage) in play-by-play going back to 2006. Includes drive information, including drive starting position and drive result. Includes series information, including series number and series success. Features models for Expected Points, Win Probability, Completion Probability, and Yards After the Catch
+  
 ### Copy and Emails
 
 - https://www.goodemailcopy.com/
