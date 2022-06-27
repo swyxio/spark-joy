@@ -1290,13 +1290,48 @@ RoughJS Tools
 
 ### ASCII Art
 
-exampels of ascii art in code: https://blog.regehr.org/archives/1653
+exampels of ascii art in code: https://blog.regehr.org/archives/1653 ([HN discussion](https://news.ycombinator.com/item?id=31891226))
 
 - https://fatiherikli.github.io/archetype/
 - https://textik.com/#a4ec12a68785f25f
 - http://asciiflow.com/
 - https://monodraw.helftone.com/
 - text to diagramming tools [list](https://smusamashah.github.io/text-to-diagram)
+
+### matrix8967's list
+
+from [matrix8967]([url](https://news.ycombinator.com/user?id=matrix8967)): Some ANSI Color Codes and ASCIInema can carry you a long way. (note: may want to reformat this in future)
+
+- Here's a list of plain text information tools from my notes:
+  - https://mbarkhau.keybase.pub/asciigrid/
+  - https://gitlab.com/mbarkhau/asciigrid/
+- ascii-tables is exactly what is says on the label.
+  - https://ozh.github.io/ascii-tables/
+  - https://github.com/ozh/ascii-tables/
+- netpen
+  - https://www.netpen.io/main/
+  - https://github.com/ebirger/netpen/
+- svgbob and svg-term are both great for creating SVGs out of these plain text files:
+  - https://github.com/marionebl/svg-term-cli/
+  - https://ivanceras.github.io/svgbob-editor/
+  - https://github.com/ivanceras/svgbob/
+- Here are some TUI/CLI focused frameworks. These are over kill for me - but maybe useful to someone here:
+  - https://www.textualize.io/
+  - https://charm.sh/
+  - http://maaslalani.com/slides/
+  - https://github.com/peterbrittain/asciimatics/
+- TUI/Text-Based presentaion tools:
+  - https://sli.dev/
+  - https://github.com/slidevjs/slidev/
+  - https://github.com/maaslalani/slides/
+  - http://maaslalani.com/slides/
+  - https://github.com/d0c-s4vage/lookatme/
+  - https://github.com/chunqiuyiyu/ervy/
+- Honorable Mention goes to wtf-util and it's TUI configurator:
+  - https://wtfutil.com/
+  - https://github.com/ggerganov/wtf-tui
+
+
 
 ### DIY Graphic Design
 
