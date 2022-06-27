@@ -1290,6 +1290,8 @@ RoughJS Tools
 
 ### ASCII Art
 
+exampels of ascii art in code: https://blog.regehr.org/archives/1653
+
 - https://fatiherikli.github.io/archetype/
 - https://textik.com/#a4ec12a68785f25f
 - http://asciiflow.com/
