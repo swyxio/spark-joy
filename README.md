@@ -58,6 +58,7 @@ _The Spark Joy philosophy is explained in further detail [in my book](https://le
   - [Handwritten Look](#handwritten-look)
   - [Pixel Art](#pixel-art)
   - [ASCII Art](#ascii-art)
+  - [matrix8967's list](#matrix8967s-list)
   - [DIY Graphic Design](#diy-graphic-design)
   - [Stock Photos and Videos](#stock-photos-and-videos)
   - [Stock Videos](#stock-videos)
