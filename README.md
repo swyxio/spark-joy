@@ -296,6 +296,8 @@ Good idea to have an elevation system in place. Material's is pretty good: https
 | Text button                                               | 0                             |
 | Standard side sheet                                       | 0                             |
 
+More notes on FAB implementation- https://youtu.be/RXopH5t2Kww
+
 ### 2D Spacing
 
 More. Spacing. Please.
