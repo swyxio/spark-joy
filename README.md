@@ -2003,6 +2003,7 @@ free or mock data apis for demos
     - https://placedog.net/
     - https://placebear.com/
     - http://placekitten.com/
+    - https://dog.ceo/
   - Food
     - http://placebeer.com/
     - https://baconmockup.com/
@@ -2016,7 +2017,7 @@ free or mock data apis for demos
     - Get a random meme image: `<img src="https://api.assetroulette.com/random_meme">`
     - Get a random image from Unsplash: `<img src="https://api.assetroulette.com/random_unsplash">`
     - Get a random CSS definition for base classes: `<link rel="stylesheet" href="https://api.assetroulette.com/random.css">`
-  - https://dog.ceo/
+  - https://www.uifiller.com/
 - Users
   - https://randomuser.me/
   - https://jsonplaceholder.typicode.com/
