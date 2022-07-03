@@ -1990,6 +1990,11 @@ free or mock data apis for demos
   - https://jokeapi.dev/ https://v2.jokeapi.dev/joke/Any\?type\=single\&blacklistFlags=nsfw,racist,sexist,explicit
   - https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
   - simple quote https://api.quotable.io/random
+  - weather apis
+    - OpenWeather is better and has 1M calls per month for free. https://openweathermap.org/price
+    - The Norwegian Meteorological Institute has an excellent free HTTP/JSON weather API that covers the globe. No signup required.
+      - https://developer.yr.no
+      - I've set up an iPad in my hallway to show their SVG weather charts. Super simple to integrate into a simple home made dashboard website. Here is Oslo: https://www.yr.no/en/content/1-72837/meteogram.svg
 - Placeholder Pictures
   - https://source.unsplash.com/
   - https://skuawk.com/
