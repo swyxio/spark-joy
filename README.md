@@ -435,6 +435,7 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
 - Free fonts that are great with examples (thanks [@edadams](https://github.com/sw-yx/spark-joy/issues/22))
   - Google Fonts - ([see Harry Roberts on Google Font loading perf](https://csswizardry.com/2020/05/the-fastest-google-fonts/) - you should [self host this](https://wicki.io/posts/2020-11-goodbye-google-fonts/))
     - https://www.colorsandfonts.com/font-pairing
+    - https://www.nngroup.com/articles/pairing-typefaces/
     - https://fontflipper.com/upload Just upload an image, write some sample copy. And flip through 500 Google fonts one by one.
     - https://bueltge.de/free-web-font-combinations/
     - [40 best google fonts by Typewolf](https://www.typewolf.com/google-fonts)
@@ -478,6 +479,7 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
   - https://bueltge.de/free-web-font-combinations/
   - Canva has a great tool: https://www.canva.com/font-combinations/
   - https://www.colorsandfonts.com/font-pairings
+  - Read: https://www.nngroup.com/articles/pairing-typefaces/
 - [Font variants and oldstyle numbers](https://www.jonathan-harrell.com/blog/better-typography-with-font-variants/)
 - steve schoger blessed typekit fonts **for UI's**
   - proxima nova
