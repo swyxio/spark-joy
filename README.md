@@ -174,7 +174,7 @@ lighter, no js. preview some of these with https://sites.yax.com/
 - Collections of even more:
   - https://github.com/dohliam/dropin-minimal-css
   - https://github.com/dbohdan/classless-css
-  - https://github.com/ubershmekel/cssbed
+  - https://github.com/ubershmekel/cssbed (https://www.cssbed.com/)
   - https://thesephist.github.io/paper.css/ and https://thesephist.github.io/blocks.css/
 
 Superlight: [100 bytes of css to look great nearly everywhere](https://dev.to/swyx/100-bytes-of-css-to-look-great-everywhere-19pd)
@@ -267,6 +267,23 @@ more control in exchange for more work on your part.
 - https://daisyui.com/
 - https://www.tailwind-kit.com/
 
+### React Component Libraries
+
+- [Recent comparison/discussion](https://www.reddit.com/r/reactjs/comments/vtgbai/comparison_of_ui_libraries_for_react/) of:
+  -  DaisyUI
+  - React Bootstrap
+  - ChakraUI
+  - Tailwind UI
+  - Flowbite React
+  - Material UI
+- [Radix UI](https://www.radix-ui.com/) Unstyled, accessible components for building high‑quality design systems and web apps in React.
+- [Mantine](https://mantine.dev/) More than 120 customizable components and hooks to cover you in any situation.
+- https://nextui.org/ uses Stitches, includes light and dark UI components out-of-the-box along with a default color palette that might be good for quickly building landing pages or other content that’s not initially tied to any branding.
+- https://akaspanion.github.io/ui-neumorphism/
+- https://component.gallery/
+- https://headlessui.dev/
+- https://ui.supabase.io/
+- 
 ## Layout
 
 ### Stacking and Elevation
@@ -1633,16 +1650,6 @@ Tools:
 ### Dashboarding
 
 - https://github.com/cruip/tailwind-dashboard-template This one is made with Tailwind and React and includes optional chart components built with Chart.js.
-
-### React component libs
-
-- [Radix UI](https://www.radix-ui.com/) Unstyled, accessible components for building high‑quality design systems and web apps in React.
-- [Mantine](https://mantine.dev/) More than 120 customizable components and hooks to cover you in any situation.
-- https://nextui.org/ uses Stitches, includes light and dark UI components out-of-the-box along with a default color palette that might be good for quickly building landing pages or other content that’s not initially tied to any branding.
-- https://akaspanion.github.io/ui-neumorphism/
-- https://component.gallery/
-- https://headlessui.dev/
-- https://ui.supabase.io/
 
 ### Nice React Components
 
