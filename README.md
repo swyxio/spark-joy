@@ -1319,6 +1319,7 @@ exampels of ascii art in code: https://blog.regehr.org/archives/1653 ([HN discus
 - http://asciiflow.com/
 - https://monodraw.helftone.com/
 - text to diagramming tools [list](https://smusamashah.github.io/text-to-diagram)
+- https://github.com/asciitosvg/asciitosvg ascii to svg diagrams
 
 ### matrix8967's list
 
