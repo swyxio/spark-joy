@@ -938,7 +938,9 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
   - https://www.remove.bg/ from images
   - https://baseline.is/tools/background-remover/ from images
   - https://www.unscreen.com/ for gif/video
-- Remove ANYTHING (AMAZING) https://cleanup.pictures/
+- Remove ANYTHING (AMAZING) 
+  - https://cleanup.pictures/
+  - https://cleanupphotos.com/
 - edit photo in browser no BS https://edit.photo/
 - colorizing black and white images https://demos.algorithmia.com/colorize-photos
 - https://animatedbackgrounds.me/
