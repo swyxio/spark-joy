@@ -2365,6 +2365,7 @@ free or mock data apis for demos
   - Make text pop — and un-pop
   - Use only good fonts
   - Steal like an artist
+- [How to design great keyboard shortcuts](https://knock.app/blog/how-to-design-great-keyboard-shortcuts)
 
 ### More Free Stuff
 
