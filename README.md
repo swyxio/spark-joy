@@ -125,6 +125,7 @@ HTML/CSS nice templates
 - https://themeselection.com/
 - https://html5up.net/
 - https://frontendor.com/ using bootstrap
+- https://preview.tabler.io/# using bootstrap
 - https://cruip.com/ HTML, React, Vue.js, and Tailwind templates
 - https://open-props.style/ design tokens using CSS variables
 
