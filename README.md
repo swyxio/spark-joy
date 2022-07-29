@@ -2386,7 +2386,8 @@ free or mock data apis for demos
 
 ### Courses
 
-- for the 4 minute version: https://jgthms.com/web-design-in-4-minutes/
+- for the 4 minute version (free): https://jgthms.com/web-design-in-4-minutes/
+  - you can do the opposite (pick out differences) with https://cantunsee.space/
 - for the 4 hour version: https://frontendmasters.com/courses/design-for-developers/
 - for the 4 week version: https://refactoringui.com/book
 - for the 4 month version: https://learnui.design/ 995/1495/2495. 48 lessons, 26 hours
