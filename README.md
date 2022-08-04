@@ -834,6 +834,7 @@ Not tools but still important so here they are
 - [Numeric systems of color palettes explained](https://n8d.at/the-numeric-colour-palettes-in-modern-web-frameworks-explained)
 - [Monochromatic color scheme guide](https://www.vectornator.io/blog/monochromatic-colors)
 - [Canva's color wheel has a color theory guide](https://www.canva.com/colors/color-wheel/)
+- https://youtu.be/Co75kmQtbaA
 
 - (fun) [history of primary colors](https://publicdomainreview.org/essay/primary-sources)
 - big list of color names: https://github.com/meodai/color-names
