@@ -654,7 +654,9 @@ DON'T GO CRAZY WITH FONT SIZES.
 
 ### Other Typography Resources
 
+- 5 minute guide to Typography https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography
 - Typography in 10 minutes https://medium.com/nextux/become-a-typography-nerd-in-under-10-minutes-5a7eda093cb3
+- typography for long form articles - https://css-tricks.com/designing-for-long-form-articles/
 - Font smoothing - [explained](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth)
 - Tool for learning what fonts other people use https://fontanello.oktavilla.se/
 - [FlowType.js](https://simplefocus.com/flowtype/)
