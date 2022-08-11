@@ -213,6 +213,7 @@ focus is fun/nostalgia
   - [XP.css](https://github.com/botoxparty/XP.css): A Windows XP inspired framework for building faithful recreations of operating system GUIs. An extension of 98.css.
   - [7.css](https://khang-nd.github.io/7.css/)
   - [System.css](https://sakofchit.github.io/system.css/) Retro Apple-inspired UI
+  - [Puppertino](https://github.com/codedgar/Puppertino)  meant to mimic the look of macOS. [demo](https://codedgar.github.io/Puppertino/)
   - [Commodore 64 CSS](http://pixelambacht.nl/2013/css3-c64/)
   - DOS: [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386): A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [Text UI CSS](https://github.com/vinibiavatti1/TuiCss): bios like UI's
