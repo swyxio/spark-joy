@@ -1865,6 +1865,9 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
 
 - web components https://wc-spinners.cjennings.dev/
 - Spinners https://tobiasahlin.com/spinkit/
+- You can make your button a spinner too:
+    - https://joebell.co.uk/sketches/loading-disco
+    - demo: https://twitter.com/joebell_/status/1557355193473585153
 - Buttons, hover, inputs, and loaders https://cssfx.netlify.com/
 - Conic gradient loader in CSS - [Codepen](https://codepen.io/keithclark/pen/aEbEoo)
 - React, Vue and Angular Spinners https://github.com/JoshK2/react-spinners-css
