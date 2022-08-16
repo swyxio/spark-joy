@@ -690,6 +690,7 @@ Here's a [more complete primer on color personalities](https://99designs.com/blo
 
 - https://twitter.com/LoanReads/status/1313974210151305218?s=20
 - https://www.colourblindawareness.org/colour-blindness/
+- use the concept of "luminance contrast" https://twitter.com/swyx/status/1351566026090053632
 
 <details>
 <summary>
