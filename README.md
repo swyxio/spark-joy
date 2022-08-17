@@ -2069,7 +2069,10 @@ free or mock data apis for demos
  
 - Dataset collections
   - [Graphext collection](https://www.notion.so/cf3e33e64b6c4a71a014c134b6149b37?v=37e53f0e8a464293909206f499fdcc2e) 91 datasets
-  - [Data.world](https://data.world/datasets/open-data) There are 133398 open data datasets available on 
+  - [Data.world](https://data.world/datasets/open-data) There are 133398 open data datasets available
+- SQL demos
+  - Northwind
+  - Chinook: https://github.com/lerocha/chinook-database
 - Tech
   - [GitHub Activity data](https://console.cloud.google.com/marketplace/details/github/github-repos?pli=1&project=uplifted-earth-144603) ([blog](https://cloud.google.com/blog/topics/public-datasets/github-on-bigquery-analyze-all-the-open-source-code)) This 3TB+ dataset comprises the largest released source of GitHub activity to date. It contains a full snapshot of the content of more than 2.8 million open source GitHub repositories including more than 145 million unique commits, over 2 billion different file paths, and the contents of the latest revision for 163 million files, all of which are searchable with regular expressions.
   - [Los Alamos cybersecurity data](https://csr.lanl.gov/data/cyber1/)
