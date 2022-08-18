@@ -131,6 +131,30 @@ HTML/CSS nice templates
 
 ### Serious CSS Frameworks
 
+#### Professional Design Systems
+
+- https://designsystemsrepo.com/
+- Government
+  - G10
+    - The UK: https://design-system.service.gov.uk/
+      - New Zealand is heavily based https://design-system-alpha.digital.govt.nz/
+    - The US: https://designsystem.digital.gov/
+    - Canada: https://www.canada.ca/en/government/about/design-system.html
+    - Russia: http://gov.design/
+    - Australia: https://designsystemau.org/
+    - France: https://www.systeme-de-design.gouv.fr/
+    - Germany: https://produkt.gsb.bund.de/DE/Home/home_node.html and https://styleguide.bundesregierung.de/sg-de/
+  - Other
+    - Argentina: https://argob.github.io/poncho/
+    - Greece: https://guide.services.gov.gr/
+    - Netherlands: https://www.rijkshuisstijl.nl/
+    - Italy: https://designers.italia.it/
+    - Singapore: https://www.designsystem.tech.gov.sg/
+  - Europe
+    - Estonia: https://brand.estonia.ee/
+    - Czech Republic: https://designsystem.gov.cz/
+    - Ukraine: https://diia.fedoriv.com/
+
 #### Heavier CSS Frameworks
 
 bigger learning curve, may have js, but more OOTB)
