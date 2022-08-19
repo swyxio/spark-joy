@@ -1991,7 +1991,6 @@ Makepad
 
 ThreeJS
 
-- LowPoly 3D models from Google https://poly.google.com/search/duck
 - https://www.kukla-kit.com/ Huge pack of 3D elements accessible directly from Figma.
 
 BabylonJS
