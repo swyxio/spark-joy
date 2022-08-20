@@ -1562,6 +1562,7 @@ Tutorials from successful Youtubers
 
 - meta theme-color https://github.com/sw-yx/swyxkit/issues/19
 - links https://cssanimation.rocks/animating-links/
+- multiline capable inline links https://twitter.com/JoshWComeau/status/1481697476327452676?s=20&t=bEY8vX8hmtGmMWQsFmSEcA
 - tooltips on hover
   - https://kazzkiq.github.io/balloon.css/
   - [niche tip on tooltips js perf](https://atfzl.com/don-t-attach-tooltips-to-document-body)
