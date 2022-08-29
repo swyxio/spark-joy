@@ -1462,6 +1462,7 @@ Image modification for hover effects: https://photomosh.com/
 
 - Generic editors
   - https://motionbox.io/ - Good in browser video editor - nice intros and outros, templates a bit limited but pretty good
+  - https://shotstack.io/ - Automate edit bulk videos with custom templates
   - https://invideo.io/ - good video maker with lots of nice generic templates and imports stock video
   - https://www.moovly.com/video-templates
   - https://animoto.com/ - drag and drop video maker. more elegant/real.
