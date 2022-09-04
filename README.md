@@ -35,6 +35,7 @@ _The Spark Joy philosophy is explained in further detail [in my book](https://le
   - [Palette Generators](#palette-generators)
   - [Color Gradients](#color-gradients)
   - [Color Theory](#color-theory)
+  - [Color Theory for Data Visualization](#color-theory-for-data-visualization)
 - [Backgrounds](#backgrounds)
   - [Background Gradients and Patterns](#background-gradients-and-patterns)
   - [Background Illustrations](#background-illustrations)
