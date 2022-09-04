@@ -828,7 +828,8 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 - https://www.joshwcomeau.com/gradient-generator/
 - gradients https://mybrandnewlogo.com/color-gradient-generator
 - CSS Gradient Text https://twitter.com/argyleink/status/1281623252662489088/photo/2
-- https://mycolor.space/gradient Generate a CSS Color Gradient
+- 🌟 https://mycolor.space/gradient Generate a CSS Color Gradient
+- https://huemint.com/ Huemint uses machine learning to create unique color schemes for your brand, website or graphic
 - https://webgradients.com/ free collection of 180 linear gradients
 - https://uigradients.com/#Petrichor
 - https://www.meshgradients.design/ 100 curated Mesh Gradients
@@ -855,12 +856,12 @@ Not tools but still important so here they are
 - [Justin Baker on Color Theory](https://medium.muz.li/the-ultimate-ux-guide-to-color-design-4d0a18a706ed)
 - [Convertkit on Color Theory](https://convertkit.com/color-theory)
 - [Josh Comeau on Color Palettes](https://courses.joshwcomeau.com/css-for-js/treasure-trove/014-color-palettes)
-- [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
+- [Stripe - Designing accessible color systems](https://stripe.com/blog/accessible-color-systems)
 - [How to do Dark Mode right](https://darkmodedesign.xyz/)
   - Zeno Rocha 5 tips for dark mode https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?ref=sidebar
 - [Inventorying and naming a Color Palette at UXPin](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
 - [Reasoning about Color](http://notes.neeasade.net/color-spaces.html) some light reading on color spaces and transforms (eg "pastelize" operation)
-- [Picking your palette](https://refactoringui.com/previews/building-your-color-palette/)
+- [Refactoring UI on Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette/)
 - [Numeric systems of color palettes explained](https://n8d.at/the-numeric-colour-palettes-in-modern-web-frameworks-explained)
 - [Monochromatic color scheme guide](https://www.vectornator.io/blog/monochromatic-colors)
 - [Canva's color wheel has a color theory guide](https://www.canva.com/colors/color-wheel/)
@@ -868,6 +869,9 @@ Not tools but still important so here they are
 
 - (fun) [history of primary colors](https://publicdomainreview.org/essay/primary-sources)
 - big list of color names: https://github.com/meodai/color-names
+- [RGM to Lab color space math](https://observablehq.com/@mbostock/lab-and-rgb)
+
+- (way too detailed) history and guide to color pickers https://bottosson.github.io/posts/colorpicker/
 
 ### Color Theory for Data Visualization
 
