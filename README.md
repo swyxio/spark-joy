@@ -888,12 +888,12 @@ Dataviz is a special category since it's not just design, but information. Credi
   - [D3 Color scales](https://github.com/d3/d3-scale-chromatic)
   - [Colorbrewer schemes](https://colorbrewer2.org/#type=sequential&scheme=YlOrBr&n=3)
   - [Matplotlib colormaps](https://matplotlib.org/stable/tutorials/colors/colormaps.html)
-- misc
-  - Books
-    - Chapter 4: [Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2/)
-    - [Art + Data: A Collection of Tableau Dashboards](https://www.amazon.com/dp/0998105740/ref=cm_sw_r_apa_i_D67GCR5WN3E1AS56PJQ3_0)
-    - [A Dictionary of Color Combinations](https://www.amazon.com/dp/4861522471/ref=cm_sw_r_api_i_WWRZD5HZMPK1PBHE79WV_0)
-    - [Visualize This: The FlowingData Guide to Design, Visualization, and Statistics](https://www.amazon.com/Visualize-This-FlowingData-Visualization-Statistics-ebook/dp/B005CCT19M)
+- Books
+  - Chapter 4: [Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2/)
+  - [Art + Data: A Collection of Tableau Dashboards](https://www.amazon.com/dp/0998105740/ref=cm_sw_r_apa_i_D67GCR5WN3E1AS56PJQ3_0)
+  - [A Dictionary of Color Combinations](https://www.amazon.com/dp/4861522471/ref=cm_sw_r_api_i_WWRZD5HZMPK1PBHE79WV_0)
+  - [Visualize This: The FlowingData Guide to Design, Visualization, and Statistics](https://www.amazon.com/Visualize-This-FlowingData-Visualization-Statistics-ebook/dp/B005CCT19M)
+- Misc recommended papers
   - [Somewhere Over the Rainbow: An Empirical Assessment of Quantitative Colormaps. Yang Liu, Jeffrey Heer. ACM CHI 2018.](http://idl.cs.washington.edu/papers/quantitative-color/)
   - [Colorgorical: Creating Discriminable and Preferable Color Palettes for Information Visualization. Connor Gramazio, David Laidlaw & Karen Schloss. IEEE Transactions on Visualization and Computer Graphics. 2017.](http://gramaz.io/pdf/gramazio-2016-ccd.pdf)
   
