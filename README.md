@@ -176,15 +176,15 @@ bigger learning curve, may have js, but more OOTB)
 
 lighter, no js. preview some of these with https://sites.yax.com/
 
-- [Spectre.css](https://picturepan2.github.io/spectre/getting-started/installation.html)
 - 🌟 https://latex.vercel.app/
+- 🌟 https://andybrewer.github.io/mvp/
+- [Spectre.css](https://picturepan2.github.io/spectre/getting-started/installation.html)
 - https://purecss.io/
 - https://picocss.com/
 - https://gdcss.netlify.app/ (inspired by UK design system)
 - https://simplecss.org/demo
 - https://ajusa.github.io/lit/
 - https://screencss.com/
-- https://andybrewer.github.io/mvp/
 - https://github.com/xz/new.css
 - https://github.com/oxalorg/sakura
 - https://native-elements.dev/
