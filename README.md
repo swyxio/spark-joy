@@ -176,27 +176,28 @@ bigger learning curve, may have js, but more OOTB)
 
 lighter, no js. preview some of these with https://sites.yax.com/
 
-- 🌟 https://latex.vercel.app/
-- 🌟 https://andybrewer.github.io/mvp/
-- [Spectre.css](https://picturepan2.github.io/spectre/getting-started/installation.html)
-- https://purecss.io/
-- https://picocss.com/
+- No CSS Classes - Pure HTML
+  - 🌟 https://andybrewer.github.io/mvp/ mvp.css 
+  - https://yegor256.github.io/tacit/
+  - https://github.com/alvaromontoro/almond.css has [thin fonts](https://news.ycombinator.com/item?
+  - https://picocss.com/ Elegant styles for all natives HTML elements without .classes and dark mode automatically enabled.
+  - https://simplecss.org/demo 4kb incl dark mode
+  - https://watercss.kognise.dev/ Small size (< 2kb)
+  - https://github.com/xz/new.css 4.8kb sets some sensible defaults and styles your HTML to look reasonable. It's perfect for: A dead-simple blog, Collecting your most used links, Making a simple "about me" site, Rendering markdown-generated HTML
+  - https://github.com/oxalorg/sakura supports extremely easy theming using variables for duotone color scheming. It comes with several existing themes, which can be found in the css folder of this repository.
+  - https://github.com/susam/spcss
+  - https://github.com/neocities/element (inactive now)
+- [Spectre.css](https://picturepan2.github.io/spectre/index.html) lightweight (10kb), responsive and modern CSS framework for faster and extensible development.
+- https://purecss.io/ A set of small (3.7kb), responsive CSS modules that you can use in every web project.
 - https://gdcss.netlify.app/ (inspired by UK design system)
-- https://simplecss.org/demo
-- https://ajusa.github.io/lit/
-- https://screencss.com/
-- https://github.com/xz/new.css
-- https://github.com/oxalorg/sakura
-- https://native-elements.dev/
-- https://watercss.kognise.dev/
+- https://ajusa.github.io/lit/ lit has two modules: lit and util. lit contains all of the basics for a framework, such as a responsive grid, typography, and other elements. util has many CSS utility classes that can be used to extend lit, or any CSS framework.
 - https://luxacss.com/
-- https://jenil.github.io/chota/
+- https://jenil.github.io/chota/ good looking, lots of classes and utilities yet small
 - https://chr15m.github.io/DoodleCSS/ hand drawn look
-- https://github.com/susam/spcss
-- https://elementcss.neocities.org/
 - https://codepen.io/web-dot-dev/pen/abpoXGZ the base classes for web.dev/learn/csss
-- https://open-props.style/ css variables framework - "tailwind without tailwind"
-- https://github.com/alvaromontoro/almond.css classless css framework. [thin fonts](https://news.ycombinator.com/item?id=30497165).
+- https://open-props.style/ css variables framework - "tailwind without tailwind"id=30497165).
+- https://latex.vercel.app/ style your website like a LATEX document
+- https://github.com/gduverger/screen (inactive now)
 - Collections of even more:
   - https://github.com/dohliam/dropin-minimal-css
   - https://github.com/dbohdan/classless-css
