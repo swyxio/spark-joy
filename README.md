@@ -194,6 +194,7 @@ lighter, no js. preview some of these with https://sites.yax.com/
 - https://chr15m.github.io/DoodleCSS/ hand drawn look
 - https://github.com/susam/spcss
 - https://elementcss.neocities.org/
+- https://yegor256.github.io/tacit/
 - https://codepen.io/web-dot-dev/pen/abpoXGZ the base classes for web.dev/learn/csss
 - https://open-props.style/ css variables framework - "tailwind without tailwind"
 - https://github.com/alvaromontoro/almond.css classless css framework. [thin fonts](https://news.ycombinator.com/item?id=30497165).
