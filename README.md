@@ -2014,6 +2014,7 @@ https://emptystat.es/
 
 - [Curtains.js](https://www.curtainsjs.com/) ([example](https://codepen.io/martinlaxenaire/post/webgl-enhanced-drag-slider-tutorial-with-curtains-js-part-3))
 - [Polygonjs](https://polygonjs.com/) open-source, node-based WebGL design tool, to create 3D scenes procedurally.
+- https://github.com/shuding/cobe - webgl globe ([tweet]([url](https://twitter.com/shuding_/status/1475916082875666441?s=20)), [stripe](https://twitter.com/ZachSaucier/status/1569816382274945026?s=20&t=X05jU6q8ZWzymTF44CIFNQ))
 
 Makepad
 
