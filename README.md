@@ -937,6 +937,7 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 
 #### Background Patterns
 
+- https://trianglify.io/ low polly pattern generator
 - https://leaverou.github.io/css3patterns/
 - https://github.com/bansal-io/pattern.css
 - http://www.heropatterns.com/ SVG Repeating Patterns Generator
