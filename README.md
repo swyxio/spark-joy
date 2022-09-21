@@ -2115,6 +2115,7 @@ free or mock data apis for demos
   - https://swapi.dev/ - theres a graphql swapi as well
   - https://pokeapi.co/api/v2/
 - Misc
+  - mock fake user events https://github.com/andresionek91/fake-web-events
   - https://openweathermap.org/guide
   - https://github.com/public-apis/public-apis
     - https://github.com/public-api-lists/public-api-lists
