@@ -1295,6 +1295,7 @@ Mocking your browser/phone
 - in context: [Device Mock-Up Inspiration](https://onepagelove.com/tag/devices)
 - [Lstore Graphics](https://www.ls.graphics/) – Includes video
 - [Creative Market](https://creativemarket.com/templates/mockups/mobile-web) device mockups
+- [Pika](https://pika.style): screenshot, website and device mockups (Paid, $99 one time)
 
 ### Illustrations
 
