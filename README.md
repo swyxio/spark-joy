@@ -1596,6 +1596,7 @@ Tutorials from successful Youtubers
   ```
 
 - meta theme-color https://github.com/sw-yx/swyxkit/issues/19
+- dont use default number input attributes - do it all in js https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/
 - links https://cssanimation.rocks/animating-links/
 - multiline capable inline links https://twitter.com/JoshWComeau/status/1481697476327452676?s=20&t=bEY8vX8hmtGmMWQsFmSEcA
 - tooltips on hover
