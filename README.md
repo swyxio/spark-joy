@@ -2205,6 +2205,7 @@ free or mock data apis for demos
 - [You can create a great looking website while sucking at design](https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/)
 - [Laws of UX](https://lawsofux.com/)
 - [100 Things I Know About Design](https://odannyboy.medium.com/100-things-i-know-about-design-8e50f7b1818b)
+- [The self taught UI/UX designer roadmap](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
 - https://learnui.design/blog/4-rules-intuitive-ux.html
   - Obey the Law of Locality
   - Anything But Dropdowns
