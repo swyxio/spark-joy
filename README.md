@@ -101,6 +101,7 @@ _The Spark Joy philosophy is explained in further detail [in my book](https://le
   - [Mock APIs](#mock-apis)
   - [Useful big datasets](#useful-big-datasets)
   - [Copy and Emails](#copy-and-emails)
+  - [UI Design Challenges and Copywork](#ui-design-challenges-and-copywork)
   - [Other Lists like this one](#other-lists-like-this-one)
   - [Helpful podcasts/talks/articles](#helpful-podcaststalksarticles)
   - [More Free Stuff](#more-free-stuff)
