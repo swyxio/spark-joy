@@ -2173,6 +2173,14 @@ free or mock data apis for demos
 
 - https://www.goodemailcopy.com/
 - https://www.swipefiles.co/
+  
+### UI Design Challenges and Copywork
+  
+- https://fakeclients.com/ui
+- https://uxtools.co/challenges/
+- https://www.frontendpractice.com/
+- https://www.codewell.cc/
+- https://cssbattle.dev/
 
 ### Other Lists like this one
 
