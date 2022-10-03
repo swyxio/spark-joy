@@ -2135,6 +2135,7 @@ free or mock data apis for demos
   - [Graphext collection](https://www.notion.so/cf3e33e64b6c4a71a014c134b6149b37?v=37e53f0e8a464293909206f499fdcc2e) 91 datasets
   - [Data.world](https://data.world/datasets/open-data) There are 133398 open data datasets available
   - https://www.data-is-plural.com/ dataset newsletter
+  - https://upscale.wiki/wiki/Dataset_Database for training image upscalers
 - SQL demos
   - Northwind
   - Chinook: https://github.com/lerocha/chinook-database
