@@ -2141,6 +2141,16 @@ free or mock data apis for demos
   - [Data.world](https://data.world/datasets/open-data) There are 133398 open data datasets available
   - https://www.data-is-plural.com/ dataset newsletter
   - https://upscale.wiki/wiki/Dataset_Database for training image upscalers
+  - https://huggingface.co/datasets
+  - https://datasets.quantumstat.com
+  - https://paperswithcode.com/datasets
+  - https://registry.opendata.aws
+  - https://docs.microsoft.com/en-us/azure/azure-sql/public-data-sets
+  - https://guides.library.cmu.edu/az.php Carnegie Mellon University listing of 750 databases, datasets, and research support tools.
+  - Google datasets https://datasetsearch.research.google.com
+  - Awesome Public Datasets https://github.com/awesomedata/awesome-public-datasets
+  - Kaggle Datasets https://kaggle.com/datasets
+  - The home of the U.S. Government’s open data https://data.gov
 - SQL demos
   - Northwind
   - Chinook: https://github.com/lerocha/chinook-database
