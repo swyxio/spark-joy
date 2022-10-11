@@ -375,6 +375,52 @@ When in doubt, use Material Layout: https://material.io/design/layout/responsive
   - xl: 1280px
   - 2xl: 1536px
 
+### Layout Bleed
+
+A nice bleed lets you put emphasis on things selectively.
+
+You want a normal width, a popout width, and a "full bleed" width. Optional for an intermediate one.
+
+This is the best version of bleed implementation https://ryanmulligan.dev/blog/layout-breakouts/
+  - borrows from joshwcomeau.com/css/full-bleed/
+
+```css
+.content {
+  --gap: clamp(1rem, 6vw, 3rem);
+  --full: minmax(var(--gap), 1fr);
+  --content: min(50ch, 100% - var(--gap) * 2);
+  --popout: minmax(0, 2rem);
+  --feature: minmax(0, 5rem);
+
+  display: grid;
+  grid-template-columns:
+    [full-start] var(--full)
+    [feature-start] var(--feature)
+    [popout-start] var(--popout)
+    [content-start] var(--content) [content-end]
+    var(--popout) [popout-end]
+    var(--feature) [feature-end]
+    var(--full) [full-end];
+}
+```
+
+Then you can selectively use the `popout`, `feature`, and `full` classes as needed
+
+```css
+.content > * {
+  grid-column: content;
+}
+.popout {
+  grid-column: popout;
+}
+.feature {
+  grid-column: feature;
+}
+.full {
+  grid-column: full;
+}
+```
+
 ### Other Layout Tools and tips
 
 - 🌟 https://every-layout.dev/
