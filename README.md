@@ -22,6 +22,7 @@ _The Spark Joy philosophy is explained in further detail [in my book](https://le
   - [Stacking and Elevation](#stacking-and-elevation)
   - [2D Spacing](#2d-spacing)
   - [Responsive Layout Breakpoints](#responsive-layout-breakpoints)
+  - [Layout Bleed](#layout-bleed)
   - [Other Layout Tools and tips](#other-layout-tools-and-tips)
 - [Typography](#typography)
   - [Fonts](#fonts)
