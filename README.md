@@ -383,26 +383,53 @@ A nice bleed lets you put emphasis on things selectively.
 You want a normal width, a popout width, and a "full bleed" width. Optional for an intermediate one.
 
 This is the best version of bleed implementation https://ryanmulligan.dev/blog/layout-breakouts/
-  - borrows from joshwcomeau.com/css/full-bleed/
+  (borrows from https://joshwcomeau.com/css/full-bleed/)
+
+This is adapted to be responsive
 
 ```css
-.content {
-  --gap: clamp(1rem, 6vw, 3rem);
-  --full: minmax(var(--gap), 1fr);
-  --content: min(50ch, 100% - var(--gap) * 2);
-  --popout: minmax(0, 2rem);
-  --feature: minmax(0, 5rem);
+<style>
+	/* https://ryanmulligan.dev/blog/layout-breakouts/ */
+	.swyxcontent {
+		--gap: clamp(1rem, 6vw, 3rem);
+		--full: minmax(var(--gap), 1fr);
+		--content: min(65ch, 100% - var(--gap) * 2);
+		--popout: minmax(0, 2rem);
+		--feature: minmax(0, 5rem);
 
-  display: grid;
-  grid-template-columns:
-    [full-start] var(--full)
-    [feature-start] var(--feature)
-    [popout-start] var(--popout)
-    [content-start] var(--content) [content-end]
-    var(--popout) [popout-end]
-    var(--feature) [feature-end]
-    var(--full) [full-end];
-}
+		display: grid;
+		grid-template-columns: 
+			[full-start]
+			[feature-start]
+			[popout-start]
+			[content-start] var(--content) [content-end]
+			[feature-end]
+			[popout-end]
+			[feature-end]
+			[full-end]
+	}
+
+	@media (min-width: 640px) {
+		.swyxcontent {
+			grid-template-columns:
+				[full-start] var(--full)
+				[feature-start] var(--feature)
+				[popout-start] var(--popout)
+				[content-start] var(--content) [content-end]
+				var(--popout) [popout-end]
+				var(--feature) [feature-end]
+				var(--full) [full-end];
+		}
+	}
+
+	:global(.swyxcontent > *) {
+		grid-column: content;
+	}
+
+	article :global(pre) {
+		grid-column: feature;
+	}
+</style>
 ```
 
 Then you can selectively use the `popout`, `feature`, and `full` classes as needed
