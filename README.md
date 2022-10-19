@@ -1078,9 +1078,11 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 - Remove ANYTHING (AMAZING) 
   - https://cleanup.pictures/
   - https://cleanupphotos.com/
+- colorizing black and white images 
+	- https://demos.algorithmia.com/colorize-photos
 - relight images https://clipdrop.co/relight https://twitter.com/dh7net/status/1567813168990232578
 - edit photo in browser no BS https://edit.photo/
-- colorizing black and white images https://demos.algorithmia.com/colorize-photos
+	- AI Colorizer https://palette.fm/
 - https://animatedbackgrounds.me/
 
 ## Icons and Favicons
