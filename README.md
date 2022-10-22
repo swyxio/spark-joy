@@ -1846,6 +1846,7 @@ Tools:
 - Split text animations https://web.dev/building-split-text-animations/
 - https://party.js.org/ add particle effects to a web page, specifically confetti and sparkles.
 - Duotone blend modes: https://jmperezperez.com/duotone-using-css-blend-modes/
+	- full guide to blend modes https://typefully.com/DanHollick/blending-modes-KrBa0JP
 - Decovar Font with Text shadows: https://codepen.io/mandymichael/details/dJZQaz (and other [Variable Fonts by Mandy](https://variablefonts.dev/))
 - Drop shadows: `box-shadow: 10px 12px 0.5rem rgba(0,0,0,0.5);`
 - Expanding Search buton and text from Ana Tudor [mentioned here](https://dev.to/chriscoyier/learn-about-css-custom-properties-through-clever-uses-of-them-2fjo)
