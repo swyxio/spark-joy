@@ -1365,6 +1365,7 @@ Mocking your browser/phone
 - Macbook: https://magicmockups.com
 - animate them, why not https://deviceful.app/
 - phone/watch: https://www.rotato.xyz/
+  - including making 3d video!!! https://rotato.app/ example https://twitter.com/0xca0a/status/1583504417004789763?s=46&t=xS8iIAOyRQhHzWI8mn4Owg
 - other devices https://deviceshots.com/
 - 3D mocks: https://things.morflax.com/styles
 - 🔥 [Facebook Design Devices](https://facebook.design/devices)
