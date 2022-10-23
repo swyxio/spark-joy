@@ -1443,6 +1443,7 @@ Illo's in context: https://onepagelove.com/tag/illustrations
 - https://spline.design/ Easily create and publish 3D web experiences. Build and iterate fast with production-ready results.
 
 Learn 3d illo in blender https://polygonrunway.com/
+- https://news.ycombinator.com/item?id=33273022
 
 ### Handwritten Look
 
