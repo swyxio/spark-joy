@@ -1193,6 +1193,7 @@ other boilerplates to use
 - https://iconic.app/
 - Google icons https://fonts.google.com/icons
 - Material Design https://materialdesignicons.com/ https://material.io/resources/icons/?style=baseline
+- Circum Icons https://circumicons.com Consistent open source icons as SVG for React, Vue and Svelte.
 - **icon metasearch** (list of lists of icons)
   - https://icones.netlify.app/
   - https://www.iconbolt.com/
