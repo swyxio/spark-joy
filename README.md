@@ -1763,6 +1763,7 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 ### Datepickers
 
 - https://github.com/Pikaday/Pikaday
+- https://twitter.com/timolins/status/1429761631471480838
 
 ### Sound
 
