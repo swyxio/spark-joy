@@ -1067,6 +1067,7 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 - CSS Doodle https://css-doodle.com/
 - CSS backgroundy patterns https://leaverou.github.io/css3patterns/
 - this guy https://twitter.com/yuanchuan23
+- super adanced pokemon shiny card gradients https://github.com/simeydotme/pokemon-cards-css
 - Generative Gradients http://generative-placeholders.glitch.me/
   - Generateive SVG https://dev.to/georgedoescode/a-generative-svg-starter-kit-5cm1
 - Image Placeholders - blurring - https://blurha.sh/ (and gatsby image and nextjs image)
