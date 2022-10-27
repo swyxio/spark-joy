@@ -552,6 +552,7 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
     - https://www.programmingfonts.org/ ([discussion](https://news.ycombinator.com/item?id=32032029))
     - [14 free programming fonts](https://twitter.com/zenorocha/status/1359508613606199301?s=20)
   - Variable fonts: https://whirlybirdie.com/
+	  - Erik Kennedy font https://mobile.twitter.com/erikdkennedy/status/1575135945359097864 	
   - Novelty: http://velvetyne.fr/
   - [use a Uniwidth font (not monospace) for interface design](https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7)
 - Fonts have [fashions/trends](https://twitter.com/jgulden/status/1507467476807806979?s=21). current vogue is Inter.
