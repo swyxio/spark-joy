@@ -307,6 +307,7 @@ more control in exchange for more work on your part.
   - Tailwind UI
   - Flowbite React
   - Material UI
+  - https://www.tremor.so/ Simple and modular components to build dashboards in a breeze. Fully open-source, made by data scientists and software engineers with a sweet spot for design.
 - [Radix UI](https://www.radix-ui.com/) Unstyled, accessible components for building high‑quality design systems and web apps in React.
 - [Mantine](https://mantine.dev/) More than 120 customizable components and hooks to cover you in any situation.
 - https://nextui.org/ uses Stitches, includes light and dark UI components out-of-the-box along with a default color palette that might be good for quickly building landing pages or other content that’s not initially tied to any branding.
@@ -793,6 +794,7 @@ Here's a [more complete primer on color personalities](https://99designs.com/blo
 - https://twitter.com/LoanReads/status/1313974210151305218?s=20
 - https://www.colourblindawareness.org/colour-blindness/
 - use the concept of "luminance contrast" https://twitter.com/swyx/status/1351566026090053632
+- https://randoma11y.com/?color=springgreen
 
 <details>
 <summary>
