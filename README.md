@@ -1808,13 +1808,15 @@ Tools:
 
 ### Lightweight Charts/Dataviz
 
-- https://rbitr.github.io/ChartS.css/ The point of C💚SS.css is to allow easy creation of simple charts for documentation, data storytelling / journalism, etc. It features plots of 1-D lists, and has a custom markdown filter that converts suitably formatted lists directly to charts. It has no dependencies (other than a modern browser), and is very small compared to javascript based charting tools. The html is based on <ul> lists and will collapse back to readible lists in the absence of css support, making it accessible to all readers. It is open source and easily configurable according to project needs.
+- https://rbitr.github.io/ChartS.css/ 
+	- easy creation of simple charts for documentation, data storytelling / journalism, etc. It features plots of 1-D lists, and has a custom markdown filter that converts suitably formatted lists directly to charts. It has no dependencies (other than a modern browser), and is very small compared to javascript based charting tools. The html is based on <ul> lists and will collapse back to readible lists in the absence of css support, making it accessible to all readers. It is open source and easily configurable according to project needs.	
 - Apache E Charts https://echarts.apache.org/en/index.html
 - https://chartscss.org/ Charts.css is a modern CSS framework. It uses CSS utility classes to style HTML elements as charts.
 - Sparkline fonts in text: https://github.com/aftertheflood/sparks and https://www.scribbletone.com/typefaces/ff-chartwell
 - https://vizzuhq.com/
 - https://docs.anychart.com/Basic_Charts/Stacked/Value/Vertical_Area_Chart
 - https://antv.vision/en
+- https://stephenhutchings.github.io/shown/ Statically-generated, responsive charts, without the need for client-side Javascript.
 
 ### Dashboarding
 
