@@ -1715,6 +1715,7 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 
 - Segmented Buttons (Horizontal or Vertical)
 - Checkbox
+	- https://getcssscan.com/css-checkboxes-examples 60+ beautiful checkboxes
 - Switch
 - Radio button
 - Cards and Visual options (images as buttons)
