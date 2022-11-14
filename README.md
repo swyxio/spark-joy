@@ -1636,6 +1636,7 @@ Tutorials from successful Youtubers
 - https://multiavatar.com
 - https://personas.draftbit.com/ A playful avatar generator for the modern age.
 - https://avataaars.com/ and https://getavataaars.com/
+- https://readyplayer.me/avatar 3d customizable avatars
 - https://bigheads.io/
 - https://joeschmoe.io/ An illustrated avatar collection for
   developers and designers
