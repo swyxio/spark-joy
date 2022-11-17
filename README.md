@@ -1339,6 +1339,8 @@ further reading
 - https://wavedrom.com/ (OSS) - Digital Timing Diagram or Waveform from simple textual description.
 - way more tools here: https://xosh.org/text-to-diagram/
 
+Node based GUIs: https://github.com/wbkd/awesome-node-based-uis
+
 ## Graphics and SVG Illustrations
 
 - https://hipsterlogogenerator.com/
