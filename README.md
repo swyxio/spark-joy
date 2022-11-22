@@ -1329,12 +1329,14 @@ further reading
 ### Code-based Graph tools
 
 - https://gojs.net/latest/samples/decisionTree.html interactive diagrams
-- graphviz/dot - useful inside jupyter
-- mermaid https://mermaid-js.github.io/mermaid/
+- 4 major text-to-graph langauges (Comparison https://text-to-diagram.com/)
+	- mermaid https://mermaid-js.github.io/mermaid/
+	- https://plantuml.com/
+	- https://github.com/terrastruct/d2
+	- graphviz/dot - useful inside jupyter
 - http://blockdiag.com/en/
 - python's `diagrams` https://pypi.org/project/diagrams/
 - https://structurizr.com/
-- https://plantuml.com/
 - https://github.com/mhlabs/cfn-diagram visualize cloudformation -> draw.io
 - https://wavedrom.com/ (OSS) - Digital Timing Diagram or Waveform from simple textual description.
 - way more tools here: https://xosh.org/text-to-diagram/
