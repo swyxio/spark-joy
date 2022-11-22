@@ -2160,6 +2160,7 @@ BabylonJS
 - https://pttrns.com/
 - https://thefwa.com/
 - steve schoger ui ux inspo list https://twitter.com/steveschoger/status/1215673997725196288?s=20
+- https://landings.dev/
 
 ### Game design inspo
 
