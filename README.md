@@ -1386,6 +1386,8 @@ Mocking your browser/phone
 - [Creative Market](https://creativemarket.com/templates/mockups/mobile-web) device mockups
 - [Pika](https://pika.style): screenshot, website and device mockups (Paid, $99 one time)
 
+Record your device https://www.screen.studio/
+
 ### Illustrations
 
 - https://www.reddit.com/r/FreeIllustrations/top?t=all
