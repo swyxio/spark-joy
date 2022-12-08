@@ -244,6 +244,7 @@ focus is fun/nostalgia
   - [Puppertino](https://github.com/codedgar/Puppertino)  meant to mimic the look of macOS. [demo](https://codedgar.github.io/Puppertino/)
   - [Commodore 64 CSS](http://pixelambacht.nl/2013/css3-c64/)
   - DOS: [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386): A vintage 1980s DOS inspired Twitter Bootstrap theme
+  - [a2k](https://a2000-docs.netlify.app/): A Windows 2000 inspired web component library
 - [Text UI CSS](https://github.com/vinibiavatti1/TuiCss): bios like UI's
 - [New Dawn](https://github.com/npjg/new-dawn): A mac classic After Dark inspired stylesheet.
 - [Geocities Bootstrap theme](https://code.divshot.com/geo-bootstrap/)
