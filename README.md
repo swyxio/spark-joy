@@ -1455,6 +1455,7 @@ Illo's in context: https://onepagelove.com/tag/illustrations
 - https://www.shapefest.com/ 160,000+ high resolution PNG images of beautiful 3D shapes
 - https://powerpeopleplatform.com/ delicious design library of 3D avatars
 - https://spline.design/ Easily create and publish 3D web experiences. Build and iterate fast with production-ready results.
+- https://news.ycombinator.com/item?id=33845291 - Blockbench - low poly blender altnerative
 
 Learn 3d illo in blender https://polygonrunway.com/
 - https://news.ycombinator.com/item?id=33273022
