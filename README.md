@@ -2008,6 +2008,7 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
   - https://svgartista.net/ basic fill and stroke animations
   - https://www.svgator.com/ dedicated editor for SVG animations with plenty of dedicated panels for everything from skewing to stroke path and filters
   - GSAP, SVG.js (http://www.svgjs.com/), Lottie
+  - SVG animation tool https://svija.love/animation
 
 
 ## Animations & Transitions
