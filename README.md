@@ -2188,6 +2188,7 @@ free or mock data apis for demos
 
 - Simple Data
   - http://quotes.rest/
+  - https://dogapi.dog/docs/api-v2 (just data, no pics)
   - https://api.chucknorris.io/
   - https://jokeapi.dev/ https://v2.jokeapi.dev/joke/Any\?type\=single\&blacklistFlags=nsfw,racist,sexist,explicit
   - https://dev.to/dailydevtips1/15-better-lorem-ipsum-generators-3f99
