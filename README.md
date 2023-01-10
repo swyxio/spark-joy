@@ -903,10 +903,11 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
 
 ### Color Gradients
 
-Note: Default gradients often have "hard edges" that are too rough. ([example](https://twitter.com/JoshWComeau/status/1401926170589863946), [example](https://twitter.com/finmoorhouse/status/1543580508508065794?s=21&t=PBDS5C7C4FeqBA0wctOaCQ)). You can use [esaing gradients](https://larsenwork.com/easing-gradients/) in future.
+Note: Default gradients often have "hard edges" that are too rough. ([example](https://twitter.com/JoshWComeau/status/1401926170589863946), [example](https://twitter.com/finmoorhouse/status/1543580508508065794?s=21&t=PBDS5C7C4FeqBA0wctOaCQ)). [Add a third color stop in the middle and boost saturation](https://twitter.com/erikdkennedy/status/1612867685192466432?s=20). You can use [esaing gradients](https://larsenwork.com/easing-gradients/) in future.
 
 - https://www.joshwcomeau.com/gradient-generator/
 - gradients https://mybrandnewlogo.com/color-gradient-generator
+- vivid gradient generator https://www.learnui.design/tools/gradient-generator.html
 - CSS Gradient Text https://twitter.com/argyleink/status/1281623252662489088/photo/2
 - 🌟 https://mycolor.space/gradient Generate a CSS Color Gradient
 - https://huemint.com/ Huemint uses machine learning to create unique color schemes for your brand, website or graphic
