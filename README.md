@@ -1936,6 +1936,7 @@ Tools:
     - Designing Beautiful Shadows in CSS https://www.joshwcomeau.com/css/designing-shadows/
   - https://www.joshwcomeau.com/shadow-palette/ (https://css-tricks.com/shadow-palette-generator/)
   - Card border Generator https://card.surge.sh/
+  - Broider - 9-patch css grid borders https://maxbittker.github.io/broider/
   - CSS Scroll Shadows https://css-scroll-shadows.now.sh/
   - Conic gradient borders https://twitter.com/argyleink/status/1282889809782927360
   - Components.ai box shadows https://components.ai/box-shadows
