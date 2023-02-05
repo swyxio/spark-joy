@@ -862,6 +862,7 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
 - https://duo.alexpate.uk/
 - https://colorhunt.co/
 - https://2colors.colorion.co/
+- https://meodai.github.io/poline/ Poline - enigmatic color palette generator
 - https://www.colorsandfonts.com/color-palettes
 - https://dribbble.com/colors/4030e8
 - https://palettte.app/ (advanced tool; try importing the default palettes)
