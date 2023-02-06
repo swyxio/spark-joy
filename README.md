@@ -1316,6 +1316,7 @@ useful eg if needs logos
 
 - Amazon architecture icons: https://aws.amazon.com/architecture/icons/ as well as the software that has them built in
   - https://awsicons.dev/ AWS icons
+- Google Cloud icons, cheat sheet and other assets: https://cloud.google.com/icons
 - https://www.draw.io/
 - https://www.lucidchart.com/
 - https://www.omnigroup.com/omnigraffle/ (used by tim bray)
