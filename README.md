@@ -914,7 +914,6 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 - https://huemint.com/ Huemint uses machine learning to create unique color schemes for your brand, website or graphic
 - https://webgradients.com/ free collection of 180 linear gradients
 - https://uigradients.com/#Petrichor
-- https://www.meshgradients.design/ 100 curated Mesh Gradients
 - https://gradient-king.vercel.app/
 - https://learnui.design/tools/gradient-generator.html (to avoid [the "gray zone" problem](https://css-tricks.com/the-gray-dead-zone-of-gradients/))
 - Adam Argyle conic CSS gradient examples https://www.conic.style/
@@ -1013,7 +1012,6 @@ background-image: linear-gradient(
 Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-linear-gradients/
 
 - https://meshgradient.com/ swirly backgrounds like apple
-- https://www.meshgradients.design/
 - https://meshgradient.in/ generate mesh gradient backgrounds
 
 #### Background Patterns
