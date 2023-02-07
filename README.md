@@ -2351,6 +2351,7 @@ free or mock data apis for demos
 - web interface handbook https://imperavi.com/books/web-interface-handbook/
 - [Design Principles](https://principles.design/)
   - [7 Gestalt Principles of Design](https://ux360.design/gestalt-principles-design)
+- [Visual design rules you can safely follow](https://anthonyhobday.com/sideprojects/saferules/)
 - https://twitter.com/mrcndrw/status/1283078825870532609
 - https://internetdevels.com/blog/the-10-commandments-of-user-interface-design ([infographic](https://www.designmantic.com/blog/infographics/the-10-commandments-of-ui-design/))
 - 3 most common mistakes of UI design by [MDS](https://robhope.com/yo-mds)
