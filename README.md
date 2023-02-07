@@ -2352,6 +2352,31 @@ free or mock data apis for demos
 - [Design Principles](https://principles.design/)
   - [7 Gestalt Principles of Design](https://ux360.design/gestalt-principles-design)
 - [Visual design rules you can safely follow](https://anthonyhobday.com/sideprojects/saferules/)
+    - Use near-black and near-white instead of pure black and white 
+    - Saturate your neutrals 
+    - Use high contrast for important elements 
+    - Everything in your design should be deliberate 
+    - Optical alignment is often better than mathematical alignment 
+    - Lower letter spacing and line height with larger text. Raise them with smaller text 
+    - Container borders should contrast with both the container and the background 
+    - Everything should be aligned with something else 
+    - Colours in a palette should have distinct brightness values 
+    - If you saturate your neutrals you should use warm or cool colours, not both 
+    - Measurements should be mathematically related 
+    - Elements should go in order of visual weight 
+    - If you use a horizontal grid, use 12 columns 
+    - Spacing should go between points of high contrast 
+    - Closer elements should be lighter 
+    - Make drop shadow blur values double their distance values 
+    - Put simple on complex or complex on simple 
+    - Keep container colours within brightness limits 
+    - Make outer padding the same or more than inner padding 
+    - Keep body text at 16px or above 
+    - Use a line length around 70 characters 
+    - Make horizontal padding twice the vertical padding in buttons 
+    - Use two typefaces at most 
+    - Nest corners properly 
+    - Don’t put two hard divides next to each other
 - https://twitter.com/mrcndrw/status/1283078825870532609
 - https://internetdevels.com/blog/the-10-commandments-of-user-interface-design ([infographic](https://www.designmantic.com/blog/infographics/the-10-commandments-of-ui-design/))
 - 3 most common mistakes of UI design by [MDS](https://robhope.com/yo-mds)
