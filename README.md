@@ -923,6 +923,7 @@ Note: Default gradients often have "hard edges" that are too rough. ([example](h
 - Subtle gradients by bumping only saturation on HSL (thanks [argyleink](https://twitter.com/argyleink/status/1197205254623780864)) - You can [really take this to the extreme](https://twitter.com/argyleink/status/1216815958917992450?s=20)!
 - Tailwind
   - https://hypercolor.dev/
+- Gradient designer with interpolation in various color spaces https://akx.github.io/gradient/
 
 ### Color Theory
 
