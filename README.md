@@ -2065,6 +2065,8 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
 
 ### Onboarding 
 
+On tutorials vs contextual tips: https://www.nngroup.com/articles/onboarding-tutorials/
+
 Feature tours
 
 - https://www.appcues.com/ show people things they need as they need them
