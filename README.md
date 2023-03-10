@@ -1197,6 +1197,7 @@ other boilerplates to use
   - "[Lucide](https://lucide.dev/) is a very active fork of Feather and what I’ve been using for the past few years instead. Feather is great as are their design guidelines, but it needs way way more icons. Lucide picks up beautifully where it left off."
 - https://iconoir.com/ free open source library with 1000+ SVG Icons, designed on a 24x24 pixels grid
 - https://iconic.app/
+- https://teenyicons.com/ tiny minimal 1px icons
 - Google icons https://fonts.google.com/icons
 - Material Design https://materialdesignicons.com/ https://material.io/resources/icons/?style=baseline
 - Circum Icons https://circumicons.com Consistent open source icons as SVG for React, Vue and Svelte.
