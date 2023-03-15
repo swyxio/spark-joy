@@ -533,6 +533,8 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
 - [Some systems come with good premium fonts](https://twitter.com/MatiasEduardoPR/status/1093508700378144768?s=20) - Apple OSes have `“avenir next”, “avenir”, “proxima-nova”`
 
 </details>
+
+See also [Modern Font Stacks](https://modernfontstacks.com/) - [discussion](https://news.ycombinator.com/item?id=35168652)
     
   - Simple: `font-family: system-ui, -apple-system, sans-serif;` ([has issues on old browsers + asian langauges]([url](https://news.ycombinator.com/item?id=31544075) - github and bootstrap have removed it fwiw))
   - Sans-serif `font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;`
