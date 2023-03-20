@@ -248,6 +248,7 @@ focus is fun/nostalgia
 - [Text UI CSS](https://github.com/vinibiavatti1/TuiCss): bios like UI's
 - [New Dawn](https://github.com/npjg/new-dawn): A mac classic After Dark inspired stylesheet.
 - [Geocities Bootstrap theme](https://code.divshot.com/geo-bootstrap/)
+- [Metalmorphism](https://www.metalmorphism.com): High-quality metallic UI kit
 - more https://dev.to/iainfreestone/10-resources-for-recreating-old-school-retro-user-interfaces-today-hkj
 
 focus in futurism
@@ -1385,6 +1386,7 @@ Mocking your browser/phone
   - including making 3d video!!! https://rotato.app/ example https://twitter.com/0xca0a/status/1583504417004789763?s=46&t=xS8iIAOyRQhHzWI8mn4Owg
 - other devices https://deviceshots.com/
 - 3D mocks: https://things.morflax.com/styles
+- [Screenstab](https://www.screenstab.com): Turn screenshots into dramatically angled photos
 - 🔥 [Facebook Design Devices](https://facebook.design/devices)
 - [Shotsnapp](https://shotsnapp.com/)
 - https://www.ls.graphics/devices-mockups
