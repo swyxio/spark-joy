@@ -167,6 +167,7 @@ bigger learning curve, may have js, but more OOTB)
 - [Blaze UI](https://www.blazeui.com/)
 - [PatternFly](https://www.patternfly.org/v4/documentation/core/components/aboutmodalbox)
 - [UIKit](https://getuikit.com/docs/introduction)
+- [Numl](https://numl.design/#getting-started) - A UI Design Language, UI Library of Web Components, and Runtime CSS Framework for rapidly building interfaces that follow your Design System
 - Utility CSS
   - [Bonsai CSS](https://www.bonsaicss.com/)
   - [Tailwindcss](https://tailwindcss.com/)
