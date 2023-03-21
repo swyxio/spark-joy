@@ -1181,7 +1181,7 @@ other boilerplates to use
 - https://www.svgrepo.com/ Browse 300.000+ SVG Vectors and Icons
 - https://iconsear.ch/ instant search of 50k svg icons from GitHub and GitLab
 - https://macosicons.com/ icons intended to replace mac desktop icons
-- https://awsicons.dev/ AWS icons
+- https://awsicons.dev/ AWS icons and https://aws-icons.com/
 
 #### General & Misc
 
