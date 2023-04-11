@@ -2066,6 +2066,8 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
   - https://github.com/kitze/react-genie
   - Page transitions https://github.com/joerez/react-transitions/
   - https://animxyz.com/docs/ has react and vue integration
+	
+Learn how to use Framer Motion with Sam Selikoff's https://buildui.com/
 
 ## Ideas for Improving UX
 
