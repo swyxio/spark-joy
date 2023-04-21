@@ -291,7 +291,7 @@ more control in exchange for more work on your part.
 - http://tailwindcomponents.com/
 - https://tailwindui.com/components
 - https://merakiui.com/
-- https://www.gustui.com/
+- https://www.gust-ui.com/
 - https://flowbite.com/docs/getting-started/introduction/
 - https://mertjf.github.io/tailblocks/
 - 🌟 https://www.hyperui.dev/
