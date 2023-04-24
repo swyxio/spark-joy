@@ -2046,6 +2046,7 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
 - Page Transitions with swup https://github.com/swup/swup ([css tricks](https://css-tricks.com/page-transitions-for-everyone/))
 - css animation without keyframes https://animxyz.com/docs/
 - collection of css animations https://xsgames.co/animatiss/
+- https://ericfortis.github.io/web-animations/ Open source plain JS, CSS, HTML, SVG animations
 - animation introduction & examples https://stackdiary.com/css-animations/
 
 ### Loading Spinners
