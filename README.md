@@ -318,7 +318,8 @@ more control in exchange for more work on your part.
 - https://component.gallery/
 - https://headlessui.dev/
 - https://ui.supabase.io/
-- 
+- https://ui.shadcn.com/ Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+
 ## Layout
 
 ### Stacking and Elevation
