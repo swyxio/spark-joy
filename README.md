@@ -1755,6 +1755,7 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 - https://simurai.com/archive/buttons/ bonbon sweet css 3d buttons
 - https://markodenic.com/tools/buttons-generator/
 - moving lightsource on hover css buttons idea https://jsfiddle.net/pixel67/ZxZ6B/28/
+- moving gradients on hover https://twitter.com/avstorm/status/1646204829826445312
 - Button without ugly focus ring with Tailwind:
   - `focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2`
   - for links `focus:shadow-outline focus:outline-none`
