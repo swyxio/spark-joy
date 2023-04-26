@@ -177,7 +177,7 @@ bigger learning curve, may have js, but more OOTB)
 
 ### Drop-in CSS Frameworks
 
-lighter, no js. preview some of these with https://sites.yax.com/
+lighter, no js. **preview some of these** with https://sites.yax.com/, https://www.cssbed.com/, https://dohliam.github.io/dropin-minimal-css/ and https://github.com/dbohdan/classless-css 
 
 - No CSS Classes - Pure HTML
   - 🌟 https://andybrewer.github.io/mvp/ mvp.css 
@@ -191,6 +191,7 @@ lighter, no js. preview some of these with https://sites.yax.com/
   - https://github.com/susam/spcss
   - https://neat.joeldare.com/ https://github.com/codazoda/neatcss
   - https://concrete.style/ Tiny (< 1kb)
+  - https://github.com/zichy/fieber (new, wants feedback)
   - https://github.com/neocities/element (inactive now)
 - [Spectre.css](https://picturepan2.github.io/spectre/index.html) lightweight (10kb), responsive and modern CSS framework for faster and extensible development.
 - https://purecss.io/ A set of small (3.7kb), responsive CSS modules that you can use in every web project.
@@ -201,7 +202,8 @@ lighter, no js. preview some of these with https://sites.yax.com/
 - https://chr15m.github.io/DoodleCSS/ hand drawn look
 - https://codepen.io/web-dot-dev/pen/abpoXGZ the base classes for web.dev/learn/csss
 - https://open-props.style/ css variables framework - "tailwind without tailwind"id=30497165).
-- https://latex.vercel.app/ style your website like a LATEX document
+- https://latex.vercel.app/ style your website like a LATEX document - (original version https://github.com/davidrzs/latexcss)
+- https://picnicss.com/ - lightweight bootstrap alternative ([2014 HN](https://news.ycombinator.com/item?id=8315616))
 - https://github.com/gduverger/screen (inactive now)
 - Collections of even more:
   - https://github.com/dohliam/dropin-minimal-css
