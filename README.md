@@ -189,6 +189,7 @@ lighter, no js. preview some of these with https://sites.yax.com/
   - https://github.com/xz/new.css (https://newcss.net/) 4.8kb sets some sensible defaults and styles your HTML to look reasonable. It's perfect for: A dead-simple blog, Collecting your most used links, Making a simple "about me" site, Rendering markdown-generated HTML
   - https://github.com/oxalorg/sakura supports extremely easy theming using variables for duotone color scheming. It comes with several existing themes, which can be found in the css folder of this repository.
   - https://github.com/susam/spcss
+  - https://neat.joeldare.com/ https://github.com/codazoda/neatcss
   - https://github.com/neocities/element (inactive now)
 - [Spectre.css](https://picturepan2.github.io/spectre/index.html) lightweight (10kb), responsive and modern CSS framework for faster and extensible development.
 - https://purecss.io/ A set of small (3.7kb), responsive CSS modules that you can use in every web project.
