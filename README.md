@@ -2174,7 +2174,18 @@ BabylonJS
 
 ## Interaction/Design Inspo
 
-- Dribbble ofc
+- [Httpster](http://httpster.net/)
+- [Minimal Gallery](https://minimal.gallery/)
+- [Godly.website](https://godly.website/)
+- [Hoverstat.es](https://www.hoverstat.es/)
+- [Really Good Emails](https://reallygoodemails.com/)
+- [SaaSFrame](https://www.saasframe.io/)
+- **[Dribbble](https://dribbble.com/)**
+- [Product Hunt](https://producthunt.com/)
+- [Landingfolio](https://www.landingfolio.com/)
+- [App Fuel](https://www.theappfuel.com/)
+- [Refero](https://refero.design/)
+- [Read.cv](https://read.cv/explore)
 - https://pageflows.com/
 - https://uimovement.com/
 - https://land-book.com/
