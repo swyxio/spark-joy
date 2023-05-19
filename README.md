@@ -737,9 +737,7 @@ When you use allcaps section titles, set the tracking (`letting-spacing`) a litt
 
 ### Font Sizing
 
-DON'T GO CRAZY WITH FONT SIZES.
-
-- Try to use 1-2 sizes and vary other things like weight, space/leading, color, casing.
+- DON'T GO CRAZY WITH FONT SIZES. Try to use 1-2 sizes and vary other things like weight, space/leading, color, casing.
 - Don't rely on varying fontsize to control hierarchy - also use font weight (normal = 400/500, heavy = 600/700) and color
   - Don't go under font weight 400, use a lighter color or smaller fontsize instead
 - Fluid typography with [`clamp`](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp): `font-size: clamp(1.125rem, 1rem + 2vw, 1.5rem)`
@@ -751,6 +749,7 @@ DON'T GO CRAZY WITH FONT SIZES.
 - [BAD, SLOW fontsize calc](https://twitter.com/drewml/status/1115339490179072000?s=20)
   - Note: `vw` has known a11y issues: Preserve Zooming. [Sara Soueidan](https://twitter.com/SaraSoueidan/status/1121645149983891457?s=20) recommends wrapping with `calc`, e.g. `font-size: calc(16px + .3vw);`
 - [Complete font-size notes](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/)
+- Establishing your own type scale https://typescale.com/
 
 ### Typography Talks
 
