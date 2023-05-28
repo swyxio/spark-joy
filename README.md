@@ -165,14 +165,14 @@ bigger learning curve, may have js, but more OOTB)
 - [Bootstrap](https://getbootstrap.com/)
 - [Foundation](https://get.foundation/sites/docs/)
 - [Blaze UI](https://www.blazeui.com/)
-- [PatternFly](https://www.patternfly.org/v4/documentation/core/components/aboutmodalbox)
+- [PatternFly](https://www.patternfly.org/v4)
 - [UIKit](https://getuikit.com/docs/introduction)
 - [Numl](https://numl.design/#getting-started) - A UI Design Language, UI Library of Web Components, and Runtime CSS Framework for rapidly building interfaces that follow your Design System
 - Utility CSS
   - [Bonsai CSS](https://www.bonsaicss.com/)
   - [Tailwindcss](https://tailwindcss.com/)
 - Web Components
-  - [Weightless](https://weightless.dev/elements/checkbox)
+  - [Weightless](https://github.com/andreasbm/weightless)
   - [Shoelace](https://shoelace.style/)
 
 ### Drop-in CSS Frameworks
@@ -742,7 +742,6 @@ When you use allcaps section titles, set the tracking (`letting-spacing`) a litt
   - Don't go under font weight 400, use a lighter color or smaller fontsize instead
 - Fluid typography with [`clamp`](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp): `font-size: clamp(1.125rem, 1rem + 2vw, 1.5rem)`
   - [CSS Tricks](https://css-tricks.com/design-v18/) v18: `font-size: clamp(2rem, calc(2rem + 1.2vw), 3rem);`
-  - https://maximeroudier.com/typeScaleClampGenerator/
   - Another responsive typography fallback - [`font-size: calc(1rem + 2px + ((100vw - 550px) / 250))`](https://twitter.com/Kikobeats/status/1093620157912616966?s=20) - you can [fit text to screen width](https://twitter.com/shshaw/status/1240647643388395521?s=20)
   - demo it with this https://fluid-typography.netlify.app/
 - [Inter/Tailwind font-size combo](https://twitter.com/samselikoff/status/1204412222593568769?s=20)
@@ -887,7 +886,6 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
 - [chroma.js color palette helper](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1)
 - https://palx.jxnblk.com/
 - https://hotpot.ai/assistant/color_assistant Get suggestions for palettes, gradients, and text colors. Hit the space bar for ML-powered ideas.
-- https://tltemplates.com/tool/color/tailwind-color Tailwind inspired color generator
 - https://yeun.github.io/open-color/
 - http://khroma.co/ neural network generated color palettes
 - https://learnui.design/tools/data-color-picker.html Color picker for data visualizations
@@ -901,7 +899,6 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
   - https://javisperez.github.io/tailwindcolorshades/
   - https://tailwind-color-picker.jessarcher.com
 - Special usecases:
-  - Pick colors from an image https://imagehive.co/
   - Mix colors in pure CSS https://css-tricks.com/mixing-colors-in-pure-css/
   - [HSLuv](https://www.hsluv.org/comparison/) color space is preferable to HSL. [Palette generator](https://colors.madscience.design/)
   - https://colors.lol/ Overly descriptive color palettes (fun)
@@ -1035,7 +1032,7 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 - https://www.svgbackgrounds.com/
 - https://www.transparenttextures.com/
 - https://www.toptal.com/designers/subtlepatterns/ (exports png though :( )
-- https://pattern.flaticon.com/ (create a bg pattern of icons)
+- https://www.flaticon.com/pattern/ (create a bg pattern of icons)
 - https://coolbackgrounds.io/
 - https://tabbied.com/ abstract Doodles with generated patterns
 - https://css-doodle.com/
@@ -1053,7 +1050,7 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 - https://www.magicpattern.design/tools/css-backgrounds library of pure CSS background patterns like ZigZag or diagonal ones.
 - https://bgjar.com/
 - https://products.ls.graphics/paaatterns/
-- https://notchris.net/patterns/ (Really simple SVG Patterns using single unicode characters.)
+- https://notchr.is/patterns/ (Really simple SVG Patterns using single unicode characters.)
 - https://doodad.dev/pattern-generator/ (Pattern generator that exports to png, jpg and svg.)
 - wave dividers
   - https://www.shapedivider.app/ generate custom shape dividers
@@ -1068,7 +1065,7 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 
 ### Background Illustrations
 
-- https://freellustrations.com/
+- https://freeillustrations.xyz/
 
 ### Background SVG texture
 
@@ -1245,7 +1242,7 @@ other boilerplates to use
 - https://www.zondicons.com/
 - https://linearicons.com/free
 - animated icons http://www.transformicons.com/builder.html
-- https://game-icons.net/
+- http://game-icons.net/
 - Covid 19 icons - https://design.dev/
 - https://kenney.nl/ public domain game assets
 - https://www.iconshock.com/social-media-icons/ A pack of 300 social media icons (PNG & Vector) and a set of animated icons (Lottie and AE), which cover all the trendiest social media networks nowadays.
@@ -1342,7 +1339,7 @@ useful eg if needs logos
 
 further reading
 
-- lynn langit's list https://github.com/lynnlangit/learning-cloud/blob/master/patterns/VIZUALIZE.md
+- lynn langit's list https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS/1_Viz-Systems
 - the 5 types of arch diagrams https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/
 
 ### Code-based Graph tools
@@ -1364,7 +1361,7 @@ Node based GUIs: https://github.com/wbkd/awesome-node-based-uis
 
 ## Graphics and SVG Illustrations
 
-- https://hipsterlogogenerator.com/
+- https://www.brandcrowd.com/maker/tag/hipster
 - https://www.logotouse.com/ Download any logo in LogoToUse and do whatever you want with them. This is the place to showcase more than 120+ million logos that are already designed worldwide and are archived!
 
 Backend entity/ ERD /SQL diagramming
@@ -1392,7 +1389,7 @@ Mocking your browser/phone
   - https://3d-book-css.netlify.app/ and https://3dbook.xyz/
   - book cover advice https://convertkit.com/how-to-make-an-ebook-cover
 - Macbook: https://magicmockups.com
-- animate them, why not https://deviceful.app/
+- animate them, why not https://deviceful.netlify.app/documentation.html (previously https://deviceful.app/)
 - phone/watch: https://www.rotato.xyz/
   - including making 3d video!!! https://rotato.app/ example https://twitter.com/0xca0a/status/1583504417004789763?s=46&t=xS8iIAOyRQhHzWI8mn4Owg
 - other devices https://deviceshots.com/
