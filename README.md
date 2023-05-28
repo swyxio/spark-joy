@@ -1086,7 +1086,9 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 - Dimming/coloring text on background images https://coder-coder.com/background-image-opacity/
 - [True Grit Texture Supply](https://www.truegrittexturesupply.com/) PNG textures (paid)
 - Remove backgrounds
-  - https://www.remove.bg/ from images - but severely monetized
+  - https://www.remove.bg/ from images - but severely monetized. see below for better alternatives
+  - https://pixian.ai/remove-image-backgrounds
+  - https://www.photoroom.com/background-remover
   - https://backgroundremoverai.com/
 	- source https://github.com/nadermx/backgroundremover
   - https://www.inpixio.com/remove-background/
