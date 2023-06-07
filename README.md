@@ -2424,6 +2424,10 @@ free or mock data apis for demos
   - [ ] Alignment - use as few lines as possible
 - [Human Interface Guidelines from Apple, Microsoft, Elementary OS, IBM, etc](http://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/)
   - Apple's HIG was updated for 2022 https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/
+  - Apple Spatial Computing Design videos:
+	- https://developer.apple.com/videos/play/wwdc2023/10072/
+	- https://developer.apple.com/videos/play/wwdc2023/10076/
+	- https://developer.apple.com/videos/play/wwdc2023/10073/
 - 50 UI tips https://fifty.user-interface.io/
   - https://fifty.user-interface.io/50_ui_tips.pdf
 - Steve Schoger - Refactoring UI process: https://www.youtube.com/watch?v=7Z9rrryIOC4
