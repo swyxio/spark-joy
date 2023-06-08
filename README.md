@@ -1320,7 +1320,8 @@ Specifically for BPMN: https://bpmn.io/
 
 ### Entity Relationship Diagrams
 
-- https://dbdiagram.io/home
+- https://dbdiagram.io/home which also has an open-source markup language: https://github.com/holistics/dbml
+- [Databasediagram.com – Private, Text to Entity-Relationship Diagram Tool](https://news.ycombinator.com/item?id=36243926)
 
 ### Cloud Architecture diagrams
 
