@@ -1356,6 +1356,7 @@ further reading
 - https://structurizr.com/
 - https://github.com/mhlabs/cfn-diagram visualize cloudformation -> draw.io
 - https://wavedrom.com/ (OSS) - Digital Timing Diagram or Waveform from simple textual description.
+- https://chatuml.com/ - An AI assisted diagram editor using PlantUML syntax
 - way more tools here: https://xosh.org/text-to-diagram/
 
 Node based GUIs: https://github.com/wbkd/awesome-node-based-uis
