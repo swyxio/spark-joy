@@ -1322,6 +1322,7 @@ Specifically for BPMN: https://bpmn.io/
 
 - https://dbdiagram.io/home which also has an open-source markup language: https://github.com/holistics/dbml
 - [Databasediagram.com – Private, Text to Entity-Relationship Diagram Tool](https://news.ycombinator.com/item?id=36243926)
+- [Mocodo](https://mocodo.net): French-flavored ERD, aka Merise MCD, where the layout is constrained to a grid
 
 ### Cloud Architecture diagrams
 
