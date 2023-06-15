@@ -1309,6 +1309,8 @@ Before you get to the tools - some good thinking (and lists of tools) on archite
 
 ### Sequence Diagrams
 
+- UML: https://news.ycombinator.com/item?id=36342931
+	-  "UML, the good parts" - Fundamental Modeling Concepts http://fmc-modeling.org/
 - https://www.websequencediagrams.com/
 - https://swimlanes.io/ a simple online tool for creating sequence diagrams.
 - https://bramp.github.io/js-sequence-diagrams/
