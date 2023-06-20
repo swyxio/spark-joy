@@ -1956,6 +1956,7 @@ Tools:
     - experiment with multiple shadows on one element
     - https://getcssscan.com/css-box-shadow-examples
     - Designing Beautiful Shadows in CSS https://www.joshwcomeau.com/css/designing-shadows/
+    - inspired the smooth shadows generator https://smoothshadows.com/
   - https://www.joshwcomeau.com/shadow-palette/ (https://css-tricks.com/shadow-palette-generator/)
   - Card border Generator https://card.surge.sh/
   - Broider - 9-patch css grid borders https://maxbittker.github.io/broider/
