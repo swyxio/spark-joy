@@ -223,6 +223,8 @@ html {
 }
 ```
 
+see also http://bettermotherfuckingwebsite.com/
+
 ### Fun CSS Frameworks
 
 focus is fun
