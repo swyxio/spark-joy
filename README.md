@@ -6,6 +6,7 @@ _The Spark Joy philosophy is explained in further detail [in my book](https://le
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 **Table of Contents**
 
 - [Web Design in 4 minutes](#web-design-in-4-minutes)
@@ -177,16 +178,16 @@ bigger learning curve, may have js, but more OOTB)
 
 ### Drop-in CSS Frameworks
 
-lighter, no js. **preview some of these** with https://sites.yax.com/, https://www.cssbed.com/, https://dohliam.github.io/dropin-minimal-css/ and https://github.com/dbohdan/classless-css 
+lighter, no js. **preview some of these** with https://sites.yax.com/, https://www.cssbed.com/, https://dohliam.github.io/dropin-minimal-css/ and https://github.com/dbohdan/classless-css
 
 - No CSS Classes - Pure HTML
-  - 🌟 https://andybrewer.github.io/mvp/ mvp.css 
+  - 🌟 https://andybrewer.github.io/mvp/ mvp.css
   - https://yegor256.github.io/tacit/
   - https://github.com/alvaromontoro/almond.css has thin fonts
   - https://picocss.com/ Elegant styles for all natives HTML elements without .classes and dark mode automatically enabled.
   - https://simplecss.org/demo 4kb incl dark mode
   - https://watercss.kognise.dev/ Small size (< 2kb)
-  - https://github.com/xz/new.css (https://newcss.net/) 4.8kb 
+  - https://github.com/xz/new.css (https://newcss.net/) 4.8kb
   - https://github.com/oxalorg/sakura supports extremely easy theming using variables for duotone color scheming.
   - https://github.com/susam/spcss
   - https://neat.joeldare.com/ https://github.com/codazoda/neatcss
@@ -249,7 +250,7 @@ focus is fun/nostalgia
   - [XP.css](https://github.com/botoxparty/XP.css): A Windows XP inspired framework for building faithful recreations of operating system GUIs. An extension of 98.css.
   - [7.css](https://khang-nd.github.io/7.css/)
   - [System.css](https://sakofchit.github.io/system.css/) Retro Apple-inspired UI
-  - [Puppertino](https://github.com/codedgar/Puppertino)  meant to mimic the look of macOS. [demo](https://codedgar.github.io/Puppertino/)
+  - [Puppertino](https://github.com/codedgar/Puppertino) meant to mimic the look of macOS. [demo](https://codedgar.github.io/Puppertino/)
   - [Commodore 64 CSS](http://pixelambacht.nl/2013/css3-c64/)
   - DOS: [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386): A vintage 1980s DOS inspired Twitter Bootstrap theme
   - [a2k](https://a2000-docs.netlify.app/): A Windows 2000 inspired web component library
@@ -311,7 +312,7 @@ more control in exchange for more work on your part.
 ### React Component Libraries
 
 - [Recent comparison/discussion](https://www.reddit.com/r/reactjs/comments/vtgbai/comparison_of_ui_libraries_for_react/) of:
-  -  DaisyUI
+  - DaisyUI
   - React Bootstrap
   - ChakraUI
   - Tailwind UI
@@ -395,7 +396,7 @@ A nice bleed lets you put emphasis on things selectively.
 You want a normal width, a popout width, and a "full bleed" width. Optional for an intermediate one.
 
 This is the best version of bleed implementation https://ryanmulligan.dev/blog/layout-breakouts/
-  (borrows from https://joshwcomeau.com/css/full-bleed/)
+(borrows from https://joshwcomeau.com/css/full-bleed/)
 
 This is adapted to be responsive
 
@@ -410,7 +411,7 @@ This is adapted to be responsive
 		--feature: minmax(0, 5rem);
 
 		display: grid;
-		grid-template-columns: 
+		grid-template-columns:
 			[full-start]
 			[feature-start]
 			[popout-start]
@@ -545,12 +546,12 @@ typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
 </details>
 
 See also [Modern Font Stacks](https://modernfontstacks.com/) - [discussion](https://news.ycombinator.com/item?id=35168652)
-    
-  - Simple: `font-family: system-ui, -apple-system, sans-serif;` ([has issues on old browsers + asian langauges]([url](https://news.ycombinator.com/item?id=31544075) - github and bootstrap have removed it fwiw))
-  - Sans-serif `font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;`
-  - Serif: `font-family: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;`
-  - Mono: `font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;`
-    
+
+- Simple: `font-family: system-ui, -apple-system, sans-serif;` ([has issues on old browsers + asian langauges]([url](https://news.ycombinator.com/item?id=31544075) - github and bootstrap have removed it fwiw))
+- Sans-serif `font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;`
+- Serif: `font-family: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;`
+- Mono: `font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;`
+
   </li>
 </ul>
 
@@ -566,7 +567,7 @@ See also [Modern Font Stacks](https://modernfontstacks.com/) - [discussion](http
     - https://www.programmingfonts.org/ ([discussion](https://news.ycombinator.com/item?id=32032029))
     - [14 free programming fonts](https://twitter.com/zenorocha/status/1359508613606199301?s=20)
   - Variable fonts: https://whirlybirdie.com/
-	  - Erik Kennedy font https://mobile.twitter.com/erikdkennedy/status/1575135945359097864 	
+    - Erik Kennedy font https://mobile.twitter.com/erikdkennedy/status/1575135945359097864
   - Novelty: http://velvetyne.fr/
   - [use a Uniwidth font (not monospace) for interface design](https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7)
 - Fonts have [fashions/trends](https://twitter.com/jgulden/status/1507467476807806979?s=21). current vogue is Inter.
@@ -906,10 +907,10 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
   - Mix colors in pure CSS https://css-tricks.com/mixing-colors-in-pure-css/
   - [HSLuv](https://www.hsluv.org/comparison/) color space is preferable to HSL. [Palette generator](https://colors.madscience.design/)
   - https://colors.lol/ Overly descriptive color palettes (fun)
-  - English color names: 
-    -  https://hexwords.netlify.app/
-    -  https://colornames.org/
-    -  https://c0ffee.surge.sh/
+  - English color names:
+    - https://hexwords.netlify.app/
+    - https://colornames.org/
+    - https://c0ffee.surge.sh/
 
 ### Color Gradients
 
@@ -987,7 +988,7 @@ Dataviz is a special category since it's not just design, but information. Credi
 - Misc recommended papers
   - [Somewhere Over the Rainbow: An Empirical Assessment of Quantitative Colormaps. Yang Liu, Jeffrey Heer. ACM CHI 2018.](http://idl.cs.washington.edu/papers/quantitative-color/)
   - [Colorgorical: Creating Discriminable and Preferable Color Palettes for Information Visualization. Connor Gramazio, David Laidlaw & Karen Schloss. IEEE Transactions on Visualization and Computer Graphics. 2017.](http://gramaz.io/pdf/gramazio-2016-ccd.pdf)
-  
+
 ## Backgrounds
 
 ### Background Gradients and Patterns
@@ -1093,19 +1094,19 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
   - https://pixian.ai/remove-image-backgrounds
   - https://www.photoroom.com/background-remover
   - https://backgroundremoverai.com/
-	- source https://github.com/nadermx/backgroundremover
+  - source https://github.com/nadermx/backgroundremover
   - https://www.inpixio.com/remove-background/
   - https://express.adobe.com/tools/remove-background
   - https://baseline.is/tools/background-remover/ from images
   - https://www.unscreen.com/ for gif/video
-- Remove ANYTHING (AMAZING) 
+- Remove ANYTHING (AMAZING)
   - https://cleanup.pictures/
   - https://cleanupphotos.com/
-- colorizing black and white images 
-	- https://demos.algorithmia.com/colorize-photos
+- colorizing black and white images
+  - https://demos.algorithmia.com/colorize-photos
 - relight images https://clipdrop.co/relight https://twitter.com/dh7net/status/1567813168990232578
 - edit photo in browser no BS https://edit.photo/
-	- AI Colorizer https://palette.fm/
+  - AI Colorizer https://palette.fm/
 - https://animatedbackgrounds.me/
 
 ## Icons and Favicons
@@ -1316,7 +1317,7 @@ Before you get to the tools - some good thinking (and lists of tools) on archite
 ### Sequence Diagrams
 
 - UML: https://news.ycombinator.com/item?id=36342931
-	-  "UML, the good parts" - Fundamental Modeling Concepts http://fmc-modeling.org/
+  - "UML, the good parts" - Fundamental Modeling Concepts http://fmc-modeling.org/
 - https://www.websequencediagrams.com/
 - https://swimlanes.io/ a simple online tool for creating sequence diagrams.
 - https://bramp.github.io/js-sequence-diagrams/
@@ -1356,10 +1357,10 @@ further reading
 
 - https://gojs.net/latest/samples/decisionTree.html interactive diagrams
 - 4 major text-to-graph langauges (Comparison https://text-to-diagram.com/)
-	- mermaid https://mermaid-js.github.io/mermaid/
-	- https://plantuml.com/
-	- https://github.com/terrastruct/d2
-	- graphviz/dot - useful inside jupyter
+  - mermaid https://mermaid-js.github.io/mermaid/
+  - https://plantuml.com/
+  - https://github.com/terrastruct/d2
+  - graphviz/dot - useful inside jupyter
 - http://blockdiag.com/en/
 - python's `diagrams` https://pypi.org/project/diagrams/
 - https://structurizr.com/
@@ -1485,6 +1486,7 @@ Illo's in context: https://onepagelove.com/tag/illustrations
 - https://news.ycombinator.com/item?id=33845291 - Blockbench - low poly blender altnerative
 
 Learn 3d illo in blender https://polygonrunway.com/
+
 - https://news.ycombinator.com/item?id=33273022
 
 ### Handwritten Look
@@ -1515,7 +1517,7 @@ exampels of ascii art in code: https://blog.regehr.org/archives/1653 ([HN discus
 
 ### matrix8967's list
 
-from [matrix8967]([url](https://news.ycombinator.com/user?id=matrix8967)): Some ANSI Color Codes and ASCIInema can carry you a long way. (note: may want to reformat this in future)
+from [matrix8967](<[url](https://news.ycombinator.com/user?id=matrix8967)>): Some ANSI Color Codes and ASCIInema can carry you a long way. (note: may want to reformat this in future)
 
 - Here's a list of plain text information tools from my notes:
   - https://mbarkhau.keybase.pub/asciigrid/
@@ -1545,8 +1547,6 @@ from [matrix8967]([url](https://news.ycombinator.com/user?id=matrix8967)): Some 
 - Honorable Mention goes to wtf-util and it's TUI configurator:
   - https://wtfutil.com/
   - https://github.com/ggerganov/wtf-tui
-
-
 
 ### DIY Graphic Design
 
@@ -1643,7 +1643,7 @@ misc
 
 - https://www.fable.app/academy/fable-quick-start-course-part-2-of-3 Fable motion design
 - https://github.com/remotion-dev/remotion - code videos with React
-  -  example usage https://twitter.com/JDihlmann/status/1516853381242961921?s=20&t=kB6uuP2qxW83A0A-NlQerg
+  - example usage https://twitter.com/JDihlmann/status/1516853381242961921?s=20&t=kB6uuP2qxW83A0A-NlQerg
 - https://glitterly.app/ - kinda rough - mostly image maker, video features in beta
 - https://viddyoze.com "3d video animations". promising videos, but $97 lifetime.. seems sketchy
 - https://www.fiverr.com/search/gigs?query=explainer%20videos&source=top-bar&search_in=everywhere&search-autocomplete-original-term=explainer%20videos
@@ -1704,7 +1704,12 @@ Tutorials from successful Youtubers
     color: var(--brand);
   }
 
-  :is(::-webkit-calendar-picker-indicator, ::-webkit-clear-button, ::-webkit-inner-spin-button, ::-webkit-outer-spin-button) {
+  :is(
+      ::-webkit-calendar-picker-indicator,
+      ::-webkit-clear-button,
+      ::-webkit-inner-spin-button,
+      ::-webkit-outer-spin-button
+    ) {
     color: var(--brand);
   }
 
@@ -1752,7 +1757,7 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 
 - Segmented Buttons (Horizontal or Vertical)
 - Checkbox
-	- https://getcssscan.com/css-checkboxes-examples 60+ beautiful checkboxes
+  - https://getcssscan.com/css-checkboxes-examples 60+ beautiful checkboxes
 - Switch
 - Radio button
 - Cards and Visual options (images as buttons)
@@ -1838,7 +1843,7 @@ Paid:
 - https://artlist.io/ - may have better licensing https://www.youtube.com/watch?v=mYU6XhORomg but no fx
 - https://www.soundstripe.com/ (cheapest) here's a comparison https://www.youtube.com/watch?v=1YBjY79axRo
 - https://www.bensound.com/
-- https://snapmuse.com/ 
+- https://snapmuse.com/
 
 Tools:
 
@@ -1848,8 +1853,8 @@ Tools:
 
 ### Lightweight Charts/Dataviz
 
-- https://rbitr.github.io/ChartS.css/ 
-  - easy creation of simple charts for documentation, data storytelling / journalism, etc. It features plots of 1-D lists, and has a custom markdown filter that converts suitably formatted lists directly to charts. It has no dependencies (other than a modern browser), and is very small compared to javascript based charting tools. The html is based on `ul` lists and will collapse back to readible lists in the absence of css support, making it accessible to all readers. It is open source and easily configurable according to project needs.	
+- https://rbitr.github.io/ChartS.css/
+  - easy creation of simple charts for documentation, data storytelling / journalism, etc. It features plots of 1-D lists, and has a custom markdown filter that converts suitably formatted lists directly to charts. It has no dependencies (other than a modern browser), and is very small compared to javascript based charting tools. The html is based on `ul` lists and will collapse back to readible lists in the absence of css support, making it accessible to all readers. It is open source and easily configurable according to project needs.
 - Apache E Charts https://echarts.apache.org/en/index.html
 - https://chartscss.org/ Charts.css is a modern CSS framework. It uses CSS utility classes to style HTML elements as charts.
 - Sparkline fonts in text: https://github.com/aftertheflood/sparks and https://www.scribbletone.com/typefaces/ff-chartwell
@@ -1899,7 +1904,7 @@ Tools:
 - Split text animations https://web.dev/building-split-text-animations/
 - https://party.js.org/ add particle effects to a web page, specifically confetti and sparkles.
 - Duotone blend modes: https://jmperezperez.com/duotone-using-css-blend-modes/
-	- full guide to blend modes https://typefully.com/DanHollick/blending-modes-KrBa0JP
+  - full guide to blend modes https://typefully.com/DanHollick/blending-modes-KrBa0JP
 - Decovar Font with Text shadows: https://codepen.io/mandymichael/details/dJZQaz (and other [Variable Fonts by Mandy](https://variablefonts.dev/))
 - Drop shadows: `box-shadow: 10px 12px 0.5rem rgba(0,0,0,0.5);`
 - Expanding Search buton and text from Ana Tudor [mentioned here](https://dev.to/chriscoyier/learn-about-css-custom-properties-through-clever-uses-of-them-2fjo)
@@ -2041,7 +2046,6 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
   - GSAP, SVG.js (http://www.svgjs.com/), Lottie
   - SVG animation tool https://svija.love/animation
 
-
 ## Animations & Transitions
 
 - Buttons, hover, inputs, and loaders https://cssfx.netlify.com/
@@ -2072,8 +2076,8 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
 - web components https://wc-spinners.cjennings.dev/
 - Spinners https://tobiasahlin.com/spinkit/
 - You can make your button a spinner too:
-    - https://joebell.co.uk/sketches/loading-disco
-    - demo: https://twitter.com/joebell_/status/1557355193473585153
+  - https://joebell.co.uk/sketches/loading-disco
+  - demo: https://twitter.com/joebell_/status/1557355193473585153
 - Buttons, hover, inputs, and loaders https://cssfx.netlify.com/
 - Conic gradient loader in CSS - [Codepen](https://codepen.io/keithclark/pen/aEbEoo)
 - React, Vue and Angular Spinners https://github.com/JoshK2/react-spinners-css
@@ -2083,17 +2087,17 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
 
 ### React Animation Tools
 
-  - https://react-simple-animate.now.sh/
-  - https://github.com/brunnolou/react-morph
-  - https://github.com/kitze/react-genie
-  - Page transitions https://github.com/joerez/react-transitions/
-  - https://animxyz.com/docs/ has react and vue integration
-	
+- https://react-simple-animate.now.sh/
+- https://github.com/brunnolou/react-morph
+- https://github.com/kitze/react-genie
+- Page transitions https://github.com/joerez/react-transitions/
+- https://animxyz.com/docs/ has react and vue integration
+
 Learn how to use Framer Motion with Sam Selikoff's https://buildui.com/
 
 ## Ideas for Improving UX
 
-### Onboarding 
+### Onboarding
 
 On tutorials vs contextual tips: https://www.nngroup.com/articles/onboarding-tutorials/
 
@@ -2103,7 +2107,7 @@ Feature tours
 - https://github.com/zurb/joyride jQuery feature tour plugin, used in https://www.airdna.co/
 - tippy.js to handroll
 - React Curved Arrow https://react-curved-arrow.nickjanssen.com/
-  
+
 Welcome emails
 
 - https://blog.appsumo.com/welcome-email-examples/
@@ -2165,7 +2169,7 @@ https://emptystat.es/
 
 - [Curtains.js](https://www.curtainsjs.com/) ([example](https://codepen.io/martinlaxenaire/post/webgl-enhanced-drag-slider-tutorial-with-curtains-js-part-3))
 - [Polygonjs](https://polygonjs.com/) open-source, node-based WebGL design tool, to create 3D scenes procedurally.
-- https://github.com/shuding/cobe - webgl globe ([tweet]([url](https://twitter.com/shuding_/status/1475916082875666441?s=20)), [stripe](https://twitter.com/ZachSaucier/status/1569816382274945026?s=20&t=X05jU6q8ZWzymTF44CIFNQ))
+- https://github.com/shuding/cobe - webgl globe ([tweet](<[url](https://twitter.com/shuding_/status/1475916082875666441?s=20)>), [stripe](https://twitter.com/ZachSaucier/status/1569816382274945026?s=20&t=X05jU6q8ZWzymTF44CIFNQ))
 
 Makepad
 
@@ -2227,8 +2231,7 @@ BabylonJS
 
 - https://10ideesrecuesenuxdesign.castoretpollux.com/en/
 - https://www.cssdig.com/ for analyzing your css
-	
-	
+
 ### Mock APIs
 
 free or mock data apis for demos
@@ -2291,7 +2294,7 @@ free or mock data apis for demos
   - https://free-for.dev/#/?id=apis-data-and-ml
 
 ### Useful big datasets
- 
+
 - Dataset collections
   - [Graphext collection](https://www.notion.so/cf3e33e64b6c4a71a014c134b6149b37?v=37e53f0e8a464293909206f499fdcc2e) 91 datasets
   - [Data.world](https://data.world/datasets/open-data) There are 133398 open data datasets available
@@ -2324,10 +2327,10 @@ free or mock data apis for demos
   - [GDELT Project](https://www.gdeltproject.org/) "monitors the world's broadcast, print, and web news from nearly every corner of every country in over 100 languages and identifies the people, locations, organizations, themes, sources, emotions, counts, quotes, images and events driving our global society every second of every day, creating a free open platform for computing on the entire world."
     - [Hex's Horoscope](https://www.izzy.co/blogs/horoscope-aug.html) Welcome to the inaugural Hex Horoscope, a new monthly series in which I attempt to divine the general trend of the month to come using Hex. We'll start with a visual look at how the first week of August stacks up to the competition, and then do some actual predictive modeling to take a stab at what the rest of the month has in store.
 - Geo
-  - [BigQuery global daily weather data](https://cloud.google.com/blog/products/gcp/global-historical-daily-weather-data-now-available-in-bigquery) Using the BQ geo functions to overlay weather with key locations we cared about was a lot of fun.  [michael](https://twitter.com/gwenwindflower/status/1536132127678423046)
+  - [BigQuery global daily weather data](https://cloud.google.com/blog/products/gcp/global-historical-daily-weather-data-now-available-in-bigquery) Using the BQ geo functions to overlay weather with key locations we cared about was a lot of fun. [michael](https://twitter.com/gwenwindflower/status/1536132127678423046)
   - List of Famous/Notable people by Geo ([241mb](https://data.sciencespo.fr/dataset.xhtml?persistentId=doi:10.21410/7E4/RDAG3O)) - [writeups](https://medialab.github.io/bhht-datascape/), [globe viz](https://tjukanovt.github.io/notable-people)
   - [SF Tree dataset](https://data.sfgov.org/City-Infrastructure/Street-Tree-List/tkzw-k3nq) Every tree in San Francisco (that are managed by the department of public works, so this excludes trees in places like Golden Gate Park): 196,000 trees listed and they update it constantly! [simonw](https://twitter.com/simonw/status/1536366226326228993?s=20&t=W8ioFSergYaZcLGjTxOGbQ)
-  - [NYC taxi dataset](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
+  - [NYC taxi dataset](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
     - Good for teaching: scalable sizes, moderate amounts of bad data
     - ([spark + iceberg quickstart](https://github.com/tabular-io/docker-spark-iceberg) - [blog](https://tabular.io/blog/docker-spark-and-iceberg/))
     - [Auckland Transport data](https://dev-portal.at.govt.nz/)
@@ -2338,17 +2341,17 @@ free or mock data apis for demos
 - Misc?
   - [Correlates of War datasets](https://correlatesofwar.org/)
   - [Flight delays](https://data-se.netlify.app/2021/02/24/case-study-data-vizualization-on-flight-delays-using-tidyverse-tools/)
-  - [Disney world wait times](https://lucymcgowan.github.io/touringplans/) 
+  - [Disney world wait times](https://lucymcgowan.github.io/touringplans/)
   - [Trashnet](https://github.com/garythung/trashnet): Code (only for the convolutional neural network) and dataset for mine and Mindy Yang's final project for Stanford's CS 229: Machine Learning class. The dataset spans six classes: glass, paper, cardboard, plastic, metal, and trash. Currently, the dataset consists of 2527 images. The pictures were taken by placing the object on a white posterboard and using sunlight and/or room lighting. The pictures have been resized down to 512 x 384, which can be changed in data/constants.py (resizing them involves going through step 1 in usage). The devices used were Apple iPhone 7 Plus, Apple iPhone 5S, and Apple iPhone SE.
   - [NFL play by play data](https://www.nflfastr.com/) The package contains NFL play-by-play data back to 1999. Includes completion probability (cp), completion percentage over expected (cpoe), and expected yards after the catch (xyac_epa and xyac_mean_yardage) in play-by-play going back to 2006. Includes drive information, including drive starting position and drive result. Includes series information, including series number and series success. Features models for Expected Points, Win Probability, Completion Probability, and Yards After the Catch
-  
+
 ### Copy and Emails
 
 - https://www.goodemailcopy.com/
 - https://www.swipefiles.co/
-  
+
 ### UI Design Challenges and Copywork
-  
+
 - https://fakeclients.com/ui
 - https://uxtools.co/challenges/
 - https://www.frontendpractice.com/
@@ -2357,7 +2360,7 @@ free or mock data apis for demos
 
 ### Other Lists like this one
 
-- https://a11yresources.webflow.io/
+- https://www.getstark.co/library/
 - https://webflow.com/accessibility/checklist
 - https://www.getstark.co/library/
 - https://10015.io/
@@ -2397,31 +2400,31 @@ free or mock data apis for demos
 - [Design Principles](https://principles.design/)
   - [7 Gestalt Principles of Design](https://ux360.design/gestalt-principles-design)
 - [Visual design rules you can safely follow](https://anthonyhobday.com/sideprojects/saferules/)
-    - Use near-black and near-white instead of pure black and white 
-    - Saturate your neutrals 
-    - Use high contrast for important elements 
-    - Everything in your design should be deliberate 
-    - Optical alignment is often better than mathematical alignment 
-    - Lower letter spacing and line height with larger text. Raise them with smaller text 
-    - Container borders should contrast with both the container and the background 
-    - Everything should be aligned with something else 
-    - Colours in a palette should have distinct brightness values 
-    - If you saturate your neutrals you should use warm or cool colours, not both 
-    - Measurements should be mathematically related 
-    - Elements should go in order of visual weight 
-    - If you use a horizontal grid, use 12 columns 
-    - Spacing should go between points of high contrast 
-    - Closer elements should be lighter 
-    - Make drop shadow blur values double their distance values 
-    - Put simple on complex or complex on simple 
-    - Keep container colours within brightness limits 
-    - Make outer padding the same or more than inner padding 
-    - Keep body text at 16px or above 
-    - Use a line length around 70 characters 
-    - Make horizontal padding twice the vertical padding in buttons 
-    - Use two typefaces at most 
-    - Nest corners properly 
-    - Don’t put two hard divides next to each other
+  - Use near-black and near-white instead of pure black and white
+  - Saturate your neutrals
+  - Use high contrast for important elements
+  - Everything in your design should be deliberate
+  - Optical alignment is often better than mathematical alignment
+  - Lower letter spacing and line height with larger text. Raise them with smaller text
+  - Container borders should contrast with both the container and the background
+  - Everything should be aligned with something else
+  - Colours in a palette should have distinct brightness values
+  - If you saturate your neutrals you should use warm or cool colours, not both
+  - Measurements should be mathematically related
+  - Elements should go in order of visual weight
+  - If you use a horizontal grid, use 12 columns
+  - Spacing should go between points of high contrast
+  - Closer elements should be lighter
+  - Make drop shadow blur values double their distance values
+  - Put simple on complex or complex on simple
+  - Keep container colours within brightness limits
+  - Make outer padding the same or more than inner padding
+  - Keep body text at 16px or above
+  - Use a line length around 70 characters
+  - Make horizontal padding twice the vertical padding in buttons
+  - Use two typefaces at most
+  - Nest corners properly
+  - Don’t put two hard divides next to each other
 - https://twitter.com/mrcndrw/status/1283078825870532609
 - https://internetdevels.com/blog/the-10-commandments-of-user-interface-design ([infographic](https://www.designmantic.com/blog/infographics/the-10-commandments-of-ui-design/))
 - 3 most common mistakes of UI design by [MDS](https://robhope.com/yo-mds)
@@ -2437,9 +2440,9 @@ free or mock data apis for demos
 - [Human Interface Guidelines from Apple, Microsoft, Elementary OS, IBM, etc](http://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/)
   - Apple's HIG was updated for 2022 https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/
   - Apple Spatial Computing Design videos:
-	- https://developer.apple.com/videos/play/wwdc2023/10072/
-	- https://developer.apple.com/videos/play/wwdc2023/10076/
-	- https://developer.apple.com/videos/play/wwdc2023/10073/
+  - https://developer.apple.com/videos/play/wwdc2023/10072/
+  - https://developer.apple.com/videos/play/wwdc2023/10076/
+  - https://developer.apple.com/videos/play/wwdc2023/10073/
 - 50 UI tips https://fifty.user-interface.io/
   - https://fifty.user-interface.io/50_ui_tips.pdf
 - Steve Schoger - Refactoring UI process: https://www.youtube.com/watch?v=7Z9rrryIOC4
