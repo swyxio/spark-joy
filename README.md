@@ -1360,6 +1360,7 @@ further reading
 	- https://plantuml.com/
 	- https://github.com/terrastruct/d2
 	- graphviz/dot - useful inside jupyter
+ - new one: https://google.github.io/typograms/
 - http://blockdiag.com/en/
 - python's `diagrams` https://pypi.org/project/diagrams/
 - https://structurizr.com/
