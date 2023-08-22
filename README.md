@@ -192,6 +192,7 @@ lighter, no js. **preview some of these** with https://sites.yax.com/, https://w
   - https://neat.joeldare.com/ https://github.com/codazoda/neatcss
   - https://concrete.style/ Tiny (< 1kb)
   - https://github.com/zichy/fieber (new, wants feedback)
+  - https://mikemai.net/typesettings/index.html (new)
   - https://github.com/neocities/element (inactive now)
 - [Spectre.css](https://picturepan2.github.io/spectre/index.html) lightweight (10kb), responsive and modern CSS framework for faster and extensible development.
 - https://purecss.io/ A set of small (3.7kb), responsive CSS modules that you can use in every web project.
