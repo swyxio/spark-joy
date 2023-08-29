@@ -906,6 +906,7 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
 - Special usecases:
   - Mix colors in pure CSS https://css-tricks.com/mixing-colors-in-pure-css/
   - [HSLuv](https://www.hsluv.org/comparison/) color space is preferable to HSL. [Palette generator](https://colors.madscience.design/)
+  	- why not hsl https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems
   - https://colors.lol/ Overly descriptive color palettes (fun)
   - English color names: 
     -  https://hexwords.netlify.app/
@@ -2634,6 +2635,7 @@ free or mock data apis for demos
     - Keep your line length in check
   - Working with Color
     - Ditch hex for HSL
+    - note: HSL has palette issues https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems
   - Creating Depth
     - (to be continued)
   - Emulate a light source
