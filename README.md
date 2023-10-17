@@ -2340,6 +2340,7 @@ free or mock data apis for demos
     - LINZ data service https://data.linz.govt.nz/data.world.
 - Misc?
   - [Correlates of War datasets](https://correlatesofwar.org/)
+  - [r/dadjokes dataset](https://huggingface.co/datasets/shuttie/dadjokes) https://dadjokes.dfdx.me/
   - [Flight delays](https://data-se.netlify.app/2021/02/24/case-study-data-vizualization-on-flight-delays-using-tidyverse-tools/)
   - [Disney world wait times](https://lucymcgowan.github.io/touringplans/) 
   - [Trashnet](https://github.com/garythung/trashnet): Code (only for the convolutional neural network) and dataset for mine and Mindy Yang's final project for Stanford's CS 229: Machine Learning class. The dataset spans six classes: glass, paper, cardboard, plastic, metal, and trash. Currently, the dataset consists of 2527 images. The pictures were taken by placing the object on a white posterboard and using sunlight and/or room lighting. The pictures have been resized down to 512 x 384, which can be changed in data/constants.py (resizing them involves going through step 1 in usage). The devices used were Apple iPhone 7 Plus, Apple iPhone 5S, and Apple iPhone SE.
