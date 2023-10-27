@@ -1292,6 +1292,7 @@ Before you get to the tools - some good thinking (and lists of tools) on archite
 - https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315
 - https://c4model.com/ (c4 modeling [more from Simon](https://dev.to/simonbrown/how-to-review-a-software-architecture-diagram-6p0))
 - http://fmc-modeling.org/ FMC modeling - only rectangles and round things
+- [How to Draw Architecture Diagrams](https://news.ycombinator.com/item?id=38035505)
 
 ### General Purpose Diagramming
 
