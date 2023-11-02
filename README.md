@@ -279,6 +279,8 @@ more control in exchange for more work on your part.
 - https://github.com/tiaanduplessis/nanoreset
 - https://nicolas-cusan.github.io/destyle.css/
 - https://hankchizljaw.com/wrote/a-modern-css-reset/
+	- udpated https://andy-bell.co.uk/a-more-modern-css-reset/
+	- commentary https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure/
 - https://gist.github.com/DavidWells/18e73022e723037a50d6
 - http://necolas.github.io/normalize.css/ (yes, technically does more than a reset)
   - https://github.com/sindresorhus/modern-normalize is a smaller version that just supports latest Chrome, Firefox, and Safari
