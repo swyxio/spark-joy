@@ -1972,6 +1972,7 @@ Tools:
   - Broider - 9-patch css grid borders https://maxbittker.github.io/broider/
   - CSS Scroll Shadows https://css-scroll-shadows.now.sh/
   - Conic gradient borders https://twitter.com/argyleink/status/1282889809782927360
+  - Gradient Borders without extra elements: [use Background-origin + transparent borders](https://twitter.com/jh3yy/status/1712880102063669548?s=12&t=90xQ8sGy63D2OtiaoGJuww)
   - Components.ai box shadows https://components.ai/box-shadows
   - Emoji Shadows https://codepen.io/dienhn/pen/xxErveM
   - Neuomorphism Generator https://neumorphism.io/#f3d2c3
