@@ -1138,7 +1138,8 @@ Don't forget them!
   ```
 
 - [the 6 favicon types you need](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
-- 🌟 **[Real Favicon generator](https://realfavicongenerator.net/)** - pop in an image, get back a favicon! The most comprehensive one for all platforms (Windows, iOS, Android)
+- 🌟 **[Favicon InBrowser.App](https://favicon.inbrowser.app)** - A modern pure-frontend favicon generator. Support SVG, maskable and dark mode. Optimize PNG and SVG outputs. 
+- [Real Favicon generator](https://realfavicongenerator.net/) - pop in an image, get back a favicon! The most comprehensive one for all platforms (Windows, iOS, Android)
 - [Favicon.io](https://favicon.io/) - Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats
 - [FontIcon](https://gauger.io/fonticon/) - Generate favicons and images from Font Awesome icons
 - [Favicon Generator](http://tools.dynamicdrive.com/favicon/) - another one
