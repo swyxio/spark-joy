@@ -754,6 +754,7 @@ When you use allcaps section titles, set the tracking (`letting-spacing`) a litt
 - [BAD, SLOW fontsize calc](https://twitter.com/drewml/status/1115339490179072000?s=20)
   - Note: `vw` has known a11y issues: Preserve Zooming. [Sara Soueidan](https://twitter.com/SaraSoueidan/status/1121645149983891457?s=20) recommends wrapping with `calc`, e.g. `font-size: calc(16px + .3vw);`
 - [Complete font-size notes](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/)
+- the `hanging-punctuation` property in CSS https://news.ycombinator.com/item?id=38441747
 - Establishing your own type scale https://typescale.com/
 
 ### Typography Talks
