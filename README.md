@@ -1193,6 +1193,7 @@ other boilerplates to use
 #### Logos (incl company logos)
 
 - https://logosear.ch/ superfast metasearch of 200k svg logos from GitHub
+- https://svgl.vercel.app/ fast search of svg logos, user submitted and categorized
 - https://seeklogo.com/
 - https://www.iconfinder.com/iconsets/payment-method-1
 - https://www.logology.co/ We’ve designed a catalog of 500+ logos. Take a brand identity test and we’ll instantly match you with the best ones, paired with the right fonts & colors.
