@@ -1061,6 +1061,7 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 - https://products.ls.graphics/paaatterns/
 - https://notchr.is/patterns/ (Really simple SVG Patterns using single unicode characters.)
 - https://doodad.dev/pattern-generator/ (Pattern generator that exports to png, jpg and svg.)
+- https://creatica.app/backgrounds/ (Generate unique SVG Backgrounds and patterns for your websites)
 - wave dividers
   - https://www.shapedivider.app/ generate custom shape dividers
   - https://svgwave.in/
