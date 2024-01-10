@@ -1411,6 +1411,7 @@ Mocking your browser/phone
 - animate them, why not https://deviceful.netlify.app/documentation.html (previously https://deviceful.app/)
 - phone/watch: https://www.rotato.xyz/
   - including making 3d video!!! https://rotato.app/ example https://twitter.com/0xca0a/status/1583504417004789763?s=46&t=xS8iIAOyRQhHzWI8mn4Owg
+  - and https://x.com/hellokillian/status/1743469389222195680?s=20
 - other devices https://deviceshots.com/
 - 3D mocks: https://things.morflax.com/styles
 - [Screenstab](https://www.screenstab.com): Turn screenshots into dramatically angled photos
