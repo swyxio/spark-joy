@@ -1216,8 +1216,9 @@ other boilerplates to use
 - ⭐ https://phosphoricons.com/ 3000+ fully customizable free SVG and PNG icons. style, variations, easy to consume
 - ⭐ https://tablericons.com/ 937 Fully customizable free SVG icons
 - ⭐ https://icons.modulz.app/ Radix Icons - >250 15×15 icons designed by the Modulz team. - some great app icons
-- ⭐ https://feathericons.com/ clean and minimal markup
+- ⭐ https://lucide.dev/, Lucide, a fork of [Feather Icons](https://feathericons.com/) with Clean, consistent, customizable SVG icons available as treeshakable packages in all frameworks. 
   - "[Lucide](https://lucide.dev/) is a very active fork of Feather and what I’ve been using for the past few years instead. Feather is great as are their design guidelines, but it needs way way more icons. Lucide picks up beautifully where it left off."
+  - [rauchg feature](https://x.com/rauchg/status/1746938271807226203?s=20)
 - https://iconoir.com/ free open source library with 1000+ SVG Icons, designed on a 24x24 pixels grid
 - https://iconic.app/
 - https://teenyicons.com/ tiny minimal 1px icons
