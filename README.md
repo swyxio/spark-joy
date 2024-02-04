@@ -906,6 +906,7 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
   - https://tailwind.simeongriggs.dev
   - https://javisperez.github.io/tailwindcolorshades/
   - https://tailwind-color-picker.jessarcher.com
+  - https://www.tints.dev/  ([HN](https://news.ycombinator.com/item?id=39227831))
 - Special usecases:
   - Mix colors in pure CSS https://css-tricks.com/mixing-colors-in-pure-css/
   - [HSLuv](https://www.hsluv.org/comparison/) color space is preferable to HSL. [Palette generator](https://colors.madscience.design/)
