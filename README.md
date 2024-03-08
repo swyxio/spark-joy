@@ -1932,6 +1932,7 @@ Tools:
 - little HTML tricks that are handy https://htmldom.dev/
 - https://1stwebdesigner.com/css-effects/
 - great svg ideas https://twitter.com/cassiecodes/status/1383432725059674112?s=20
+- exponential smoothing animation in js https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html
 
 ## Pure CSS Tricks
 
