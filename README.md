@@ -193,6 +193,7 @@ lighter, no js. **preview some of these** with https://sites.yax.com/, https://w
   - https://concrete.style/ Tiny (< 1kb)
   - https://github.com/zichy/fieber (new, wants feedback)
   - https://mikemai.net/typesettings/index.html (new)
+  - https://css.winterveil.net/ magick.css is a minimalistic, (mostly) classless CSS framework that is designed to be easy to use and easy to understand. It is contained in a single file, and every choice is commented. The goal is to achieve an elegant, but magically playful look, while maximizing readability and the ability to convey information; somewhat akin to the notes of a wizard.
   - https://github.com/neocities/element (inactive now)
 - [Spectre.css](https://picturepan2.github.io/spectre/index.html) lightweight (10kb), responsive and modern CSS framework for faster and extensible development.
 - https://purecss.io/ A set of small (3.7kb), responsive CSS modules that you can use in every web project.
