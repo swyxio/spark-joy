@@ -2392,6 +2392,7 @@ free or mock data apis for demos
 
 ### Helpful podcasts/talks/articles
 
+- [UI Density in Time and Space](https://news.ycombinator.com/item?id=40428386) 
 - [How do I learn design?](https://www.codenewbie.org/podcast/how-do-i-learn-design) (CodeNewbie)
 - [Design foundations for developers](https://syntax.fm/show/196/design-foundations-for-developers) (Syntax)
 - [Design tips for developers](https://syntax.fm/show/068/design-tips-for-developers) (Syntax)
