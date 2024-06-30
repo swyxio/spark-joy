@@ -1407,6 +1407,7 @@ DIY illustration
 Mocking your browser/phone
 
 - Browser: https://shooot.bourhaouta.com/, https://screenshot.rocks/
+	- with [depth of field](https://www.blurmatic.com/) 	
 - https://www.brandbird.app/
 - Books: https://diybookcovers.com/3Dmockups/
   - https://3d-book-css.netlify.app/ and https://3dbook.xyz/
