@@ -481,7 +481,7 @@ Then you can selectively use the `popout`, `feature`, and `full` classes as need
 
 ## Typography
 
-typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
+typography matters! https://twitter.com/kvncnls/status/1399077512014086150?s=21
 
 ### Fonts
 
@@ -778,6 +778,7 @@ When you use allcaps section titles, set the tracking (`letting-spacing`) a litt
 
 - 5 minute guide to Typography https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography
 - Typography in 10 minutes https://medium.com/nextux/become-a-typography-nerd-in-under-10-minutes-5a7eda093cb3
+- Quick Guide to Typography for webdevs https://sinja.io/blog/web-typography-quick-guide
 - typography for long form articles - https://css-tricks.com/designing-for-long-form-articles/
 - Font smoothing - [explained](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth)
 - Tool for learning what fonts other people use https://fontanello.oktavilla.se/
