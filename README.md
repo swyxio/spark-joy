@@ -1083,6 +1083,7 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 ### Background SVG texture
 
 - for increase.com https://twitter.com/bdc/status/1443557247813099522?s=20
+- https://www.transparenttextures.com/
 
 ### Misc Backgroundy Stuff
 
