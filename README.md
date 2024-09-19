@@ -1117,6 +1117,8 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 - edit photo in browser no BS https://edit.photo/
 	- AI Colorizer https://palette.fm/
 - https://animatedbackgrounds.me/
+- Remove backgrounds and modify faces (for photos, videos and real time camera)
+  - https://studio.banuba.net/, https://www.banuba.com/webar-sdk#webar-player (commercial SDK that adds teeth whitening, eye and hair color changer, and other face touch-up features).
 
 ## Icons and Favicons
 
