@@ -1847,6 +1847,7 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 - https://www.youtube.com/channel/UCV3itPyPPgvftXBsreYADlw Bensound
 - https://www.soundboardguy.com/
 - https://snapmuse.com/ - royalty free music for Youtube, Podcast, Vlog and other video projects
+- https://www.soundboardly.com/ - sound effects library with downloadable mp3 file 
 
 Paid:
 
@@ -2099,6 +2100,7 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
 - https://andrew.wang-hoyer.com/experiments/svg-animations/
 - Single Element CSS Spinners https://projects.lukehaas.me/css-loaders/
 - https://whirl.netlify.app/ 100+ animated loaders
+- https://loading.io/css/ - Fast pure html/css spinners
 
 ### React Animation Tools
 
