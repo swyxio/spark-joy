@@ -193,6 +193,7 @@ lighter, no js. **preview some of these** with https://sites.yax.com/, https://w
   - https://concrete.style/ Tiny (< 1kb)
   - https://github.com/zichy/fieber (new, wants feedback)
   - https://mikemai.net/typesettings/index.html (new)
+  - https://css.winterveil.net/ magick.css is a minimalistic, (mostly) classless CSS framework that is designed to be easy to use and easy to understand. It is contained in a single file, and every choice is commented. The goal is to achieve an elegant, but magically playful look, while maximizing readability and the ability to convey information; somewhat akin to the notes of a wizard.
   - https://github.com/neocities/element (inactive now)
 - [Spectre.css](https://picturepan2.github.io/spectre/index.html) lightweight (10kb), responsive and modern CSS framework for faster and extensible development.
 - https://purecss.io/ A set of small (3.7kb), responsive CSS modules that you can use in every web project.
@@ -329,6 +330,7 @@ more control in exchange for more work on your part.
 - https://headlessui.dev/
 - https://ui.supabase.io/
 - https://ui.shadcn.com/ Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- https://magicui.design/ 20+ free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable.
 
 ## Layout
 
@@ -479,7 +481,7 @@ Then you can selectively use the `popout`, `feature`, and `full` classes as need
 
 ## Typography
 
-typography matters https://twitter.com/kvncnls/status/1399077512014086150?s=21
+typography matters! https://twitter.com/kvncnls/status/1399077512014086150?s=21
 
 ### Fonts
 
@@ -776,6 +778,7 @@ When you use allcaps section titles, set the tracking (`letting-spacing`) a litt
 
 - 5 minute guide to Typography https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography
 - Typography in 10 minutes https://medium.com/nextux/become-a-typography-nerd-in-under-10-minutes-5a7eda093cb3
+- Quick Guide to Typography for webdevs https://sinja.io/blog/web-typography-quick-guide
 - typography for long form articles - https://css-tricks.com/designing-for-long-form-articles/
 - Font smoothing - [explained](https://szafranek.net/blog/2009/02/22/font-smoothing-explained/), [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth)
 - Tool for learning what fonts other people use https://fontanello.oktavilla.se/
@@ -906,6 +909,7 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
   - https://tailwind.simeongriggs.dev
   - https://javisperez.github.io/tailwindcolorshades/
   - https://tailwind-color-picker.jessarcher.com
+  - https://www.tints.dev/  ([HN](https://news.ycombinator.com/item?id=39227831))
 - Special usecases:
   - Mix colors in pure CSS https://css-tricks.com/mixing-colors-in-pure-css/
   - [HSLuv](https://www.hsluv.org/comparison/) color space is preferable to HSL. [Palette generator](https://colors.madscience.design/)
@@ -920,16 +924,15 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
 
 Note: Default gradients often have "hard edges" that are too rough. ([example](https://twitter.com/JoshWComeau/status/1401926170589863946), [example](https://twitter.com/finmoorhouse/status/1543580508508065794?s=21&t=PBDS5C7C4FeqBA0wctOaCQ)). [Add a third color stop in the middle and boost saturation](https://twitter.com/erikdkennedy/status/1612867685192466432?s=20). You can use [esaing gradients](https://larsenwork.com/easing-gradients/) in future.
 
+- Gradient Generator https://www.learnui.design/tools/gradient-generator.html - create linear, radial, or conic gradients in 8 color spaces, all avoiding [the "gray dead zone" problem](https://css-tricks.com/the-gray-dead-zone-of-gradients/))
 - https://www.joshwcomeau.com/gradient-generator/
 - gradients https://mybrandnewlogo.com/color-gradient-generator
-- vivid gradient generator https://www.learnui.design/tools/gradient-generator.html
 - CSS Gradient Text https://twitter.com/argyleink/status/1281623252662489088/photo/2
 - 🌟 https://mycolor.space/gradient Generate a CSS Color Gradient
 - https://huemint.com/ Huemint uses machine learning to create unique color schemes for your brand, website or graphic
 - https://webgradients.com/ free collection of 180 linear gradients
 - https://uigradients.com/#Petrichor
 - https://gradient-king.vercel.app/
-- https://learnui.design/tools/gradient-generator.html (to avoid [the "gray zone" problem](https://css-tricks.com/the-gray-dead-zone-of-gradients/))
 - Adam Argyle conic CSS gradient examples https://www.conic.style/
 - https://www.grabient.com/
 - https://www.colorsandfonts.com/color-gradients
@@ -1062,6 +1065,7 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 - https://notchr.is/patterns/ (Really simple SVG Patterns using single unicode characters.)
 - https://doodad.dev/pattern-generator/ (Pattern generator that exports to png, jpg and svg.)
 - https://creatica.app/backgrounds/ (Generate unique SVG Backgrounds and patterns for your websites)
+- https://mossaik.app/ SVG Pattern generator, waves, and blobs.
 - wave dividers
   - https://www.shapedivider.app/ generate custom shape dividers
   - https://svgwave.in/
@@ -1080,13 +1084,14 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 ### Background SVG texture
 
 - for increase.com https://twitter.com/bdc/status/1443557247813099522?s=20
+- https://www.transparenttextures.com/
 
 ### Misc Backgroundy Stuff
 
 - CSS Doodle https://css-doodle.com/
 - CSS backgroundy patterns https://leaverou.github.io/css3patterns/
 - this guy https://twitter.com/yuanchuan23
-- super adanced pokemon shiny card gradients https://github.com/simeydotme/pokemon-cards-css
+- super advanced pokemon shiny card gradients https://github.com/simeydotme/pokemon-cards-css
 - Generative Gradients http://generative-placeholders.glitch.me/
   - Generateive SVG https://dev.to/georgedoescode/a-generative-svg-starter-kit-5cm1
 - Image Placeholders - blurring - https://blurha.sh/ (and gatsby image and nextjs image)
@@ -1113,6 +1118,8 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 - edit photo in browser no BS https://edit.photo/
 	- AI Colorizer https://palette.fm/
 - https://animatedbackgrounds.me/
+- Remove backgrounds and modify faces (for photos, videos and real time camera)
+  - https://studio.banuba.net/, https://www.banuba.com/webar-sdk#webar-player (commercial SDK that adds teeth whitening, eye and hair color changer, and other face touch-up features).
 
 ## Icons and Favicons
 
@@ -1202,6 +1209,7 @@ other boilerplates to use
 - https://iconsear.ch/ instant search of 50k svg icons from GitHub and GitLab
 - https://macosicons.com/ icons intended to replace mac desktop icons
 - https://awsicons.dev/ AWS icons and https://aws-icons.com/
+- https://az-icons.com/ Azure icons
 
 #### General & Misc
 
@@ -1217,8 +1225,9 @@ other boilerplates to use
 - ⭐ https://phosphoricons.com/ 3000+ fully customizable free SVG and PNG icons. style, variations, easy to consume
 - ⭐ https://tablericons.com/ 937 Fully customizable free SVG icons
 - ⭐ https://icons.modulz.app/ Radix Icons - >250 15×15 icons designed by the Modulz team. - some great app icons
-- ⭐ https://feathericons.com/ clean and minimal markup
+- ⭐ https://lucide.dev/, Lucide, a fork of [Feather Icons](https://feathericons.com/) with Clean, consistent, customizable SVG icons available as treeshakable packages in all frameworks. 
   - "[Lucide](https://lucide.dev/) is a very active fork of Feather and what I’ve been using for the past few years instead. Feather is great as are their design guidelines, but it needs way way more icons. Lucide picks up beautifully where it left off."
+  - [rauchg feature](https://x.com/rauchg/status/1746938271807226203?s=20)
 - https://iconoir.com/ free open source library with 1000+ SVG Icons, designed on a 24x24 pixels grid
 - https://iconic.app/
 - https://teenyicons.com/ tiny minimal 1px icons
@@ -1336,6 +1345,7 @@ Specifically for BPMN: https://bpmn.io/
 
 ### Entity Relationship Diagrams
 
+- [Azimutt](https://azimutt.app) is Open-Source and makes database design easy [AML](https://azimutt.app/aml), but also exploring existing databases
 - https://dbdiagram.io/home which also has an open-source markup language: https://github.com/holistics/dbml
 - [Databasediagram.com – Private, Text to Entity-Relationship Diagram Tool](https://news.ycombinator.com/item?id=36243926)
 - [Mocodo](https://mocodo.net): French-flavored ERD, aka Merise MCD, where the layout is constrained to a grid
@@ -1404,6 +1414,7 @@ DIY illustration
 Mocking your browser/phone
 
 - Browser: https://shooot.bourhaouta.com/, https://screenshot.rocks/
+	- with [depth of field](https://www.blurmatic.com/) 	
 - https://www.brandbird.app/
 - Books: https://diybookcovers.com/3Dmockups/
   - https://3d-book-css.netlify.app/ and https://3dbook.xyz/
@@ -1412,6 +1423,7 @@ Mocking your browser/phone
 - animate them, why not https://deviceful.netlify.app/documentation.html (previously https://deviceful.app/)
 - phone/watch: https://www.rotato.xyz/
   - including making 3d video!!! https://rotato.app/ example https://twitter.com/0xca0a/status/1583504417004789763?s=46&t=xS8iIAOyRQhHzWI8mn4Owg
+  - and https://x.com/hellokillian/status/1743469389222195680?s=20
 - other devices https://deviceshots.com/
 - 3D mocks: https://things.morflax.com/styles
 - [Screenstab](https://www.screenstab.com): Turn screenshots into dramatically angled photos
@@ -1840,6 +1852,7 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 - https://www.youtube.com/channel/UCV3itPyPPgvftXBsreYADlw Bensound
 - https://www.soundboardguy.com/
 - https://snapmuse.com/ - royalty free music for Youtube, Podcast, Vlog and other video projects
+- https://www.soundboardly.com/ - sound effects library with downloadable mp3 file 
 
 Paid:
 
@@ -1866,6 +1879,7 @@ Tools:
 - https://docs.anychart.com/Basic_Charts/Stacked/Value/Vertical_Area_Chart
 - https://antv.vision/en
 - https://stephenhutchings.github.io/shown/ Statically-generated, responsive charts, without the need for client-side Javascript.
+- Datamapplot for static and interactive data maps https://datamapplot.readthedocs.io/en/latest/intro_splash.html#interactive-plot-examples ([example](https://www.goodfire.ai/papers/mapping-latent-spaces-llama/))
 
 ### Dashboarding
 
@@ -1930,6 +1944,7 @@ Tools:
 - little HTML tricks that are handy https://htmldom.dev/
 - https://1stwebdesigner.com/css-effects/
 - great svg ideas https://twitter.com/cassiecodes/status/1383432725059674112?s=20
+- exponential smoothing animation in js https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html
 
 ## Pure CSS Tricks
 
@@ -2090,6 +2105,7 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
 - https://andrew.wang-hoyer.com/experiments/svg-animations/
 - Single Element CSS Spinners https://projects.lukehaas.me/css-loaders/
 - https://whirl.netlify.app/ 100+ animated loaders
+- https://loading.io/css/ - Fast pure html/css spinners
 
 ### React Animation Tools
 
@@ -2388,6 +2404,7 @@ free or mock data apis for demos
 
 ### Helpful podcasts/talks/articles
 
+- [UI Density in Time and Space](https://news.ycombinator.com/item?id=40428386) 
 - [How do I learn design?](https://www.codenewbie.org/podcast/how-do-i-learn-design) (CodeNewbie)
 - [Design foundations for developers](https://syntax.fm/show/196/design-foundations-for-developers) (Syntax)
 - [Design tips for developers](https://syntax.fm/show/068/design-tips-for-developers) (Syntax)
