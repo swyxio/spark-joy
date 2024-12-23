@@ -924,16 +924,15 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
 
 Note: Default gradients often have "hard edges" that are too rough. ([example](https://twitter.com/JoshWComeau/status/1401926170589863946), [example](https://twitter.com/finmoorhouse/status/1543580508508065794?s=21&t=PBDS5C7C4FeqBA0wctOaCQ)). [Add a third color stop in the middle and boost saturation](https://twitter.com/erikdkennedy/status/1612867685192466432?s=20). You can use [esaing gradients](https://larsenwork.com/easing-gradients/) in future.
 
+- Gradient Generator https://www.learnui.design/tools/gradient-generator.html - create linear, radial, or conic gradients in 8 color spaces, all avoiding [the "gray dead zone" problem](https://css-tricks.com/the-gray-dead-zone-of-gradients/))
 - https://www.joshwcomeau.com/gradient-generator/
 - gradients https://mybrandnewlogo.com/color-gradient-generator
-- vivid gradient generator https://www.learnui.design/tools/gradient-generator.html
 - CSS Gradient Text https://twitter.com/argyleink/status/1281623252662489088/photo/2
 - 🌟 https://mycolor.space/gradient Generate a CSS Color Gradient
 - https://huemint.com/ Huemint uses machine learning to create unique color schemes for your brand, website or graphic
 - https://webgradients.com/ free collection of 180 linear gradients
 - https://uigradients.com/#Petrichor
 - https://gradient-king.vercel.app/
-- https://learnui.design/tools/gradient-generator.html (to avoid [the "gray zone" problem](https://css-tricks.com/the-gray-dead-zone-of-gradients/))
 - Adam Argyle conic CSS gradient examples https://www.conic.style/
 - https://www.grabient.com/
 - https://www.colorsandfonts.com/color-gradients
