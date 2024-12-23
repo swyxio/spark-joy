@@ -1873,6 +1873,7 @@ Tools:
 - https://docs.anychart.com/Basic_Charts/Stacked/Value/Vertical_Area_Chart
 - https://antv.vision/en
 - https://stephenhutchings.github.io/shown/ Statically-generated, responsive charts, without the need for client-side Javascript.
+- Datamapplot for static and interactive data maps https://datamapplot.readthedocs.io/en/latest/intro_splash.html#interactive-plot-examples ([example](https://www.goodfire.ai/papers/mapping-latent-spaces-llama/))
 
 ### Dashboarding
 
