@@ -2385,7 +2385,7 @@ free or mock data apis for demos
 
 ### Other Lists like this one
 
-- https://a11yresources.webflow.io/
+- https://www.getstark.co/library/
 - https://webflow.com/accessibility/checklist
 - https://www.getstark.co/library/
 - https://10015.io/
