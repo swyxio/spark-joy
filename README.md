@@ -331,6 +331,7 @@ more control in exchange for more work on your part.
 - https://ui.supabase.io/
 - https://ui.shadcn.com/ Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - https://magicui.design/ 20+ free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable.
+- [Fancy Components](https://www.fancycomponents.dev/) ([tweet](https://x.com/nonzeroexitcode/status/1871259468597702962))): a collection full of fancy, fun, edgy and useless React components!
 
 ## Layout
 
