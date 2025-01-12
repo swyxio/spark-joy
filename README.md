@@ -1268,7 +1268,10 @@ other boilerplates to use
 - animated icons http://www.transformicons.com/builder.html
 - http://game-icons.net/
 - Covid 19 icons - https://design.dev/
-- https://kenney.nl/ public domain game assets
+- https://kenney.nl/ thousands of free game assets. https://news.ycombinator.com/item?id=42671472 
+- https://opengameart.org/
+- https://itch.io/game-assets/assets-cc0
+- https://itch.io/game-assets/assets-cc4-by
 - https://www.iconshock.com/social-media-icons/ A pack of 300 social media icons (PNG & Vector) and a set of animated icons (Lottie and AE), which cover all the trendiest social media networks nowadays.
 - brand icons
   - http://simpleicons.org/ icons for every brand like graphql, adobe xd, youtube, etc
