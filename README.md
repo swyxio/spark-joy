@@ -232,7 +232,7 @@ see also http://bettermotherfuckingwebsite.com/
 focus is fun
 
 - https://www.getpapercss.com/ (handrwritingey css similar to roughjs)
-- https://terminalcss.xyz/
+- https://terminalcss.xyz/ and https://github.com/webtui/webtui
 
 focus is brutalism
 
