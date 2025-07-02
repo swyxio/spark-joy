@@ -1539,6 +1539,7 @@ exampels of ascii art in code: https://blog.regehr.org/archives/1653 ([HN discus
 - text to diagramming tools [list](https://smusamashah.github.io/text-to-diagram)
 - https://github.com/asciitosvg/asciitosvg ascii to svg diagrams
 - from picture to ANSI art https://mrogalski.eu/ansi-art/
+- ascii font generator https://patorjk.com/software/taag/#p=testall&f=Graffiti&t=Hello%20World
 
 ### matrix8967's list
 
