@@ -1975,6 +1975,7 @@ Tools:
   }
   ```
 - https://ui.glass/generator/ Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.
+- https://glass3d.dev/ https://news.ycombinator.com/item?id=44445238
 - frosted glass sticky header https://www.joshwcomeau.com/css/backdrop-filter/
 - glassy glassmorphism [codepen](https://codepen.io/a-trost/pen/dypQzwq), [in context](https://codepen.io/TurkAysenur/pen/ZEpxeYm)
 
