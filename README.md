@@ -1952,6 +1952,13 @@ Tools:
 - https://1stwebdesigner.com/css-effects/
 - great svg ideas https://twitter.com/cassiecodes/status/1383432725059674112?s=20
 - exponential smoothing animation in js https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html
+- https://x.com/DavidKPiano/status/1946795010038399384
+- Things I wish were table-stakes in every web app:
+	- Typing auto-focuses main input
+	- Enter submits forms
+	- Esc closes modals
+	- Validation on blur, not while I'm typing
+	- Let me decide whether a link opens in a new tab or not
 
 ## Pure CSS Tricks
 
