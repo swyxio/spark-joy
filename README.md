@@ -1790,6 +1790,7 @@ Instead of dropdowns, use: (https://learnui.design/blog/4-rules-intuitive-ux.htm
 
 ### Buttons
 
+- make your button look like an actual button https://www.nikolailehbr.ink/blog/realistic-button-design-css
 - CSS keyboard buttons (Linus' toes) https://twitter.com/thesephist/status/1587950509503270914?s=20&t=k8x3X6k8qD-5zF8Y5vyB8w
 - https://frontend.horse/articles/buttons-that-spark-joy/
 - https://getcssscan.com/css-buttons-examples
