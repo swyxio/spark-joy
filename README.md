@@ -1032,6 +1032,7 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 
 - https://meshgradient.com/ swirly backgrounds like apple
 - https://meshgradient.in/ generate mesh gradient backgrounds
+	- https://shaders.paper.design/ paper texture gradients
 - noise textures https://x.com/kubadesign/status/1883884665448325356/photo/1
 
 #### Background Patterns
