@@ -311,6 +311,7 @@ more control in exchange for more work on your part.
   - https://shuffle.dev/
 - https://daisyui.com/
 - https://www.tailwind-kit.com/
+- https://flyonui.com/
 
 ### React Component Libraries
 
