@@ -1103,6 +1103,7 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 - Remove backgrounds
   - this is [now native in iOS/macOS](https://news.ycombinator.com/item?id=36509175)
   - https://www.remove.bg/ from images - but has been monetized to shit. see below for better alternatives
+  - https://iconscout.com/ai/background-remover - Effortlessly remove backgrounds for free. Perfect for enhancing your designs across websites, mobile apps, social media posts, presentations and more.
   - https://github.com/imgly/background-removal-js open source Background Removal in the Browser
   - https://pixian.ai/remove-image-backgrounds
   - https://www.photoroom.com/background-remover
