@@ -1036,7 +1036,7 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 - noise textures https://x.com/kubadesign/status/1883884665448325356/photo/1
 
 #### Background Patterns
-
+- https://github.com/niekes/beautiful-backgrounds – Framework-agnostic web components for high-performance, animated backgrounds (particles, grids, ribbons, effects) with zero setup and full customization.
 - https://trianglify.io/ low polly pattern generator
 - https://leaverou.github.io/css3patterns/
 - https://github.com/bansal-io/pattern.css
