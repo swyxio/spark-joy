@@ -1988,6 +1988,7 @@ Tools:
 - https://glass3d.dev/ https://news.ycombinator.com/item?id=44445238
 - frosted glass sticky header https://www.joshwcomeau.com/css/backdrop-filter/
 	- note that [apple has a private css property](https://alastair.is/apple-has-a-private-css-property-to-add-liquid-glass-effects-to-web-content/): `-apple-visual-effect: -apple-system-glass-material`
+ 	- modern 2025 css https://modern-css.com/frosted-glass-effect-without-opacity-hacks/
 - glassy glassmorphism [codepen](https://codepen.io/a-trost/pen/dypQzwq), [in context](https://codepen.io/TurkAysenur/pen/ZEpxeYm)
 
   ```css
