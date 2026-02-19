@@ -1657,6 +1657,7 @@ Image modification for hover effects: https://photomosh.com/
   - https://detail.co/
   - veed.io
   - https://runwayml.com/ Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation video creation suite.
+  - https://lumalabs.ai/dream-machine Luma Dream Machine, highest quality image and video generation, editing and creation suite.
 - specialty videos
   - https://biteable.com/ - simple video maker with templates and stock video. kiiinda cartoony
   - https://vyond.com/ - also kinda cartoony
