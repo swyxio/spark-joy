@@ -1441,6 +1441,7 @@ Mocking your browser/phone
 - [Lstore Graphics](https://www.ls.graphics/) – Includes video
 - [Creative Market](https://creativemarket.com/templates/mockups/mobile-web) device mockups
 - [Pika](https://pika.style): screenshot, website and device mockups (Paid, $99 one time)
+- [Podifai Mockup Generator](https://podifai.com/tools/mockup-generator): Free 3D product mockup generator for e-commerce, branding, and marketing. No signup required
 
 Record your device https://www.screen.studio/
 
