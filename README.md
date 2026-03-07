@@ -294,7 +294,7 @@ more control in exchange for more work on your part.
 - https://github.com/jackdomleo7/Checka11y.css
 - https://ffoodd.github.io/a11y.css/
 - https://github.com/mike-engel/a11y-css-reset
-- chrome extension https://chrome.google.com/webstore/detail/a11ycss/iolfinldndiiobhednboghogkiopppid?hl=en
+- chrome extension https://chromewebstore.google.com/detail/a11ycss/iolfinldndiiobhednboghogkiopppid?hl=en
 
 ### Tailwind Component Libraries
 
