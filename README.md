@@ -2089,6 +2089,18 @@ box-shadow: 20px 20px 22px #cfb3a6, -20px -20px 22px #fff2e0;
 
 ## Animations & Transitions
 
+https://x.com/emilkowalski/status/2031742178297335879
+
+-  Make buttons feel responsive | Add 'transform: scale(0.97)' on '¡active'
+-  Element appears from nowhere | Start from 'scale(0.95)', not 'scale(0)'
+- Shaky/jittery animations |  Add 'will-change: transform'
+- Hover causes flicker | Animate child element, not parent
+- Popover scales from wrong point I Set 'transform-origin' to trigger location
+- Sequential tooltips feel slow I Skip delay/animation after first tooltip
+- Small buttons hard to tap I Use 44px minimum hit area (pseudo-element)
+- Something still feels off | Add subtle blur (under 20px) to mask it
+- Hover triggers on mobile |  Use '@media (hover: hover) and (pointer: fine)'
+
 - Buttons, hover, inputs, and loaders https://cssfx.netlify.com/
 - general http://animista.net
   - animate an existing svg https://svgartista.net/ (by the same people as animista)
