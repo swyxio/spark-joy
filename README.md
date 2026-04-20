@@ -864,6 +864,7 @@ Examples: https://dev.to/dcodeyt/add-dark-mode-to-your-websites-with-css-5bh4
 </details>
 
 One liner dark mode (careful about perf!): `filter: invert(100%) hue-rotate(180deg);` - more [filters here](https://svelte.dev/repl/defc901c5f434ed4a76161605cf1db76?version=3.29.0)
+- the more intense version - https://cssence.com/2024/six-levels-of-dark-mode/ steps thru many levels of modern dark mode (2026)
 
 https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?ref=sidebar
 
