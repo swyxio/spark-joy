@@ -2173,6 +2173,7 @@ https://emptystat.es/
 
 ## Design Software
 
+- AI Old Photo Restoration - [PhotoRestore.ai](https://photorestore.ai) - Repair scratches, fading, tears, and colorize B&W photos
 - Image editing/Export to SVG/Object Removal/Photoshop - [Photopea](https://www.photopea.com/)
 - online SVG editor - https://yqnn.github.io/svg-path-editor/
 - GIMP alternative - https://glimpse-editor.org/
