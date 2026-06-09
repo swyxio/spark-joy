@@ -2118,6 +2118,7 @@ https://x.com/emilkowalski/status/2031742178297335879
 - Hover and loaders: https://www.csswand.dev/
 - Graphic animations: https://lottiefiles.com/
   - https://www.pixeltrue.com/free-illustrations lottie animations
+  - [IconKing](https://iconking.net) - Free browser-based Lottie animation preview, color editor, and .json/.lottie format converter. 100% client-side.
 - HTML animation? https://tumult.com/hype/ (paid)
 - Page Transitions with swup https://github.com/swup/swup ([css tricks](https://css-tricks.com/page-transitions-for-everyone/))
 - css animation without keyframes https://animxyz.com/docs/
