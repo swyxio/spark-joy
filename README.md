@@ -476,6 +476,7 @@ Then you can selectively use the `popout`, `feature`, and `full` classes as need
   - https://grid.layoutit.com/
   - https://cssgrid-generator.netlify.app/
   - https://layout.bradwoods.io/
+- Flexbox generator https://nocodevista.com/tools/flexbox-generator - visual flexbox playground, generate CSS instantly
 - https://uisual.com/
 - https://csslayout.io/ ([github](https://github.com/phuoc-ng/csslayout))
 - Visual Hierarchy https://youtu.be/qZWDJqY27bw
@@ -876,6 +877,7 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
 - https://www.colorsandfonts.com/
 - https://colorswall.com/
 - https://coolors.co/
+- https://nocodevista.com/tools/color-palette-generator generate and explore color palettes for your UI
 - https://colorpalettes.earth/ displays color palettes sourced from images of nature (taken from Unsplash)
 - https://colorsinspo.com
 - https://huey.design/ Rapid color palettes across the rainbow
@@ -1111,6 +1113,7 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 	- source https://github.com/nadermx/backgroundremover
   - https://www.inpixio.com/remove-background/
   - https://express.adobe.com/tools/remove-background
+  - https://nocodevista.com/tools/image-background-remover no-login browser-based background remover
   - https://baseline.is/tools/background-remover/ from images
   - https://www.unscreen.com/ for gif/video
 - Remove ANYTHING (AMAZING) 
@@ -2006,6 +2009,7 @@ Tools:
     - text shadows
     - experiment with multiple shadows on one element
     - https://getcssscan.com/css-box-shadow-examples
+    - https://nocodevista.com/tools/box-shadow-generator visual box-shadow builder with live preview
     - Designing Beautiful Shadows in CSS https://www.joshwcomeau.com/css/designing-shadows/
     - inspired the smooth shadows generator https://smoothshadows.com/
   - https://www.joshwcomeau.com/shadow-palette/ (https://css-tricks.com/shadow-palette-generator/)
