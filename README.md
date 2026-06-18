@@ -1116,6 +1116,7 @@ Linear gradients can be "eased" to be smoother: https://css-tricks.com/easing-li
 - Remove ANYTHING (AMAZING) 
   - https://cleanup.pictures/
   - https://cleanupphotos.com/
+  - https://igly.ai/ AI image editor for background removal, inpainting, upscaling, and generative fill
 - colorizing black and white images 
 	- https://demos.algorithmia.com/colorize-photos
 - relight images https://clipdrop.co/relight https://twitter.com/dh7net/status/1567813168990232578
