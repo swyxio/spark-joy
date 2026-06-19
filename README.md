@@ -552,7 +552,7 @@ typography matters! https://twitter.com/kvncnls/status/1399077512014086150?s=21
 
 See also [Modern Font Stacks](https://modernfontstacks.com/) - [discussion](https://news.ycombinator.com/item?id=35168652)
     
-  - Simple: `font-family: system-ui, -apple-system, sans-serif;` ([has issues on old browsers + asian langauges]([url](https://news.ycombinator.com/item?id=31544075) - github and bootstrap have removed it fwiw))
+  - Simple: `font-family: system-ui, -apple-system, sans-serif;` ([has issues on old browsers + asian languages]([url](https://news.ycombinator.com/item?id=31544075) - github and bootstrap have removed it fwiw))
   - Sans-serif `font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;`
   - Serif: `font-family: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;`
   - Mono: `font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;`
@@ -1381,7 +1381,7 @@ further reading
 ### Code-based Graph tools
 
 - https://gojs.net/latest/samples/decisionTree.html interactive diagrams
-- 4 major text-to-graph langauges (Comparison https://text-to-diagram.com/)
+- 4 major text-to-graph languages (Comparison https://text-to-diagram.com/)
 	- mermaid https://mermaid-js.github.io/mermaid/
 	- https://plantuml.com/
 	- https://github.com/terrastruct/d2
