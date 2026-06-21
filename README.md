@@ -2425,6 +2425,7 @@ free or mock data apis for demos
 - https://10015.io/
 - https://www.fetoolkit.io/
 - https://github.com/bradtraversy/design-resources-for-developers
+- https://github.com/Eneryleen/ai-web-design-codex
 - https://tiny-helpers.dev/
 - https://www.uigoodies.com/
 - https://www.uplabs.com/
