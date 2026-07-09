@@ -922,6 +922,7 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
     -  https://colornames.org/
     -  https://c0ffee.surge.sh/
 
+- [TinyTools Color Palette Generator](https://tinytools-smoky.vercel.app/) - Free browser-based color palette generator, no signup needed
 ### Color Gradients
 
 Note: Default gradients often have "hard edges" that are too rough. ([example](https://twitter.com/JoshWComeau/status/1401926170589863946), [example](https://twitter.com/finmoorhouse/status/1543580508508065794?s=21&t=PBDS5C7C4FeqBA0wctOaCQ)). [Add a third color stop in the middle and boost saturation](https://twitter.com/erikdkennedy/status/1612867685192466432?s=20). You can use [esaing gradients](https://larsenwork.com/easing-gradients/) in future.
@@ -1162,6 +1163,7 @@ Don't forget them!
   - you can https://css-tricks.com/svg-favicons-and-all-the-fun-things-we-can-do-with-them/
   - put the scroll percentage! https://css-tricks.com/how-i-put-the-scroll-percentage-in-the-browser-title-bar/
 
+- [TinyTools Favicon Generator](https://tinytools-smoky.vercel.app/) - Free in-browser favicon generator (PNG/SVG/ICO), no signup, runs entirely client-side
 ### `<link rel="">` tags and opengraph
 
 Ideas of things you can include based on my own site.
