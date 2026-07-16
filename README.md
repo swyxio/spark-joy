@@ -905,6 +905,7 @@ https://workos.com/blog/5-lessons-we-learned-adding-dark-mode-to-our-platform?re
 - https://learnui.design/tools/accessible-color-generator.html Accessible color generator
 - https://maketintsandshades.com/ Generate tint and shades from hex code
 - http://paletton.com/
+- [ColorTools](https://colorpicker.cx/color-picker) image color picker, color wheel, palette generator, CSS gradient builder & WCAG contrast checker (client-side, no signup).
 - Tailwind:
   - https://tailwind.ink/
   - https://www.tailwindshades.com/
