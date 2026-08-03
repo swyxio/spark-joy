@@ -1986,6 +1986,7 @@ Tools:
   }
   ```
 - https://ui.glass/generator/ Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.
+- [Nutilz Glassmorphism Generator](https://nutilz.com/glassmorphism-generator) - free tool to visually tweak blur, opacity, and border settings and copy the generated CSS, no signup required.
 - https://glass3d.dev/ https://news.ycombinator.com/item?id=44445238
 - frosted glass sticky header https://www.joshwcomeau.com/css/backdrop-filter/
 	- note that [apple has a private css property](https://alastair.is/apple-has-a-private-css-property-to-add-liquid-glass-effects-to-web-content/): `-apple-visual-effect: -apple-system-glass-material`
