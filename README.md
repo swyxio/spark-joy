@@ -1318,6 +1318,7 @@ Before you get to the tools - some good thinking (and lists of tools) on archite
 
 ### General Purpose Diagramming
 
+- [flow-chart.io](https://flow-chart.io) - AI diagram tool that generates fully editable scene graphs from plain English — C4 model, BPMN, cloud architecture, ERD, DevOps pipelines. Every node stays editable after AI generation. Freemium (40 AI credits/month free).
 - https://excalidraw.com/ (free, open source)
 - https://miro.com/ - freemium, used by Maggie
 - https://www.draw.io/ - now [shifted](https://www.diagrams.net/blog/move-diagrams-net) to https://www.diagrams.net/ (free) - has [VS Code extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
